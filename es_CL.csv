@@ -307,15 +307,15 @@ Order,Order,module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","If you continue to receive this message, please contact the store owner.",module,Magento_Backend
 "You need more permissions to access this.","You need more permissions to access this.",module,Magento_Backend
 "Welcome, please sign in","Bienvenido, por favor inicia sesión",module,Magento_Backend
-Username,Username,module,Magento_Backend
-"user name","user name",module,Magento_Backend
-Password,Password,module,Magento_Backend
-password,password,module,Magento_Backend
-"Sign in","Sign in",module,Magento_Backend
-"Select Range:","Select Range:",module,Magento_Backend
-"No Data Found","No Data Found",module,Magento_Backend
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.",module,Magento_Backend
-"Last Orders","Last Orders",module,Magento_Backend
+Username,Usuario,module,Magento_Backend
+"user name","nombre de usuario",module,Magento_Backend
+Password,Contraseña,module,Magento_Backend
+password,contraseña,module,Magento_Backend
+"Sign in","Registrarse",module,Magento_Backend
+"Select Range:","Selecciona Rango:",module,Magento_Backend
+"No Data Found","Datos no Encontrados",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","El gráfico está deshabilitado. Para habilitar el gráfico, haga clic <a href=""%1"">here</a>.",module,Magento_Backend
+"Last Orders","Últimas Ordenes",module,Magento_Backend
 "Last Search Terms","Last Search Terms",module,Magento_Backend
 "Top Search Terms","Top Search Terms",module,Magento_Backend
 "There are no search keywords.","There are no search keywords.",module,Magento_Backend
@@ -1824,35 +1824,35 @@ System,System,module,Magento_CurrencySymbol
 "We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Please enter a password with a valid length.",module,Magento_CustomerImportExport
 "Sign Out","Sign Out",module,Magento_Customer
-"Sign In","Sign In",module,Magento_Customer
-"You subscribe to our newsletter.","You subscribe to our newsletter.",module,Magento_Customer
-"You don't subscribe to our newsletter.","You don't subscribe to our newsletter.",module,Magento_Customer
-"You have not set a default shipping address.","You have not set a default shipping address.",module,Magento_Customer
-"You have not set a default billing address.","You have not set a default billing address.",module,Magento_Customer
-"Address Book","Address Book",module,Magento_Customer
-"Edit Address","Edit Address",module,Magento_Customer
-"Add New Address","Add New Address",module,Magento_Customer
+"Sign In","Registrarse",module,Magento_Customer
+"You subscribe to our newsletter.","Usted se suscribe a nuestro boletín de noticias.",module,Magento_Customer
+"You don't subscribe to our newsletter.","Usted no se suscribe a nuestro boletín de noticias.",module,Magento_Customer
+"You have not set a default shipping address.","No ha configurado una dirección de despacho predeterminada.",module,Magento_Customer
+"You have not set a default billing address.","No ha configurado una dirección de facturación predeterminada.",module,Magento_Customer
+"Address Book","Libreta de Direcciones",module,Magento_Customer
+"Edit Address","Editar Direcciones",module,Magento_Customer
+"Add New Address","Agregar Nueva Dirección",module,Magento_Customer
 region,region,module,Magento_Customer
-"Create Order","Create Order",module,Magento_Customer
-"Save Customer","Save Customer",module,Magento_Customer
-"Delete Customer","Delete Customer",module,Magento_Customer
-"Reset Password","Reset Password",module,Magento_Customer
-"Are you sure you want to revoke the customer's tokens?","Are you sure you want to revoke the customer's tokens?",module,Magento_Customer
-"Force Sign-In","Force Sign-In",module,Magento_Customer
-"New Customer","New Customer",module,Magento_Customer
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Customer
-Back,Back,module,Magento_Customer
-"Please select","Please select",module,Magento_Customer
-Reset,Reset,module,Magento_Customer
+"Create Order","Crear Orden",module,Magento_Customer
+"Save Customer","Guardar Cliente",module,Magento_Customer
+"Delete Customer","Borrar Cliente",module,Magento_Customer
+"Reset Password","Restablecer Contraseña",module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?","¿Seguro que quieres revocar los tokens del cliente?",module,Magento_Customer
+"Force Sign-In","Inicio de Sesión Forzosa",module,Magento_Customer
+"New Customer","Cliente Nuevo",module,Magento_Customer
+"Save and Continue Edit","Guarda y Continua Editando",module,Magento_Customer
+Back,Atras,module,Magento_Customer
+"Please select","Por favor selecciona",module,Magento_Customer
+Reset,Reinicializar,module,Magento_Customer
 ID,ID,module,Magento_Customer
-Product,Product,module,Magento_Customer
-SKU,SKU,module,Magento_Customer
-Quantity,Quantity,module,Magento_Customer
-Price,Price,module,Magento_Customer
+Product,Producto,module,Magento_Customer
+SKU,Codigo,module,Magento_Customer
+Quantity,Cantidad,module,Magento_Customer
+Price,Precio,module,Magento_Customer
 Total,Total,module,Magento_Customer
-Action,Action,module,Magento_Customer
-Configure,Configure,module,Magento_Customer
-Delete,Delete,module,Magento_Customer
+Action,Acción,module,Magento_Customer
+Configure,Configurar,module,Magento_Customer
+Delete,Borrar,module,Magento_Customer
 "Shopping Cart from %1","Shopping Cart from %1",module,Magento_Customer
 Newsletter,Newsletter,module,Magento_Customer
 "Newsletter Information","Newsletter Information",module,Magento_Customer
@@ -1863,14 +1863,14 @@ Newsletter,Newsletter,module,Magento_Customer
 "Start date","Start date",module,Magento_Customer
 "End Date","End Date",module,Magento_Customer
 "Receive Date","Receive Date",module,Magento_Customer
-Subject,Subject,module,Magento_Customer
-Status,Status,module,Magento_Customer
-Sent,Sent,module,Magento_Customer
-Cancel,Cancel,module,Magento_Customer
+Subject,Asunto,module,Magento_Customer
+Status,Estado,module,Magento_Customer
+Sent,Enviar,module,Magento_Customer
+Cancel,Cancelar,module,Magento_Customer
 "Not Sent","Not Sent",module,Magento_Customer
-Sending,Sending,module,Magento_Customer
-Paused,Paused,module,Magento_Customer
-View,View,module,Magento_Customer
+Sending,Enviando,module,Magento_Customer
+Paused,Pausado,module,Magento_Customer
+View,Vista,module,Magento_Customer
 Unknown,Unknown,module,Magento_Customer
 Order,Order,module,Magento_Customer
 Purchased,Purchased,module,Magento_Customer
@@ -2174,19 +2174,19 @@ Email,Correo,module,Magento_Customer
 "Change Email and Password","Cambiar Correo y Contraseña",module,Magento_Customer
 "Current Password","Contraseña Actual",module,Magento_Customer
 "New Password","Contraseña Nueva",module,Magento_Customer
-"Password Strength","Password Strength",module,Magento_Customer
-"No Password","No Password",module,Magento_Customer
-"Confirm New Password","Confirm New Password",module,Magento_Customer
-Save,Save,module,Magento_Customer
-"Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
-"Reset My Password","Reset My Password",module,Magento_Customer
-"Registered Customers","Registered Customers",module,Magento_Customer
-"If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
-Password,Password,module,Magento_Customer
-"Forgot Your Password?","Forgot Your Password?",module,Magento_Customer
-"Subscription option","Subscription option",module,Magento_Customer
-"General Subscription","General Subscription",module,Magento_Customer
-"Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_Customer
+"Password Strength","Seguridad de Contraseña",module,Magento_Customer
+"No Password","Sin Contraseña",module,Magento_Customer
+"Confirm New Password","Confirmar Nueva Contraseña",module,Magento_Customer
+Save,Guardar,module,Magento_Customer
+"Please enter your email address below to receive a password reset link.","Ingrese su dirección de correo electrónico para recibir un enlace de restablecimiento de contraseña.",module,Magento_Customer
+"Reset My Password","Restablecer mi Contraseña",module,Magento_Customer
+"Registered Customers","Clientes Registrados",module,Magento_Customer
+"If you have an account, sign in with your email address.","Si tienes una cuenta, inicia sesión con tu dirección de correo electrónico.",module,Magento_Customer
+Password,Contraseña,module,Magento_Customer
+"Forgot Your Password?","¿Olvidaste tu Contraseña?",module,Magento_Customer
+"Subscription option","Opción de Suscripción",module,Magento_Customer
+"General Subscription","Suscripción General",module,Magento_Customer
+"Sign Up for Newsletter","Suscríbete al Boletín",module,Magento_Customer
 "Address Information","Address Information",module,Magento_Customer
 "Sign-in Information","Sign-in Information",module,Magento_Customer
 "Confirm Password","Confirmar Contraseña",module,Magento_Customer
@@ -6196,43 +6196,43 @@ Total:,Total:,module,Magento_Checkout
 "Email Address","Correo",module,Magento_Checkout
 Password,Contraseña,module,Magento_Checkout
 "Forgot Your Password?","Olvidaste tu Contraseña?",module,Magento_Checkout
-"My billing and shipping address are the same","My billing and shipping address are the same",module,Magento_Checkout
-Update,Update,module,Magento_Checkout
-Cancel,Cancel,module,Magento_Checkout
-"Save in address book","Save in address book",module,Magento_Checkout
-"Estimated Total","Estimated Total",module,Magento_Checkout
-"You can create an account after checkout.","You can create an account after checkout.",module,Magento_Checkout
-"You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_Checkout
-Login,Login,module,Magento_Checkout
-Close,Close,module,Magento_Checkout
-of,of,module,Magento_Checkout
-"Item in Cart","Item in Cart",module,Magento_Checkout
-"Items in Cart","Items in Cart",module,Magento_Checkout
-"Go to Checkout","Go to Checkout",module,Magento_Checkout
-"Recently added item(s)","Recently added item(s)",module,Magento_Checkout
-"View and edit cart","View and edit cart",module,Magento_Checkout
-"See Details","See Details",module,Magento_Checkout
-"Options Details","Options Details",module,Magento_Checkout
-Remove,Remove,module,Magento_Checkout
-"Cart Subtotal","Cart Subtotal",module,Magento_Checkout
-"Payment Information","Payment Information",module,Magento_Checkout
-"No Payment method available.","No Payment method available.",module,Magento_Checkout
-"You can track your order status by creating an account.","You can track your order status by creating an account.",module,Magento_Checkout
-"Place Order","Place Order",module,Magento_Checkout
-"Forgot an Item?","Forgot an Item?",module,Magento_Checkout
-"Edit Your Cart","Edit Your Cart",module,Magento_Checkout
-"Ship Here","Ship Here",module,Magento_Checkout
-"Ship To:","Ship To:",module,Magento_Checkout
-edit,edit,module,Magento_Checkout
-"Shipping Address","Shipping Address",module,Magento_Checkout
-"New Address","New Address",module,Magento_Checkout
-"Shipping Methods","Shipping Methods",module,Magento_Checkout
-"Select Method","Select Method",module,Magento_Checkout
-"Method Title","Method Title",module,Magento_Checkout
-"Carrier Title","Carrier Title",module,Magento_Checkout
-Next,Next,module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
-"Order Summary","Order Summary",module,Magento_Checkout
+"My billing and shipping address are the same","Mi dirección de facturación y despacho es la misma",module,Magento_Checkout
+Update,Actualizar,module,Magento_Checkout
+Cancel,Cancelar,module,Magento_Checkout
+"Save in address book","Guardar en libreta de direcciones",module,Magento_Checkout
+"Estimated Total","Total Estimado",module,Magento_Checkout
+"You can create an account after checkout.","Puede crear una cuenta después de finalizar la compra.",module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.","Ya tienes una cuenta con nosotros. Iniciar sesión o continuar como invitado.",module,Magento_Checkout
+Login,Iniciar Sesión,module,Magento_Checkout
+Close,Cerrar,module,Magento_Checkout
+of,de,module,Magento_Checkout
+"Item in Cart","Artículo en el Carro",module,Magento_Checkout
+"Items in Cart","Artículos en el Carro",module,Magento_Checkout
+"Go to Checkout","Ir a Pagar",module,Magento_Checkout
+"Recently added item(s)","Artículo(s) agregado recientemente",module,Magento_Checkout
+"View and edit cart","Ver y editar carro",module,Magento_Checkout
+"See Details","Ver Detalles",module,Magento_Checkout
+"Options Details","Opciones de Detalle",module,Magento_Checkout
+Remove,Quitar,module,Magento_Checkout
+"Cart Subtotal","Subtotal del Carro",module,Magento_Checkout
+"Payment Information","Información del Pago",module,Magento_Checkout
+"No Payment method available.","No hay Forma de Pago disponible.",module,Magento_Checkout
+"You can track your order status by creating an account.","Puede rastrear el estado de su pedido creando una cuenta.",module,Magento_Checkout
+"Place Order","Realizar Pedido",module,Magento_Checkout
+"Forgot an Item?","Olvidó un Artículo?",module,Magento_Checkout
+"Edit Your Cart","Edita tu Carro",module,Magento_Checkout
+"Ship Here","Despacha Aquí",module,Magento_Checkout
+"Ship To:","Despacha a:",module,Magento_Checkout
+edit,editar,module,Magento_Checkout
+"Shipping Address","Dirección de Despacho",module,Magento_Checkout
+"New Address","Nueva Dirección",module,Magento_Checkout
+"Shipping Methods","Métodos de Despacho",module,Magento_Checkout
+"Select Method","Seleccionar Método",module,Magento_Checkout
+"Method Title","Título del Método",module,Magento_Checkout
+"Carrier Title","Título del Operador",module,Magento_Checkout
+Next,Siguiente,module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Lo sentimos, no hay presupuestos disponibles para este pedido en este momento",module,Magento_Checkout
+"Order Summary","Resumen del Pedido",module,Magento_Checkout
 "View and Edit Cart","View and Edit Cart",module,Magento_Checkout
 "View Details","View Details",module,Magento_Checkout
 "Contact Form","Contact Form",module,Magento_Contact
