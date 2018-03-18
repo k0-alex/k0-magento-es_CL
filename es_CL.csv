@@ -1,32 +1,32 @@
-"Read Details","Read Details",module,Magento_AdminNotification
-"Mark as Read","Mark as Read",module,Magento_AdminNotification
-"Are you sure?","Are you sure?",module,Magento_AdminNotification
-Remove,Remove,module,Magento_AdminNotification
-"Messages Inbox","Messages Inbox",module,Magento_AdminNotification
-"You have %1 new system messages","You have %1 new system messages",module,Magento_AdminNotification
-"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
-"Incoming Message","Incoming Message",module,Magento_AdminNotification
-close,close,module,Magento_AdminNotification
-Notifications,Notifications,module,Magento_AdminNotification
-"The message has been marked as Read.","The message has been marked as Read.",module,Magento_AdminNotification
-"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error.",module,Magento_AdminNotification
-"Please select messages.","Please select messages.",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
-"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
-"1 Hour","1 Hour",module,Magento_AdminNotification
-"2 Hours","2 Hours",module,Magento_AdminNotification
-"6 Hours","6 Hours",module,Magento_AdminNotification
-"12 Hours","12 Hours",module,Magento_AdminNotification
-"24 Hours","24 Hours",module,Magento_AdminNotification
-critical,critical,module,Magento_AdminNotification
-major,major,module,Magento_AdminNotification
-minor,minor,module,Magento_AdminNotification
-notice,notice,module,Magento_AdminNotification
-"Wrong message type","Wrong message type",module,Magento_AdminNotification
-"Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
+"Read Details","Leer Detalles",module,Magento_AdminNotification
+"Mark as Read","Marcar como Leído",module,Magento_AdminNotification
+"Are you sure?","¿Estás seguro?",module,Magento_AdminNotification
+Remove,Quitar,module,Magento_AdminNotification
+"Messages Inbox","Bandeja de Entrada",module,Magento_AdminNotification
+"You have %1 new system messages","Tienes %1 nuevos mensajes del sistema",module,Magento_AdminNotification
+"You have %1 new system message","Tienes %1 nuevo mensaje del sistema",module,Magento_AdminNotification
+"Incoming Message","Mensaje Entrante",module,Magento_AdminNotification
+close,cerrado,module,Magento_AdminNotification
+Notifications,Notificaciones,module,Magento_AdminNotification
+"The message has been marked as Read.","El mensaje ha sido marcado como Leído.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","No pudimos marcar la notificación como Leída debido a un error.",module,Magento_AdminNotification
+"Please select messages.","Seleccione mensajes.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Un total de %1 registro(s) se han marcado como Leídos.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Un total de %1 registro(s) eliminado(s).",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","No pudimos eliminar los mensajes debido a un error.",module,Magento_AdminNotification
+"The message has been removed.","El mensaje ha sido eliminado.",module,Magento_AdminNotification
+"1 Hour","1 Hora",module,Magento_AdminNotification
+"2 Hours","2 Horas",module,Magento_AdminNotification
+"6 Hours","6 Horas",module,Magento_AdminNotification
+"12 Hours","12 Horas",module,Magento_AdminNotification
+"24 Hours","24 Horas",module,Magento_AdminNotification
+critical,critico,module,Magento_AdminNotification
+major,mayor,module,Magento_AdminNotification
+minor,menor,module,Magento_AdminNotification
+notice,noticia,module,Magento_AdminNotification
+"Wrong message type","Tipo de mensaje incorrecto",module,Magento_AdminNotification
+"Wrong notification ID specified.","ID de notificación especificada es incorrecta.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} no se recomienda su uso en un entorno de producción para declarar la Base URL no segura / URL segura básica. Recomendamos encarecidamente cambiar este valor en su Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
@@ -36,10 +36,10 @@ notice,notice,module,Magento_AdminNotification
 "Critical System Messages","Critical System Messages",module,Magento_AdminNotification
 "Major System Messages","Major System Messages",module,Magento_AdminNotification
 "System messages","System messages",module,Magento_AdminNotification
-Close,Close,module,Magento_AdminNotification
-"See All (","See All (",module,Magento_AdminNotification
-" unread)"," unread)",module,Magento_AdminNotification
-"Please correct the data sent.","Please correct the data sent.",module,Magento_AdvancedPricingImportExport
+Close,Cerrado,module,Magento_AdminNotification
+"See All (","Mostrar Todos (",module,Magento_AdminNotification
+" unread)"," no leído)",module,Magento_AdminNotification
+"Please correct the data sent.","Por favor corrija los datos enviados.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","There are no product types available for export",module,Magento_AdvancedPricingImportExport
@@ -52,10 +52,10 @@ Close,Close,module,Magento_AdminNotification
 "An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Credit Card: xxxx-%1",module,Magento_Authorizenet
 "amount %1","amount %1",module,Magento_Authorizenet
-failed.,failed.,module,Magento_Authorizenet
-successful.,successful.,module,Magento_Authorizenet
+failed.,ha fallado.,module,Magento_Authorizenet
+successful.,exitoso.,module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
-authorize,authorize,module,Magento_Authorizenet
+authorize,autorizar,module,Magento_Authorizenet
 "authorize and capture","authorize and capture",module,Magento_Authorizenet
 capture,capture,module,Magento_Authorizenet
 refund,refund,module,Magento_Authorizenet
@@ -681,41 +681,41 @@ Promo,Promo,module,Magento_CatalogRule
 "We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_CatalogRule
 "Catalog rule indexing failed. See details in exception log.","Catalog rule indexing failed. See details in exception log.",module,Magento_CatalogRule
 "Percentage discount should be between 0 and 100.","Percentage discount should be between 0 and 100.",module,Magento_CatalogRule
-"Discount value should be 0 or greater.","Discount value should be 0 or greater.",module,Magento_CatalogRule
-"Unknown action.","Unknown action.",module,Magento_CatalogRule
-"Update the Product","Update the Product",module,Magento_CatalogRule
-"Rule price","Rule price",module,Magento_CatalogRule
-"To Fixed Value","To Fixed Value",module,Magento_CatalogRule
-"To Percentage","To Percentage",module,Magento_CatalogRule
-"By Fixed value","By Fixed value",module,Magento_CatalogRule
-"By Percentage","By Percentage",module,Magento_CatalogRule
-"Update product's %1 %2: %3","Update product's %1 %2: %3",module,Magento_CatalogRule
-"Apply as percentage of original","Apply as percentage of original",module,Magento_CatalogRule
-"Apply as fixed amount","Apply as fixed amount",module,Magento_CatalogRule
-"Adjust final price to this percentage","Adjust final price to this percentage",module,Magento_CatalogRule
-"Adjust final price to discount value","Adjust final price to discount value",module,Magento_CatalogRule
-"Conditions Combination","Conditions Combination",module,Magento_CatalogRule
-"Product Attribute","Product Attribute",module,Magento_CatalogRule
-"Updated rules applied.","Updated rules applied.",module,Magento_CatalogRule
+"Discount value should be 0 or greater.","El valor de descuento debe ser 0 o mayor.",module,Magento_CatalogRule
+"Unknown action.","Acción desconocida.",module,Magento_CatalogRule
+"Update the Product","Actualiza el Producto",module,Magento_CatalogRule
+"Rule price","Regla de Precio",module,Magento_CatalogRule
+"To Fixed Value","Para el Valor Fijo",module,Magento_CatalogRule
+"To Percentage","Para el Porcentaje",module,Magento_CatalogRule
+"By Fixed value","Por valor Fijo",module,Magento_CatalogRule
+"By Percentage","Por Porcentaje",module,Magento_CatalogRule
+"Update product's %1 %2: %3","Actualizar productos %1 %2: %3",module,Magento_CatalogRule
+"Apply as percentage of original","Aplicar como porcentaje del original",module,Magento_CatalogRule
+"Apply as fixed amount","Aplicar como cantidad fija",module,Magento_CatalogRule
+"Adjust final price to this percentage","Ajustar el precio final a este porcentaje",module,Magento_CatalogRule
+"Adjust final price to discount value","Ajustar el precio final al valor de descuento",module,Magento_CatalogRule
+"Conditions Combination","Combinación de Condiciones",module,Magento_CatalogRule
+"Product Attribute","Atributo del Producto",module,Magento_CatalogRule
+"Updated rules applied.","Actualización de Reglas Aplicada.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","You disabled %1 Catalog Price Rules based on ""%2"" attribute.",module,Magento_CatalogRule
-Home,Home,module,Magento_CatalogSearch
-"Go to Home Page","Go to Home Page",module,Magento_CatalogSearch
-"Catalog Advanced Search","Catalog Advanced Search",module,Magento_CatalogSearch
-All,All,module,Magento_CatalogSearch
-Yes,Yes,module,Magento_CatalogSearch
+Home,Inicio,module,Magento_CatalogSearch
+"Go to Home Page","Ir a Página de Inicio",module,Magento_CatalogSearch
+"Catalog Advanced Search","Catálogo Búsqueda Avanzada",module,Magento_CatalogSearch
+All,Todos,module,Magento_CatalogSearch
+Yes,Si,module,Magento_CatalogSearch
 No,No,module,Magento_CatalogSearch
-Results,Results,module,Magento_CatalogSearch
-"Advanced Search Results","Advanced Search Results",module,Magento_CatalogSearch
-Grid,Grid,module,Magento_CatalogSearch
-List,List,module,Magento_CatalogSearch
-"Search Weight","Search Weight",module,Magento_CatalogSearch
-Relevance,Relevance,module,Magento_CatalogSearch
-"Search results for: '%1'","Search results for: '%1'",module,Magento_CatalogSearch
+Results,Resultadoss,module,Magento_CatalogSearch
+"Advanced Search Results","Resultados de Búsqueda Avanzada",module,Magento_CatalogSearch
+Grid,Parrilla,module,Magento_CatalogSearch
+List,Lista,module,Magento_CatalogSearch
+"Search Weight","Búsqueda por Peso",module,Magento_CatalogSearch
+Relevance,Pertenencia,module,Magento_CatalogSearch
+"Search results for: '%1'","Resultados de búsqueda para: '%1'",module,Magento_CatalogSearch
 "Minimum Search query length is %1","Minimum Search query length is %1",module,Magento_CatalogSearch
 "Please specify at least one search term.","Please specify at least one search term.",module,Magento_CatalogSearch
 "%1 and greater","%1 and greater",module,Magento_CatalogSearch
 "up to %1","up to %1",module,Magento_CatalogSearch
-Category,Category,module,Magento_CatalogSearch
+Category,Categoría,module,Magento_CatalogSearch
 "%1 and above","%1 and above",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
@@ -736,51 +736,51 @@ name,name,module,Magento_CatalogSearch
 "Product Attribute","Product Attribute",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
 "Please choose a condition to add.","Please choose a condition to add.",module,Magento_CatalogWidget
-"Add to Cart","Add to Cart",module,Magento_CatalogWidget
-"In stock","In stock",module,Magento_CatalogWidget
-"Out of stock","Out of stock",module,Magento_CatalogWidget
-"Add to Wish List","Add to Wish List",module,Magento_CatalogWidget
-"Add to Compare","Add to Compare",module,Magento_CatalogWidget
-Root,Root,module,Magento_Catalog
-Delete,Delete,module,Magento_Catalog
-Save,Save,module,Magento_Catalog
-"Use Config Settings","Use Config Settings",module,Magento_Catalog
-"Use All Available Attributes","Use All Available Attributes",module,Magento_Catalog
+"Add to Cart","Agregar al Carro",module,Magento_CatalogWidget
+"In stock","En stock",module,Magento_CatalogWidget
+"Out of stock","Sin stock",module,Magento_CatalogWidget
+"Add to Wish List","Agregar a la Lista de Deseos",module,Magento_CatalogWidget
+"Add to Compare","Agregar para Comparar",module,Magento_CatalogWidget
+Root,Origem,module,Magento_Catalog
+Delete,Borrar,module,Magento_Catalog
+Save,Guardar,module,Magento_Catalog
+"Use Config Settings","Use la Configuración de Configuraciones",module,Magento_Catalog
+"Use All Available Attributes","Use Todos los Atributos Disponibles",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
-Name,Name,module,Magento_Catalog
-SKU,SKU,module,Magento_Catalog
-Price,Price,module,Magento_Catalog
-Position,Position,module,Magento_Catalog
-"Add Subcategory","Add Subcategory",module,Magento_Catalog
-"Add Root Category","Add Root Category",module,Magento_Catalog
-Day,Day,module,Magento_Catalog
-Month,Month,module,Magento_Catalog
-Year,Year,module,Magento_Catalog
+Name,Nombre,module,Magento_Catalog
+SKU,Código,module,Magento_Catalog
+Price,Precio,module,Magento_Catalog
+Position,Posición,module,Magento_Catalog
+"Add Subcategory","Agregar Subcategoría",module,Magento_Catalog
+"Add Root Category","Agregar Categoría Raíz",module,Magento_Catalog
+Day,Día,module,Magento_Catalog
+Month,Mes,module,Magento_Catalog
+Year,Año,module,Magento_Catalog
 "<label class=""label""><span>from</span></label>","<label class=""label""><span>from</span></label>",module,Magento_Catalog
 "<label class=""label""><span>to</span></label>","<label class=""label""><span>to</span></label>",module,Magento_Catalog
 [GLOBAL],[GLOBAL],module,Magento_Catalog
 [WEBSITE],[WEBSITE],module,Magento_Catalog
-"[STORE VIEW]","[STORE VIEW]",module,Magento_Catalog
+"[STORE VIEW]","[VISTA DE TIENDA]",module,Magento_Catalog
 "WYSIWYG Editor","WYSIWYG Editor",module,Magento_Catalog
-"Add Product","Add Product",module,Magento_Catalog
-label,label,module,Magento_Catalog
-"Product Attributes","Product Attributes",module,Magento_Catalog
-"Add New Attribute","Add New Attribute",module,Magento_Catalog
-Cancel,Cancel,module,Magento_Catalog
-"Save Attribute","Save Attribute",module,Magento_Catalog
-"Save in New Attribute Set","Save in New Attribute Set",module,Magento_Catalog
-"Enter Name for New Attribute Set","Enter Name for New Attribute Set",module,Magento_Catalog
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Catalog
-"Delete Attribute","Delete Attribute",module,Magento_Catalog
-"Edit Product Attribute ""%1""","Edit Product Attribute ""%1""",module,Magento_Catalog
-"New Product Attribute","New Product Attribute",module,Magento_Catalog
-"Advanced Attribute Properties","Advanced Attribute Properties",module,Magento_Catalog
-"Attribute Code","Attribute Code",module,Magento_Catalog
+"Add Product","Agregar Producto",module,Magento_Catalog
+label,etiqueta,module,Magento_Catalog
+"Product Attributes","Atributos del Producto",module,Magento_Catalog
+"Add New Attribute","Agregar Nuevo Atributo",module,Magento_Catalog
+Cancel,Cancelar,module,Magento_Catalog
+"Save Attribute","Guarda Atributo",module,Magento_Catalog
+"Save in New Attribute Set","Guardar en un Nuevo Conjunto de Atributos",module,Magento_Catalog
+"Enter Name for New Attribute Set","Ingrese Nombre para el Nuevo Conjunto de Atributos",module,Magento_Catalog
+"Save and Continue Edit","Guarda y Continua Editando",module,Magento_Catalog
+"Delete Attribute","Borrar Atributo",module,Magento_Catalog
+"Edit Product Attribute ""%1""","Editar Atributo del Producto ""%1""",module,Magento_Catalog
+"New Product Attribute","Nuevo Atributo del Producto",module,Magento_Catalog
+"Advanced Attribute Properties","Propiedades Avanzadas del Atributo",module,Magento_Catalog
+"Attribute Code","Código de Atributo",module,Magento_Catalog
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Catalog
-"Default Value","Default Value",module,Magento_Catalog
-"Unique Value","Unique Value",module,Magento_Catalog
-"Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Catalog
-"Not shared with other products.","Not shared with other products.",module,Magento_Catalog
+"Default Value","Valor por Defecto",module,Magento_Catalog
+"Unique Value","Valor único",module,Magento_Catalog
+"Unique Value (not shared with other products)","Valor único (no compartido con otros productos)",module,Magento_Catalog
+"Not shared with other products.","No compartido con otros productos.",module,Magento_Catalog
 "Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Catalog
 "Add to Column Options","Add to Column Options",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid.",module,Magento_Catalog
@@ -806,9 +806,9 @@ Scope,Scope,module,Magento_Catalog
 Gallery,Gallery,module,Magento_Catalog
 "System Properties","System Properties",module,Magento_Catalog
 No,No,module,Magento_Catalog
-Yes,Yes,module,Magento_Catalog
+Yes,Si,module,Magento_Catalog
 "Data Type for Saving in Database","Data Type for Saving in Database",module,Magento_Catalog
-Text,Text,module,Magento_Catalog
+Text,Texto,module,Magento_Catalog
 Varchar,Varchar,module,Magento_Catalog
 Static,Static,module,Magento_Catalog
 Datetime,Datetime,module,Magento_Catalog
@@ -857,21 +857,21 @@ Websites,Websites,module,Magento_Catalog
 "Price Alert Subscriptions","Price Alert Subscriptions",module,Magento_Catalog
 "Stock Alert Subscriptions","Stock Alert Subscriptions",module,Magento_Catalog
 "There are no customers for this alert.","There are no customers for this alert.",module,Magento_Catalog
-"First Name","First Name",module,Magento_Catalog
-"Last Name","Last Name",module,Magento_Catalog
-Email,Email,module,Magento_Catalog
+"First Name","Nombre",module,Magento_Catalog
+"Last Name","Apellido",module,Magento_Catalog
+Email,Correo,module,Magento_Catalog
 "Subscribe Date","Subscribe Date",module,Magento_Catalog
 "Last Notified","Last Notified",module,Magento_Catalog
 "Send Count","Send Count",module,Magento_Catalog
-"New Attribute","New Attribute",module,Magento_Catalog
-Type,Type,module,Magento_Catalog
+"New Attribute","Atributo Nuevo",module,Magento_Catalog
+Type,Tipo,module,Magento_Catalog
 "Attribute Set","Attribute Set",module,Magento_Catalog
-Status,Status,module,Magento_Catalog
+Status,Estado,module,Magento_Catalog
 Visibility,Visibility,module,Magento_Catalog
 "Add New Option","Add New Option",module,Magento_Catalog
 "Import Options","Import Options",module,Magento_Catalog
 "Use Default","Use Default",module,Magento_Catalog
-Import,Import,module,Magento_Catalog
+Import,Importar,module,Magento_Catalog
 "Add New Row","Add New Row",module,Magento_Catalog
 "Delete Row","Delete Row",module,Magento_Catalog
 "Tier Pricing","Tier Pricing",module,Magento_Catalog
@@ -887,8 +887,8 @@ Cross-sells,Cross-sells,module,Magento_Catalog
 "Watermark File for %1","Watermark File for %1",module,Magento_Catalog
 "Position of Watermark for %1","Position of Watermark for %1",module,Magento_Catalog
 "Name in %1","Name in %1",module,Magento_Catalog
-Quantity,Quantity,module,Magento_Catalog
-Edit,Edit,module,Magento_Catalog
+Quantity,Cantidad,module,Magento_Catalog
+Edit,Editar,module,Magento_Catalog
 "Are you sure?","Are you sure?",module,Magento_Catalog
 "Change Status","Change Status",module,Magento_Catalog
 "Update Attributes","Update Attributes",module,Magento_Catalog
@@ -898,12 +898,12 @@ Edit,Edit,module,Magento_Catalog
 "Add New Images","Add New Images",module,Magento_Catalog
 "Inc. Tax","Inc. Tax",module,Magento_Catalog
 "Does this have a weight?","Does this have a weight?",module,Magento_Catalog
-Product,Product,module,Magento_Catalog
+Product,Producto,module,Magento_Catalog
 "Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
 "Low Stock Products","Low Stock Products",module,Magento_Catalog
 "%1 has reached a quantity of %2.","%1 has reached a quantity of %2.",module,Magento_Catalog
-Home,Home,module,Magento_Catalog
-"Go to Home Page","Go to Home Page",module,Magento_Catalog
+Home,Inicio,module,Magento_Catalog
+"Go to Home Page","Ir a Pagina de Inicio",module,Magento_Catalog
 "Subscribe to RSS Feed","Subscribe to RSS Feed",module,Magento_Catalog
 "Products Comparison List","Products Comparison List",module,Magento_Catalog
 N/A,N/A,module,Magento_Catalog
@@ -1296,7 +1296,7 @@ Role,Role,module,Magento_Catalog
 "Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
 "Shop By","Shop By",module,Magento_Catalog
 "Shopping Options","Shopping Options",module,Magento_Catalog
-"Compare Products","Compare Products",module,Magento_Catalog
+"Compare Products","Comparar Productos",module,Magento_Catalog
 "Print This Page","Print This Page",module,Magento_Catalog
 "Remove Product","Remove Product",module,Magento_Catalog
 "Add to Cart","Add to Cart",module,Magento_Catalog
@@ -1897,10 +1897,10 @@ Locked,Locked,module,Magento_Customer
 "Days in Wish List","Days in Wish List",module,Magento_Customer
 Unlock,Unlock,module,Magento_Customer
 No,No,module,Magento_Customer
-Yes,Yes,module,Magento_Customer
-"Delete File","Delete File",module,Magento_Customer
-Download,Download,module,Magento_Customer
-"Delete Image","Delete Image",module,Magento_Customer
+Yes,Si,module,Magento_Customer
+"Delete File","Archivo Borrado",module,Magento_Customer
+Download,Descarga,module,Magento_Customer
+"Delete Image","Imagen Borrada",module,Magento_Customer
 "View Full Size","View Full Size",module,Magento_Customer
 "All countries","All countries",module,Magento_Customer
 "Customer Groups","Customer Groups",module,Magento_Customer
@@ -1952,7 +1952,7 @@ Download,Download,module,Magento_Customer
 "We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
 "Please enter your email.","Please enter your email.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password.",module,Magento_Customer
-"My Account","My Account",module,Magento_Customer
+"My Account","Mi Cuenta",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance.",module,Magento_Customer
 "A login and a password are required.","A login and a password are required.",module,Magento_Customer
@@ -6236,16 +6236,16 @@ Next,Next,module,Magento_Checkout
 "View and Edit Cart","View and Edit Cart",module,Magento_Checkout
 "View Details","View Details",module,Magento_Checkout
 "Contact Form","Contact Form",module,Magento_Contact
-"Name: %name","Name: %name",module,Magento_Contact
-"Email: %email","Email: %email",module,Magento_Contact
-"Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
-"Comment: %comment","Comment: %comment",module,Magento_Contact
+"Name: %name","Nombre: %name",module,Magento_Contact
+"Email: %email","Correo: %email",module,Magento_Contact
+"Phone Number: %telephone","Telefono: %telephone",module,Magento_Contact
+"Comment: %comment","Comentario: %comment",module,Magento_Contact
 "Welcome to %store_name","Welcome to %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Welcome to %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Customer
-Email:,Email:,module,Magento_Customer
-Password:,Password:,module,Magento_Customer
+Email:,Correo:,module,Magento_Customer
+Password:,Clave:,module,Magento_Customer
 "Password you set when creating account","Password you set when creating account",module,Magento_Customer
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Customer
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Customer
@@ -7946,7 +7946,7 @@ Manage,Manage,module,Magento_Paypal
 "Publisher ID","Publisher ID",module,Magento_Paypal
 "Required to display a banner","Required to display a banner",module,Magento_Paypal
 "Get Publisher ID from PayPal","Get Publisher ID from PayPal",module,Magento_Paypal
-"Home Page","Home Page",module,Magento_Paypal
+"Home Page","Página de Inicio",module,Magento_Paypal
 Display,Display,module,Magento_Paypal
 Position,Position,module,Magento_Paypal
 Size,Size,module,Magento_Paypal
