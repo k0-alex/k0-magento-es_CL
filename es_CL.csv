@@ -52,15 +52,15 @@ Close,Cerrado,module,Magento_AdminNotification
 "An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Credit Card: xxxx-%1",module,Magento_Authorizenet
 "amount %1","amount %1",module,Magento_Authorizenet
-failed.,ha fallado.,module,Magento_Authorizenet
+failed.,"ha fallado.",module,Magento_Authorizenet
 successful.,exitoso.,module,Magento_Authorizenet
-"Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net de transacción ID %1.",module,Magento_Authorizenet
 authorize,autorizar,module,Magento_Authorizenet
-"authorize and capture","authorize and capture",module,Magento_Authorizenet
-capture,capture,module,Magento_Authorizenet
-refund,refund,module,Magento_Authorizenet
-void,void,module,Magento_Authorizenet
-"Gateway error: %1","Gateway error: %1",module,Magento_Authorizenet
+"authorize and capture","autorizar y capturar",module,Magento_Authorizenet
+capture,capturar,module,Magento_Authorizenet
+refund,reembolso,module,Magento_Authorizenet
+void,vacío,module,Magento_Authorizenet
+"Gateway error: %1","Error de Gateway: %1",module,Magento_Authorizenet
 "Something went wrong in the payment gateway.","Something went wrong in the payment gateway.",module,Magento_Authorizenet
 "Invalid amount for capture.","Invalid amount for capture.",module,Magento_Authorizenet
 "Payment capturing error.","Payment capturing error.",module,Magento_Authorizenet
@@ -94,16 +94,16 @@ void,void,module,Magento_Authorizenet
 "Flush Magento Cache","Flush Magento Cache",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?",module,Magento_Backend
 "Flush Cache Storage","Flush Cache Storage",module,Magento_Backend
-Invalidated,Invalidated,module,Magento_Backend
-Orders,Orders,module,Magento_Backend
-Amounts,Amounts,module,Magento_Backend
-Bestsellers,Bestsellers,module,Magento_Backend
+Invalidated,Invalidado,module,Magento_Backend
+Orders,Pedidos,module,Magento_Backend
+Amounts,Cantidades,module,Magento_Backend
+Bestsellers,"Los más Vendidos",module,Magento_Backend
 "Most Viewed Products","Most Viewed Products",module,Magento_Backend
 "New Customers","New Customers",module,Magento_Backend
-Customers,Customers,module,Magento_Backend
-Customer,Customer,module,Magento_Backend
-Guest,Guest,module,Magento_Backend
-Items,Items,module,Magento_Backend
+Customers,Clientes,module,Magento_Backend
+Customer,Cliente,module,Magento_Backend
+Guest,Invitado,module,Magento_Backend
+Items,Productos,module,Magento_Backend
 Total,Total,module,Magento_Backend
 "Lifetime Sales","Lifetime Sales",module,Magento_Backend
 "Average Order","Average Order",module,Magento_Backend
@@ -120,27 +120,27 @@ Shipping,Shipping,module,Magento_Backend
 "All Files","All Files",module,Magento_Backend
 "Reset to Default","Reset to Default",module,Magento_Backend
 "All Store Views","All Store Views",module,Magento_Backend
-"What is this?","What is this?",module,Magento_Backend
-"Save Account","Save Account",module,Magento_Backend
-"My Account","My Account",module,Magento_Backend
-"Account Information","Account Information",module,Magento_Backend
-"User Name","User Name",module,Magento_Backend
-"First Name","First Name",module,Magento_Backend
-"Last Name","Last Name",module,Magento_Backend
-Email,Email,module,Magento_Backend
-"User Email","User Email",module,Magento_Backend
-"New Password","New Password",module,Magento_Backend
-"Password Confirmation","Password Confirmation",module,Magento_Backend
+"What is this?","¿Que es esto?",module,Magento_Backend
+"Save Account","Guardar Cuenta",module,Magento_Backend
+"My Account","Mi Cuenta",module,Magento_Backend
+"Account Information","Información de la Cuenta",module,Magento_Backend
+"User Name","Nombre de Usuario",module,Magento_Backend
+"First Name","Nombre",module,Magento_Backend
+"Last Name","Apellido",module,Magento_Backend
+Email,Correo,module,Magento_Backend
+"User Email","Correo Electrónico",module,Magento_Backend
+"New Password","Nueva Contraseña",module,Magento_Backend
+"Password Confirmation","Confirma Contraseña",module,Magento_Backend
 "Interface Locale","Interface Locale",module,Magento_Backend
 "Current User Identity Verification","Current User Identity Verification",module,Magento_Backend
-"Your Password","Your Password",module,Magento_Backend
+"Your Password","Tu Contraseña",module,Magento_Backend
 "Save Cache Settings","Save Cache Settings",module,Magento_Backend
 "Catalog Rewrites","Catalog Rewrites",module,Magento_Backend
-Refresh,Refresh,module,Magento_Backend
+Refresh,Refrescar,module,Magento_Backend
 "Images Cache","Images Cache",module,Magento_Backend
-Clear,Clear,module,Magento_Backend
+Clear,Limpiar,module,Magento_Backend
 "Search Index","Search Index",module,Magento_Backend
-Rebuild,Rebuild,module,Magento_Backend
+Rebuild,Reorganizar,module,Magento_Backend
 "Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
 "Rebuild Catalog Index","Rebuild Catalog Index",module,Magento_Backend
 "Rebuild Flat Catalog Category","Rebuild Flat Catalog Category",module,Magento_Backend
@@ -148,12 +148,12 @@ Rebuild,Rebuild,module,Magento_Backend
 "Cache Control","Cache Control",module,Magento_Backend
 "All Cache","All Cache",module,Magento_Backend
 "No change","No change",module,Magento_Backend
-Disable,Disable,module,Magento_Backend
-Enable,Enable,module,Magento_Backend
+Disable,Desactivar,module,Magento_Backend
+Enable,Activar,module,Magento_Backend
 "Add Design Change","Add Design Change",module,Magento_Backend
-Back,Back,module,Magento_Backend
-Delete,Delete,module,Magento_Backend
-"Are you sure?","Are you sure?",module,Magento_Backend
+Back,Atras,module,Magento_Backend
+Delete,Quitar,module,Magento_Backend
+"Are you sure?","¿Estás seguro?",module,Magento_Backend
 Save,Save,module,Magento_Backend
 "Edit Design Change","Edit Design Change",module,Magento_Backend
 "New Store Design Change","New Store Design Change",module,Magento_Backend
@@ -889,7 +889,7 @@ Cross-sells,Cross-sells,module,Magento_Catalog
 "Name in %1","Name in %1",module,Magento_Catalog
 Quantity,Cantidad,module,Magento_Catalog
 Edit,Editar,module,Magento_Catalog
-"Are you sure?","Are you sure?",module,Magento_Catalog
+"Are you sure?","¿Estás seguro?",module,Magento_Catalog
 "Change Status","Change Status",module,Magento_Catalog
 "Update Attributes","Update Attributes",module,Magento_Catalog
 "start typing to search category","start typing to search category",module,Magento_Catalog
@@ -1473,7 +1473,7 @@ Reset,Reset,module,Magento_Cms
 "Save and Continue Edit","Save and Continue Edit",module,Magento_Cms
 "Save Block","Save Block",module,Magento_Cms
 ID,ID,module,Magento_Cms
-Title,Title,module,Magento_Cms
+Title,Título,module,Magento_Cms
 Identifier,Identifier,module,Magento_Cms
 Status,Status,module,Magento_Cms
 Disabled,Disabled,module,Magento_Cms
@@ -1823,8 +1823,8 @@ System,System,module,Magento_CurrencySymbol
 "Invalid value in Store column (store does not exists?)","Invalid value in Store column (store does not exists?)",module,Magento_CustomerImportExport
 "We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Please enter a password with a valid length.",module,Magento_CustomerImportExport
-"Sign Out","Desconectarse",module,Magento_Customer
-"Sign In","Registrarse",module,Magento_Customer
+"Sign Out","Cerrar Sesión",module,Magento_Customer
+"Sign In","Iniciar Sesión",module,Magento_Customer
 "You subscribe to our newsletter.","Usted se suscribe a nuestro boletín de noticias.",module,Magento_Customer
 "You don't subscribe to our newsletter.","Usted no se suscribe a nuestro boletín de noticias.",module,Magento_Customer
 "You have not set a default shipping address.","No ha configurado una dirección de despacho predeterminada.",module,Magento_Customer
@@ -2162,11 +2162,11 @@ State/Province,"Estado/Provincia",module,Magento_Customer
 Country,Pais,module,Magento_Customer
 "It's a default billing address.","Esta es una dirección de facturación predeterminada.",module,Magento_Customer
 "Use as my default billing address","Usar como mi dirección de facturación predeterminada",module,Magento_Customer
-"It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
+"It's a default shipping address.","Es una dirección de despacho predeterminada.",module,Magento_Customer
 "Use as my default shipping address","Usar como mi dirección de despacho predeterminada",module,Magento_Customer
 "Save Address","Guardar Dirección",module,Magento_Customer
 "Go back","Ir atras",module,Magento_Customer
-"Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
+"Please enter your email below and we will send you the confirmation link.","Ingrese su correo a continuación y le enviaremos el enlace de confirmación.",module,Magento_Customer
 Email,Correo,module,Magento_Customer
 "Send confirmation link","Enviar enlace de confirmación",module,Magento_Customer
 "Back to Sign In","Volver a Iniciar Sesión",module,Magento_Customer
@@ -2603,7 +2603,7 @@ City,City,module,Magento_Email
 "Error filtering template: %s","Error filtering template: %s",module,Magento_Email
 "We're sorry, an error has occurred while generating this content.","We're sorry, an error has occurred while generating this content.",module,Magento_Email
 "Invalid sender data","Invalid sender data",module,Magento_Email
-Title,Title,module,Magento_Email
+Title,Título,module,Magento_Email
 "Load default template","Load default template",module,Magento_Email
 Template,Template,module,Magento_Email
 "Are you sure you want to strip tags?","Are you sure you want to strip tags?",module,Magento_Email
@@ -3752,8 +3752,8 @@ Price:,Price:,module,Magento_ProductAlert
 "In stock alert! We wanted you to know that these products are now available:","In stock alert! We wanted you to know that these products are now available:",module,Magento_ProductAlert
 "Unsubscribe from all stock alerts","Unsubscribe from all stock alerts",module,Magento_ProductAlert
 Url,Url,module,Magento_ProductVideo
-Title,Title,module,Magento_ProductVideo
-Description,Description,module,Magento_ProductVideo
+Title,Título,module,Magento_ProductVideo
+Description,Descripción,module,Magento_ProductVideo
 "Preview Image","Preview Image",module,Magento_ProductVideo
 "Get Video Information","Get Video Information",module,Magento_ProductVideo
 "Hide from Product Page","Hide from Product Page",module,Magento_ProductVideo
@@ -3773,7 +3773,7 @@ Hidden,Hidden,module,Magento_ProductVideo
 {size},{size},module,Magento_ProductVideo
 "Image Resolution","Image Resolution",module,Magento_ProductVideo
 "{width}^{height} px","{width}^{height} px",module,Magento_ProductVideo
-Title:,Title:,module,Magento_ProductVideo
+Title:,Título:,module,Magento_ProductVideo
 Uploaded:,Uploaded:,module,Magento_ProductVideo
 Uploader:,Uploader:,module,Magento_ProductVideo
 Duration:,Duration:,module,Magento_ProductVideo
@@ -4039,7 +4039,7 @@ SKU,Código,module,Magento_Review
 Action,Action,module,Magento_Review
 Edit,Edit,module,Magento_Review
 Delete,Delete,module,Magento_Review
-"Are you sure?","Are you sure?",module,Magento_Review
+"Are you sure?","¿Estás seguro?",module,Magento_Review
 "Update Status","Update Status",module,Magento_Review
 Customer,Customer,module,Magento_Review
 "Pending Reviews of Customer `%1`","Pending Reviews of Customer `%1`",module,Magento_Review
@@ -4685,7 +4685,7 @@ Authorization,Authorization,module,Magento_Sales
 "Payment Method:","Payment Method:",module,Magento_Sales
 "Shipping Method:","Shipping Method:",module,Magento_Sales
 "Total Shipping Charges","Total Shipping Charges",module,Magento_Sales
-Title,Title,module,Magento_Sales
+Title,Título,module,Magento_Sales
 Number,Number,module,Magento_Sales
 "We found an invalid renderer model.","We found an invalid renderer model.",module,Magento_Sales
 "Please define the PDF object before using.","Please define the PDF object before using.",module,Magento_Sales
@@ -5058,34 +5058,34 @@ Invitee,Invitee,module,Magento_SendFriend
 "Add Invitee","Add Invitee",module,Magento_SendFriend
 "Send Email","Send Email",module,Magento_SendFriend
 Back,Back,module,Magento_SendFriend
-"New Shipment for Order #%1","New Shipment for Order #%1",module,Magento_Shipping
-"Submit Shipment","Submit Shipment",module,Magento_Shipping
-"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",module,Magento_Shipping
-"Products should be added to package(s)","Products should be added to package(s)",module,Magento_Shipping
-"The value that you entered is not valid.","The value that you entered is not valid.",module,Magento_Shipping
-"Add Tracking Number","Add Tracking Number",module,Magento_Shipping
-"Custom Value","Custom Value",module,Magento_Shipping
-Add,Add,module,Magento_Shipping
-"Send Tracking Information","Send Tracking Information",module,Magento_Shipping
-"Are you sure you want to send a Shipment email to customer?","Are you sure you want to send a Shipment email to customer?",module,Magento_Shipping
-Print,Print,module,Magento_Shipping
-"the shipment email was sent","the shipment email was sent",module,Magento_Shipping
-"the shipment email is not sent","the shipment email is not sent",module,Magento_Shipping
-"Shipment #%1 | %3 (%2)","Shipment #%1 | %3 (%2)",module,Magento_Shipping
-"Create Shipping Label...","Create Shipping Label...",module,Magento_Shipping
-"Print Shipping Label","Print Shipping Label",module,Magento_Shipping
-"Show Packages","Show Packages",module,Magento_Shipping
-"About Your Shipment","About Your Shipment",module,Magento_Shipping
-"Order # %1","Order # %1",module,Magento_Shipping
-"Back to My Orders","Back to My Orders",module,Magento_Shipping
-"View Another Order","View Another Order",module,Magento_Shipping
-"Please enter a comment.","Please enter a comment.",module,Magento_Shipping
-"Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
-"Please specify a carrier.","Please specify a carrier.",module,Magento_Shipping
-"Please enter a tracking number.","Please enter a tracking number.",module,Magento_Shipping
-Shipments,Shipments,module,Magento_Shipping
-"We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number.",module,Magento_Shipping
-"Cannot add tracking number.","Cannot add tracking number.",module,Magento_Shipping
+"New Shipment for Order #%1","Nuevo Despacho para Pedido #%1",module,Magento_Shipping
+"Submit Shipment","Enviar Despacho",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Está intentando agregar una cantidad para algunos productos que no coincide con la cantidad que se despacho.",module,Magento_Shipping
+"Products should be added to package(s)","Los productos deben agregarse al paquete(s)",module,Magento_Shipping
+"The value that you entered is not valid.","El valor que ingresó no es válido.",module,Magento_Shipping
+"Add Tracking Number","Agregar Número de Seguimiento",module,Magento_Shipping
+"Custom Value","Valor Personalizado",module,Magento_Shipping
+Add,Agregar,module,Magento_Shipping
+"Send Tracking Information","Enviar Información de Seguimiento",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","¿Está seguro de que desea enviar un correo electrónico de despacho al cliente?",module,Magento_Shipping
+Print,Imprimir,module,Magento_Shipping
+"the shipment email was sent","el correo electrónico del despacho fue enviado",module,Magento_Shipping
+"the shipment email is not sent","el correo electrónico del despacho no se envía",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","Despacho #%1 | %3 (%2)",module,Magento_Shipping
+"Create Shipping Label...","Crear Etiqueta de Despacho...",module,Magento_Shipping
+"Print Shipping Label","Imprimir Etiqueta de Despacho",module,Magento_Shipping
+"Show Packages","Mostrar Paquetes",module,Magento_Shipping
+"About Your Shipment","Acerca de su Despacho",module,Magento_Shipping
+"Order # %1","Pedido # %1",module,Magento_Shipping
+"Back to My Orders","Volver a Mis Pedidos",module,Magento_Shipping
+"View Another Order","Ver Otros Pedidos",module,Magento_Shipping
+"Please enter a comment.","Por favor ingrese un comentario.",module,Magento_Shipping
+"Cannot add new comment.","No se puede agregar un nuevo comentario.",module,Magento_Shipping
+"Please specify a carrier.","Por favor especifique un transportista.",module,Magento_Shipping
+"Please enter a tracking number.","Por favor ingrese un número de rastreo.",module,Magento_Shipping
+Shipments,Despachos,module,Magento_Shipping
+"We can't initialize shipment for adding tracking number.","No podemos inicializar el despacho para agregar el número de seguimiento.",module,Magento_Shipping
+"Cannot add tracking number.","No se puede agregar el número de seguimiento.",module,Magento_Shipping
 "You created the shipping label.","You created the shipping label.",module,Magento_Shipping
 "An error occurred while creating shipping label.","An error occurred while creating shipping label.",module,Magento_Shipping
 "You sent the shipment.","You sent the shipment.",module,Magento_Shipping
@@ -5181,10 +5181,10 @@ kg,kg,module,Magento_Shipping
 "Delete Package","Delete Package",module,Magento_Shipping
 Explanation,Explanation,module,Magento_Shipping
 Carrier,Carrier,module,Magento_Shipping
-Title,Title,module,Magento_Shipping
+Title,Título,module,Magento_Shipping
 Number,Number,module,Magento_Shipping
 Action,Action,module,Magento_Shipping
-"Are you sure?","Are you sure?",module,Magento_Shipping
+"Are you sure?","¿Estás seguro?",module,Magento_Shipping
 "Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Magento_Shipping
 "Track Order","Track Order",module,Magento_Shipping
 "No shipping information available","No shipping information available",module,Magento_Shipping
@@ -6192,7 +6192,7 @@ Total:,Total:,module,Magento_Checkout
 "Shipping Method:","Método de Envío:",module,Magento_Checkout
 "Payment Method:","Método de Pago:",module,Magento_Checkout
 "Date & Time:","Fecha y Hora:",module,Magento_Checkout
-"Sign In","Registrarse",module,Magento_Checkout
+"Sign In","Iniciar Sesión",module,Magento_Checkout
 "Email Address","Correo",module,Magento_Checkout
 Password,Contraseña,module,Magento_Checkout
 "Forgot Your Password?","Olvidaste tu Contraseña?",module,Magento_Checkout
@@ -6203,13 +6203,13 @@ Cancel,Cancelar,module,Magento_Checkout
 "Estimated Total","Total Estimado",module,Magento_Checkout
 "You can create an account after checkout.","Puede crear una cuenta después de finalizar la compra.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Ya tienes una cuenta con nosotros. Iniciar sesión o continuar como invitado.",module,Magento_Checkout
-Login,Iniciar Sesión,module,Magento_Checkout
+Login,Ingresar,module,Magento_Checkout
 Close,Cerrar,module,Magento_Checkout
 of,de,module,Magento_Checkout
-"Item in Cart","Artículo en el Carro",module,Magento_Checkout
-"Items in Cart","Artículos en el Carro",module,Magento_Checkout
+"Item in Cart","Producto en el Carro",module,Magento_Checkout
+"Items in Cart","Productos en el Carro",module,Magento_Checkout
 "Go to Checkout","Ir a Pagar",module,Magento_Checkout
-"Recently added item(s)","Artículo(s) agregado recientemente",module,Magento_Checkout
+"Recently added item(s)","Producto(s) agregado(s) recientemente",module,Magento_Checkout
 "View and edit cart","Ver y editar carro",module,Magento_Checkout
 "See Details","Ver Detalles",module,Magento_Checkout
 "Options Details","Opciones de Detalle",module,Magento_Checkout
@@ -6219,7 +6219,7 @@ Remove,Quitar,module,Magento_Checkout
 "No Payment method available.","No hay Forma de Pago disponible.",module,Magento_Checkout
 "You can track your order status by creating an account.","Puede rastrear el estado de su pedido creando una cuenta.",module,Magento_Checkout
 "Place Order","Realizar Pedido",module,Magento_Checkout
-"Forgot an Item?","Olvidó un Artículo?",module,Magento_Checkout
+"Forgot an Item?","Olvidó un Producto?",module,Magento_Checkout
 "Edit Your Cart","Edita tu Carro",module,Magento_Checkout
 "Ship Here","Despachar Aquí",module,Magento_Checkout
 "Ship To:","Despacha a:",module,Magento_Checkout
@@ -6233,14 +6233,14 @@ edit,editar,module,Magento_Checkout
 Next,Siguiente,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Lo sentimos, no hay presupuestos disponibles para este pedido en este momento",module,Magento_Checkout
 "Order Summary","Resumen del Pedido",module,Magento_Checkout
-"View and Edit Cart","View and Edit Cart",module,Magento_Checkout
-"View Details","View Details",module,Magento_Checkout
-"Contact Form","Contact Form",module,Magento_Contact
+"View and Edit Cart","Ver y Editar Carro",module,Magento_Checkout
+"View Details","Ver Detalles",module,Magento_Checkout
+"Contact Form","Formulario de Contacto",module,Magento_Contact
 "Name: %name","Nombre: %name",module,Magento_Contact
 "Email: %email","Correo: %email",module,Magento_Contact
-"Phone Number: %telephone","Telefono: %telephone",module,Magento_Contact
+"Phone Number: %telephone","Teléfono: %telephone",module,Magento_Contact
 "Comment: %comment","Comentario: %comment",module,Magento_Contact
-"Welcome to %store_name","Welcome to %store_name",module,Magento_Customer
+"Welcome to %store_name","Bienvenido a %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Welcome to %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Customer
@@ -6783,7 +6783,7 @@ Title,Title,module,Magento_Authorizenet
 "Gateway URL","Gateway URL",module,Magento_Authorizenet
 "Transaction Details URL","Transaction Details URL",module,Magento_Authorizenet
 "Accepted Currency","Accepted Currency",module,Magento_Authorizenet
-Debug,Debug,module,Magento_Authorizenet
+Debug,Depurar,module,Magento_Authorizenet
 "Email Customer","Email Customer",module,Magento_Authorizenet
 "Merchant's Email","Merchant's Email",module,Magento_Authorizenet
 "Credit Card Types","Credit Card Types",module,Magento_Authorizenet
@@ -6827,8 +6827,8 @@ Advanced,Advanced,module,Magento_Backend
 "General Contact","General Contact",module,Magento_Backend
 "Sales Representative","Sales Representative",module,Magento_Backend
 "Customer Support","Customer Support",module,Magento_Backend
-Developer,Developer,module,Magento_Backend
-Debug,Debug,module,Magento_Backend
+Developer,Desarrollador,module,Magento_Backend
+Debug,Depurar,module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Enabled Template Path Hints for Storefront",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Enabled Template Path Hints for Admin",module,Magento_Backend
 "Add Block Names to Hints","Add Block Names to Hints",module,Magento_Backend
@@ -6997,7 +6997,7 @@ Environment,Environment,module,Magento_Braintree
 "Merchant Account ID","Merchant Account ID",module,Magento_Braintree
 "Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_Braintree
 "Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
-Debug,Debug,module,Magento_Braintree
+Debug,Depurar,module,Magento_Braintree
 "CVV Verification","CVV Verification",module,Magento_Braintree
 "Credit Card Types","Credit Card Types",module,Magento_Braintree
 "Sort Order","Sort Order",module,Magento_Braintree
@@ -7278,38 +7278,38 @@ Disable,Disable,module,Magento_Catalog
 "Update attributes","Update attributes",module,Magento_Catalog
 Overview,Overview,module,Magento_Catalog
 Details,Details,module,Magento_Catalog
-"Terms & Conditions","Terms & Conditions",module,Magento_CheckoutAgreements
-"Enable Terms and Conditions","Enable Terms and Conditions",module,Magento_CheckoutAgreements
-"Checkout Options","Checkout Options",module,Magento_Checkout
-"Enable Onepage Checkout","Enable Onepage Checkout",module,Magento_Checkout
-"Allow Guest Checkout","Allow Guest Checkout",module,Magento_Checkout
-"Display Billing Address On","Display Billing Address On",module,Magento_Checkout
-"Maximum Number of Items to Display in Order Summary","Maximum Number of Items to Display in Order Summary",module,Magento_Checkout
+"Terms & Conditions","Términos y Condiciones",module,Magento_CheckoutAgreements
+"Enable Terms and Conditions","Habilitar Términos y Condiciones",module,Magento_CheckoutAgreements
+"Checkout Options","Opciones de Pago",module,Magento_Checkout
+"Enable Onepage Checkout","Habilitar el Pago en Onepage",module,Magento_Checkout
+"Allow Guest Checkout","Habilitar el Pago de Invitados",module,Magento_Checkout
+"Display Billing Address On","Mostrar Dirección de Facturación Activada",module,Magento_Checkout
+"Maximum Number of Items to Display in Order Summary","Número Máximo de Productos para Mostrar en Resumen de Pedido",module,Magento_Checkout
 "Quote Lifetime (days)","Quote Lifetime (days)",module,Magento_Checkout
-"After Adding a Product Redirect to Shopping Cart","After Adding a Product Redirect to Shopping Cart",module,Magento_Checkout
-"Number of Items to Display Pager","Number of Items to Display Pager",module,Magento_Checkout
-"My Cart Link","My Cart Link",module,Magento_Checkout
-"Display Cart Summary","Display Cart Summary",module,Magento_Checkout
-"Shopping Cart Sidebar","Shopping Cart Sidebar",module,Magento_Checkout
-"Display Shopping Cart Sidebar","Display Shopping Cart Sidebar",module,Magento_Checkout
-"Number of Items to Display Scrollbar","Number of Items to Display Scrollbar",module,Magento_Checkout
-"Maximum Number of Items to Display","Maximum Number of Items to Display",module,Magento_Checkout
-"Payment Failed Emails","Payment Failed Emails",module,Magento_Checkout
-"Payment Failed Email Sender","Payment Failed Email Sender",module,Magento_Checkout
-"Payment Failed Email Receiver","Payment Failed Email Receiver",module,Magento_Checkout
-"Payment Failed Template","Payment Failed Template",module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart","Después de Agregar un Producto, Redirigir al Carro de Compras",module,Magento_Checkout
+"Number of Items to Display Pager","Número de Productos para Mostrar Paginados",module,Magento_Checkout
+"My Cart Link","Mi Enlace de Carro",module,Magento_Checkout
+"Display Cart Summary","Mostrar Resumen de Carro",module,Magento_Checkout
+"Shopping Cart Sidebar","Barra Lateral del Carro de Compras",module,Magento_Checkout
+"Display Shopping Cart Sidebar","Mostrar Barra Lateral del Carro de Compras",module,Magento_Checkout
+"Number of Items to Display Scrollbar","Número de Productos para Mostrar en Barra de Desplazamiento",module,Magento_Checkout
+"Maximum Number of Items to Display","Número máximo de Productos para Mostrar",module,Magento_Checkout
+"Payment Failed Emails","Errores de Pago Correo",module,Magento_Checkout
+"Payment Failed Email Sender","Errores de Pago Correo Remitente",module,Magento_Checkout
+"Payment Failed Email Receiver","Errores de Pago Correo Recepto",module,Magento_Checkout
+"Payment Failed Template","Errores de Pago Modelo",module,Magento_Checkout
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Checkout
 "Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
 "Separate by "","".","Separate by "","".",module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
-Summary,Summary,module,Magento_Checkout
-"Order Total","Order Total",module,Magento_Checkout
-"We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_Checkout
-Payment,Payment,module,Magento_Checkout
-"Not yet calculated","Not yet calculated",module,Magento_Checkout
-"We received your order!","We received your order!",module,Magento_Checkout
-"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
-"Media Gallery","Media Gallery",module,Magento_Cms
+Summary,Resumen,module,Magento_Checkout
+"Order Total","Total Pedido",module,Magento_Checkout
+"We'll send your order confirmation here.","Le enviaremos la confirmación de su pedido aquí.",module,Magento_Checkout
+Payment,Pago,module,Magento_Checkout
+"Not yet calculated","Aún no calculado",module,Magento_Checkout
+"We received your order!","Recibimos su orden!",module,Magento_Checkout
+"Thank you for your purchase!","Gracias por su compra!",module,Magento_Checkout
+"Media Gallery","Galería de Medios",module,Magento_Cms
 "Content Management","Content Management",module,Magento_Cms
 "CMS Home Page","CMS Home Page",module,Magento_Cms
 "CMS No Route Page","CMS No Route Page",module,Magento_Cms
@@ -7576,7 +7576,7 @@ Size,Size,module,Magento_Dhl
 "Ship to Specific Countries","Ship to Specific Countries",module,Magento_Dhl
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
 "Sort Order","Sort Order",module,Magento_Dhl
-Debug,Debug,module,Magento_Dhl
+Debug,Depurar,module,Magento_Dhl
 "Currency Setup","Currency Setup",module,Magento_Directory
 "Currency Options","Currency Options",module,Magento_Directory
 "Base Currency","Base Currency",module,Magento_Directory
@@ -7667,7 +7667,7 @@ Dropoff,Dropoff,module,Magento_Fedex
 "Displayed Error Message","Displayed Error Message",module,Magento_Fedex
 "Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Fedex
 "Ship to Specific Countries","Ship to Specific Countries",module,Magento_Fedex
-Debug,Debug,module,Magento_Fedex
+Debug,Depurar,module,Magento_Fedex
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Fedex
 "Sort Order","Sort Order",module,Magento_Fedex
 "Allow Gift Messages on Order Level","Allow Gift Messages on Order Level",module,Magento_GiftMessage
@@ -8404,7 +8404,7 @@ CSV,CSV,module,Magento_Search
 "Excel XML","Excel XML",module,Magento_Search
 ID,ID,module,Magento_Search
 Hits,Hits,module,Magento_Search
-"Are you sure?","Are you sure?",module,Magento_Search
+"Are you sure?","¿Estás seguro?",module,Magento_Search
 "Suggested Terms","Suggested Terms",module,Magento_Search
 yes,yes,module,Magento_Search
 no,no,module,Magento_Search
@@ -8633,7 +8633,7 @@ Title,Title,module,Magento_Ups
 "Displayed Error Message","Displayed Error Message",module,Magento_Ups
 Mode,Mode,module,Magento_Ups
 "This enables or disables SSL verification of the Magento server by UPS.","This enables or disables SSL verification of the Magento server by UPS.",module,Magento_Ups
-Debug,Debug,module,Magento_Ups
+Debug,Depurar,module,Magento_Ups
 Action,Action,module,Magento_UrlRewrite
 Edit,Edit,module,Magento_UrlRewrite
 "All Users","All Users",module,Magento_User
@@ -8679,7 +8679,7 @@ Machinable,Machinable,module,Magento_Usps
 "Displayed Error Message","Displayed Error Message",module,Magento_Usps
 "Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Usps
 "Ship to Specific Countries","Ship to Specific Countries",module,Magento_Usps
-Debug,Debug,module,Magento_Usps
+Debug,Depurar,module,Magento_Usps
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Usps
 "Sort Order","Sort Order",module,Magento_Usps
 "Variable ID","Variable ID",module,Magento_Variable
@@ -8719,13 +8719,13 @@ Product,Product,module,Magento_Widget
 "Select Product...","Select Product...",module,Magento_Widget
 Conditions,Conditions,module,Magento_Widget
 "Widget ID","Widget ID",module,Magento_Widget
-"Wish List Section","Wish List Section",module,Magento_Wishlist
-"Share Options","Share Options",module,Magento_Wishlist
-"Email Sender","Email Sender",module,Magento_Wishlist
-"Email Template","Email Template",module,Magento_Wishlist
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Wishlist
-"Max Emails Allowed to be Sent","Max Emails Allowed to be Sent",module,Magento_Wishlist
-"Email Text Length Limit","Email Text Length Limit",module,Magento_Wishlist
+"Wish List Section","Sección de Lista de Deseos",module,Magento_Wishlist
+"Share Options","Compartir Opciones",module,Magento_Wishlist
+"Email Sender","Remitente de Correo",module,Magento_Wishlist
+"Email Template","Plantilla de Correo",module,Magento_Wishlist
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo elegida en función del tema de respaldo cuando la opcion ""Predeterminada"" esta seleccionada.",module,Magento_Wishlist
+"Max Emails Allowed to be Sent","Máx. Correos Permitidos para ser Enviados",module,Magento_Wishlist
+"Email Text Length Limit","Límite de Texto del Correo Electrónico",module,Magento_Wishlist
 "General Options","Opciones Generales",module,Magento_Wishlist
 Enabled,Habilitado,module,Magento_Wishlist
 "My Wish List Link","Mi Lista de Deseos Enlace",module,Magento_Wishlist
@@ -8735,7 +8735,7 @@ Enabled,Habilitado,module,Magento_Wishlist
 "Product Name","Nombre del Producto",module,Magento_Wishlist
 "User Description","Descripción de Usuario",module,Magento_Wishlist
 Quantity,Cantidad,module,Magento_Wishlist
-"Add Locale","Agregar configuración Regional",module,Magento_Wishlist
+"Add Locale","Agregar Configuración Regional",module,Magento_Wishlist
 "Add Date","Agregar Fecha",module,Magento_Wishlist
 "Days in Wish List","Días en la Lista de Deseos",module,Magento_Wishlist
 Action,Acción,module,Magento_Wishlist
