@@ -4115,35 +4115,35 @@ Back,Atras,module,Magento_Review
 "My Recent Reviews","Mis Comentarios Recientes",module,Magento_Review
 "View All","Ver Todo",module,Magento_Review
 "Average Customer Rating:","Calificación Promedio del Cliente:",module,Magento_Review
-"Your Review","Your Review",module,Magento_Review
-"Submitted on %1","Submitted on %1",module,Magento_Review
-"Back to My Reviews","Back to My Reviews",module,Magento_Review
-"Ratings Review Summary","Ratings Review Summary",module,Magento_Review
-"Be the first to review this product","Be the first to review this product",module,Magento_Review
-"Write Your Own Review","Write Your Own Review",module,Magento_Review
-"* Required Fields","* Required Fields",module,Magento_Review
-"You're reviewing:","You're reviewing:",module,Magento_Review
-"Your Rating","Your Rating",module,Magento_Review
+"Your Review","Tu Reseña",module,Magento_Review
+"Submitted on %1","Enviado en %1",module,Magento_Review
+"Back to My Reviews","Volver a Mis Reseñas",module,Magento_Review
+"Ratings Review Summary","Resumen de Calificaciones",module,Magento_Review
+"Be the first to review this product","Sé el primero en revisar este producto",module,Magento_Review
+"Write Your Own Review","Escriba su Propia Opinión",module,Magento_Review
+"* Required Fields","* Campos Requeridos",module,Magento_Review
+"You're reviewing:","Usted está revisando:",module,Magento_Review
+"Your Rating","Su Calificación",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
-Summary,Summary,module,Magento_Review
-"Submit Review","Submit Review",module,Magento_Review
+Summary,Resumen,module,Magento_Review
+"Submit Review","Enviar Revisión",module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
-"Add Your Review","Add Your Review",module,Magento_Review
-"%1 Review(s)","%1 Review(s)",module,Magento_Review
-"Review by","Review by",module,Magento_Review
-"Posted on","Posted on",module,Magento_Review
-"Back to Main Product Info","Back to Main Product Info",module,Magento_Review
-"Average Customer Rating","Average Customer Rating",module,Magento_Review
+"Add Your Review","Añada Su Reseña",module,Magento_Review
+"%1 Review(s)","%1 Reseña(s)",module,Magento_Review
+"Review by","Revisión por",module,Magento_Review
+"Posted on","Publicado el",module,Magento_Review
+"Back to Main Product Info","Volver a Información Principal del Producto",module,Magento_Review
+"Average Customer Rating","Promedio Reseña de Cliente",module,Magento_Review
 "Product Rating:","Product Rating:",module,Magento_Review
 "Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
 "Back to Product Reviews","Back to Product Reviews",module,Magento_Review
-"Page not found.","Page not found.",module,Magento_Rss
+"Page not found.","Página no encontrada.",module,Magento_Rss
 Feed,Feed,module,Magento_Rss
-"Miscellaneous Feeds","Miscellaneous Feeds",module,Magento_Rss
-"Get Feed","Get Feed",module,Magento_Rss
-Apply,Apply,module,Magento_Rule
-"Please choose a valid discount amount.","Please choose a valid discount amount.",module,Magento_Rule
-"End Date must follow Start Date.","End Date must follow Start Date.",module,Magento_Rule
+"Miscellaneous Feeds","Feeds Misceláneos",module,Magento_Rss
+"Get Feed","Obtener Feed",module,Magento_Rss
+Apply,Aplicar,module,Magento_Rule
+"Please choose a valid discount amount.","Por favor elija un monto de descuento válido.",module,Magento_Rule
+"End Date must follow Start Date.","La Fecha Final debe seguir la Fecha de Inicio.",module,Magento_Rule
 "Please specify a website.","Please specify a website.",module,Magento_Rule
 "Please specify Customer Groups.","Please specify Customer Groups.",module,Magento_Rule
 "Please specify valid %1.","Please specify valid %1.",module,Magento_Rule
