@@ -1769,11 +1769,11 @@ Cancel,Cancel,module,Magento_ConfigurableProduct
 "* Required Fields","* Required Fields",module,Magento_Contact
 "Write Us","Write Us",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
-Name,Name,module,Magento_Contact
-Email,Email,module,Magento_Contact
-"Phone Number","Phone Number",module,Magento_Contact
-"What’s on your mind?","What’s on your mind?",module,Magento_Contact
-Submit,Submit,module,Magento_Contact
+Name,Nombre,module,Magento_Contact
+Email,Correo,module,Magento_Contact
+"Phone Number","Telefono",module,Magento_Contact
+"What’s on your mind?","¿Qué tienes en mente?",module,Magento_Contact
+Submit,Enviar,module,Magento_Contact
 "Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
 "Invalid cookie path","Invalid cookie path",module,Magento_Cookie
@@ -2148,20 +2148,20 @@ or,o,module,Magento_Customer
 "Delete Address","Delete Address",module,Magento_Customer
 "You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
 "* Required Fields","* Required Fields",module,Magento_Customer
-Company,Company,module,Magento_Customer
-"Phone Number","Phone Number",module,Magento_Customer
+Company,Empresa,module,Magento_Customer
+"Phone Number","Teléfono",module,Magento_Customer
 Fax,Fax,module,Magento_Customer
-Address,Address,module,Magento_Customer
-"Street Address","Street Address",module,Magento_Customer
-"Street Address %1","Street Address %1",module,Magento_Customer
-"VAT Number","VAT Number",module,Magento_Customer
-City,City,module,Magento_Customer
-State/Province,State/Province,module,Magento_Customer
-"Please select a region, state or province.","Please select a region, state or province.",module,Magento_Customer
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Customer
-Country,Country,module,Magento_Customer
-"It's a default billing address.","It's a default billing address.",module,Magento_Customer
-"Use as my default billing address","Use as my default billing address",module,Magento_Customer
+Address,Dirección,module,Magento_Customer
+"Street Address","Dirección",module,Magento_Customer
+"Street Address %1","Dirección %1",module,Magento_Customer
+"VAT Number","R.U.T.",module,Magento_Customer
+City,Ciudad,module,Magento_Customer
+State/Province,"Estado/Provincia",module,Magento_Customer
+"Please select a region, state or province.","Por favor seleccione una región, estado o provincia.",module,Magento_Customer
+"Zip/Postal Code","Código Postal",module,Magento_Customer
+Country,Pais,module,Magento_Customer
+"It's a default billing address.","Esta es una dirección de facturación predeterminada.",module,Magento_Customer
+"Use as my default billing address","Usar como mi dirección de facturación predeterminada",module,Magento_Customer
 "It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
 "Use as my default shipping address","Use as my default shipping address",module,Magento_Customer
 "Save Address","Save Address",module,Magento_Customer
@@ -2326,34 +2326,34 @@ Unlimited,Unlimited,module,Magento_Downloadable
 "There is no downloadable sample with provided ID.","There is no downloadable sample with provided ID.",module,Magento_Downloadable
 "Provided downloadable sample is not related to given product.","Provided downloadable sample is not related to given product.",module,Magento_Downloadable
 "Cannot delete sample with id %1","Cannot delete sample with id %1",module,Magento_Downloadable
-Yes,Yes,module,Magento_Downloadable
+Yes,Si,module,Magento_Downloadable
 No,No,module,Magento_Downloadable
-"Use config","Use config",module,Magento_Downloadable
-"Upload File","Upload File",module,Magento_Downloadable
+"Use config","Usar configuración",module,Magento_Downloadable
+"Upload File","Subir Archivo",module,Magento_Downloadable
 URL,URL,module,Magento_Downloadable
-attachment,attachment,module,Magento_Downloadable
-inline,inline,module,Magento_Downloadable
-Pending,Pending,module,Magento_Downloadable
-Invoiced,Invoiced,module,Magento_Downloadable
-"To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
-"Is this downloadable Product?","Is this downloadable Product?",module,Magento_Downloadable
-Links,Links,module,Magento_Downloadable
-Title,Title,module,Magento_Downloadable
-"Links can be purchased separately","Links can be purchased separately",module,Magento_Downloadable
+attachment,adjunto,module,Magento_Downloadable
+inline,"en linea",module,Magento_Downloadable
+Pending,Pendiente,module,Magento_Downloadable
+Invoiced,Facturado,module,Magento_Downloadable
+"To enable the option set the weight to no","Para habilitar la opción, establezca el peso a no",module,Magento_Downloadable
+"Is this downloadable Product?","¿Este producto descargable?",module,Magento_Downloadable
+Links,Enlace,module,Magento_Downloadable
+Title,Título,module,Magento_Downloadable
+"Links can be purchased separately","Los enlaces se pueden comprar por separado",module,Magento_Downloadable
 "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
-"Add Link","Add Link",module,Magento_Downloadable
-Price,Price,module,Magento_Downloadable
-File,File,module,Magento_Downloadable
-Sample,Sample,module,Magento_Downloadable
-Shareable,Shareable,module,Magento_Downloadable
-"Max. Downloads","Max. Downloads",module,Magento_Downloadable
-Samples,Samples,module,Magento_Downloadable
-"Use Default Value","Use Default Value",module,Magento_Downloadable
+"Add Link","Agregar Enlace",module,Magento_Downloadable
+Price,Precio,module,Magento_Downloadable
+File,Archivo,module,Magento_Downloadable
+Sample,Ejemplo,module,Magento_Downloadable
+Shareable,Compartible,module,Magento_Downloadable
+"Max. Downloads","Max. Descargas",module,Magento_Downloadable
+Samples,Ejemplos,module,Magento_Downloadable
+"Use Default Value","Usar Valor Predeterminado",module,Magento_Downloadable
 sample,sample,module,Magento_Downloadable
 "Add links to your product files here.","Add links to your product files here.",module,Magento_Downloadable
 "[STORE VIEW]","[STORE VIEW]",module,Magento_Downloadable
 [GLOBAL],[GLOBAL],module,Magento_Downloadable
-"Sort Order","Sort Order",module,Magento_Downloadable
+"Sort Order","Orden de Clasificación",module,Magento_Downloadable
 "Attach File or Enter Link","Attach File or Enter Link",module,Magento_Downloadable
 "Sort Variations","Sort Variations",module,Magento_Downloadable
 "Browse Files...","Browse Files...",module,Magento_Downloadable
@@ -2361,40 +2361,40 @@ Delete,Delete,module,Magento_Downloadable
 "Add product preview files here.","Add product preview files here.",module,Magento_Downloadable
 SKU,SKU,module,Magento_Downloadable
 U,U,module,Magento_Downloadable
-"Select all","Select all",module,Magento_Downloadable
-"Unselect all","Unselect all",module,Magento_Downloadable
-Availability,Availability,module,Magento_Downloadable
-"In stock","In stock",module,Magento_Downloadable
-"Out of stock","Out of stock",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
-"Downloadable Products","Downloadable Products",module,Magento_Downloadable
-"Order #","Order #",module,Magento_Downloadable
-Date,Date,module,Magento_Downloadable
-Status,Status,module,Magento_Downloadable
+"Select all","Seleccionar todo",module,Magento_Downloadable
+"Unselect all","Desmarcar todo",module,Magento_Downloadable
+Availability,Disponibilidad,module,Magento_Downloadable
+"In stock","Con stock",module,Magento_Downloadable
+"Out of stock","Sin stock",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Ir a <a href=""%1"">Mis Productos Descargables</a>",module,Magento_Downloadable
+"Downloadable Products","Productos Descargables",module,Magento_Downloadable
+"Order #","Orden #",module,Magento_Downloadable
+Date,Fecha,module,Magento_Downloadable
+Status,Estado,module,Magento_Downloadable
 "Remaining Downloads","Remaining Downloads",module,Magento_Downloadable
-"View Order","View Order",module,Magento_Downloadable
-"Start Download","Start Download",module,Magento_Downloadable
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet.",module,Magento_Downloadable
-Back,Back,module,Magento_Downloadable
-download,download,module,Magento_Downloadable
-"Gift Message","Gift Message",module,Magento_Downloadable
-From:,From:,module,Magento_Downloadable
-To:,To:,module,Magento_Downloadable
-Message:,Message:,module,Magento_Downloadable
-"Product Name","Product Name",module,Magento_Downloadable
-Qty,Qty,module,Magento_Downloadable
+"View Order","Ver Orden",module,Magento_Downloadable
+"Start Download","Inicia Descarga",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Aún no ha comprado ningún producto descargable.",module,Magento_Downloadable
+Back,Atras,module,Magento_Downloadable
+download,descargar,module,Magento_Downloadable
+"Gift Message","Mensaje del Regalo",module,Magento_Downloadable
+From:,De:,module,Magento_Downloadable
+To:,A:,module,Magento_Downloadable
+Message:,Mensaje:,module,Magento_Downloadable
+"Product Name","Nombre de Producto",module,Magento_Downloadable
+Qty,Cantidad,module,Magento_Downloadable
 Subtotal,Subtotal,module,Magento_Downloadable
-"Discount Amount","Discount Amount",module,Magento_Downloadable
-"Row Total","Row Total",module,Magento_Downloadable
-"Qty Invoiced","Qty Invoiced",module,Magento_Downloadable
-Ordered,Ordered,module,Magento_Downloadable
-Shipped,Shipped,module,Magento_Downloadable
-Canceled,Canceled,module,Magento_Downloadable
-Refunded,Refunded,module,Magento_Downloadable
-"Attribute Properties","Attribute Properties",module,Magento_Eav
-"Default Label","Default Label",module,Magento_Eav
-"Default label","Default label",module,Magento_Eav
-"Attribute Code","Attribute Code",module,Magento_Eav
+"Discount Amount","Importe de Descuento",module,Magento_Downloadable
+"Row Total","Total de Fila",module,Magento_Downloadable
+"Qty Invoiced","Cantidad Facturada",module,Magento_Downloadable
+Ordered,Ordenado,module,Magento_Downloadable
+Shipped,Enviado,module,Magento_Downloadable
+Canceled,Cancelado,module,Magento_Downloadable
+Refunded,Reintegrado,module,Magento_Downloadable
+"Attribute Properties","Propiedades de Atributo",module,Magento_Eav
+"Default Label","Etiqueta Predeterminada",module,Magento_Eav
+"Default label","Etiqueta predeterminada",module,Magento_Eav
+"Attribute Code","Código de Atributo",module,Magento_Eav
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Eav
 "Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Eav
 "Values Required","Values Required",module,Magento_Eav
@@ -2403,11 +2403,11 @@ Refunded,Refunded,module,Magento_Downloadable
 "Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Eav
 "Not shared with other products.","Not shared with other products.",module,Magento_Eav
 "Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Eav
-Required,Required,module,Magento_Eav
-Yes,Yes,module,Magento_Eav
+Required,Necesario,module,Magento_Eav
+Yes,Si,module,Magento_Eav
 No,No,module,Magento_Eav
-System,System,module,Magento_Eav
-None,None,module,Magento_Eav
+System,Sistema,module,Magento_Eav
+None,Ninguno,module,Magento_Eav
 "Decimal Number","Decimal Number",module,Magento_Eav
 "Integer Number","Integer Number",module,Magento_Eav
 Email,Email,module,Magento_Eav
@@ -2416,8 +2416,8 @@ Letters,Letters,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)",module,Magento_Eav
 "Text Field","Text Field",module,Magento_Eav
 "Text Area","Text Area",module,Magento_Eav
-Date,Date,module,Magento_Eav
-Yes/No,Yes/No,module,Magento_Eav
+Date,Fecha,module,Magento_Eav
+Yes/No,Si/No,module,Magento_Eav
 "Multiple Select","Multiple Select",module,Magento_Eav
 Dropdown,Dropdown,module,Magento_Eav
 "Input type ""%value%"" not found in the input types list.","Input type ""%value%"" not found in the input types list.",module,Magento_Eav
@@ -4917,15 +4917,15 @@ Date,Date,module,Magento_Sales
 "Ship To","Ship To",module,Magento_Sales
 Actions,Actions,module,Magento_Sales
 "View Order","View Order",module,Magento_Sales
-"You have placed no orders.","You have placed no orders.",module,Magento_Sales
-"No shipping information available","No shipping information available",module,Magento_Sales
-"Print Order","Print Order",module,Magento_Sales
-"Print All Invoices","Print All Invoices",module,Magento_Sales
-"Invoice #","Invoice #",module,Magento_Sales
-"Print Invoice","Print Invoice",module,Magento_Sales
-"Qty Invoiced","Qty Invoiced",module,Magento_Sales
-Close,Close,module,Magento_Sales
-"About Your Order","About Your Order",module,Magento_Sales
+"You have placed no orders.","No has realizado ningún pedido.",module,Magento_Sales
+"No shipping information available","No hay información de despacho disponible",module,Magento_Sales
+"Print Order","Imprimir Orden",module,Magento_Sales
+"Print All Invoices","Imprimir Todas las Facturas",module,Magento_Sales
+"Invoice #","Factura #",module,Magento_Sales
+"Print Invoice","Imprimir Factura",module,Magento_Sales
+"Qty Invoiced","Cantidad Facturada",module,Magento_Sales
+Close,Cerrado,module,Magento_Sales
+"About Your Order","Acerca de Su Orden",module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1",module,Magento_Sales
 "Refund #%1","Refund #%1",module,Magento_Sales
 "Shipment #%1","Shipment #%1",module,Magento_Sales
@@ -6133,7 +6133,7 @@ error-message,error-message,module,Magento_Wishlist
 LocalizedException,LocalizedException,module,Magento_Wishlist
 "Product Exception.","Product Exception.",module,Magento_Wishlist
 "Localized Exception.","Localized Exception.",module,Magento_Wishlist
-"Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Wishlist
+"Are you sure you want to remove this item?","¿Seguro que quieres quitar este producto?",module,Magento_Wishlist
 "Share Wish List","Compartir Lista de Deseos",module,Magento_Wishlist
 "Add All to Cart","Agregar Todo al Carro",module,Magento_Wishlist
 "Update Wish List","Actualizar Lista de Deseos",module,Magento_Wishlist
@@ -6578,11 +6578,11 @@ OK,OK,module,Magento_Catalog
 Adding...,Adding...,module,Magento_Catalog
 Added,Added,module,Magento_Catalog
 "unselect all","unselect all",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
-"Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
-Close,Close,module,Magento_CheckoutAgreements
+"Are you sure you want to remove this item from your Compare Products list?","¿Seguro que quieres eliminar este producto de la lista Comparar Productos?",module,Magento_Catalog
+"Are you sure you want to remove all items from your Compare Products list?","¿Seguro que quieres eliminar todos los productos de la lista Comparar Productos?",module,Magento_Catalog
+Close,Cerrado,module,Magento_CheckoutAgreements
 "Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
-" Example: "," Example: ",module,Magento_Checkout
+" Example: "," Ejemplo: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
 "Review & Payments","Review & Payments",module,Magento_Checkout
@@ -7541,7 +7541,7 @@ Type,Type,module,Magento_Customer
 "Send Welcome Email From","Send Welcome Email From",module,Magento_Customer
 Addresses,Addresses,module,Magento_Customer
 "Are you sure you want to delete this item?","Are you sure you want to delete this item?",module,Magento_Customer
-"Account Dashboard","Tablero - Cuenta",module,Magento_Customer
+"Account Dashboard","Tablero",module,Magento_Customer
 "Edit Account Information","Edit Account Information",module,Magento_Customer
 "Password forgotten","Password forgotten",module,Magento_Customer
 "My Dashboard","Mi Tablero",module,Magento_Customer
