@@ -1309,11 +1309,11 @@ Compare,Comparar,module,Magento_Catalog
 "Clear All","Limpiar Todo",module,Magento_Catalog
 Prev,Anterior,module,Magento_Catalog
 Next,Siguiente,module,Magento_Catalog
-"We can't find products matching the selection.","We can't find products matching the selection.",module,Magento_Catalog
-"Learn More","Learn More",module,Magento_Catalog
-"Add to Compare","Add to Compare",module,Magento_Catalog
-"We found other products you might like!","We found other products you might like!",module,Magento_Catalog
-"More Choices:","More Choices:",module,Magento_Catalog
+"We can't find products matching the selection.","No podemos encontrar productos que coincidan con la selección.",module,Magento_Catalog
+"Learn More","Aprende Más",module,Magento_Catalog
+"Add to Compare","Agregar a Comparar",module,Magento_Catalog
+"We found other products you might like!","¡Encontramos otros productos que te pueden gustar!",module,Magento_Catalog
+"More Choices:","Más Elecciones:",module,Magento_Catalog
 "Check items to add to the cart or","Check items to add to the cart or",module,Magento_Catalog
 "select all","select all",module,Magento_Catalog
 "Items %1-%2 of %3","Items %1-%2 of %3",module,Magento_Catalog
@@ -1451,7 +1451,7 @@ Subtotal,Subtotal,module,Magento_Checkout
 "Edit item parameters","Edit item parameters",module,Magento_Checkout
 Edit,Edit,module,Magento_Checkout
 "Remove item","Remove item",module,Magento_Checkout
-"You have no items in your shopping cart.","You have no items in your shopping cart.",module,Magento_Checkout
+"You have no items in your shopping cart.","No tiene productos en su carro de compras.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Checkout
 "Estimate Tax","Estimate Tax",module,Magento_Checkout
 "Estimate Shipping and Tax","Estimate Shipping and Tax",module,Magento_Checkout
@@ -1823,7 +1823,7 @@ System,System,module,Magento_CurrencySymbol
 "Invalid value in Store column (store does not exists?)","Invalid value in Store column (store does not exists?)",module,Magento_CustomerImportExport
 "We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Please enter a password with a valid length.",module,Magento_CustomerImportExport
-"Sign Out","Sign Out",module,Magento_Customer
+"Sign Out","Desconectarse",module,Magento_Customer
 "Sign In","Registrarse",module,Magento_Customer
 "You subscribe to our newsletter.","Usted se suscribe a nuestro boletín de noticias.",module,Magento_Customer
 "You don't subscribe to our newsletter.","Usted no se suscribe a nuestro boletín de noticias.",module,Magento_Customer
