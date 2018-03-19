@@ -1303,12 +1303,12 @@ Role,Role,module,Magento_Catalog
 "In stock","In stock",module,Magento_Catalog
 "Out of stock","Out of stock",module,Magento_Catalog
 "Add to Wish List","Add to Wish List",module,Magento_Catalog
-"You have no items to compare.","You have no items to compare.",module,Magento_Catalog
-"Remove This Item","Remove This Item",module,Magento_Catalog
-Compare,Compare,module,Magento_Catalog
-"Clear All","Clear All",module,Magento_Catalog
-Prev,Prev,module,Magento_Catalog
-Next,Next,module,Magento_Catalog
+"You have no items to compare.","No tienes articulos para comparar.",module,Magento_Catalog
+"Remove This Item","Quitar este Articulo",module,Magento_Catalog
+Compare,Comparar,module,Magento_Catalog
+"Clear All","Limpiar Todo",module,Magento_Catalog
+Prev,Anterior,module,Magento_Catalog
+Next,Siguiente,module,Magento_Catalog
 "We can't find products matching the selection.","We can't find products matching the selection.",module,Magento_Catalog
 "Learn More","Learn More",module,Magento_Catalog
 "Add to Compare","Add to Compare",module,Magento_Catalog
@@ -1321,33 +1321,33 @@ Next,Next,module,Magento_Catalog
 "%1 Items","%1 Items",module,Magento_Catalog
 Show,Show,module,Magento_Catalog
 "per page","per page",module,Magento_Catalog
-"Sort By","Sort By",module,Magento_Catalog
-"Set Ascending Direction","Set Ascending Direction",module,Magento_Catalog
-"Set Descending Direction","Set Descending Direction",module,Magento_Catalog
-"View as","View as",module,Magento_Catalog
-none,none,module,Magento_Catalog
-"More Information","More Information",module,Magento_Catalog
-Loading...,Loading...,module,Magento_Catalog
-"* Required Fields","* Required Fields",module,Magento_Catalog
-Availability,Availability,module,Magento_Catalog
-"Terms and Conditions","Terms and Conditions",module,Magento_CheckoutAgreements
-"Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
-"Save Condition","Save Condition",module,Magento_CheckoutAgreements
-"Delete Condition","Delete Condition",module,Magento_CheckoutAgreements
+"Sort By","Ordenar Por",module,Magento_Catalog
+"Set Ascending Direction","Establece Dirección Ascendente",module,Magento_Catalog
+"Set Descending Direction","Establece Dirección Descendente",module,Magento_Catalog
+"View as","Ver como",module,Magento_Catalog
+none,ninguno,module,Magento_Catalog
+"More Information","Más Información",module,Magento_Catalog
+Loading...,Cargando...,module,Magento_Catalog
+"* Required Fields","* Campos Requeridos",module,Magento_Catalog
+Availability,Disponibilidad,module,Magento_Catalog
+"Terms and Conditions","Términos y Condiciones",module,Magento_CheckoutAgreements
+"Add New Condition","Agregar Nueva Condición",module,Magento_CheckoutAgreements
+"Save Condition","Guardar Condición",module,Magento_CheckoutAgreements
+"Delete Condition","Quitar Condición",module,Magento_CheckoutAgreements
 "Edit Terms and Conditions","Edit Terms and Conditions",module,Magento_CheckoutAgreements
-"New Terms and Conditions","New Terms and Conditions",module,Magento_CheckoutAgreements
-"Terms and Conditions Information","Terms and Conditions Information",module,Magento_CheckoutAgreements
-"Condition Name","Condition Name",module,Magento_CheckoutAgreements
-Status,Status,module,Magento_CheckoutAgreements
-Enabled,Enabled,module,Magento_CheckoutAgreements
-Disabled,Disabled,module,Magento_CheckoutAgreements
-"Show Content as","Show Content as",module,Magento_CheckoutAgreements
-Text,Text,module,Magento_CheckoutAgreements
+"New Terms and Conditions","Nuevos Términos y Condiciones",module,Magento_CheckoutAgreements
+"Terms and Conditions Information","Información de Términos y Condiciones",module,Magento_CheckoutAgreements
+"Condition Name","Nombre de Condición",module,Magento_CheckoutAgreements
+Status,Estado,module,Magento_CheckoutAgreements
+Enabled,Habilitado,module,Magento_CheckoutAgreements
+Disabled,Deshabilitado,module,Magento_CheckoutAgreements
+"Show Content as","Mostrar Contenido como",module,Magento_CheckoutAgreements
+Text,Texto,module,Magento_CheckoutAgreements
 HTML,HTML,module,Magento_CheckoutAgreements
-Applied,Applied,module,Magento_CheckoutAgreements
-"Store View","Store View",module,Magento_CheckoutAgreements
-"Checkbox Text","Checkbox Text",module,Magento_CheckoutAgreements
-Content,Content,module,Magento_CheckoutAgreements
+Applied,Aplicado,module,Magento_CheckoutAgreements
+"Store View","Vista de Tienda",module,Magento_CheckoutAgreements
+"Checkbox Text","Checkbox de Texto",module,Magento_CheckoutAgreements
+Content,Contenido,module,Magento_CheckoutAgreements
 "Content Height (css)","Content Height (css)",module,Magento_CheckoutAgreements
 "Content Height","Content Height",module,Magento_CheckoutAgreements
 ID,ID,module,Magento_CheckoutAgreements
@@ -2290,8 +2290,8 @@ Error,Error,module,Magento_DownloadableImportExport
 "All Files","All Files",module,Magento_Downloadable
 Unlimited,Unlimited,module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
-"We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
+"My Downloadable Products","Mis Productos Descargables",module,Magento_Downloadable
+"We can't find the link you requested.","No podemos encontrar el enlace que solicitó.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
 "The link has expired.","The link has expired.",module,Magento_Downloadable
@@ -3185,7 +3185,7 @@ Subscribers,Subscribers,module,Magento_Newsletter
 "Create Newsletter Template","Create Newsletter Template",module,Magento_Newsletter
 "The newsletter template has been saved.","The newsletter template has been saved.",module,Magento_Newsletter
 "Something went wrong while saving this template.","Something went wrong while saving this template.",module,Magento_Newsletter
-"Newsletter Subscription","Newsletter Subscription",module,Magento_Newsletter
+"Newsletter Subscription","Suscripciones a Boletines",module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Something went wrong while saving your subscription.",module,Magento_Newsletter
 "We saved the subscription.","We saved the subscription.",module,Magento_Newsletter
 "We removed the subscription.","We removed the subscription.",module,Magento_Newsletter
@@ -3220,8 +3220,8 @@ Paused,Paused,module,Magento_Newsletter
 " Copy"," Copy",module,Magento_Newsletter
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
-"Enter your email address","Enter your email address",module,Magento_Newsletter
-Subscribe,Subscribe,module,Magento_Newsletter
+"Enter your email address","Ingrese su correo electrónico",module,Magento_Newsletter
+Subscribe,Suscribe,module,Magento_Newsletter
 "Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
 "Send Check to:","Send Check to:",module,Magento_OfflinePayments
 "Purchase Order Number","Purchase Order Number",module,Magento_OfflinePayments
@@ -3314,21 +3314,21 @@ No,No,module,Magento_Payment
 "Card Verification Number Visual Reference","Card Verification Number Visual Reference",module,Magento_Payment
 "What is this?","What is this?",module,Magento_Payment
 "Credit Card Information","Credit Card Information",module,Magento_Payment
-"Billing Agreements","Billing Agreements",module,Magento_Paypal
+"Billing Agreements","Acuerdos de Facturación",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
-Email,Email,module,Magento_Paypal
-"First Name","First Name",module,Magento_Paypal
-"Last Name","Last Name",module,Magento_Paypal
-"Reference ID","Reference ID",module,Magento_Paypal
-Status,Status,module,Magento_Paypal
-Created,Created,module,Magento_Paypal
+Email,Correo,module,Magento_Paypal
+"First Name","Nombre",module,Magento_Paypal
+"Last Name","Apellido",module,Magento_Paypal
+"Reference ID","Referencia ID",module,Magento_Paypal
+Status,Estado,module,Magento_Paypal
+Created,Creado,module,Magento_Paypal
 N/A,N/A,module,Magento_Paypal
-Updated,Updated,module,Magento_Paypal
-Back,Back,module,Magento_Paypal
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Paypal
-Cancel,Cancel,module,Magento_Paypal
-"Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
-"General Information","General Information",module,Magento_Paypal
+Updated,Actualizado,module,Magento_Paypal
+Back,Atras,module,Magento_Paypal
+"Are you sure you want to do this?","¿Seguro que quieres hacer esto?",module,Magento_Paypal
+Cancel,Cancelar,module,Magento_Paypal
+"Billing Agreement #%1","Acuerdo de Facturación #%1",module,Magento_Paypal
+"General Information","Información General",module,Magento_Paypal
 "Related Orders","Related Orders",module,Magento_Paypal
 Order,Order,module,Magento_Paypal
 Purchased,Purchased,module,Magento_Paypal
@@ -3689,12 +3689,12 @@ Date,Date,module,Magento_Paypal
 "View Order","View Order",module,Magento_Paypal
 "Back to Billing Agreements","Back to Billing Agreements",module,Magento_Paypal
 "Payment Method","Payment Method",module,Magento_Paypal
-View,View,module,Magento_Paypal
-"There are no billing agreements yet.","There are no billing agreements yet.",module,Magento_Paypal
-"New Billing Agreement","New Billing Agreement",module,Magento_Paypal
-"You will be redirected to the payment system website.","You will be redirected to the payment system website.",module,Magento_Paypal
-"-- Please Select --","-- Please Select --",module,Magento_Paypal
-Create...,Create...,module,Magento_Paypal
+View,Ver,module,Magento_Paypal
+"There are no billing agreements yet.","Aún no hay acuerdos de facturación.",module,Magento_Paypal
+"New Billing Agreement","Nuevo Acuerdo de Facturación",module,Magento_Paypal
+"You will be redirected to the payment system website.","Serás redireccionado al sitio web del sistema de pago.",module,Magento_Paypal
+"-- Please Select --","-- Seleccione --",module,Magento_Paypal
+Create...,Creado...,module,Magento_Paypal
 "Your credit card will be charged for","Your credit card will be charged for",module,Magento_Paypal
 "Your billing agreement # is: ","Your billing agreement # is: ",module,Magento_Paypal
 "Shipping Method","Shipping Method",module,Magento_Paypal
@@ -3709,13 +3709,13 @@ Edit,Edit,module,Magento_Paypal
 "Edit Shopping Cart","Edit Shopping Cart",module,Magento_Paypal
 "Place Order","Place Order",module,Magento_Paypal
 "Submitting order information...","Submitting order information...",module,Magento_Paypal
-Item,Item,module,Magento_Paypal
-Price,Price,module,Magento_Paypal
-Qty,Qty,module,Magento_Paypal
+Item,Artículo,module,Magento_Paypal
+Price,Precio,module,Magento_Paypal
+Qty,Cantidad,module,Magento_Paypal
 Subtotal,Subtotal,module,Magento_Paypal
-"Please update order data to get shipping methods and rates","Please update order data to get shipping methods and rates",module,Magento_Paypal
+"Please update order data to get shipping methods and rates","Actualice los datos de pedido para obtener métodos y tarifas de envío",module,Magento_Paypal
 or,or,module,Magento_Paypal
-"Checkout with PayPal","Checkout with PayPal",module,Magento_Paypal
+"Checkout with PayPal","Pagar con Paypal",module,Magento_Paypal
 "Please do not refresh the page until you complete payment.","Please do not refresh the page until you complete payment.",module,Magento_Paypal
 "You will be required to enter your payment details after you place an order.","You will be required to enter your payment details after you place an order.",module,Magento_Paypal
 Continue,Continue,module,Magento_Paypal
@@ -4091,7 +4091,7 @@ Reviews,Reviews,module,Magento_Review
 "You deleted the rating.","You deleted the rating.",module,Magento_Review
 Ratings,Ratings,module,Magento_Review
 "You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
+"My Product Reviews","Mis Opiniones de Productos",module,Magento_Review
 "Cannot initialize product","Cannot initialize product",module,Magento_Review
 "You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
 "We can't post your review right now.","We can't post your review right now.",module,Magento_Review
@@ -4110,11 +4110,11 @@ Pending,Pending,module,Magento_Review
 Rating,Rating,module,Magento_Review
 Actions,Actions,module,Magento_Review
 "See Details","See Details",module,Magento_Review
-"You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
-Back,Back,module,Magento_Review
-"My Recent Reviews","My Recent Reviews",module,Magento_Review
-"View All","View All",module,Magento_Review
-"Average Customer Rating:","Average Customer Rating:",module,Magento_Review
+"You have submitted no reviews.","No ha enviado comentarios.",module,Magento_Review
+Back,Atras,module,Magento_Review
+"My Recent Reviews","Mis Comentarios Recientes",module,Magento_Review
+"View All","Ver Todo",module,Magento_Review
+"Average Customer Rating:","Calificación Promedio del Cliente:",module,Magento_Review
 "Your Review","Your Review",module,Magento_Review
 "Submitted on %1","Submitted on %1",module,Magento_Review
 "Back to My Reviews","Back to My Reviews",module,Magento_Review
@@ -4340,7 +4340,7 @@ Message,Message,module,Magento_Sales
 "* - Enter custom price excluding tax","* - Enter custom price excluding tax",module,Magento_Sales
 Configure,Configure,module,Magento_Sales
 "This product does not have any configurable options","This product does not have any configurable options",module,Magento_Sales
-"Newsletter Subscription","Newsletter Subscription",module,Magento_Sales
+"Newsletter Subscription","Suscripciones a Boletines",module,Magento_Sales
 "Please select products","Please select products",module,Magento_Sales
 "Add Selected Product(s) to Order","Add Selected Product(s) to Order",module,Magento_Sales
 ID,ID,module,Magento_Sales
@@ -4479,18 +4479,18 @@ Key,Key,module,Magento_Sales
 Value,Value,module,Magento_Sales
 "We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
 "Order # %1","Order # %1",module,Magento_Sales
-"Back to My Orders","Back to My Orders",module,Magento_Sales
-"View Another Order","View Another Order",module,Magento_Sales
-"About Your Refund","About Your Refund",module,Magento_Sales
-"My Orders","My Orders",module,Magento_Sales
-"Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
-"About Your Invoice","About Your Invoice",module,Magento_Sales
-"Print Order # %1","Print Order # %1",module,Magento_Sales
-"Grand Total to be Charged","Grand Total to be Charged",module,Magento_Sales
-Unassign,Unassign,module,Magento_Sales
+"Back to My Orders","Volver a Mis Ordenes",module,Magento_Sales
+"View Another Order","Ver Otra Orden",module,Magento_Sales
+"About Your Refund","Sobre Su Reembolso",module,Magento_Sales
+"My Orders","Mis Ordenes",module,Magento_Sales
+"Subscribe to Order Status","Suscribirse al Estado del Pedido",module,Magento_Sales
+"About Your Invoice","Acerca de Su Factura",module,Magento_Sales
+"Print Order # %1","Imprimir Orden # %1",module,Magento_Sales
+"Grand Total to be Charged","Total Final a ser Cargado",module,Magento_Sales
+Unassign,Desasignar,module,Magento_Sales
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Sales
 "You sent the message.","You sent the message.",module,Magento_Sales
-Sales,Sales,module,Magento_Sales
+Sales,Ventas,module,Magento_Sales
 "Invoice capturing error","Invoice capturing error",module,Magento_Sales
 "This order no longer exists.","This order no longer exists.",module,Magento_Sales
 "Please enter a comment.","Please enter a comment.",module,Magento_Sales
@@ -5555,18 +5555,18 @@ Copy,Copy,module,Magento_Theme
 "Theme isn't deletable.","Theme isn't deletable.",module,Magento_Theme
 "Exception message","Exception message",module,Magento_Theme
 "localized exception","localized exception",module,Magento_Theme
-Message,Message,module,Magento_Theme
+Message,Mensaje,module,Magento_Theme
 "Test Label","Test Label",module,Magento_Theme
-Phrase,Phrase,module,Magento_Theme
+Phrase,Frase,module,Magento_Theme
 testMessage,testMessage,module,Magento_Theme
-Edit,Edit,module,Magento_Theme
+Edit,Editar,module,Magento_Theme
 "We found no files.","We found no files.",module,Magento_Theme
 "Browse Files","Browse Files",module,Magento_Theme
 Scope:,Scope:,module,Magento_Theme
 Remove,Remove,module,Magento_Theme
-"Help Us Keep Magento Healthy","Help Us Keep Magento Healthy",module,Magento_Theme
+"Help Us Keep Magento Healthy","Ayúdenos a mantener saludable a Magento",module,Magento_Theme
 "Report All Bugs","Report All Bugs",module,Magento_Theme
-"Welcome, %1!","Welcome, %1!",module,Magento_Theme
+"Welcome, %1!","Bienvenido, %1!",module,Magento_Theme
 "Toggle Nav","Toggle Nav",module,Magento_Theme
 "JavaScript seems to be disabled in your browser.","JavaScript seems to be disabled in your browser.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Javascript in your browser.","For the best experience on our site, be sure to turn on Javascript in your browser.",module,Magento_Theme
@@ -5576,26 +5576,26 @@ Remove,Remove,module,Magento_Theme
 "Items %1 to %2 of %3 total","Items %1 to %2 of %3 total",module,Magento_Theme
 "%1 Item","%1 Item",module,Magento_Theme
 "%1 Item(s)","%1 Item(s)",module,Magento_Theme
-Page,Page,module,Magento_Theme
-Previous,Previous,module,Magento_Theme
+Page,Página,module,Magento_Theme
+Previous,Previo,module,Magento_Theme
 "You're currently reading page","You're currently reading page",module,Magento_Theme
-Next,Next,module,Magento_Theme
-Show,Show,module,Magento_Theme
-"per page","per page",module,Magento_Theme
-"About the calendar","About the calendar",module,Magento_Theme
-Close,Close,module,Magento_Theme
-"Go Today","Go Today",module,Magento_Theme
+Next,Siguiente,module,Magento_Theme
+Show,Mostrar,module,Magento_Theme
+"per page","por página",module,Magento_Theme
+"About the calendar","Sobre el calendario",module,Magento_Theme
+Close,Cerrado,module,Magento_Theme
+"Go Today","Ir a Hoy",module,Magento_Theme
 WK,WK,module,Magento_Theme
-Time,Time,module,Magento_Theme
-Hour,Hour,module,Magento_Theme
-Minute,Minute,module,Magento_Theme
+Time,Tiempo,module,Magento_Theme
+Hour,Hora,module,Magento_Theme
+Minute,Minuto,module,Magento_Theme
 "Dictionary (Translation on Storefront side)","Dictionary (Translation on Storefront side)",module,Magento_Translation
 "Embedded (Translation on Admin side)","Embedded (Translation on Admin side)",module,Magento_Translation
 "Condition type ""%1"" is not allowed","Condition type ""%1"" is not allowed",module,Magento_Ui
 "The configuration parameter ""formElement"" is a required for ""%1"" field.","The configuration parameter ""formElement"" is a required for ""%1"" field.",module,Magento_Ui
-"Remove %1","Remove %1",module,Magento_Ui
-"Add New %1","Add New %1",module,Magento_Ui
-"New %1","New %1",module,Magento_Ui
+"Remove %1","Quitar %1",module,Magento_Ui
+"Add New %1","Agregar Nuevo %1",module,Magento_Ui
+"New %1","Nuevo %1",module,Magento_Ui
 "Please select item(s).","Please select item(s).",module,Magento_Ui
 "Unsupported bookmark action.","Unsupported bookmark action.",module,Magento_Ui
 "Parameter ""class"" must be present.","Parameter ""class"" must be present.",module,Magento_Ui
@@ -5835,7 +5835,7 @@ username,username,module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","It's time to <a href=""%1"">change your password</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Your password has expired; please contact your administrator.",module,Magento_User
 "Password Help","Password Help",module,Magento_User
-"Enter your email address.  You will receive an email with a link to reset your password.","Enter your email address.  You will receive an email with a link to reset your password.",module,Magento_User
+"Enter your email address.  You will receive an email with a link to reset your password.","Ingrese su correo electrónico.  You will receive an email with a link to reset your password.",module,Magento_User
 "Email address","Correo electrónico",module,Magento_User
 "Retrieve Password","Recuperar Contraseña",module,Magento_User
 "Back to Sign in","Volver a Iniciar Sesión",module,Magento_User
@@ -5973,16 +5973,16 @@ Yes,Si,module,Magento_Variable
 "Wrong request.","Wrong request.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","Métodos de Pago Almacenados",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","Card Number",module,Magento_Vault
 "Expiration Date","Expiration Date",module,Magento_Vault
 Type,Type,module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","No tiene métodos de pago almacenados.",module,Magento_Vault
 ending,ending,module,Magento_Vault
 Actions,Actions,module,Magento_Vault
-Delete,Delete,module,Magento_Vault
-"PayPal Account","PayPal Account",module,Magento_Vault
+Delete,Quitar,module,Magento_Vault
+"PayPal Account","Cuenta PayPal",module,Magento_Vault
 "Consumer is not authorized to access %resources","Consumer is not authorized to access %resources",module,Magento_Webapi
 "Operation allowed only in HTTPS","Operation allowed only in HTTPS",module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","Cannot perform GET operation with store code 'all'",module,Magento_Webapi
@@ -5996,8 +5996,8 @@ Delete,Delete,module,Magento_Vault
 message,message,module,Magento_Webapi
 Message,Message,module,Magento_Webapi
 "Soap fault reason.","Soap fault reason.",module,Magento_Webapi
-"Add Tax","Add Tax",module,Magento_Weee
-"Delete Tax","Delete Tax",module,Magento_Weee
+"Add Tax","Agregar Impuesto",module,Magento_Weee
+"Delete Tax","Quitar Impuesto",module,Magento_Weee
 "All Websites","All Websites",module,Magento_Weee
 FPT,FPT,module,Magento_Weee
 "You must set unique country-state combinations within the same fixed product tax","You must set unique country-state combinations within the same fixed product tax",module,Magento_Weee
@@ -6166,13 +6166,13 @@ Back,Atras,module,Magento_Wishlist
 "Last Added Items","Last Added Items",module,Magento_Wishlist
 "Remove This Item","Remove This Item",module,Magento_Wishlist
 "Go to Wish List","Go to Wish List",module,Magento_Wishlist
-"You have no items in your wish list.","You have no items in your wish list.",module,Magento_Wishlist
+"You have no items in your wish list.","No tiene artículos en su lista de deseos.",module,Magento_Wishlist
 "Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
-Previous,Previous,theme,frontend/Magento/luma
-Remove,Remove,theme,frontend/Magento/luma
-"Remove This Item","Remove This Item",theme,frontend/Magento/luma
-"Shop By","Shop By",theme,frontend/Magento/luma
-"Clear All","Clear All",theme,frontend/Magento/luma
+Previous,Anterior,theme,frontend/Magento/luma
+Remove,Quitar,theme,frontend/Magento/luma
+"Remove This Item","Quitar este elemento",theme,frontend/Magento/luma
+"Shop By","Comprar por",theme,frontend/Magento/luma
+"Clear All","Limpiar Todo",theme,frontend/Magento/luma
 "Shopping Options","Shopping Options",theme,frontend/Magento/luma
 "Place Order","Place Order",module,Magento_Authorizenet
 "Credit Card Information","Credit Card Information",module,Magento_Braintree
@@ -7541,12 +7541,12 @@ Type,Type,module,Magento_Customer
 "Send Welcome Email From","Send Welcome Email From",module,Magento_Customer
 Addresses,Addresses,module,Magento_Customer
 "Are you sure you want to delete this item?","Are you sure you want to delete this item?",module,Magento_Customer
-"Account Dashboard","Account Dashboard",module,Magento_Customer
+"Account Dashboard","Tablero - Cuenta",module,Magento_Customer
 "Edit Account Information","Edit Account Information",module,Magento_Customer
 "Password forgotten","Password forgotten",module,Magento_Customer
-"My Dashboard","My Dashboard",module,Magento_Customer
-"You are signed out","You are signed out",module,Magento_Customer
-"Frontend Development Workflow","Frontend Development Workflow",module,Magento_Developer
+"My Dashboard","Mi Tablero",module,Magento_Customer
+"You are signed out","Usted está desconectado",module,Magento_Customer
+"Frontend Development Workflow","Flujo de trabajo de desarrollo Frontend",module,Magento_Developer
 "Workflow type","Workflow type",module,Magento_Developer
 "Not available in production mode","Not available in production mode",module,Magento_Developer
 "Developer Client Restrictions","Developer Client Restrictions",module,Magento_Developer
@@ -7804,13 +7804,13 @@ Customer,Customer,module,Magento_Newsletter
 "Customer First Name","Customer First Name",module,Magento_Newsletter
 "Customer Last Name","Customer Last Name",module,Magento_Newsletter
 "Not Activated","Not Activated",module,Magento_Newsletter
-Subscribed,Subscribed,module,Magento_Newsletter
-Unsubscribed,Unsubscribed,module,Magento_Newsletter
-Unconfirmed,Unconfirmed,module,Magento_Newsletter
-"Web Site","Web Site",module,Magento_Newsletter
-Store,Store,module,Magento_Newsletter
-"Store View","Store View",module,Magento_Newsletter
-"Newsletter Subscriptions","Newsletter Subscriptions",module,Magento_Newsletter
+Subscribed,Suscrito,module,Magento_Newsletter
+Unsubscribed,"Sin Suscribir",module,Magento_Newsletter
+Unconfirmed,"Sin Confirmar",module,Magento_Newsletter
+"Web Site","Sitio Web",module,Magento_Newsletter
+Store,Tienda,module,Magento_Newsletter
+"Store View","Vista de Tienda",module,Magento_Newsletter
+"Newsletter Subscriptions","Suscripciones a Boletines",module,Magento_Newsletter
 "Check / Money Order","Check / Money Order",module,Magento_OfflinePayments
 Enabled,Enabled,module,Magento_OfflinePayments
 "New Order Status","New Order Status",module,Magento_OfflinePayments
@@ -8726,22 +8726,22 @@ Conditions,Conditions,module,Magento_Widget
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Wishlist
 "Max Emails Allowed to be Sent","Max Emails Allowed to be Sent",module,Magento_Wishlist
 "Email Text Length Limit","Email Text Length Limit",module,Magento_Wishlist
-"General Options","General Options",module,Magento_Wishlist
-Enabled,Enabled,module,Magento_Wishlist
-"My Wish List Link","My Wish List Link",module,Magento_Wishlist
-"Display Wish List Summary","Display Wish List Summary",module,Magento_Wishlist
-"Enable RSS","Enable RSS",module,Magento_Wishlist
-"No Items Found","No Items Found",module,Magento_Wishlist
-"Product Name","Product Name",module,Magento_Wishlist
-"User Description","User Description",module,Magento_Wishlist
-Quantity,Quantity,module,Magento_Wishlist
-"Add Locale","Add Locale",module,Magento_Wishlist
-"Add Date","Add Date",module,Magento_Wishlist
-"Days in Wish List","Days in Wish List",module,Magento_Wishlist
-Action,Action,module,Magento_Wishlist
-Configure,Configure,module,Magento_Wishlist
-Delete,Delete,module,Magento_Wishlist
-"Product Details and Comment","Product Details and Comment",module,Magento_Wishlist
-"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
-"Account Information","Account Information",theme,frontend/Magento/luma
-"Address Book","Address Book",theme,frontend/Magento/luma
+"General Options","Opciones Generales",module,Magento_Wishlist
+Enabled,Habilitado,module,Magento_Wishlist
+"My Wish List Link","Mi Lista de Deseos Enlace",module,Magento_Wishlist
+"Display Wish List Summary","Mostrar Resumen de Lista de Deseos",module,Magento_Wishlist
+"Enable RSS","Habilitar RSS",module,Magento_Wishlist
+"No Items Found","No se Encontraron Artículos",module,Magento_Wishlist
+"Product Name","Nombre del Producto",module,Magento_Wishlist
+"User Description","Descripción de Usuario",module,Magento_Wishlist
+Quantity,Cantidad,module,Magento_Wishlist
+"Add Locale","Agregar configuración Regional",module,Magento_Wishlist
+"Add Date","Agregar Fecha",module,Magento_Wishlist
+"Days in Wish List","Días en la Lista de Deseos",module,Magento_Wishlist
+Action,Acción,module,Magento_Wishlist
+Configure,Configurar,module,Magento_Wishlist
+Delete,Quitar,module,Magento_Wishlist
+"Product Details and Comment","Detalles del Producto y Comentarios",module,Magento_Wishlist
+"Account Dashboard","Tablero de Cuenta",theme,frontend/Magento/luma
+"Account Information","Información de Cuenta",theme,frontend/Magento/luma
+"Address Book","Libreta de Direcciones",theme,frontend/Magento/luma
