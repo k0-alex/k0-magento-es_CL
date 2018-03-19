@@ -1399,11 +1399,11 @@ State/Province,Estado/Provincia,module,Magento_Checkout
 Checkout,Pago,module,Magento_Checkout
 "Page not found.","Página no encontrada.",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Por favor acepte todos los términos y condiciones antes de realizar el pedido.",module,Magento_Checkout
-"Something went wrong while processing your order. Please try again later.","Something went wrong while processing your order. Please try again later.",module,Magento_Checkout
+"Something went wrong while processing your order. Please try again later.","Algo salió mal al procesar su pedido. Por favor, inténtelo más tarde.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
-"Payment Method","Payment Method",module,Magento_Checkout
-"Payment Page","Payment Page",module,Magento_Checkout
-"We can't find the product.","We can't find the product.",module,Magento_Checkout
+"Payment Method","Método de Pago",module,Magento_Checkout
+"Payment Page","Página de Pago",module,Magento_Checkout
+"We can't find the product.","No podemos encontrar el producto.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Checkout
 "The product does not exist.","The product does not exist.",module,Magento_Checkout
 "We don't have some of the products you want.","We don't have some of the products you want.",module,Magento_Checkout
@@ -1418,8 +1418,8 @@ Checkout,Pago,module,Magento_Checkout
 "Unable to save shipping information. Please check input data.","Unable to save shipping information. Please check input data.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Carrier with such method not found: %1, %2",module,Magento_Checkout
 "Shipping method is not applicable for empty cart","Shipping method is not applicable for empty cart",module,Magento_Checkout
-" item"," artículo",module,Magento_Checkout
-" items"," artículos",module,Magento_Checkout
+" item"," producto",module,Magento_Checkout
+" items"," productos",module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","Totals calculation is not applicable to empty cart",module,Magento_Checkout
 "Invalid data","Invalid data",module,Magento_Checkout
 "The customer address is not valid.","The customer address is not valid.",module,Magento_Checkout
@@ -6311,10 +6311,10 @@ Delete,Borrar,module,Magento_GiftMessage
 "Products price changed alert","Products price changed alert",module,Magento_ProductAlert
 "%name,","%name,",module,Magento_ProductAlert
 "Products back in stock alert","Products back in stock alert",module,Magento_ProductAlert
-"Apply Discount Code","Apply Discount Code",module,Magento_SalesRule
-"Enter discount code","Enter discount code",module,Magento_SalesRule
-"Apply Discount","Apply Discount",module,Magento_SalesRule
-"Cancel coupon","Cancel coupon",module,Magento_SalesRule
+"Apply Discount Code","Aplicar Código de Descuento",module,Magento_SalesRule
+"Enter discount code","Ingrese código de descuento",module,Magento_SalesRule
+"Apply Discount","Aplicar Descuento",module,Magento_SalesRule
+"Cancel coupon","Cancelar cupon",module,Magento_SalesRule
 "Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Thank you for your order from %store_name.",module,Magento_Sales
@@ -6323,8 +6323,8 @@ Delete,Borrar,module,Magento_GiftMessage
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",module,Magento_Sales
-"Billing Info","Billing Info",module,Magento_Sales
-"Shipping Info","Shipping Info",module,Magento_Sales
+"Billing Info","Información de Facturación",module,Magento_Sales
+"Shipping Info","Información de Despacho",module,Magento_Sales
 "Update to your %store_name credit memo","Update to your %store_name credit memo",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",module,Magento_Sales
 "Invoice for your %store_name order","Invoice for your %store_name order",module,Magento_Sales
@@ -6341,7 +6341,7 @@ Delete,Borrar,module,Magento_GiftMessage
 "Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",module,Magento_Sales
 "Update to your %store_name shipment","Update to your %store_name shipment",module,Magento_Sales
-"Welcome, %name","Welcome, %name",module,Magento_SendFriend
+"Welcome, %name","Bienvenido, %name",module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
 "Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
@@ -7811,47 +7811,47 @@ Unconfirmed,"Sin Confirmar",module,Magento_Newsletter
 Store,Tienda,module,Magento_Newsletter
 "Store View","Vista de Tienda",module,Magento_Newsletter
 "Newsletter Subscriptions","Suscripciones a Boletines",module,Magento_Newsletter
-"Check / Money Order","Check / Money Order",module,Magento_OfflinePayments
-Enabled,Enabled,module,Magento_OfflinePayments
-"New Order Status","New Order Status",module,Magento_OfflinePayments
-"Sort Order","Sort Order",module,Magento_OfflinePayments
-Title,Title,module,Magento_OfflinePayments
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_OfflinePayments
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_OfflinePayments
-"Make Check Payable to","Make Check Payable to",module,Magento_OfflinePayments
-"Minimum Order Total","Minimum Order Total",module,Magento_OfflinePayments
-"Maximum Order Total","Maximum Order Total",module,Magento_OfflinePayments
-"Purchase Order","Purchase Order",module,Magento_OfflinePayments
-"Bank Transfer Payment","Bank Transfer Payment",module,Magento_OfflinePayments
-Instructions,Instructions,module,Magento_OfflinePayments
-"Cash On Delivery Payment","Cash On Delivery Payment",module,Magento_OfflinePayments
-"Zero Subtotal Checkout","Zero Subtotal Checkout",module,Magento_OfflinePayments
-"Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_OfflinePayments
+"Check / Money Order","Comprobar / Pedido",module,Magento_OfflinePayments
+Enabled,Habilitado,module,Magento_OfflinePayments
+"New Order Status","Nuevo Estado de Pedido",module,Magento_OfflinePayments
+"Sort Order","Orden de Pedido",module,Magento_OfflinePayments
+Title,Título,module,Magento_OfflinePayments
+"Payment from Applicable Countries","Pago de Países Aplicables",module,Magento_OfflinePayments
+"Payment from Specific Countries","Pago de Países Específicos",module,Magento_OfflinePayments
+"Make Check Payable to","Hacer Cheque de Pago a",module,Magento_OfflinePayments
+"Minimum Order Total","Pedido Mínimo Total",module,Magento_OfflinePayments
+"Maximum Order Total","Pedido Máximo Total",module,Magento_OfflinePayments
+"Purchase Order","Orden de Compra",module,Magento_OfflinePayments
+"Bank Transfer Payment","Pago de Transferencia Bancaria",module,Magento_OfflinePayments
+Instructions,Instrucciones,module,Magento_OfflinePayments
+"Cash On Delivery Payment","Pago Efectivo en la Entrega",module,Magento_OfflinePayments
+"Zero Subtotal Checkout","Subtotal Cero Pago",module,Magento_OfflinePayments
+"Automatically Invoice All Items","Automáticamente Facturar Todos los Productos",module,Magento_OfflinePayments
 "Flat Rate","Tarifa Plana",module,Magento_OfflineShipping
-Enabled,Enabled,module,Magento_OfflineShipping
-"Method Name","Method Name",module,Magento_OfflineShipping
-Price,Price,module,Magento_OfflineShipping
-"Calculate Handling Fee","Calculate Handling Fee",module,Magento_OfflineShipping
-"Handling Fee","Handling Fee",module,Magento_OfflineShipping
-"Sort Order","Sort Order",module,Magento_OfflineShipping
-Title,Title,module,Magento_OfflineShipping
-Type,Type,module,Magento_OfflineShipping
-"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_OfflineShipping
-"Ship to Specific Countries","Ship to Specific Countries",module,Magento_OfflineShipping
-"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_OfflineShipping
-"Displayed Error Message","Displayed Error Message",module,Magento_OfflineShipping
-"Table Rates","Table Rates",module,Magento_OfflineShipping
-Condition,Condition,module,Magento_OfflineShipping
-"Include Virtual Products in Price Calculation","Include Virtual Products in Price Calculation",module,Magento_OfflineShipping
-Export,Export,module,Magento_OfflineShipping
-Import,Import,module,Magento_OfflineShipping
-"Free Shipping","Free Shipping",module,Magento_OfflineShipping
-"Minimum Order Amount","Minimum Order Amount",module,Magento_OfflineShipping
-"-- Please Select --","-- Please Select --",module,Magento_OfflineShipping
-"Full Page Cache","Full Page Cache",module,Magento_PageCache
-"Caching Application","Caching Application",module,Magento_PageCache
-"Varnish Configuration","Varnish Configuration",module,Magento_PageCache
-"Access list","Access list",module,Magento_PageCache
+Enabled,Habilitado,module,Magento_OfflineShipping
+"Method Name","Nombre del Método",module,Magento_OfflineShipping
+Price,Precio,module,Magento_OfflineShipping
+"Calculate Handling Fee","Calcular Tarifa de Manipulación",module,Magento_OfflineShipping
+"Handling Fee","Tarifa de Manipulación",module,Magento_OfflineShipping
+"Sort Order","Orden de Pedido",module,Magento_OfflineShipping
+Title,Título,module,Magento_OfflineShipping
+Type,Tipo,module,Magento_OfflineShipping
+"Ship to Applicable Countries","Despachar a Países Aplicables",module,Magento_OfflineShipping
+"Ship to Specific Countries","Despachar a Países Específicos",module,Magento_OfflineShipping
+"Show Method if Not Applicable","Mostrar Método si No es Aplicable",module,Magento_OfflineShipping
+"Displayed Error Message","Mensaje de Error Mostrado",module,Magento_OfflineShipping
+"Table Rates","Tabla de Tarifas",module,Magento_OfflineShipping
+Condition,Condición,module,Magento_OfflineShipping
+"Include Virtual Products in Price Calculation","Incluir Productos Virtuales en el Cálculo de Precios",module,Magento_OfflineShipping
+Export,Exportar,module,Magento_OfflineShipping
+Import,Importar,module,Magento_OfflineShipping
+"Free Shipping","Despacho Gratis",module,Magento_OfflineShipping
+"Minimum Order Amount","Monto Mínimo de la Orden",module,Magento_OfflineShipping
+"-- Please Select --","-- Seleccione --",module,Magento_OfflineShipping
+"Full Page Cache","Caché de Página Completa",module,Magento_PageCache
+"Caching Application","Aplicación de Almacen. en Caché",module,Magento_PageCache
+"Varnish Configuration","Configuración Varnish",module,Magento_PageCache
+"Access list","Lista de Acceso",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","IPs access list separated with ',' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.",module,Magento_PageCache
