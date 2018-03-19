@@ -3854,7 +3854,7 @@ No,No,module,Magento_Reports
 "Invalid date specified","Invalid date specified",module,Magento_Reports
 Refresh,Refresh,module,Magento_Reports
 "We can't find records for this period.","We can't find records for this period.",module,Magento_Reports
-"Show Reviews","Show Reviews",module,Magento_Reports
+"Show Reviews","Mostrar Comentarios",module,Magento_Reports
 "Products Report","Products Report",module,Magento_Reports
 Downloads,Downloads,module,Magento_Reports
 Product,Product,module,Magento_Reports
@@ -3873,11 +3873,11 @@ Total,Total,module,Magento_Reports
 Price,Price,module,Magento_Reports
 Views,Views,module,Magento_Reports
 "Refresh Statistics","Refresh Statistics",module,Magento_Reports
-"Customers Reviews","Customers Reviews",module,Magento_Reports
-"Reviews for %1","Reviews for %1",module,Magento_Reports
-Customer,Customer,module,Magento_Reports
-Title,Title,module,Magento_Reports
-Detail,Detail,module,Magento_Reports
+"Customers Reviews","Comentarios de Clientes",module,Magento_Reports
+"Reviews for %1","Comentarios para %1",module,Magento_Reports
+Customer,Cliente,module,Magento_Reports
+Title,Titulo,module,Magento_Reports
+Detail,Detalle,module,Magento_Reports
 Created,Created,module,Magento_Reports
 "Products Reviews","Products Reviews",module,Magento_Reports
 "Products Bestsellers Report","Products Bestsellers Report",module,Magento_Reports
@@ -3956,7 +3956,7 @@ Reports,Reports,module,Magento_Reports
 "Product Views Report","Product Views Report",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
 Review,Review,module,Magento_Reports
-Reviews,Reviews,module,Magento_Reports
+Reviews,Comentarios,module,Magento_Reports
 "Customers Report","Customers Report",module,Magento_Reports
 "Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
 "Product Reviews Report","Product Reviews Report",module,Magento_Reports
@@ -3964,7 +3964,7 @@ Reviews,Reviews,module,Magento_Reports
 Details,Details,module,Magento_Reports
 Sales,Sales,module,Magento_Reports
 "Bestsellers Report","Bestsellers Report",module,Magento_Reports
-Coupons,Coupons,module,Magento_Reports
+Coupons,Cupones,module,Magento_Reports
 "Coupons Report","Coupons Report",module,Magento_Reports
 "Invoice Report","Invoice Report",module,Magento_Reports
 "Refunds Report","Refunds Report",module,Magento_Reports
