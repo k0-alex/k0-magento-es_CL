@@ -546,8 +546,8 @@ From,From,module,Magento_Bundle
 To,To,module,Magento_Bundle
 "Buy %1 with %2 discount each","Buy %1 with %2 discount each",module,Magento_Bundle
 "Go back to product details","Go back to product details",module,Magento_Bundle
-"Customize and Add to Cart","Customize and Add to Cart",module,Magento_Bundle
-"* Required Fields","* Required Fields",module,Magento_Bundle
+"Customize and Add to Cart","Personalizar y Agrega al Carro",module,Magento_Bundle
+"* Required Fields","* Campos Requeridos",module,Magento_Bundle
 "Your Customization","Your Customization",module,Magento_Bundle
 Availability,Availability,module,Magento_Bundle
 "In stock","In stock",module,Magento_Bundle
@@ -975,16 +975,16 @@ Products,Products,module,Magento_Catalog
 "This attribute set no longer exists.","This attribute set no longer exists.",module,Magento_Catalog
 "You saved the attribute set.","You saved the attribute set.",module,Magento_Catalog
 "Something went wrong while saving the attribute set.","Something went wrong while saving the attribute set.",module,Magento_Catalog
-"You added product %1 to the comparison list.","You added product %1 to the comparison list.",module,Magento_Catalog
-"You cleared the comparison list.","You cleared the comparison list.",module,Magento_Catalog
-"Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
-"You removed product %1 from the comparison list.","You removed product %1 from the comparison list.",module,Magento_Catalog
-"1 item","1 item",module,Magento_Catalog
-"%1 items","%1 items",module,Magento_Catalog
-"Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
+"You added product %1 to the comparison list.","Agregaste el producto %1 a la lista de comparación.",module,Magento_Catalog
+"You cleared the comparison list.","Has borrado la lista de comparación.",module,Magento_Catalog
+"Something went wrong  clearing the comparison list.","Algo salió mal limpiando la lista de comparación.",module,Magento_Catalog
+"You removed product %1 from the comparison list.","Eliminó el producto %1 de la lista de comparación.",module,Magento_Catalog
+"1 item","1 producto",module,Magento_Catalog
+"%1 items","%1 productos",module,Magento_Catalog
+"Invalid attribute %1","Atributo inválido %1",module,Magento_Catalog
 Grid,Grid,module,Magento_Catalog
-List,List,module,Magento_Catalog
-All,All,module,Magento_Catalog
+List,Lista,module,Magento_Catalog
+All,Todos,module,Magento_Catalog
 "Bad controller interface for showing product","Bad controller interface for showing product",module,Magento_Catalog
 "Product is not loaded","Product is not loaded",module,Magento_Catalog
 "Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",module,Magento_Catalog
@@ -1294,17 +1294,17 @@ Role,Role,module,Magento_Catalog
 "Buy %1 for: ","Buy %1 for: ",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
-"Shop By","Shop By",module,Magento_Catalog
-"Shopping Options","Shopping Options",module,Magento_Catalog
+"Shop By","Comprar Por",module,Magento_Catalog
+"Shopping Options","Opciones de Compra",module,Magento_Catalog
 "Compare Products","Comparar Productos",module,Magento_Catalog
 "Print This Page","Print This Page",module,Magento_Catalog
-"Remove Product","Remove Product",module,Magento_Catalog
-"Add to Cart","Add to Cart",module,Magento_Catalog
-"In stock","In stock",module,Magento_Catalog
-"Out of stock","Out of stock",module,Magento_Catalog
-"Add to Wish List","Add to Wish List",module,Magento_Catalog
+"Remove Product","Quitar Producto",module,Magento_Catalog
+"Add to Cart","Agregar al Carro",module,Magento_Catalog
+"In stock","Con stock",module,Magento_Catalog
+"Out of stock","Sin stock",module,Magento_Catalog
+"Add to Wish List","Agregar a Lista de Deseos",module,Magento_Catalog
 "You have no items to compare.","No tienes articulos para comparar.",module,Magento_Catalog
-"Remove This Item","Quitar este Articulo",module,Magento_Catalog
+"Remove This Item","Quitar este Producto",module,Magento_Catalog
 Compare,Comparar,module,Magento_Catalog
 "Clear All","Limpiar Todo",module,Magento_Catalog
 Prev,Anterior,module,Magento_Catalog
@@ -1391,12 +1391,12 @@ State/Province,Estado/Provincia,module,Magento_Checkout
 "You canceled the coupon code.","Usted canceló el código de cupón.",module,Magento_Checkout
 "We cannot apply the coupon code.","No podemos aplicar el código de cupón.",module,Magento_Checkout
 "We can't remove the item.","No podemos eliminar el elemento.",module,Magento_Checkout
-"%1 was updated in your shopping cart.","%1 was updated in your shopping cart.",module,Magento_Checkout
-"We can't update the item right now.","We can't update the item right now.",module,Magento_Checkout
-"We can't update the shopping cart.","We can't update the shopping cart.",module,Magento_Checkout
+"%1 was updated in your shopping cart.","%1 se actualizó en su carro de compras..",module,Magento_Checkout
+"We can't update the item right now.","No podemos actualizar el producto ahora.",module,Magento_Checkout
+"We can't update the shopping cart.","No podemos actualizar el carro de compras.",module,Magento_Checkout
 "One-page checkout is turned off.","One-page checkout is turned off.",module,Magento_Checkout
-"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Checkout
-Checkout,Checkout,module,Magento_Checkout
+"Guest checkout is disabled.","El pago de invitados está desactivado.",module,Magento_Checkout
+Checkout,Pago,module,Magento_Checkout
 "Page not found.","Página no encontrada.",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Por favor acepte todos los términos y condiciones antes de realizar el pedido.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Something went wrong while processing your order. Please try again later.",module,Magento_Checkout
@@ -1442,32 +1442,32 @@ Item,Artículo,module,Magento_Checkout
 Price,Precio,module,Magento_Checkout
 Qty,Cantidad,module,Magento_Checkout
 Subtotal,Subtotal,module,Magento_Checkout
-"Continue Shopping","Continue Shopping",module,Magento_Checkout
-"Clear Shopping Cart","Clear Shopping Cart",module,Magento_Checkout
-"Update Shopping Cart","Update Shopping Cart",module,Magento_Checkout
-"Update Cart","Update Cart",module,Magento_Checkout
-"See price before order confirmation.","See price before order confirmation.",module,Magento_Checkout
-"What's this?","What's this?",module,Magento_Checkout
-"Edit item parameters","Edit item parameters",module,Magento_Checkout
-Edit,Edit,module,Magento_Checkout
-"Remove item","Remove item",module,Magento_Checkout
+"Continue Shopping","Continuar Comprando",module,Magento_Checkout
+"Clear Shopping Cart","Limpiar Carro de Compra",module,Magento_Checkout
+"Update Shopping Cart","Actualizar Carro de Compra",module,Magento_Checkout
+"Update Cart","Actualizar Carro",module,Magento_Checkout
+"See price before order confirmation.","Ver precio antes de la confirmación del pedido.",module,Magento_Checkout
+"What's this?","¿Qué es esto?",module,Magento_Checkout
+"Edit item parameters","Editar los parámetros del producto",module,Magento_Checkout
+Edit,Editar,module,Magento_Checkout
+"Remove item","Quitar Producto",module,Magento_Checkout
 "You have no items in your shopping cart.","No tiene productos en su carro de compras.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Checkout
-"Estimate Tax","Estimate Tax",module,Magento_Checkout
-"Estimate Shipping and Tax","Estimate Shipping and Tax",module,Magento_Checkout
+"Estimate Tax","Impuesto Estimado",module,Magento_Checkout
+"Estimate Shipping and Tax","Envío e Impuesto Estimado",module,Magento_Checkout
 "Excl. Tax","Excl. Tax",module,Magento_Checkout
-Loading...,Loading...,module,Magento_Checkout
-"Order #","Order #",module,Magento_Checkout
-"Proceed to Checkout","Proceed to Checkout",module,Magento_Checkout
-"Product Name","Product Name",module,Magento_Checkout
+Loading...,Cargando...,module,Magento_Checkout
+"Order #","Orden #",module,Magento_Checkout
+"Proceed to Checkout","Proceda a Pagar",module,Magento_Checkout
+"Product Name","Nombre de Producto",module,Magento_Checkout
 "Incl. Tax","Incl. Tax",module,Magento_Checkout
-"Your order number is: %1.","Your order number is: %1.",module,Magento_Checkout
-"Your order # is: <span>%1</span>.","Your order # is: <span>%1</span>.",module,Magento_Checkout
-"We'll email you an order confirmation with details and tracking info.","We'll email you an order confirmation with details and tracking info.",module,Magento_Checkout
-"Static Blocks","Static Blocks",module,Magento_Cms
-"Add New Block","Add New Block",module,Magento_Cms
-Back,Back,module,Magento_Cms
-"Delete Block","Delete Block",module,Magento_Cms
+"Your order number is: %1.","Tu orden es numero: %1.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Tu orden # es: <span>%1</span>.",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","Le enviaremos por correo electrónico una confirmación de pedido con detalles e información de seguimiento.",module,Magento_Checkout
+"Static Blocks","Bloques Estáticos",module,Magento_Cms
+"Add New Block","Agregar Nuevo Bloque",module,Magento_Cms
+Back,Atras,module,Magento_Cms
+"Delete Block","Quitar Bloque",module,Magento_Cms
 "Are you sure you want to do this?","¿Seguro que quieres hacer esto?",module,Magento_Cms
 Reset,Reset,module,Magento_Cms
 "Save and Continue Edit","Save and Continue Edit",module,Magento_Cms
@@ -2145,9 +2145,9 @@ or,o,module,Magento_Customer
 "Change Shipping Address","Cambiar la Dirección de Despacho",module,Magento_Customer
 "You have no default shipping address in your address book.","You have no default shipping address in your address book.",module,Magento_Customer
 "Additional Address Entries","Additional Address Entries",module,Magento_Customer
-"Delete Address","Delete Address",module,Magento_Customer
-"You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
-"* Required Fields","* Required Fields",module,Magento_Customer
+"Delete Address","Eliminar Dirección",module,Magento_Customer
+"You have no other address entries in your address book.","No tiene otras direcciones en tu libreta de direcciones.",module,Magento_Customer
+"* Required Fields","* Campos Requeridos",module,Magento_Customer
 Company,Empresa,module,Magento_Customer
 "Phone Number","Teléfono",module,Magento_Customer
 Fax,Fax,module,Magento_Customer
@@ -2163,8 +2163,8 @@ Country,Pais,module,Magento_Customer
 "It's a default billing address.","Esta es una dirección de facturación predeterminada.",module,Magento_Customer
 "Use as my default billing address","Usar como mi dirección de facturación predeterminada",module,Magento_Customer
 "It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
-"Use as my default shipping address","Use as my default shipping address",module,Magento_Customer
-"Save Address","Save Address",module,Magento_Customer
+"Use as my default shipping address","Usar como mi dirección de despacho predeterminada",module,Magento_Customer
+"Save Address","Guardar Dirección",module,Magento_Customer
 "Go back","Ir atras",module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
 Email,Correo,module,Magento_Customer
@@ -3041,7 +3041,7 @@ Price,Price,module,Magento_Msrp
 "Review Order - %1","Review Order - %1",module,Magento_Multishipping
 Total,Total,module,Magento_Multishipping
 "Total for this address","Total for this address",module,Magento_Multishipping
-"Shipping Methods","Shipping Methods",module,Magento_Multishipping
+"Shipping Methods","Métodos de Despacho",module,Magento_Multishipping
 "Edit Address","Edit Address",module,Magento_Multishipping
 "Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
 "Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
@@ -3077,8 +3077,8 @@ Qty,Cantidad,module,Magento_Multishipping
 "Send To","Enviar a",module,Magento_Multishipping
 "A shipping selection is not applicable.","Una selección de despacho no es aplicable.",module,Magento_Multishipping
 Actions,Comportamiento,module,Magento_Multishipping
-"Remove Item","Remover el Artículo",module,Magento_Multishipping
-"Remove item","Remover el artículo",module,Magento_Multishipping
+"Remove Item","Quitar el Producto",module,Magento_Multishipping
+"Remove item","Quitar el producto",module,Magento_Multishipping
 "Go to Shipping Information","Ir a la Información de Despacho",module,Magento_Multishipping
 "Update Qty &amp; Addresses","Actualizar Cantidad y Direcciones",module,Magento_Multishipping
 "Enter a New Address","Ingrese una Nueva Dirección",module,Magento_Multishipping
@@ -3949,8 +3949,8 @@ Reports,Reports,module,Magento_Reports
 "Order Count Report","Order Count Report",module,Magento_Reports
 "Order Total Report","Order Total Report",module,Magento_Reports
 "Downloads Report","Downloads Report",module,Magento_Reports
-"Low Stock","Low Stock",module,Magento_Reports
-"Low Stock Report","Low Stock Report",module,Magento_Reports
+"Low Stock","Stock Bajo",module,Magento_Reports
+"Low Stock Report","Reporte de Stock Bajo",module,Magento_Reports
 "Ordered Products Report","Ordered Products Report",module,Magento_Reports
 "Products Most Viewed Report","Products Most Viewed Report",module,Magento_Reports
 "Product Views Report","Product Views Report",module,Magento_Reports
@@ -4816,13 +4816,13 @@ Subtotal:,Subtotal:,module,Magento_Sales
 "Get shipping methods and rates","Get shipping methods and rates",module,Magento_Sales
 "You don't need to select a shipping method.","You don't need to select a shipping method.",module,Magento_Sales
 "Customer's Activities","Customer's Activities",module,Magento_Sales
-Refresh,Refresh,module,Magento_Sales
-Item,Item,module,Magento_Sales
-"Add To Order","Add To Order",module,Magento_Sales
-"Configure and Add to Order","Configure and Add to Order",module,Magento_Sales
-"No items","No items",module,Magento_Sales
-"Append Comments","Append Comments",module,Magento_Sales
-"Email Order Confirmation","Email Order Confirmation",module,Magento_Sales
+Refresh,Refrescar,module,Magento_Sales
+Item,Producto,module,Magento_Sales
+"Add To Order","Agregar a la Orden",module,Magento_Sales
+"Configure and Add to Order","Configurar y Agregar a la Orden",module,Magento_Sales
+"No items","No hay productos",module,Magento_Sales
+"Append Comments","Agregar Comentarios",module,Magento_Sales
+"Email Order Confirmation","Confirmación de Orden por Correo Electrónico",module,Magento_Sales
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Sales
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Sales
 "Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Sales
@@ -4934,11 +4934,11 @@ Close,Cerrado,module,Magento_Sales
 "View All","View All",module,Magento_Sales
 "Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
 "Recently Ordered","Recently Ordered",module,Magento_Sales
-"Add to Cart","Add to Cart",module,Magento_Sales
-Search,Search,module,Magento_Sales
-"Search Term","Search Term",module,Magento_Search
-Results,Results,module,Magento_Search
-Uses,Uses,module,Magento_Search
+"Add to Cart","Agregar al Carro",module,Magento_Sales
+Search,Buscar,module,Magento_Sales
+"Search Term","Terminos de Busqueda",module,Magento_Search
+Results,Resultados,module,Magento_Search
+Uses,Usos,module,Magento_Search
 "Search Terms","Search Terms",module,Magento_Search
 "Search Synonyms","Search Synonyms",module,Magento_Search
 "New Synonym Group","New Synonym Group",module,Magento_Search
@@ -5603,9 +5603,9 @@ Minute,Minuto,module,Magento_Theme
 "Invalid UI Component element name: '%1'","Invalid UI Component element name: '%1'",module,Magento_Ui
 "Bookmark with id ""%1"" does not exist.","Bookmark with id ""%1"" does not exist.",module,Magento_Ui
 "Invalid UI Component element name: ''","Invalid UI Component element name: ''",module,Magento_Ui
-Cancel,Cancel,module,Magento_Ui
-Back,Back,module,Magento_Ui
-Next,Next,module,Magento_Ui
+Cancel,Cancelar,module,Magento_Ui
+Back,Atras,module,Magento_Ui
+Next,Siquiente,module,Magento_Ui
 "UPS Next Day Air","UPS Next Day Air",module,Magento_Ups
 "UPS Second Day Air","UPS Second Day Air",module,Magento_Ups
 "UPS Ground","UPS Ground",module,Magento_Ups
@@ -6150,22 +6150,22 @@ Edit,Editar,module,Magento_Wishlist
 "Remove item","Remove item",module,Magento_Wishlist
 "Add to Compare","Add to Compare",module,Magento_Wishlist
 "This Wish List has no Items","This Wish List has no Items",module,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
-"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Wishlist
-"See Details","See Details",module,Magento_Wishlist
-"Options Details","Options Details",module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 ha sido agregado a su lista de deseos.",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">aquí</a> para continuar comprando.",module,Magento_Wishlist
+"See Details","Mostrar Detalles",module,Magento_Wishlist
+"Options Details","Detalles de Opciones",module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS link to %1's wishlist",module,Magento_Wishlist
 "RSS Feed","RSS Feed",module,Magento_Wishlist
 Product,Producto,module,Magento_Wishlist
 Back,Atras,module,Magento_Wishlist
 "Wish List is empty now.","Lista de Deseos esta vacia ahora.",module,Magento_Wishlist
 "* Required Fields","* Campos Requeridos",module,Magento_Wishlist
-"Sharing Information","Sharing Information",module,Magento_Wishlist
-"Email addresses, separated by commas","Email addresses, separated by commas",module,Magento_Wishlist
+"Sharing Information","Compartiendo Información",module,Magento_Wishlist
+"Email addresses, separated by commas","Correo electrónico, separadas por comas",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
-"Last Added Items","Last Added Items",module,Magento_Wishlist
-"Remove This Item","Remove This Item",module,Magento_Wishlist
-"Go to Wish List","Go to Wish List",module,Magento_Wishlist
+"Last Added Items","Últimos Productos Agregados",module,Magento_Wishlist
+"Remove This Item","Quitar Este Producto",module,Magento_Wishlist
+"Go to Wish List","Ir a Lista de Deseos",module,Magento_Wishlist
 "You have no items in your wish list.","No tiene artículos en su lista de deseos.",module,Magento_Wishlist
 "Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
 Previous,Anterior,theme,frontend/Magento/luma
@@ -6221,7 +6221,7 @@ Remove,Quitar,module,Magento_Checkout
 "Place Order","Realizar Pedido",module,Magento_Checkout
 "Forgot an Item?","Olvidó un Artículo?",module,Magento_Checkout
 "Edit Your Cart","Edita tu Carro",module,Magento_Checkout
-"Ship Here","Despacha Aquí",module,Magento_Checkout
+"Ship Here","Despachar Aquí",module,Magento_Checkout
 "Ship To:","Despacha a:",module,Magento_Checkout
 edit,editar,module,Magento_Checkout
 "Shipping Address","Dirección de Despacho",module,Magento_Checkout
@@ -6443,19 +6443,19 @@ Ok,Ok,lib,lib/web/mage/adminhtml/backup.js
 "Please select one of each ratings above.","Please select one of each ratings above.",lib,lib/web/mage/backend/validation.js
 "Please specify Url.","Please specify Url.",lib,lib/web/mage/backend/validation.js
 "Method %s does not exist on jQuery.decorate","Method %s does not exist on jQuery.decorate",lib,lib/web/mage/decorate.js
-Close,Close,lib,lib/web/mage/dropdown.js
-Next,Next,lib,lib/web/mage/gallery/gallery.js
-Previous,Previous,lib,lib/web/mage/gallery/gallery.js
-"Please wait...","Please wait...",lib,lib/web/mage/loader.js
-Loading...,Loading...,lib,lib/web/mage/loader.js
-"Please wait...","Please wait...",lib,lib/web/mage/loader_old.js
-Loading...,Loading...,lib,lib/web/mage/loader_old.js
-"All ","All ",lib,lib/web/mage/menu.js
-more,more,lib,lib/web/mage/menu.js
-Cancel,Cancel,lib,lib/web/mage/translate-inline-vde.js
-Save,Save,lib,lib/web/mage/translate-inline-vde.js
-Translate,Translate,lib,lib/web/mage/translate-inline.js
-Submit,Submit,lib,lib/web/mage/translate-inline.js
+Close,Cerrado,lib,lib/web/mage/dropdown.js
+Next,Siquiente,lib,lib/web/mage/gallery/gallery.js
+Previous,Anterior,lib,lib/web/mage/gallery/gallery.js
+"Please wait...","Por favor espere...",lib,lib/web/mage/loader.js
+Loading...,Cargando...,lib,lib/web/mage/loader.js
+"Please wait...","Por favor espere...",lib,lib/web/mage/loader_old.js
+Loading...,Cargando...,lib,lib/web/mage/loader_old.js
+"All ","Todos ",lib,lib/web/mage/menu.js
+more,mas,lib,lib/web/mage/menu.js
+Cancel,Cancelar,lib,lib/web/mage/translate-inline-vde.js
+Save,Guardar,lib,lib/web/mage/translate-inline-vde.js
+Translate,Traducir,lib,lib/web/mage/translate-inline.js
+Submit,Enviar,lib,lib/web/mage/translate-inline.js
 Close,Close,lib,lib/web/mage/translate-inline.js
 "Please enter {0} words or less.","Please enter {0} words or less.",lib,lib/web/mage/validation.js
 "Please enter at least {0} words.","Please enter at least {0} words.",lib,lib/web/mage/validation.js
@@ -6568,28 +6568,28 @@ YY,YY,module,Magento_Braintree
 Submit,Submit,module,Magento_Catalog
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Catalog
 "Configure Product","Configure Product",module,Magento_Catalog
-OK,OK,module,Magento_Catalog
+OK,Acepta,module,Magento_Catalog
 "This value does not follow the specified format (for example, 200x300).","This value does not follow the specified format (for example, 200x300).",module,Magento_Catalog
 "Select type of option.","Select type of option.",module,Magento_Catalog
 "Please add rows to option.","Please add rows to option.",module,Magento_Catalog
 "Please select items.","Please select items.",module,Magento_Catalog
 "Choose existing category.","Choose existing category.",module,Magento_Catalog
 "Image Detail","Image Detail",module,Magento_Catalog
-Adding...,Adding...,module,Magento_Catalog
-Added,Added,module,Magento_Catalog
-"unselect all","unselect all",module,Magento_Catalog
+Adding...,Agregando...,module,Magento_Catalog
+Added,Agregado,module,Magento_Catalog
+"unselect all","deselecciona todo",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","¿Seguro que quieres eliminar este producto de la lista Comparar Productos?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","¿Seguro que quieres eliminar todos los productos de la lista Comparar Productos?",module,Magento_Catalog
 Close,Cerrado,module,Magento_CheckoutAgreements
 "Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
 " Example: "," Ejemplo: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","¿Estás seguro de que deseas eliminar este artículo del carro de compras?",module,Magento_Checkout
 "Review & Payments","Review & Payments",module,Magento_Checkout
 "Select a new payment method","Select a new payment method",module,Magento_Checkout
 Shipping,Shipping,module,Magento_Checkout
-"Save Address","Save Address",module,Magento_Checkout
-"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Checkout
+"Save Address","Guardar Dirección",module,Magento_Checkout
+"Please specify a shipping method.","Por favor especifíque un método de despacho.",module,Magento_Checkout
 "We could not detect a size.","We could not detect a size.",module,Magento_Cms
 "New Product Review","New Product Review",module,Magento_ConfigurableProduct
 "Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
@@ -7827,7 +7827,7 @@ Instructions,Instructions,module,Magento_OfflinePayments
 "Cash On Delivery Payment","Cash On Delivery Payment",module,Magento_OfflinePayments
 "Zero Subtotal Checkout","Zero Subtotal Checkout",module,Magento_OfflinePayments
 "Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_OfflinePayments
-"Flat Rate","Flat Rate",module,Magento_OfflineShipping
+"Flat Rate","Tarifa Plana",module,Magento_OfflineShipping
 Enabled,Enabled,module,Magento_OfflineShipping
 "Method Name","Method Name",module,Magento_OfflineShipping
 Price,Price,module,Magento_OfflineShipping
@@ -8450,7 +8450,7 @@ City,City,module,Magento_Shipping
 "Shipping Policy Parameters","Shipping Policy Parameters",module,Magento_Shipping
 "Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
 "Shipping Policy","Shipping Policy",module,Magento_Shipping
-"Shipping Methods","Shipping Methods",module,Magento_Shipping
+"Shipping Methods","Métodos de Despacho",module,Magento_Shipping
 "XML Sitemap Section","XML Sitemap Section",module,Magento_Sitemap
 "Categories Options","Categories Options",module,Magento_Sitemap
 Frequency,Frequency,module,Magento_Sitemap
