@@ -453,7 +453,7 @@ Country,Country,module,Magento_Braintree
 Authorize,Authorize,module,Magento_Braintree
 "Authorize and Capture","Authorize and Capture",module,Magento_Braintree
 "--Please Select--","--Please Select--",module,Magento_Braintree
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Braintree
+"Please agree to all the terms and conditions before placing the order.","Por favor acepte todos los términos y condiciones antes de realizar el pedido.",module,Magento_Braintree
 "Credit Card Type","Credit Card Type",module,Magento_Braintree
 "Credit Card Number","Credit Card Number",module,Magento_Braintree
 "Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_Braintree
@@ -720,10 +720,10 @@ Category,Categoría,module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
 "Bucket does not exist","Bucket does not exist",module,Magento_CatalogSearch
-Product,Product,module,Magento_CatalogSearch
-"Search Settings","Search Settings",module,Magento_CatalogSearch
+Product,Producto,module,Magento_CatalogSearch
+"Search Settings","Configuración de Búsqueda",module,Magento_CatalogSearch
 Search,Search,module,Magento_CatalogSearch
-"Advanced Search","Advanced Search",module,Magento_CatalogSearch
+"Advanced Search","Busqueda Avanzada",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 item</strong> were found using the following search criteria",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> were found using the following search criteria",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.","We can't find any items matching these search criteria.",module,Magento_CatalogSearch
@@ -1319,8 +1319,8 @@ Next,Siguiente,module,Magento_Catalog
 "Items %1-%2 of %3","Items %1-%2 of %3",module,Magento_Catalog
 "%1 Item","%1 Item",module,Magento_Catalog
 "%1 Items","%1 Items",module,Magento_Catalog
-Show,Show,module,Magento_Catalog
-"per page","per page",module,Magento_Catalog
+Show,Mostrar,module,Magento_Catalog
+"per page","por página",module,Magento_Catalog
 "Sort By","Ordenar Por",module,Magento_Catalog
 "Set Ascending Direction","Establece Dirección Ascendente",module,Magento_Catalog
 "Set Descending Direction","Establece Dirección Descendente",module,Magento_Catalog
@@ -1348,57 +1348,57 @@ Applied,Aplicado,module,Magento_CheckoutAgreements
 "Store View","Vista de Tienda",module,Magento_CheckoutAgreements
 "Checkbox Text","Checkbox de Texto",module,Magento_CheckoutAgreements
 Content,Contenido,module,Magento_CheckoutAgreements
-"Content Height (css)","Content Height (css)",module,Magento_CheckoutAgreements
-"Content Height","Content Height",module,Magento_CheckoutAgreements
+"Content Height (css)","Altura del Contenido (css)",module,Magento_CheckoutAgreements
+"Content Height","Altura del Contenido",module,Magento_CheckoutAgreements
 ID,ID,module,Magento_CheckoutAgreements
-Condition,Condition,module,Magento_CheckoutAgreements
-Sales,Sales,module,Magento_CheckoutAgreements
-"Checkout Conditions","Checkout Conditions",module,Magento_CheckoutAgreements
-"Checkout Terms and Conditions","Checkout Terms and Conditions",module,Magento_CheckoutAgreements
-"This condition no longer exists.","This condition no longer exists.",module,Magento_CheckoutAgreements
-"You deleted the condition.","You deleted the condition.",module,Magento_CheckoutAgreements
-"Something went wrong  while deleting this condition.","Something went wrong  while deleting this condition.",module,Magento_CheckoutAgreements
-"Edit Condition","Edit Condition",module,Magento_CheckoutAgreements
-"New Condition","New Condition",module,Magento_CheckoutAgreements
-"You saved the condition.","You saved the condition.",module,Magento_CheckoutAgreements
-"Something went wrong while saving this condition.","Something went wrong while saving this condition.",module,Magento_CheckoutAgreements
-Automatically,Automatically,module,Magento_CheckoutAgreements
-Manually,Manually,module,Magento_CheckoutAgreements
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_CheckoutAgreements
-"Unable to save checkout agreement %1","Unable to save checkout agreement %1",module,Magento_CheckoutAgreements
-"Unable to remove checkout agreement %1","Unable to remove checkout agreement %1",module,Magento_CheckoutAgreements
-"Checkout agreement with specified ID ""%1"" not found.","Checkout agreement with specified ID ""%1"" not found.",module,Magento_CheckoutAgreements
-"Shopping Cart","Shopping Cart",module,Magento_Checkout
-"Invalid method: %1","Invalid method: %1",module,Magento_Checkout
-City,City,module,Magento_Checkout
-Country,Country,module,Magento_Checkout
-State/Province,State/Province,module,Magento_Checkout
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Checkout
-"My Cart (1 item)","My Cart (1 item)",module,Magento_Checkout
-"My Cart (%1 items)","My Cart (%1 items)",module,Magento_Checkout
-"My Cart","My Cart",module,Magento_Checkout
-"For delivery questions.","For delivery questions.",module,Magento_Checkout
-"Customer is already registered","Customer is already registered",module,Magento_Checkout
-"Your session has expired","Your session has expired",module,Magento_Checkout
-"A letter with further instructions will be sent to your email.","A letter with further instructions will be sent to your email.",module,Magento_Checkout
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_Checkout
-"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Checkout
-"Out of stock","Out of stock",module,Magento_Checkout
+Condition,Condición,module,Magento_CheckoutAgreements
+Sales,Ventas,module,Magento_CheckoutAgreements
+"Checkout Conditions","Condiciones de Pago",module,Magento_CheckoutAgreements
+"Checkout Terms and Conditions","Condiciones y Terminos de pago",module,Magento_CheckoutAgreements
+"This condition no longer exists.","Esta condición ya no existe.",module,Magento_CheckoutAgreements
+"You deleted the condition.","Eliminaste la condición.",module,Magento_CheckoutAgreements
+"Something went wrong  while deleting this condition.","Algo salió mal al eliminar esta condición.",module,Magento_CheckoutAgreements
+"Edit Condition","Editar la Condición",module,Magento_CheckoutAgreements
+"New Condition","Nueva Condición",module,Magento_CheckoutAgreements
+"You saved the condition.","Guardaste la condición.",module,Magento_CheckoutAgreements
+"Something went wrong while saving this condition.","Algo salió mal al guardar esta condición.",module,Magento_CheckoutAgreements
+Automatically,Automáticamente,module,Magento_CheckoutAgreements
+Manually,Manualmente,module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.","Por favor acepte todos los términos y condiciones antes de realizar el pedido.",module,Magento_CheckoutAgreements
+"Unable to save checkout agreement %1","No se puede guardar el acuerdo de pago %1",module,Magento_CheckoutAgreements
+"Unable to remove checkout agreement %1","No se puede eliminar el acuerdo de pago %1",module,Magento_CheckoutAgreements
+"Checkout agreement with specified ID ""%1"" not found.","Acuerdo de pago con ID especificado ""%1"" no encontrado.",module,Magento_CheckoutAgreements
+"Shopping Cart","Carro de Compras",module,Magento_Checkout
+"Invalid method: %1","Método inválido: %1",module,Magento_Checkout
+City,Ciudad,module,Magento_Checkout
+Country,País,module,Magento_Checkout
+State/Province,Estado/Provincia,module,Magento_Checkout
+"Zip/Postal Code","Código Postal",module,Magento_Checkout
+"My Cart (1 item)","Mi Carro (1 artículo)",module,Magento_Checkout
+"My Cart (%1 items)","Mi Carro (%1 artículos)",module,Magento_Checkout
+"My Cart","Mi Carro",module,Magento_Checkout
+"For delivery questions.","Para preguntas de entrega.",module,Magento_Checkout
+"Customer is already registered","Cliente ya está registrado",module,Magento_Checkout
+"Your session has expired","Su sesión ha caducado",module,Magento_Checkout
+"A letter with further instructions will be sent to your email.","Se enviará una carta con más instrucciones a su correo electrónico.",module,Magento_Checkout
+"You added %1 to your shopping cart.","Agregaste %1 a tu carro de compras.",module,Magento_Checkout
+"We can't add this item to your shopping cart right now.","No podemos agregar este producto a su carro de compras en este momento.",module,Magento_Checkout
+"Out of stock","Sin stock",module,Magento_Checkout
 "We can't find the quote item.","We can't find the quote item.",module,Magento_Checkout
-"We cannot configure the product.","We cannot configure the product.",module,Magento_Checkout
-"You used coupon code ""%1"".","You used coupon code ""%1"".",module,Magento_Checkout
-"The coupon code ""%1"" is not valid.","The coupon code ""%1"" is not valid.",module,Magento_Checkout
-"You canceled the coupon code.","You canceled the coupon code.",module,Magento_Checkout
-"We cannot apply the coupon code.","We cannot apply the coupon code.",module,Magento_Checkout
-"We can't remove the item.","We can't remove the item.",module,Magento_Checkout
+"We cannot configure the product.","No podemos configurar el producto.",module,Magento_Checkout
+"You used coupon code ""%1"".","Usaste el código de cupón ""%1"".",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","El código de cupón ""%1"" is not valid.",module,Magento_Checkout
+"You canceled the coupon code.","Usted canceló el código de cupón.",module,Magento_Checkout
+"We cannot apply the coupon code.","No podemos aplicar el código de cupón.",module,Magento_Checkout
+"We can't remove the item.","No podemos eliminar el elemento.",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 was updated in your shopping cart.",module,Magento_Checkout
 "We can't update the item right now.","We can't update the item right now.",module,Magento_Checkout
 "We can't update the shopping cart.","We can't update the shopping cart.",module,Magento_Checkout
 "One-page checkout is turned off.","One-page checkout is turned off.",module,Magento_Checkout
 "Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Checkout
 Checkout,Checkout,module,Magento_Checkout
-"Page not found.","Page not found.",module,Magento_Checkout
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Checkout
+"Page not found.","Página no encontrada.",module,Magento_Checkout
+"Please agree to all the terms and conditions before placing the order.","Por favor acepte todos los términos y condiciones antes de realizar el pedido.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Something went wrong while processing your order. Please try again later.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","Payment Method",module,Magento_Checkout
@@ -1765,10 +1765,10 @@ Cancel,Cancel,module,Magento_ConfigurableProduct
 "Regular Price","Regular Price",module,Magento_ConfigurableProduct
 "Page not found.","Page not found.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
-"* Required Fields","* Required Fields",module,Magento_Contact
-"Write Us","Write Us",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","No podemos procesar su solicitud en este momento. Lo sentimos.",module,Magento_Contact
+"* Required Fields","* Campos Requeridos",module,Magento_Contact
+"Write Us","Escribenos",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Envíenos una nota y nos pondremos en contacto con usted lo más rápido posible.",module,Magento_Contact
 Name,Nombre,module,Magento_Contact
 Email,Correo,module,Magento_Contact
 "Phone Number","Telefono",module,Magento_Contact
@@ -3380,7 +3380,7 @@ Sales,Sales,module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout and Order have been canceled.",module,Magento_Paypal
 "Express Checkout has been canceled.","Express Checkout has been canceled.",module,Magento_Paypal
 "Unable to cancel Express Checkout","Unable to cancel Express Checkout",module,Magento_Paypal
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Paypal
+"Please agree to all the terms and conditions before placing the order.","Por favor acepte todos los términos y condiciones antes de realizar el pedido.",module,Magento_Paypal
 "We can't place the order.","We can't place the order.",module,Magento_Paypal
 "We can't process Express Checkout approval.","We can't process Express Checkout approval.",module,Magento_Paypal
 "We can't initialize Express Checkout review.","We can't initialize Express Checkout review.",module,Magento_Paypal
@@ -5001,9 +5001,9 @@ Reports,Reports,module,Magento_Search
 Delete,Delete,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
 View/Edit,View/Edit,module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
-"There are no search terms available.","There are no search terms available.",module,Magento_Search
-"Account Activity","Account Activity",module,Magento_Security
+"Search entire store here...","Busca la tienda entera aquí...",module,Magento_Search
+"There are no search terms available.","No hay términos de búsqueda disponibles.",module,Magento_Search
+"Account Activity","Actividad de la Cuenta",module,Magento_Security
 "All other open sessions for this account were terminated.","All other open sessions for this account were terminated.",module,Magento_Security
 "We couldn't logout because of an error.","We couldn't logout because of an error.",module,Magento_Security
 "Someone logged into this account from another device or browser. Your current session is terminated.","Someone logged into this account from another device or browser. Your current session is terminated.",module,Magento_Security
