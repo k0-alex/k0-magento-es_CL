@@ -1946,12 +1946,12 @@ Download,Descarga,module,Magento_Customer
 "Account Information","Información de la Cuenta",module,Magento_Customer
 "You saved the account information.","Guardaste la información de la cuenta.",module,Magento_Customer
 "Invalid login or password.","Contraseña o Usuario Inválido.",module,Magento_Customer
-"Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
-"The password doesn't match this account.","The password doesn't match this account.",module,Magento_Customer
-"Please correct the email address.","Please correct the email address.",module,Magento_Customer
-"We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
-"Please enter your email.","Please enter your email.",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","La confirmación de la contraseña no coincide con la contraseña ingresada.",module,Magento_Customer
+"The password doesn't match this account.","La contraseña no coincide con esta cuenta.",module,Magento_Customer
+"Please correct the email address.","Por favor corrija la dirección de correo electrónico.",module,Magento_Customer
+"We're unable to send the password reset email.","No podemos enviar el correo electrónico de restablecimiento de contraseña.",module,Magento_Customer
+"Please enter your email.","Por favor ingrese su correo electrónico.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Si hay una cuenta asociada con %1, recibirá un correo electrónico con un enlace para restablecer su contraseña.",module,Magento_Customer
 "My Account","Mi Cuenta",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance.",module,Magento_Customer
@@ -2192,12 +2192,12 @@ Password,Contraseña,module,Magento_Customer
 "Confirm Password","Confirmar Contraseña",module,Magento_Customer
 "Create an Account","Crea una Cuenta",module,Magento_Customer
 "Set a New Password","Set a New Password",module,Magento_Customer
-"You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","Has salido y accederás a nuestra página principal en 5 segundos.",module,Magento_Customer
 "New Customers","Cliente Nuevo",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Crear una cuenta tiene muchos beneficios: retirar más rápido, mantener más de una dirección, seguir órdenes y más.",module,Magento_Customer
 Gender,Genero,module,Magento_Customer
 Name,Nombre,module,Magento_Customer
-"Tax/VAT number","Tax/VAT number",module,Magento_Customer
+"Tax/VAT number","Nro de R.U.T.",module,Magento_Customer
 "Cannot switch into given mode ""%1""","Cannot switch into given mode ""%1""",module,Magento_Deploy
 "Compilation from source: ","Compilation from source: ",module,Magento_Deploy
 "Wrong deploy strategy type: %1","Wrong deploy strategy type: %1",module,Magento_Deploy
@@ -4008,23 +4008,23 @@ Error,Error,module,Magento_Reports
 "Add to Compare","Agregar a Comparar",module,Magento_Reports
 "Recently Compared","Comparado Recientemente",module,Magento_Reports
 "Learn More","Aprende Más",module,Magento_Reports
-"Save Review","Guardar Revisión",module,Magento_Review
-"New Review","Nueva Revisión",module,Magento_Review
-"Review Details","Detalles de Revisión",module,Magento_Review
+"Save Review","Guardar Comentario",module,Magento_Review
+"New Review","Nuevo Comentario",module,Magento_Review
+"Review Details","Detalles de Comentario",module,Magento_Review
 Product,Producto,module,Magento_Review
 "Product Rating","Calificación de Producto",module,Magento_Review
 Status,Estado,module,Magento_Review
 Visibility,Visibilidad,module,Magento_Review
 Nickname,Apodo,module,Magento_Review
 "Summary of Review","Resumen de Revisión",module,Magento_Review
-Review,Revisión,module,Magento_Review
+Review,Comentario,module,Magento_Review
 Previous,Anterior,module,Magento_Review
 "Save and Previous","Guardar y Anterior",module,Magento_Review
 "Save and Next","Guardar y Siguiente",module,Magento_Review
 Next,Siguiente,module,Magento_Review
-"Delete Review","Quitar Revisión",module,Magento_Review
+"Delete Review","Quitar Comentario",module,Magento_Review
 "Are you sure you want to do this?","¿Seguro que quieres hacer esto?",module,Magento_Review
-"Edit Review '%1'","Editar Revisión '%1'",module,Magento_Review
+"Edit Review '%1'","Editar Comentario '%1'",module,Magento_Review
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
 Administrator,Administrador,module,Magento_Review
 Guest,Invitado,module,Magento_Review
@@ -4126,11 +4126,11 @@ Back,Atras,module,Magento_Review
 "Your Rating","Su Calificación",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 Summary,Resumen,module,Magento_Review
-"Submit Review","Enviar Revisión",module,Magento_Review
+"Submit Review","Enviar Comentario",module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
 "Add Your Review","Añada Su Reseña",module,Magento_Review
 "%1 Review(s)","%1 Reseña(s)",module,Magento_Review
-"Review by","Revisión por",module,Magento_Review
+"Review by","Comentado por",module,Magento_Review
 "Posted on","Publicado el",module,Magento_Review
 "Back to Main Product Info","Volver a Información Principal del Producto",module,Magento_Review
 "Average Customer Rating","Promedio Reseña de Cliente",module,Magento_Review
