@@ -777,7 +777,7 @@ Cancel,Cancelar,module,Magento_Catalog
 "Advanced Attribute Properties","Propiedades Avanzadas del Atributo",module,Magento_Catalog
 "Attribute Code","Código de Atributo",module,Magento_Catalog
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Catalog
-"Default Value","Valor por Defecto",module,Magento_Catalog
+"Default Value","Valor Predeterminado",module,Magento_Catalog
 "Unique Value","Valor único",module,Magento_Catalog
 "Unique Value (not shared with other products)","Valor único (no compartido con otros productos)",module,Magento_Catalog
 "Not shared with other products.","No compartido con otros productos.",module,Magento_Catalog
@@ -2123,7 +2123,7 @@ Customer,Cliente,module,Magento_Customer
 "Account Created on (%1):","Cuenta Creada en (%1):",module,Magento_Customer
 "Account Created in:","Cuenta Creada en:",module,Magento_Customer
 "Customer Group:","Grupo de Clientes:",module,Magento_Customer
-"Default Billing Address","Direccion de Facturacion por Defecto",module,Magento_Customer
+"Default Billing Address","Direccion de Facturacion Predeterminado",module,Magento_Customer
 "Sales Statistics","Estadísticas de Ventas",module,Magento_Customer
 "Web Site","Sitio Web",module,Magento_Customer
 Store,Tienda,module,Magento_Customer
@@ -2133,7 +2133,7 @@ Store,Tienda,module,Magento_Customer
 "All Store Views","Todas las vistas de Tienda",module,Magento_Customer
 Change,Cambio,module,Magento_Customer
 "Manage Addresses","Administrar Direcciones",module,Magento_Customer
-"Default Shipping Address","Dirección de Despacho por Defecto",module,Magento_Customer
+"Default Shipping Address","Dirección de Despacho Predeterminada",module,Magento_Customer
 "Contact Information","Información del Contacto",module,Magento_Customer
 "Change Password","Cambiar Contraseña",module,Magento_Customer
 Newsletters,Boletines,module,Magento_Customer
@@ -4300,90 +4300,90 @@ Inactive,Inactive,module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
 "Entity Sequence profile not added to meta active profile","Entity Sequence profile not added to meta active profile",module,Magento_SalesSequence
 "Not enough arguments","Not enough arguments",module,Magento_SalesSequence
-"Credit Memos","Credit Memos",module,Magento_Sales
-Orders,Orders,module,Magento_Sales
-Invoices,Invoices,module,Magento_Sales
-"We can't get the order instance right now.","We can't get the order instance right now.",module,Magento_Sales
-"Create New Order","Create New Order",module,Magento_Sales
-"Save Order Address","Save Order Address",module,Magento_Sales
-Shipping,Shipping,module,Magento_Sales
-Billing,Billing,module,Magento_Sales
-"Edit Order %1 %2 Address","Edit Order %1 %2 Address",module,Magento_Sales
-"Order Address Information","Order Address Information",module,Magento_Sales
-"Please correct the parent block for this block.","Please correct the parent block for this block.",module,Magento_Sales
-"Submit Comment","Submit Comment",module,Magento_Sales
-"Submit Order","Submit Order",module,Magento_Sales
-"Are you sure you want to cancel this order?","Are you sure you want to cancel this order?",module,Magento_Sales
-Cancel,Cancel,module,Magento_Sales
-"Billing Address","Billing Address",module,Magento_Sales
-"Payment Method","Payment Method",module,Magento_Sales
-"Order Comment","Order Comment",module,Magento_Sales
-Coupons,Coupons,module,Magento_Sales
-"Please select a customer","Please select a customer",module,Magento_Sales
-"Create New Customer","Create New Customer",module,Magento_Sales
-"Account Information","Account Information",module,Magento_Sales
-From,From,module,Magento_Sales
-To,To,module,Magento_Sales
-Message,Message,module,Magento_Sales
-"Edit Order #%1","Edit Order #%1",module,Magento_Sales
-"Create New Order for %1 in %2","Create New Order for %1 in %2",module,Magento_Sales
-"Create New Order in %1","Create New Order in %1",module,Magento_Sales
-"Create New Order for %1","Create New Order for %1",module,Magento_Sales
-"Create New Order for New Customer","Create New Order for New Customer",module,Magento_Sales
-"Items Ordered","Items Ordered",module,Magento_Sales
-"This product is disabled.","This product is disabled.",module,Magento_Sales
-"Buy %1 for price %2","Buy %1 for price %2",module,Magento_Sales
-"Item ordered qty","Item ordered qty",module,Magento_Sales
-"%1 with %2 discount each","%1 with %2 discount each",module,Magento_Sales
-"%1 for %2","%1 for %2",module,Magento_Sales
-"* - Enter custom price including tax","* - Enter custom price including tax",module,Magento_Sales
-"* - Enter custom price excluding tax","* - Enter custom price excluding tax",module,Magento_Sales
-Configure,Configure,module,Magento_Sales
-"This product does not have any configurable options","This product does not have any configurable options",module,Magento_Sales
+"Credit Memos","Notas de Credito",module,Magento_Sales
+Orders,Pedidos,module,Magento_Sales
+Invoices,Facturas,module,Magento_Sales
+"We can't get the order instance right now.","No podemos obtener la instancia de pedido en este momento.",module,Magento_Sales
+"Create New Order","Crear Nuevo Pedido",module,Magento_Sales
+"Save Order Address","Guardar Dirección de Pedido",module,Magento_Sales
+Shipping,Despacho,module,Magento_Sales
+Billing,Facturación,module,Magento_Sales
+"Edit Order %1 %2 Address","Editar Dirección %1 %2 Pedido",module,Magento_Sales
+"Order Address Information","Información de Dirección de Pedido",module,Magento_Sales
+"Please correct the parent block for this block.","Corrija el bloque primario para este bloque.",module,Magento_Sales
+"Submit Comment","Enviar Comentario",module,Magento_Sales
+"Submit Order","Enviar Pedido",module,Magento_Sales
+"Are you sure you want to cancel this order?","¿Seguro que quieres cancelar esta orden?",module,Magento_Sales
+Cancel,Cancelar,module,Magento_Sales
+"Billing Address","Dirección de Facturación",module,Magento_Sales
+"Payment Method","Método de Pago",module,Magento_Sales
+"Order Comment","Comentario de Pedido",module,Magento_Sales
+Coupons,Cupones,module,Magento_Sales
+"Please select a customer","Por favor seleccione un cliente",module,Magento_Sales
+"Create New Customer","Crear Nuevo Cliente",module,Magento_Sales
+"Account Information","Información de Cuenta",module,Magento_Sales
+From,De,module,Magento_Sales
+To,A,module,Magento_Sales
+Message,Mensaje,module,Magento_Sales
+"Edit Order #%1","Editar Pedido #%1",module,Magento_Sales
+"Create New Order for %1 in %2","Crear Nuevo Pedido para %1 en %2",module,Magento_Sales
+"Create New Order in %1","Crear Nuevo Pedido en %1",module,Magento_Sales
+"Create New Order for %1","Crear Nuevo Pedido para %1",module,Magento_Sales
+"Create New Order for New Customer","Crear Nuevo Pedido para Nuevo Cliente",module,Magento_Sales
+"Items Ordered","Productos Ordenados",module,Magento_Sales
+"This product is disabled.","Este producto está deshabilitado.",module,Magento_Sales
+"Buy %1 for price %2","Comprar %1 por precio %2",module,Magento_Sales
+"Item ordered qty","Producto ordenado por cantidad",module,Magento_Sales
+"%1 with %2 discount each","%1 con %2 cada descuento",module,Magento_Sales
+"%1 for %2","%1 para %2",module,Magento_Sales
+"* - Enter custom price including tax","* - Ingrese el precio personalizado, incluido el impuesto",module,Magento_Sales
+"* - Enter custom price excluding tax","* - Ingrese el precio personalizado, excluido el impuesto",module,Magento_Sales
+Configure,Configurar,module,Magento_Sales
+"This product does not have any configurable options","Este producto no tiene opciones configurables",module,Magento_Sales
 "Newsletter Subscription","Suscripciones a Boletines",module,Magento_Sales
-"Please select products","Please select products",module,Magento_Sales
-"Add Selected Product(s) to Order","Add Selected Product(s) to Order",module,Magento_Sales
+"Please select products","Por favor seleccione productos",module,Magento_Sales
+"Add Selected Product(s) to Order","Agregar Producto(s) Seleccionado al Pedido",module,Magento_Sales
 ID,ID,module,Magento_Sales
-Product,Product,module,Magento_Sales
+Product,Producto,module,Magento_Sales
 SKU,Código,module,Magento_Sales
-Price,Price,module,Magento_Sales
-Select,Select,module,Magento_Sales
-Quantity,Quantity,module,Magento_Sales
-"Shipping Address","Shipping Address",module,Magento_Sales
-"Shipping Method","Shipping Method",module,Magento_Sales
-"Update Changes","Update Changes",module,Magento_Sales
-"Shopping Cart","Shopping Cart",module,Magento_Sales
-"Are you sure you want to delete all items from shopping cart?","Are you sure you want to delete all items from shopping cart?",module,Magento_Sales
-"Clear Shopping Cart","Clear Shopping Cart",module,Magento_Sales
-"Products in Comparison List","Products in Comparison List",module,Magento_Sales
-"Recently Compared Products","Recently Compared Products",module,Magento_Sales
-"Recently Viewed Products","Recently Viewed Products",module,Magento_Sales
-"Last Ordered Items","Last Ordered Items",module,Magento_Sales
-"Recently Viewed","Recently Viewed",module,Magento_Sales
-"Wish List","Wish List",module,Magento_Sales
-"Please select a store","Please select a store",module,Magento_Sales
-"Order Totals","Order Totals",module,Magento_Sales
-"Shipping Incl. Tax (%1)","Shipping Incl. Tax (%1)",module,Magento_Sales
-"Shipping Excl. Tax (%1)","Shipping Excl. Tax (%1)",module,Magento_Sales
-"New Credit Memo for Invoice #%1","New Credit Memo for Invoice #%1",module,Magento_Sales
-"New Credit Memo for Order #%1","New Credit Memo for Order #%1",module,Magento_Sales
-"Refund Shipping (Incl. Tax)","Refund Shipping (Incl. Tax)",module,Magento_Sales
-"Refund Shipping (Excl. Tax)","Refund Shipping (Excl. Tax)",module,Magento_Sales
-"Refund Shipping","Refund Shipping",module,Magento_Sales
-"Update Qty's","Update Qty's",module,Magento_Sales
-Refund,Refund,module,Magento_Sales
-"Refund Offline","Refund Offline",module,Magento_Sales
-"Paid Amount","Paid Amount",module,Magento_Sales
-"Refund Amount","Refund Amount",module,Magento_Sales
-"Shipping Amount","Shipping Amount",module,Magento_Sales
-"Shipping Refund","Shipping Refund",module,Magento_Sales
-"Order Grand Total","Order Grand Total",module,Magento_Sales
-"Adjustment Refund","Adjustment Refund",module,Magento_Sales
-"Adjustment Fee","Adjustment Fee",module,Magento_Sales
-"Send Email","Send Email",module,Magento_Sales
-"Are you sure you want to send a credit memo email to customer?","Are you sure you want to send a credit memo email to customer?",module,Magento_Sales
-Void,Void,module,Magento_Sales
-Print,Print,module,Magento_Sales
+Price,Precio,module,Magento_Sales
+Select,Seleccionar,module,Magento_Sales
+Quantity,Cantidad,module,Magento_Sales
+"Shipping Address","Dirección de Despacho",module,Magento_Sales
+"Shipping Method","Metodo de Despacho",module,Magento_Sales
+"Update Changes","Actualizar Cambios",module,Magento_Sales
+"Shopping Cart","Carro de Compra",module,Magento_Sales
+"Are you sure you want to delete all items from shopping cart?","¿Seguro que quieres quitar todos los productos del carro de compra?",module,Magento_Sales
+"Clear Shopping Cart","Limpiar Carro de Compra",module,Magento_Sales
+"Products in Comparison List","Productos en La Lista de Comparación",module,Magento_Sales
+"Recently Compared Products","Productos Recientemente Comparados",module,Magento_Sales
+"Recently Viewed Products","Productos Vistos Recientemente",module,Magento_Sales
+"Last Ordered Items","Últimos Productos Ordenados",module,Magento_Sales
+"Recently Viewed","Visto Recientemente",module,Magento_Sales
+"Wish List","Lista de Deseo",module,Magento_Sales
+"Please select a store","Por favor seleccione una tienda",module,Magento_Sales
+"Order Totals","Totales del Pedido",module,Magento_Sales
+"Shipping Incl. Tax (%1)","Despacho con Impuesto (%1)",module,Magento_Sales
+"Shipping Excl. Tax (%1)","Despacho sin Impuesto (%1)",module,Magento_Sales
+"New Credit Memo for Invoice #%1","Nueva Nota de Crédito para Factura #%1",module,Magento_Sales
+"New Credit Memo for Order #%1","Nueva Nota de Crédito para Pedido #%1",module,Magento_Sales
+"Refund Shipping (Incl. Tax)","Reembolso de Despacho (con Impuesto)",module,Magento_Sales
+"Refund Shipping (Excl. Tax)","Reembolso de Despacho (sin Impuesto)",module,Magento_Sales
+"Refund Shipping","Reembolso de Despacho",module,Magento_Sales
+"Update Qty's","Actualizar Cantidades",module,Magento_Sales
+Refund,Reembolso,module,Magento_Sales
+"Refund Offline","Reembolso Fuera de Linea",module,Magento_Sales
+"Paid Amount","Monto de Pago",module,Magento_Sales
+"Refund Amount","Monto de Reembolso",module,Magento_Sales
+"Shipping Amount","Monto de Despacho",module,Magento_Sales
+"Shipping Refund","Reembolso de Despacho",module,Magento_Sales
+"Order Grand Total","Total del Pedido",module,Magento_Sales
+"Adjustment Refund","Ajuste de Reembolso",module,Magento_Sales
+"Adjustment Fee","Ajuste de Tasa",module,Magento_Sales
+"Send Email","Enviar Correo",module,Magento_Sales
+"Are you sure you want to send a credit memo email to customer?","¿Está seguro de que desea enviar un correo electrónico de nota de crédito al cliente?",module,Magento_Sales
+Void,Vacio,module,Magento_Sales
+Print,Imprimir,module,Magento_Sales
 "The credit memo email was sent.","The credit memo email was sent.",module,Magento_Sales
 "The credit memo email wasn't sent.","The credit memo email wasn't sent.",module,Magento_Sales
 "Credit Memo #%1 | %3 | %2 (%4)","Credit Memo #%1 | %3 | %2 (%4)",module,Magento_Sales
@@ -4462,14 +4462,14 @@ Any,Any,module,Magento_Sales
 Specified,Specified,module,Magento_Sales
 "Applies to Any of the Specified Order Statuses except canceled orders","Applies to Any of the Specified Order Statuses except canceled orders",module,Magento_Sales
 "Cart Price Rule","Cart Price Rule",module,Magento_Sales
-Yes,Yes,module,Magento_Sales
+Yes,Si,module,Magento_Sales
 No,No,module,Magento_Sales
 "Show Actual Values","Show Actual Values",module,Magento_Sales
 "New Order RSS","New Order RSS",module,Magento_Sales
 Subtotal,Subtotal,module,Magento_Sales
 "Shipping & Handling","Shipping & Handling",module,Magento_Sales
-"Discount (%1)","Discount (%1)",module,Magento_Sales
-Discount,Discount,module,Magento_Sales
+"Discount (%1)","Descuento (%1)",module,Magento_Sales
+Discount,Descuento,module,Magento_Sales
 "Grand Total","Grand Total",module,Magento_Sales
 Back,Back,module,Magento_Sales
 Fetch,Fetch,module,Magento_Sales
