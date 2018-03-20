@@ -2187,8 +2187,8 @@ Password,Contraseña,module,Magento_Customer
 "Subscription option","Opción de Suscripción",module,Magento_Customer
 "General Subscription","Suscripción General",module,Magento_Customer
 "Sign Up for Newsletter","Suscríbete al Boletín",module,Magento_Customer
-"Address Information","Address Information",module,Magento_Customer
-"Sign-in Information","Sign-in Information",module,Magento_Customer
+"Address Information","Información de Domicilio",module,Magento_Customer
+"Sign-in Information","Información de Inicio Sesión",module,Magento_Customer
 "Confirm Password","Confirmar Contraseña",module,Magento_Customer
 "Create an Account","Crea una Cuenta",module,Magento_Customer
 "Set a New Password","Set a New Password",module,Magento_Customer
@@ -4692,11 +4692,11 @@ Number,Number,module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array.",module,Magento_Sales
 Products,Products,module,Magento_Sales
 "Total (ex)","Total (ex)",module,Magento_Sales
-Qty,Qty,module,Magento_Sales
-Tax,Tax,module,Magento_Sales
+Qty,Cantidad,module,Magento_Sales
+Tax,Impuesto,module,Magento_Sales
 "Total (inc)","Total (inc)",module,Magento_Sales
-"Credit Memo # ","Credit Memo # ",module,Magento_Sales
-"Invoice # ","Invoice # ",module,Magento_Sales
+"Credit Memo # ","Nota de Credito # ",module,Magento_Sales
+"Invoice # ","Factura # ",module,Magento_Sales
 "The order object is not specified.","The order object is not specified.",module,Magento_Sales
 "The source object is not specified.","The source object is not specified.",module,Magento_Sales
 "An item object is not specified.","An item object is not specified.",module,Magento_Sales
@@ -4905,8 +4905,8 @@ Items,Items,module,Magento_Sales
 "Tracking Number","Tracking Number",module,Magento_Sales
 "Billing Last Name","Apellido de Facturación",module,Magento_Sales
 "Find Order By","Buscar Pedido Por",module,Magento_Sales
-"ZIP Code","ZIP Code",module,Magento_Sales
-"Billing ZIP Code","Billing ZIP Code",module,Magento_Sales
+"ZIP Code","Código Postal",module,Magento_Sales
+"Billing ZIP Code","Código Postal de Facturación",module,Magento_Sales
 Continue,Continue,module,Magento_Sales
 "Print All Refunds","Print All Refunds",module,Magento_Sales
 "Refund #","Refund #",module,Magento_Sales
@@ -5134,7 +5134,7 @@ Girth,Girth,module,Magento_Shipping
 Product,Product,module,Magento_Shipping
 Weight,Weight,module,Magento_Shipping
 "Qty Ordered","Qty Ordered",module,Magento_Shipping
-Qty,Qty,module,Magento_Shipping
+Qty,Cantidad,module,Magento_Shipping
 "No detail for number ""%1""","No detail for number ""%1""",module,Magento_Shipping
 "Shipping labels is not available.","Shipping labels is not available.",module,Magento_Shipping
 "Response info is not exist.","Response info is not exist.",module,Magento_Shipping
@@ -6512,9 +6512,9 @@ Close,Close,lib,lib/web/mage/translate-inline.js
 "Please enter a valid zip code.","Please enter a valid zip code.",lib,lib/web/mage/validation.js
 "Please select one of the options above.","Please select one of the options above.",lib,lib/web/mage/validation.js
 "Please select State/Province.","Please select State/Province.",lib,lib/web/mage/validation.js
-"Please select a file.","Please select a file.",lib,lib/web/mage/validation.js
-"The field isn't complete.","The field isn't complete.",lib,lib/web/mage/validation.js
-"This is a required field.","This is a required field.",lib,lib/web/mage/validation.js
+"Please select a file.","Por favor, seleccione un archivo.",lib,lib/web/mage/validation.js
+"The field isn't complete.","Este dato no esta completo.",lib,lib/web/mage/validation.js
+"This is a required field.","Este es un dato obligatorio.",lib,lib/web/mage/validation.js
 "Please select one of the options.","Please select one of the options.",lib,lib/web/mage/validation.js
 "Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s.",lib,lib/web/mage/validation.js
 "Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s.",lib,lib/web/mage/validation.js
@@ -6547,7 +6547,7 @@ Close,Close,lib,lib/web/mage/translate-inline.js
 "Please specify the quantity of product(s).","Please specify the quantity of product(s).",lib,lib/web/mage/validation/validation.js
 "Please select one of the options.","Please select one of the options.",lib,lib/web/mage/validation/validation.js
 "Please enter a date between %min and %max.","Please enter a date between %min and %max.",lib,lib/web/mage/validation/validation.js
-"This is a required field.","This is a required field.",lib,lib/web/mage/validation/validation.js
+"This is a required field.","Este es un dato obligatorio.",lib,lib/web/mage/validation/validation.js
 "Please enter a valid full date.","Please enter a valid full date.",lib,lib/web/mage/validation/validation.js
 "Please enter a valid month (1-12).","Please enter a valid month (1-12).",lib,lib/web/mage/validation/validation.js
 "Please enter a valid year (1900-%1).","Please enter a valid year (1900-%1).",lib,lib/web/mage/validation/validation.js
@@ -6746,7 +6746,7 @@ Keyword,Keyword,module,Magento_Ui
 "Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",module,Magento_Ui
 "Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.",module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",module,Magento_Ui
-"This is a required field.","This is a required field.",module,Magento_Ui
+"This is a required field.","Este es un dato obligatorio.",module,Magento_Ui
 "Please enter positive number in this field.","Please enter positive number in this field.",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30",module,Magento_Ui
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Ui
@@ -7115,9 +7115,9 @@ Apply,Apply,module,Magento_CatalogRule
 "Discard subsequent rules","Discard subsequent rules",module,Magento_CatalogRule
 Yes,Yes,module,Magento_CatalogRule
 No,No,module,Magento_CatalogRule
-"Catalog Section","Catalog Section",module,Magento_CatalogSearch
-"Catalog Search","Catalog Search",module,Magento_CatalogSearch
-"Popular Search Terms","Popular Search Terms",module,Magento_CatalogSearch
+"Catalog Section","Sección de Catálogo",module,Magento_CatalogSearch
+"Catalog Search","Búsqueda de Catálogo",module,Magento_CatalogSearch
+"Popular Search Terms","Términos de Búsqueda Populares",module,Magento_CatalogSearch
 "Minimal Query Length","Minimal Query Length",module,Magento_CatalogSearch
 "Maximum Query Length","Maximum Query Length",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Rebuild Catalog product fulltext search index",module,Magento_CatalogSearch
