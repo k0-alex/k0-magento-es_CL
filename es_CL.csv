@@ -1433,10 +1433,10 @@ Error!,Error!,module,Magento_Checkout
 "DB exception","DB exception",module,Magento_Checkout
 Message,Message,module,Magento_Checkout
 "Print receipt","Print receipt",module,Magento_Checkout
-"Apply Discount Code","Apply Discount Code",module,Magento_Checkout
-"Enter discount code","Enter discount code",module,Magento_Checkout
-"Apply Discount","Apply Discount",module,Magento_Checkout
-"Cancel Coupon","Cancel Coupon",module,Magento_Checkout
+"Apply Discount Code","Aplica Código de Descuento",module,Magento_Checkout
+"Enter discount code","Ingrese código de descuento",module,Magento_Checkout
+"Apply Discount","Aplicar Descuento",module,Magento_Checkout
+"Cancel Coupon","Cancelar Cupon",module,Magento_Checkout
 "Shopping Cart Items","Productos del Carro de Compras",module,Magento_Checkout
 Item,Productos,module,Magento_Checkout
 Price,Precio,module,Magento_Checkout
@@ -1546,7 +1546,7 @@ Pages,Pages,module,Magento_Cms
 "We cannot delete directory %1.","We cannot delete directory %1.",module,Magento_Cms
 "We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","Privacidad y Política de Cookies",module,Magento_Cms
 LocalizedException,LocalizedException,module,Magento_Cms
 RuntimeException,RuntimeException,module,Magento_Cms
 Exception,Exception,module,Magento_Cms
@@ -3777,11 +3777,11 @@ Title:,Título:,module,Magento_ProductVideo
 Uploaded:,Uploaded:,module,Magento_ProductVideo
 Uploader:,Uploader:,module,Magento_ProductVideo
 Duration:,Duration:,module,Magento_ProductVideo
-"Unable to save address. Please check input data.","Unable to save address. Please check input data.",module,Magento_Quote
-"Cart %1 doesn't contain products","Cart %1 doesn't contain products",module,Magento_Quote
-"Could not apply coupon code","Could not apply coupon code",module,Magento_Quote
-"Coupon code is not valid","Coupon code is not valid",module,Magento_Quote
-"Could not delete coupon code","Could not delete coupon code",module,Magento_Quote
+"Unable to save address. Please check input data.","No se puede guardar la dirección. Por favor verifique los datos ingresados.",module,Magento_Quote
+"Cart %1 doesn't contain products","Carro %1 no contiene productos",module,Magento_Quote
+"Could not apply coupon code","No se pudo aplicar el código de cupón",module,Magento_Quote
+"Coupon code is not valid","El código de cupón no es válido",module,Magento_Quote
+"Could not delete coupon code","No se pudo eliminar el código de cupón",module,Magento_Quote
 "Cannot assign customer to the given cart. You don't have permission for this operation.","Cannot assign customer to the given cart. You don't have permission for this operation.",module,Magento_Quote
 "Shipping address is not set","Shipping address is not set",module,Magento_Quote
 "The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_Quote
@@ -4452,14 +4452,14 @@ Reorder,Reorder,module,Magento_Sales
 "Comments History","Comments History",module,Magento_Sales
 "Order History","Order History",module,Magento_Sales
 Information,Information,module,Magento_Sales
-"Order Information","Order Information",module,Magento_Sales
-"Order Invoices","Order Invoices",module,Magento_Sales
-Shipments,Shipments,module,Magento_Sales
-"Order Shipments","Order Shipments",module,Magento_Sales
-Transactions,Transactions,module,Magento_Sales
-"Order View","Order View",module,Magento_Sales
-Any,Any,module,Magento_Sales
-Specified,Specified,module,Magento_Sales
+"Order Information","Información de Pedido",module,Magento_Sales
+"Order Invoices","Facturas de Pedido",module,Magento_Sales
+Shipments,Despachos,module,Magento_Sales
+"Order Shipments","Despacho de Pedidos",module,Magento_Sales
+Transactions,Transacciones,module,Magento_Sales
+"Order View","Ver Pedidos",module,Magento_Sales
+Any,Todos,module,Magento_Sales
+Specified,Especificado,module,Magento_Sales
 "Applies to Any of the Specified Order Statuses except canceled orders","Applies to Any of the Specified Order Statuses except canceled orders",module,Magento_Sales
 "Cart Price Rule","Cart Price Rule",module,Magento_Sales
 Yes,Si,module,Magento_Sales
@@ -4467,16 +4467,16 @@ No,No,module,Magento_Sales
 "Show Actual Values","Show Actual Values",module,Magento_Sales
 "New Order RSS","New Order RSS",module,Magento_Sales
 Subtotal,Subtotal,module,Magento_Sales
-"Shipping & Handling","Shipping & Handling",module,Magento_Sales
+"Shipping & Handling","Despacho y Manipulación",module,Magento_Sales
 "Discount (%1)","Descuento (%1)",module,Magento_Sales
 Discount,Descuento,module,Magento_Sales
-"Grand Total","Grand Total",module,Magento_Sales
-Back,Back,module,Magento_Sales
-Fetch,Fetch,module,Magento_Sales
-"Transaction # %1 | %2","Transaction # %1 | %2",module,Magento_Sales
+"Grand Total","Total Final",module,Magento_Sales
+Back,Atras,module,Magento_Sales
+Fetch,Recuperar,module,Magento_Sales
+"Transaction # %1 | %2","Transaccion # %1 | %2",module,Magento_Sales
 N/A,N/A,module,Magento_Sales
 Key,Key,module,Magento_Sales
-Value,Value,module,Magento_Sales
+Value,Valor,module,Magento_Sales
 "We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
 "Order # %1","Order # %1",module,Magento_Sales
 "Back to My Orders","Volver a Mis Ordenes",module,Magento_Sales
@@ -4579,15 +4579,15 @@ Sales,Ventas,module,Magento_Sales
 "Please correct the transaction ID and try again.","Please correct the transaction ID and try again.",module,Magento_Sales
 "The transaction details have been updated.","The transaction details have been updated.",module,Magento_Sales
 "We can't update the transaction details.","We can't update the transaction details.",module,Magento_Sales
-"Orders and Returns","Orders and Returns",module,Magento_Sales
-Home,Home,module,Magento_Sales
-"Go to Home Page","Go to Home Page",module,Magento_Sales
-"You entered incorrect data. Please try again.","You entered incorrect data. Please try again.",module,Magento_Sales
+"Orders and Returns","Pedidos y Devoluciones",module,Magento_Sales
+Home,Inicio,module,Magento_Sales
+"Go to Home Page","Ir a Página de Inicio",module,Magento_Sales
+"You entered incorrect data. Please try again.","Usted ingresó datos incorrectos. Inténtalo de nuevo.",module,Magento_Sales
 "We can't find this wish list.","We can't find this wish list.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","We could not add a product to cart by the ID ""%1"".",module,Magento_Sales
 "There is an error in one of the option rows.","There is an error in one of the option rows.",module,Magento_Sales
-"Shipping Address: ","Shipping Address: ",module,Magento_Sales
-"Billing Address: ","Billing Address: ",module,Magento_Sales
+"Shipping Address: ","Dirección de Despacho: ",module,Magento_Sales
+"Billing Address: ","Dirección de Facturación: ",module,Magento_Sales
 "Please specify order items.","Please specify order items.",module,Magento_Sales
 "Please specify a shipping method.","Please specify a shipping method.",module,Magento_Sales
 "Please specify a payment method.","Please specify a payment method.",module,Magento_Sales
@@ -4893,9 +4893,9 @@ Comment,Comment,module,Magento_Sales
 "Transaction Data","Transaction Data",module,Magento_Sales
 "Transaction ID","Transaction ID",module,Magento_Sales
 "Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
-"Order ID","Order ID",module,Magento_Sales
-"Transaction Type","Transaction Type",module,Magento_Sales
-"Is Closed","Is Closed",module,Magento_Sales
+"Order ID","ID de Pedido",module,Magento_Sales
+"Transaction Type","Tipo de Transaccion",module,Magento_Sales
+"Is Closed","Esta Cerrado",module,Magento_Sales
 "Created At","Created At",module,Magento_Sales
 "Child Transactions","Child Transactions",module,Magento_Sales
 "Transaction Details","Transaction Details",module,Magento_Sales
@@ -4903,8 +4903,8 @@ Items,Items,module,Magento_Sales
 "Gift Message for this Order","Gift Message for this Order",module,Magento_Sales
 "Shipped By","Shipped By",module,Magento_Sales
 "Tracking Number","Tracking Number",module,Magento_Sales
-"Billing Last Name","Billing Last Name",module,Magento_Sales
-"Find Order By","Find Order By",module,Magento_Sales
+"Billing Last Name","Apellido de Facturación",module,Magento_Sales
+"Find Order By","Buscar Pedido Por",module,Magento_Sales
 "ZIP Code","ZIP Code",module,Magento_Sales
 "Billing ZIP Code","Billing ZIP Code",module,Magento_Sales
 Continue,Continue,module,Magento_Sales
@@ -4939,7 +4939,7 @@ Search,Buscar,module,Magento_Sales
 "Search Term","Terminos de Busqueda",module,Magento_Search
 Results,Resultados,module,Magento_Search
 Uses,Usos,module,Magento_Search
-"Search Terms","Search Terms",module,Magento_Search
+"Search Terms","Términos de Búsqueda",module,Magento_Search
 "Search Synonyms","Search Synonyms",module,Magento_Search
 "New Synonym Group","New Synonym Group",module,Magento_Search
 Back,Back,module,Magento_Search
@@ -7399,8 +7399,8 @@ Scope,Scope,module,Magento_ConfigurableProduct
 Searchable,Searchable,module,Magento_ConfigurableProduct
 Comparable,Comparable,module,Magento_ConfigurableProduct
 "Contacts Section","Contacts Section",module,Magento_Contact
-Contacts,Contacts,module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
+Contacts,Contactos,module,Magento_Contact
+"Contact Us","Contáctenos",module,Magento_Contact
 "Enable Contact Us","Enable Contact Us",module,Magento_Contact
 "Email Options","Email Options",module,Magento_Contact
 "Send Emails To","Send Emails To",module,Magento_Contact
@@ -8361,7 +8361,7 @@ Shipment,Shipment,module,Magento_Sales
 "Display Order ID in Header","Display Order ID in Header",module,Magento_Sales
 "Customer Order Status Notification","Customer Order Status Notification",module,Magento_Sales
 "Asynchronous indexing","Asynchronous indexing",module,Magento_Sales
-"Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Sales
+"Orders and Returns Search Form","Formulario Búsqueda de Pedidos y Devoluciones",module,Magento_Sales
 "Anchor Custom Title","Anchor Custom Title",module,Magento_Sales
 Template,Template,module,Magento_Sales
 "Default Template","Default Template",module,Magento_Sales
@@ -8705,8 +8705,8 @@ Name,Name,module,Magento_Variable
 "Display Prices In Emails","Display Prices In Emails",module,Magento_Weee
 "Apply Tax To FPT","Apply Tax To FPT",module,Magento_Weee
 "Include FPT In Subtotal","Include FPT In Subtotal",module,Magento_Weee
-"Orders and Returns","Orders and Returns",module,Magento_Widget
-"Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Widget
+"Orders and Returns","Pedidos y Devoluciones",module,Magento_Widget
+"Orders and Returns Search Form","Formulario Búsqueda de Pedidos y Devoluciones",module,Magento_Widget
 "Anchor Custom Title","Anchor Custom Title",module,Magento_Widget
 "CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Widget
 "CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_Widget
