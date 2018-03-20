@@ -756,8 +756,8 @@ Position,Posición,module,Magento_Catalog
 Day,Día,module,Magento_Catalog
 Month,Mes,module,Magento_Catalog
 Year,Año,module,Magento_Catalog
-"<label class=""label""><span>from</span></label>","<label class=""label""><span>from</span></label>",module,Magento_Catalog
-"<label class=""label""><span>to</span></label>","<label class=""label""><span>to</span></label>",module,Magento_Catalog
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>de</span></label>",module,Magento_Catalog
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>a</span></label>",module,Magento_Catalog
 [GLOBAL],[GLOBAL],module,Magento_Catalog
 [WEBSITE],[WEBSITE],module,Magento_Catalog
 "[STORE VIEW]","[VISTA DE TIENDA]",module,Magento_Catalog
@@ -1384,7 +1384,7 @@ State/Province,Estado/Provincia,module,Magento_Checkout
 "You added %1 to your shopping cart.","Agregaste %1 a tu carro de compras.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","No podemos agregar este producto a su carro de compras en este momento.",module,Magento_Checkout
 "Out of stock","Sin stock",module,Magento_Checkout
-"We can't find the quote item.","We can't find the quote item.",module,Magento_Checkout
+"We can't find the quote item.","No podemos encontrar el elemento del producto.",module,Magento_Checkout
 "We cannot configure the product.","No podemos configurar el producto.",module,Magento_Checkout
 "You used coupon code ""%1"".","Usaste el código de cupón ""%1"".",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","El código de cupón ""%1"" is not valid.",module,Magento_Checkout
@@ -1437,8 +1437,8 @@ Message,Message,module,Magento_Checkout
 "Enter discount code","Enter discount code",module,Magento_Checkout
 "Apply Discount","Apply Discount",module,Magento_Checkout
 "Cancel Coupon","Cancel Coupon",module,Magento_Checkout
-"Shopping Cart Items","Shopping Cart Items",module,Magento_Checkout
-Item,Artículo,module,Magento_Checkout
+"Shopping Cart Items","Productos del Carro de Compras",module,Magento_Checkout
+Item,Productos,module,Magento_Checkout
 Price,Precio,module,Magento_Checkout
 Qty,Cantidad,module,Magento_Checkout
 Subtotal,Subtotal,module,Magento_Checkout
@@ -1452,7 +1452,7 @@ Subtotal,Subtotal,module,Magento_Checkout
 Edit,Editar,module,Magento_Checkout
 "Remove item","Quitar Producto",module,Magento_Checkout
 "You have no items in your shopping cart.","No tiene productos en su carro de compras.",module,Magento_Checkout
-"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> para continuar comprando.",module,Magento_Checkout
 "Estimate Tax","Impuesto Estimado",module,Magento_Checkout
 "Estimate Shipping and Tax","Envío e Impuesto Estimado",module,Magento_Checkout
 "Excl. Tax","Excl. Tax",module,Magento_Checkout
@@ -5049,15 +5049,15 @@ Exception.,Exception.,module,Magento_SendFriend
 "Remove Recipent","Remove Recipent",module,Magento_SendFriend
 Remove,Remove,module,Magento_SendFriend
 Name,Name,module,Magento_SendFriend
-Email,Email,module,Magento_SendFriend
-"* Required Fields","* Required Fields",module,Magento_SendFriend
-Sender,Sender,module,Magento_SendFriend
-Message,Message,module,Magento_SendFriend
-Invitee,Invitee,module,Magento_SendFriend
-"Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_SendFriend
-"Add Invitee","Add Invitee",module,Magento_SendFriend
-"Send Email","Send Email",module,Magento_SendFriend
-Back,Back,module,Magento_SendFriend
+Email,Correo,module,Magento_SendFriend
+"* Required Fields","* Campos Requeridos",module,Magento_SendFriend
+Sender,Remitente,module,Magento_SendFriend
+Message,Mensaje,module,Magento_SendFriend
+Invitee,Invitado,module,Magento_SendFriend
+"Maximum %1 email addresses allowed.","Máximo %1 direcciones de correo permitidos.",module,Magento_SendFriend
+"Add Invitee","Agregar Invitado",module,Magento_SendFriend
+"Send Email","Enviar Correo",module,Magento_SendFriend
+Back,Atras,module,Magento_SendFriend
 "New Shipment for Order #%1","Nuevo Despacho para Pedido #%1",module,Magento_Shipping
 "Submit Shipment","Enviar Despacho",module,Magento_Shipping
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Está intentando agregar una cantidad para algunos productos que no coincide con la cantidad que se despacho.",module,Magento_Shipping
@@ -6585,9 +6585,9 @@ Close,Cerrado,module,Magento_CheckoutAgreements
 " Example: "," Ejemplo: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","¿Estás seguro de que deseas eliminar este artículo del carro de compras?",module,Magento_Checkout
-"Review & Payments","Review & Payments",module,Magento_Checkout
-"Select a new payment method","Select a new payment method",module,Magento_Checkout
-Shipping,Shipping,module,Magento_Checkout
+"Review & Payments","Revisión y Pagos",module,Magento_Checkout
+"Select a new payment method","Seleccione un nuevo método de pago",module,Magento_Checkout
+Shipping,Despacho,module,Magento_Checkout
 "Save Address","Guardar Dirección",module,Magento_Checkout
 "Please specify a shipping method.","Por favor especifíque un método de despacho.",module,Magento_Checkout
 "We could not detect a size.","We could not detect a size.",module,Magento_Cms
@@ -7385,7 +7385,7 @@ Dashboard,Dashboard,module,Magento_Config
 "Developer Section","Developer Section",module,Magento_Config
 "Web Section","Web Section",module,Magento_Config
 "Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
-"Email to a Friend","Email to a Friend",module,Magento_Config
+"Email to a Friend","Enviar un Correo a un Amigo",module,Magento_Config
 "Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
 Select...,Select...,module,Magento_ConfigurableProduct
 ID,ID,module,Magento_ConfigurableProduct
@@ -8427,8 +8427,8 @@ Website,Website,module,Magento_Search
 "Limit the number of password reset request per hour. Use 0 to disable.","Limit the number of password reset request per hour. Use 0 to disable.",module,Magento_Security
 "Min Time Between Password Reset Requests","Min Time Between Password Reset Requests",module,Magento_Security
 "Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable.",module,Magento_Security
-"Email to a Friend","Email to a Friend",module,Magento_SendFriend
-"Email Templates","Email Templates",module,Magento_SendFriend
+"Email to a Friend","Enviar un Correo a un Amigo",module,Magento_SendFriend
+"Email Templates","Plantillas de Correo",module,Magento_SendFriend
 Enabled,Enabled,module,Magento_SendFriend
 "Select Email Template","Select Email Template",module,Magento_SendFriend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_SendFriend
