@@ -4376,7 +4376,7 @@ Refund,Reembolso,module,Magento_Sales
 "Paid Amount","Monto de Pago",module,Magento_Sales
 "Refund Amount","Monto de Reembolso",module,Magento_Sales
 "Shipping Amount","Monto de Despacho",module,Magento_Sales
-"Shipping Refund","Reembolso de Despacho",module,Magento_Sales
+"Shipping Refund","Despacho de Reembolso",module,Magento_Sales
 "Order Grand Total","Total del Pedido",module,Magento_Sales
 "Adjustment Refund","Ajuste de Reembolso",module,Magento_Sales
 "Adjustment Fee","Ajuste de Tasa",module,Magento_Sales
@@ -4384,59 +4384,59 @@ Refund,Reembolso,module,Magento_Sales
 "Are you sure you want to send a credit memo email to customer?","¿Está seguro de que desea enviar un correo electrónico de nota de crédito al cliente?",module,Magento_Sales
 Void,Vacio,module,Magento_Sales
 Print,Imprimir,module,Magento_Sales
-"The credit memo email was sent.","The credit memo email was sent.",module,Magento_Sales
-"The credit memo email wasn't sent.","The credit memo email wasn't sent.",module,Magento_Sales
-"Credit Memo #%1 | %3 | %2 (%4)","Credit Memo #%1 | %3 | %2 (%4)",module,Magento_Sales
-"Total Refund","Total Refund",module,Magento_Sales
-"New Invoice and Shipment for Order #%1","New Invoice and Shipment for Order #%1",module,Magento_Sales
-"New Invoice for Order #%1","New Invoice for Order #%1",module,Magento_Sales
-"Submit Invoice and Shipment","Submit Invoice and Shipment",module,Magento_Sales
-"Submit Invoice","Submit Invoice",module,Magento_Sales
-"Are you sure you want to send an invoice email to customer?","Are you sure you want to send an invoice email to customer?",module,Magento_Sales
-"Credit Memo","Credit Memo",module,Magento_Sales
-Capture,Capture,module,Magento_Sales
-"The invoice email was sent.","The invoice email was sent.",module,Magento_Sales
-"The invoice email wasn't sent.","The invoice email wasn't sent.",module,Magento_Sales
-"Invoice #%1 | %2 | %4 (%3)","Invoice #%1 | %2 | %4 (%3)",module,Magento_Sales
-"Invalid parent block for this block","Invalid parent block for this block",module,Magento_Sales
-"Order Statuses","Order Statuses",module,Magento_Sales
-"Create New Status","Create New Status",module,Magento_Sales
-"Assign Status to State","Assign Status to State",module,Magento_Sales
-"Save Status Assignment","Save Status Assignment",module,Magento_Sales
-"Assign Order Status to State","Assign Order Status to State",module,Magento_Sales
-"Assignment Information","Assignment Information",module,Magento_Sales
-"Order Status","Order Status",module,Magento_Sales
-"Order State","Order State",module,Magento_Sales
-"Use Order Status As Default","Use Order Status As Default",module,Magento_Sales
-"Visible On Storefront","Visible On Storefront",module,Magento_Sales
-"Edit Order Status","Edit Order Status",module,Magento_Sales
-"Save Status","Save Status",module,Magento_Sales
-"New Order Status","New Order Status",module,Magento_Sales
-"Order Status Information","Order Status Information",module,Magento_Sales
-"Status Code","Status Code",module,Magento_Sales
-"Status Label","Status Label",module,Magento_Sales
-"Store View Specific Labels","Store View Specific Labels",module,Magento_Sales
-"Total Paid","Total Paid",module,Magento_Sales
-"Total Refunded","Total Refunded",module,Magento_Sales
-"Total Due","Total Due",module,Magento_Sales
-Edit,Edit,module,Magento_Sales
-"Are you sure you want to send an order email to customer?","Are you sure you want to send an order email to customer?",module,Magento_Sales
-"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",module,Magento_Sales
-"Are you sure you want to void the payment?","Are you sure you want to void the payment?",module,Magento_Sales
-Hold,Hold,module,Magento_Sales
-hold,hold,module,Magento_Sales
-Unhold,Unhold,module,Magento_Sales
-unhold,unhold,module,Magento_Sales
-"Are you sure you want to accept this payment?","Are you sure you want to accept this payment?",module,Magento_Sales
-"Accept Payment","Accept Payment",module,Magento_Sales
-"Are you sure you want to deny this payment?","Are you sure you want to deny this payment?",module,Magento_Sales
-"Deny Payment","Deny Payment",module,Magento_Sales
-"Get Payment Update","Get Payment Update",module,Magento_Sales
-"Invoice and Ship","Invoice and Ship",module,Magento_Sales
-Invoice,Invoice,module,Magento_Sales
-Ship,Ship,module,Magento_Sales
+"The credit memo email was sent.","El correo de la nota de crédito fue enviado.",module,Magento_Sales
+"The credit memo email wasn't sent.","El correo de la nota de crédito no fue enviado.",module,Magento_Sales
+"Credit Memo #%1 | %3 | %2 (%4)","Nota de Credito #%1 | %3 | %2 (%4)",module,Magento_Sales
+"Total Refund","Reembolso Total",module,Magento_Sales
+"New Invoice and Shipment for Order #%1","Nueva Factura y Despacho para Pedido #%1",module,Magento_Sales
+"New Invoice for Order #%1","Nueva Factura y Pedido #%1",module,Magento_Sales
+"Submit Invoice and Shipment","Enviar Factura y Pedido",module,Magento_Sales
+"Submit Invoice","Enviar Factura",module,Magento_Sales
+"Are you sure you want to send an invoice email to customer?","¿Seguro que quieres enviar un correo con la factura al cliente?",module,Magento_Sales
+"Credit Memo","Nota de Credito",module,Magento_Sales
+Capture,Capturar,module,Magento_Sales
+"The invoice email was sent.","La Factura fue enviada.",module,Magento_Sales
+"The invoice email wasn't sent.","La Factura no fue enviada.",module,Magento_Sales
+"Invoice #%1 | %2 | %4 (%3)","Factura #%1 | %2 | %4 (%3)",module,Magento_Sales
+"Invalid parent block for this block","Bloque padre inválido para este bloque",module,Magento_Sales
+"Order Statuses","Estados de Pedido",module,Magento_Sales
+"Create New Status","Crear Nuevo Estado",module,Magento_Sales
+"Assign Status to State","Asignar Estatus a Estado",module,Magento_Sales
+"Save Status Assignment","Guardar Estado Asignado",module,Magento_Sales
+"Assign Order Status to State","Asignar Estatus de Pedido a Estado",module,Magento_Sales
+"Assignment Information","Información de Asignación",module,Magento_Sales
+"Order Status","Estado de Pedido",module,Magento_Sales
+"Order State","Estatus de Pedido",module,Magento_Sales
+"Use Order Status As Default","Usar Estado del Pedido como Predeterminado",module,Magento_Sales
+"Visible On Storefront","Visible en Storefront",module,Magento_Sales
+"Edit Order Status","Editar Estado de Pedido",module,Magento_Sales
+"Save Status","Guardar Estado",module,Magento_Sales
+"New Order Status","Nuevo Estado de Pedido",module,Magento_Sales
+"Order Status Information","Información del Estado de Pedido",module,Magento_Sales
+"Status Code","Código de Estado",module,Magento_Sales
+"Status Label","Etiqueta de Estado",module,Magento_Sales
+"Store View Specific Labels","Store View Etiquetas Especificas",module,Magento_Sales
+"Total Paid","Total Pagado",module,Magento_Sales
+"Total Refunded","Total Reembolsado",module,Magento_Sales
+"Total Due","Total Adeudado",module,Magento_Sales
+Edit,Editar,module,Magento_Sales
+"Are you sure you want to send an order email to customer?","¿Seguro que quieres enviar un pedido por correo al cliente?",module,Magento_Sales
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Esto creará un reembolso fuera de linea. Para crear un reembolso en línea, abra una factura y cree una nota de crédito. ¿Quieres continuar?",module,Magento_Sales
+"Are you sure you want to void the payment?","¿Estás seguro de que deseas anular el pago?",module,Magento_Sales
+Hold,Retener,module,Magento_Sales
+hold,retener,module,Magento_Sales
+Unhold,Liberar,module,Magento_Sales
+unhold,liberar,module,Magento_Sales
+"Are you sure you want to accept this payment?","¿Seguro que quieres aceptar este pago?",module,Magento_Sales
+"Accept Payment","Aceptar Pago",module,Magento_Sales
+"Are you sure you want to deny this payment?","¿Seguro que quieres rechazar este pago?",module,Magento_Sales
+"Deny Payment","Pago Rechazado",module,Magento_Sales
+"Get Payment Update","Obtenga Actualización de Pago",module,Magento_Sales
+"Invoice and Ship","Factura y Despacho",module,Magento_Sales
+Invoice,Factura,module,Magento_Sales
+Ship,Despacho,module,Magento_Sales
 Reorder,Reorder,module,Magento_Sales
-"Order # %1 %2 | %3","Order # %1 %2 | %3",module,Magento_Sales
+"Order # %1 %2 | %3","Pedido # %1 %2 | %3",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Are you sure? This order will be canceled and a new one will be created instead.",module,Magento_Sales
 "Save Gift Message","Save Gift Message",module,Magento_Sales
