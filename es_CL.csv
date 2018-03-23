@@ -27,31 +27,31 @@ notice,noticia,module,Magento_AdminNotification
 "Wrong message type","Tipo de mensaje incorrecto",module,Magento_AdminNotification
 "Wrong notification ID specified.","ID de notificación especificada es incorrecta.",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} no se recomienda su uso en un entorno de producción para declarar la Base URL no segura / URL segura básica. Recomendamos encarecidamente cambiar este valor en su Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
-"One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. ",module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types.",module,Magento_AdminNotification
-"We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
-"Synchronization of media storages has been completed.","Synchronization of media storages has been completed.",module,Magento_AdminNotification
-"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
-"System Messages:","System Messages:",module,Magento_AdminNotification
-"Critical System Messages","Critical System Messages",module,Magento_AdminNotification
-"Major System Messages","Major System Messages",module,Magento_AdminNotification
-"System messages","System messages",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Uno o más de los Tipos de Caché están invalidados: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Por favor vaya a <a href=""%1"">Administración de Cache</a> y actualizar los tipos de caché.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","No pudimos sincronizar uno o más archivos multimedia. Por favor, consulte el archivo de registro para más detalles.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","La sincronización de los medios de almacenamiento se ha completado.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Su servidor web está configurado incorrectamente y permite el acceso no autorizado a archivos confidenciales. Por favor contacte a su proveedor de hosting.",module,Magento_AdminNotification
+"System Messages:","Mensajes del Sistema:",module,Magento_AdminNotification
+"Critical System Messages","Mensajes Críticos del Sistema",module,Magento_AdminNotification
+"Major System Messages","Mensajes Principales del Sistema",module,Magento_AdminNotification
+"System messages","Mensajes del sistema",module,Magento_AdminNotification
 Close,Cerrado,module,Magento_AdminNotification
 "See All (","Mostrar Todos (",module,Magento_AdminNotification
 " unread)"," no leído)",module,Magento_AdminNotification
 "Please correct the data sent.","Por favor corrija los datos enviados.",module,Magento_AdvancedPricingImportExport
-"Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
-"There are no product types available for export","There are no product types available for export",module,Magento_AdvancedPricingImportExport
-"We can't find the role for the user you wanted.","We can't find the role for the user you wanted.",module,Magento_Authorization
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",module,Magento_Authorization
-"You created the order.","You created the order.",module,Magento_Authorizenet
-"Order saving error: %1","Order saving error: %1",module,Magento_Authorizenet
-"Please choose a payment method.","Please choose a payment method.",module,Magento_Authorizenet
-"We can't process your order right now. Please try again later.","We can't process your order right now. Please try again later.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Authorizenet
-"Credit Card: xxxx-%1","Credit Card: xxxx-%1",module,Magento_Authorizenet
-"amount %1","amount %1",module,Magento_Authorizenet
+"Entity type model '%1' is not found","Modelo tipo de entidad '%1' no se encuentra",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Modelo de tipo de entidad debe ser una instancia de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","No hay tipos de productos disponibles para exportar",module,Magento_AdvancedPricingImportExport
+"We can't find the role for the user you wanted.","No podemos encontrar el rol para el usuario que deseaba.",module,Magento_Authorization
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Algo salió mal al compilar una lista de recursos permitidos. Puede encontrar más información en el registro de excepciones.",module,Magento_Authorization
+"You created the order.","Usted creó el pedido.",module,Magento_Authorizenet
+"Order saving error: %1","Error de guardado del pedido: %1",module,Magento_Authorizenet
+"Please choose a payment method.","Por favor elija un método de pago.",module,Magento_Authorizenet
+"We can't process your order right now. Please try again later.","No podemos procesar su pedido ahora. Por favor, inténtelo de nuevo más tarde.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","Se produjo un error en el servidor. Intenta hacer el pedido nuevamente.",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Tarjeta de Crédito: xxxx-%1",module,Magento_Authorizenet
+"amount %1","cantidad %1",module,Magento_Authorizenet
 failed.,"ha fallado.",module,Magento_Authorizenet
 successful.,exitoso.,module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net de transacción ID %1.",module,Magento_Authorizenet
@@ -61,11 +61,11 @@ capture,capturar,module,Magento_Authorizenet
 refund,reembolso,module,Magento_Authorizenet
 void,vacío,module,Magento_Authorizenet
 "Gateway error: %1","Error de Gateway: %1",module,Magento_Authorizenet
-"Something went wrong in the payment gateway.","Something went wrong in the payment gateway.",module,Magento_Authorizenet
-"Invalid amount for capture.","Invalid amount for capture.",module,Magento_Authorizenet
-"Payment capturing error.","Payment capturing error.",module,Magento_Authorizenet
-"Invalid transaction ID.","Invalid transaction ID.",module,Magento_Authorizenet
-"Payment voiding error.","Payment voiding error.",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","Algo salió mal en el enlace de pago.",module,Magento_Authorizenet
+"Invalid amount for capture.","Monto no válido para capturar.",module,Magento_Authorizenet
+"Payment capturing error.","Error de captura de pagos.",module,Magento_Authorizenet
+"Invalid transaction ID.","ID de Transacción inválida.",module,Magento_Authorizenet
+"Payment voiding error.","Error de vaciado de pago.",module,Magento_Authorizenet
 "Invalid amount for refund.","Invalid amount for refund.",module,Magento_Authorizenet
 "Payment refunding error.","Payment refunding error.",module,Magento_Authorizenet
 "The transaction was declined because the response hash validation failed.","The transaction was declined because the response hash validation failed.",module,Magento_Authorizenet
@@ -88,9 +88,9 @@ void,vacío,module,Magento_Authorizenet
 "Card Code Response","Card Code Response",module,Magento_Authorizenet
 "CAVV Response","CAVV Response",module,Magento_Authorizenet
 "Fraud Filters","Fraud Filters",module,Magento_Authorizenet
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page.",module,Magento_Backend
-"Cache Storage Management","Cache Storage Management",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Clave de Formulario Inválida. Por favor actualiza la página.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","Ingresaste una Clave Secreta no válida. Por favor actualiza la página.",module,Magento_Backend
+"Cache Storage Management","Gestión de Almacenamiento en Caché",module,Magento_Backend
 "Flush Magento Cache","Flush Magento Cache",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?",module,Magento_Backend
 "Flush Cache Storage","Flush Cache Storage",module,Magento_Backend
@@ -98,28 +98,28 @@ Invalidated,Invalidado,module,Magento_Backend
 Orders,Pedidos,module,Magento_Backend
 Amounts,Cantidades,module,Magento_Backend
 Bestsellers,"Los más Vendidos",module,Magento_Backend
-"Most Viewed Products","Most Viewed Products",module,Magento_Backend
-"New Customers","New Customers",module,Magento_Backend
+"Most Viewed Products","Productos Más Vistos",module,Magento_Backend
+"New Customers","Nuevos Clientes",module,Magento_Backend
 Customers,Clientes,module,Magento_Backend
 Customer,Cliente,module,Magento_Backend
 Guest,Invitado,module,Magento_Backend
 Items,Productos,module,Magento_Backend
 Total,Total,module,Magento_Backend
 "Lifetime Sales","Lifetime Sales",module,Magento_Backend
-"Average Order","Average Order",module,Magento_Backend
-Average,Average,module,Magento_Backend
-Product,Product,module,Magento_Backend
-Price,Price,module,Magento_Backend
-Quantity,Quantity,module,Magento_Backend
-Views,Views,module,Magento_Backend
-Revenue,Revenue,module,Magento_Backend
-Tax,Tax,module,Magento_Backend
-Shipping,Shipping,module,Magento_Backend
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Backend
-"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
-"All Files","All Files",module,Magento_Backend
-"Reset to Default","Reset to Default",module,Magento_Backend
-"All Store Views","All Store Views",module,Magento_Backend
+"Average Order","Promedio de Pedidos",module,Magento_Backend
+Average,Promedio,module,Magento_Backend
+Product,Producto,module,Magento_Backend
+Price,Precio,module,Magento_Backend
+Quantity,Cantidad,module,Magento_Backend
+Views,Vistas,module,Magento_Backend
+Revenue,Ingresos,module,Magento_Backend
+Tax,Impuesto,module,Magento_Backend
+Shipping,Despacho,module,Magento_Backend
+"Images (.gif, .jpg, .png)","Imagenes (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","Videos (.avi, .flv, .swf)",module,Magento_Backend
+"All Files","Todos los Archivos",module,Magento_Backend
+"Reset to Default","Restablecer a Predeterminados",module,Magento_Backend
+"All Store Views","Todas las Vistas de Tienda",module,Magento_Backend
 "What is this?","¿Que es esto?",module,Magento_Backend
 "Save Account","Guardar Cuenta",module,Magento_Backend
 "My Account","Mi Cuenta",module,Magento_Backend
@@ -128,21 +128,21 @@ Shipping,Shipping,module,Magento_Backend
 "First Name","Nombre",module,Magento_Backend
 "Last Name","Apellido",module,Magento_Backend
 Email,Correo,module,Magento_Backend
-"User Email","Correo Electrónico",module,Magento_Backend
+"User Email","Usuario de Correo",module,Magento_Backend
 "New Password","Nueva Contraseña",module,Magento_Backend
 "Password Confirmation","Confirma Contraseña",module,Magento_Backend
 "Interface Locale","Interface Locale",module,Magento_Backend
-"Current User Identity Verification","Current User Identity Verification",module,Magento_Backend
+"Current User Identity Verification","Verificación de Identidad de Usuario Actual",module,Magento_Backend
 "Your Password","Tu Contraseña",module,Magento_Backend
-"Save Cache Settings","Save Cache Settings",module,Magento_Backend
-"Catalog Rewrites","Catalog Rewrites",module,Magento_Backend
+"Save Cache Settings","Guardar Configuración de Caché",module,Magento_Backend
+"Catalog Rewrites","Reescribe el Catálogo",module,Magento_Backend
 Refresh,Refrescar,module,Magento_Backend
-"Images Cache","Images Cache",module,Magento_Backend
+"Images Cache","Caché de Imágenes",module,Magento_Backend
 Clear,Limpiar,module,Magento_Backend
-"Search Index","Search Index",module,Magento_Backend
+"Search Index","Índice de Búsqueda",module,Magento_Backend
 Rebuild,Reorganizar,module,Magento_Backend
-"Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
-"Rebuild Catalog Index","Rebuild Catalog Index",module,Magento_Backend
+"Inventory Stock Status","Estado de Stock de Inventario",module,Magento_Backend
+"Rebuild Catalog Index","Reconstruir Índice de Catálogo",module,Magento_Backend
 "Rebuild Flat Catalog Category","Rebuild Flat Catalog Category",module,Magento_Backend
 "Rebuild Flat Catalog Product","Rebuild Flat Catalog Product",module,Magento_Backend
 "Cache Control","Cache Control",module,Magento_Backend
