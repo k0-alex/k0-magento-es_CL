@@ -116,7 +116,7 @@ Revenue,Ingresos,module,Magento_Backend
 Tax,Impuesto,module,Magento_Backend
 Shipping,Despacho,module,Magento_Backend
 "Images (.gif, .jpg, .png)","Imagenes (.gif, .jpg, .png)",module,Magento_Backend
-"Media (.avi, .flv, .swf)","Videos (.avi, .flv, .swf)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","Medios (.avi, .flv, .swf)",module,Magento_Backend
 "All Files","Todos los Archivos",module,Magento_Backend
 "Reset to Default","Restablecer a Predeterminados",module,Magento_Backend
 "All Store Views","Todas las Vistas de Tienda",module,Magento_Backend
@@ -143,89 +143,89 @@ Clear,Limpiar,module,Magento_Backend
 Rebuild,Reorganizar,module,Magento_Backend
 "Inventory Stock Status","Estado de Stock de Inventario",module,Magento_Backend
 "Rebuild Catalog Index","Reconstruir Índice de Catálogo",module,Magento_Backend
-"Rebuild Flat Catalog Category","Rebuild Flat Catalog Category",module,Magento_Backend
-"Rebuild Flat Catalog Product","Rebuild Flat Catalog Product",module,Magento_Backend
-"Cache Control","Cache Control",module,Magento_Backend
-"All Cache","All Cache",module,Magento_Backend
-"No change","No change",module,Magento_Backend
+"Rebuild Flat Catalog Category","Reconstruir la Categoría de Catálogo Plana",module,Magento_Backend
+"Rebuild Flat Catalog Product","Reconstruir el Producto de Catálogo Plano",module,Magento_Backend
+"Cache Control","Control de Caché",module,Magento_Backend
+"All Cache","Todo el Caché",module,Magento_Backend
+"No change","Ningún Cambio",module,Magento_Backend
 Disable,Desactivar,module,Magento_Backend
 Enable,Activar,module,Magento_Backend
-"Add Design Change","Add Design Change",module,Magento_Backend
+"Add Design Change","Agregar Cambio de Diseño",module,Magento_Backend
 Back,Atras,module,Magento_Backend
 Delete,Quitar,module,Magento_Backend
 "Are you sure?","¿Estás seguro?",module,Magento_Backend
-Save,Save,module,Magento_Backend
-"Edit Design Change","Edit Design Change",module,Magento_Backend
-"New Store Design Change","New Store Design Change",module,Magento_Backend
-"General Settings","General Settings",module,Magento_Backend
-Store,Store,module,Magento_Backend
-"-- Please Select --","-- Please Select --",module,Magento_Backend
-"Custom Design","Custom Design",module,Magento_Backend
-"Date From","Date From",module,Magento_Backend
-"Date To","Date To",module,Magento_Backend
-"Design Change","Design Change",module,Magento_Backend
+Save,Guardar,module,Magento_Backend
+"Edit Design Change","Editar Cambio de Diseño",module,Magento_Backend
+"New Store Design Change","Nuevo Cambio de Diseño de Tienda",module,Magento_Backend
+"General Settings","Configuración General",module,Magento_Backend
+Store,Tienda,module,Magento_Backend
+"-- Please Select --","-- Seleccione --",module,Magento_Backend
+"Custom Design","Diseño Personalizado",module,Magento_Backend
+"Date From","Fecha De",module,Magento_Backend
+"Date To","Fecha A",module,Magento_Backend
+"Design Change","Cambio de Diseño",module,Magento_Backend
 General,General,module,Magento_Backend
-Cancel,Cancel,module,Magento_Backend
-"Delete %1 '%2'","Delete %1 '%2'",module,Magento_Backend
-"Delete %1","Delete %1",module,Magento_Backend
-"Block Information","Block Information",module,Magento_Backend
-"Backup Options","Backup Options",module,Magento_Backend
-"Create DB Backup","Create DB Backup",module,Magento_Backend
-Yes,Yes,module,Magento_Backend
+Cancel,Cancelar,module,Magento_Backend
+"Delete %1 '%2'","Eliminar %1 '%2'",module,Magento_Backend
+"Delete %1","Eliminar %1",module,Magento_Backend
+"Block Information","Información de Bloque",module,Magento_Backend
+"Backup Options","Opciones de Respaldo",module,Magento_Backend
+"Create DB Backup","Crear Copia de Seguridad de BD",module,Magento_Backend
+Yes,Si,module,Magento_Backend
 No,No,module,Magento_Backend
-"Delete Store","Delete Store",module,Magento_Backend
-"Delete Web Site","Delete Web Site",module,Magento_Backend
-"Save Web Site","Save Web Site",module,Magento_Backend
-"Save Store","Save Store",module,Magento_Backend
-"Save Store View","Save Store View",module,Magento_Backend
-"Delete Store View","Delete Store View",module,Magento_Backend
-"Edit Web Site","Edit Web Site",module,Magento_Backend
-"New Web Site","New Web Site",module,Magento_Backend
-"Edit Store","Edit Store",module,Magento_Backend
-"New Store","New Store",module,Magento_Backend
-"Edit Store View","Edit Store View",module,Magento_Backend
-"New Store View","New Store View",module,Magento_Backend
-"Store Information","Store Information",module,Magento_Backend
-"Web Site","Web Site",module,Magento_Backend
-Name,Name,module,Magento_Backend
-"Root Category","Root Category",module,Magento_Backend
-"Default Store View","Default Store View",module,Magento_Backend
-"Store View Information","Store View Information",module,Magento_Backend
-Code,Code,module,Magento_Backend
-Status,Status,module,Magento_Backend
-Disabled,Disabled,module,Magento_Backend
-Enabled,Enabled,module,Magento_Backend
-"Sort Order","Sort Order",module,Magento_Backend
-"Web Site Information","Web Site Information",module,Magento_Backend
-"Default Store","Default Store",module,Magento_Backend
-"Set as Default","Set as Default",module,Magento_Backend
-Stores,Stores,module,Magento_Backend
-"Create Website","Create Website",module,Magento_Backend
-"Create Store","Create Store",module,Magento_Backend
-"Create Store View","Create Store View",module,Magento_Backend
-Home,Home,module,Magento_Backend
-Reset,Reset,module,Magento_Backend
+"Delete Store","Eliminar Tienda",module,Magento_Backend
+"Delete Web Site","Eliminar Sitio Web",module,Magento_Backend
+"Save Web Site","Guardar Sitio Web",module,Magento_Backend
+"Save Store","Guardar Tienda",module,Magento_Backend
+"Save Store View","Guardar Vista de Tienda",module,Magento_Backend
+"Delete Store View","Eliminar Vista de Tienda",module,Magento_Backend
+"Edit Web Site","Editar Sitio Web",module,Magento_Backend
+"New Web Site","Nuevo Sitio Web",module,Magento_Backend
+"Edit Store","Editar Tienda",module,Magento_Backend
+"New Store","Nueva Tienda",module,Magento_Backend
+"Edit Store View","Editar Vista de Tienda",module,Magento_Backend
+"New Store View","Nueva Vista de Tienda",module,Magento_Backend
+"Store Information","Información de Tienda",module,Magento_Backend
+"Web Site","Sitio Web",module,Magento_Backend
+Name,Nombre,module,Magento_Backend
+"Root Category","Categoría Raíz",module,Magento_Backend
+"Default Store View","Vista de Tienda Predeterminada",module,Magento_Backend
+"Store View Information","Información de la Tienda",module,Magento_Backend
+Code,Código,module,Magento_Backend
+Status,Estado,module,Magento_Backend
+Disabled,Desactivado,module,Magento_Backend
+Enabled,Activado,module,Magento_Backend
+"Sort Order","Ordenar Pedido",module,Magento_Backend
+"Web Site Information","Información del Sitio Web",module,Magento_Backend
+"Default Store","Tienda Predeterminada",module,Magento_Backend
+"Set as Default","Establecer Predetermminado",module,Magento_Backend
+Stores,Tiendas,module,Magento_Backend
+"Create Website","Crear Sitio Web",module,Magento_Backend
+"Create Store","Crear Tienda",module,Magento_Backend
+"Create Store View","Crear Vista de Tienda",module,Magento_Backend
+Home,Inicio,module,Magento_Backend
+Reset,Resetear,module,Magento_Backend
 "Are you sure you want to do this?","¿Seguro que quieres hacer esto?",module,Magento_Backend
-"Add New Image","Add New Image",module,Magento_Backend
-"Export block for grid %1 is not defined","Export block for grid %1 is not defined",module,Magento_Backend
-"Reset Filter","Reset Filter",module,Magento_Backend
-Search,Search,module,Magento_Backend
-Any,Any,module,Magento_Backend
-"All Countries","All Countries",module,Magento_Backend
-From,From,module,Magento_Backend
-To,To,module,Magento_Backend
-"Date selector","Date selector",module,Magento_Backend
-"[ deleted ]","[ deleted ]",module,Magento_Backend
-"Select All","Select All",module,Magento_Backend
-" [deleted]"," [deleted]",module,Magento_Backend
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Backend
-"Add New","Add New",module,Magento_Backend
-"Invalid export type supplied for grid export block","Invalid export type supplied for grid export block",module,Magento_Backend
-Export,Export,module,Magento_Backend
-"Please correct the column format and try again.","Please correct the column format and try again.",module,Magento_Backend
-"Please select items.","Please select items.",module,Magento_Backend
-Submit,Submit,module,Magento_Backend
-"Unknown block type","Unknown block type",module,Magento_Backend
+"Add New Image","Agregar Nueva Imagen",module,Magento_Backend
+"Export block for grid %1 is not defined","El bloque de exportación para la cuadrícula %1 no está definido",module,Magento_Backend
+"Reset Filter","Resetear Filtro",module,Magento_Backend
+Search,Buscar,module,Magento_Backend
+Any,Todo,module,Magento_Backend
+"All Countries","Todos los Paises",module,Magento_Backend
+From,De,module,Magento_Backend
+To,A,module,Magento_Backend
+"Date selector","Selector de fecha",module,Magento_Backend
+"[ deleted ]","[ eliminado ]",module,Magento_Backend
+"Select All","Seleccionar Todo",module,Magento_Backend
+" [deleted]"," [eliminado]",module,Magento_Backend
+"We couldn't find any records.","No pudimos encontrar ningún registro.",module,Magento_Backend
+"Add New","Agregar Nuevo",module,Magento_Backend
+"Invalid export type supplied for grid export block","Tipo de exportación no válido se suministra para el bloque de exportación de cuadrícula",module,Magento_Backend
+Export,Exportar,module,Magento_Backend
+"Please correct the column format and try again.","Corrija el formato de la columna e intente de nuevo.",module,Magento_Backend
+"Please select items.","Por favor seleccione los productos.",module,Magento_Backend
+Submit,Enviar,module,Magento_Backend
+"Unknown block type","Tipo de bloque desconocido",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty","Please correct the tab configuration and try again. Tab Id should be not empty",module,Magento_Backend
 "Please correct the tab configuration and try again.","Please correct the tab configuration and try again.",module,Magento_Backend
 "You have logged out.","You have logged out.",module,Magento_Backend
@@ -244,14 +244,14 @@ Submit,Submit,module,Magento_Backend
 "An error occurred while enabling cache.","An error occurred while enabling cache.",module,Magento_Backend
 "%1 cache type(s) refreshed.","%1 cache type(s) refreshed.",module,Magento_Backend
 "An error occurred while refreshing cache.","An error occurred while refreshing cache.",module,Magento_Backend
-Dashboard,Dashboard,module,Magento_Backend
+Dashboard,Tablero,module,Magento_Backend
 "We updated lifetime statistic.","We updated lifetime statistic.",module,Magento_Backend
 "We can't refresh lifetime statistics.","We can't refresh lifetime statistics.",module,Magento_Backend
 "invalid request","invalid request",module,Magento_Backend
 "see error log for details","see error log for details",module,Magento_Backend
 "Service unavailable: %1","Service unavailable: %1",module,Magento_Backend
 Error,Error,module,Magento_Backend
-"Access Denied.","Access Denied.",module,Magento_Backend
+"Access Denied.","Acceso Denegado.",module,Magento_Backend
 "You need more permissions to do this.","You need more permissions to do this.",module,Magento_Backend
 "No search modules were registered","No search modules were registered",module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Please make sure that all global admin search modules are installed and activated.",module,Magento_Backend
@@ -262,8 +262,8 @@ Error,Error,module,Magento_Backend
 "Store Design","Store Design",module,Magento_Backend
 "Edit Store Design Change","Edit Store Design Change",module,Magento_Backend
 "You saved the design change.","You saved the design change.",module,Magento_Backend
-System,System,module,Magento_Backend
-"Manage Stores","Manage Stores",module,Magento_Backend
+System,Sistema,module,Magento_Backend
+"Manage Stores","Administrar Tiendas",module,Magento_Backend
 "The database was backed up.","The database was backed up.",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","We can't create a backup right now. Please try again later.",module,Magento_Backend
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.",module,Magento_Backend
