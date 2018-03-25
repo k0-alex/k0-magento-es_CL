@@ -235,8 +235,8 @@ Submit,Enviar,module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","El JavaScript/CSS en memoria caché ha sido limpiada.",module,Magento_Backend
 "An error occurred while clearing the JavaScript/CSS cache.","Se produjo un error al limpiar el caché JavaScript/CSS.",module,Magento_Backend
 "The static files cache has been cleaned.","Los archivos estáticos en caché se han limpiado.",module,Magento_Backend
-"You flushed the cache storage.","Has ----- el almacenamiento en caché.",module,Magento_Backend
-"The Magento cache storage has been flushed.","El almacenamiento en caché de Magento se ha eliminado.",module,Magento_Backend
+"You flushed the cache storage.","Has vaciado el almacenamiento en caché.",module,Magento_Backend
+"The Magento cache storage has been flushed.","El almacenamiento en caché de Magento se ha vaciado.",module,Magento_Backend
 "Cache Management","Administración de Caché",module,Magento_Backend
 "%1 cache type(s) disabled.","%1 tipo de caché(s) deshabilitado.",module,Magento_Backend
 "An error occurred while disabling cache.","Se produjo un error al deshabilitar el caché.",module,Magento_Backend
@@ -247,7 +247,7 @@ Submit,Enviar,module,Magento_Backend
 Dashboard,Tablero,module,Magento_Backend
 "We updated lifetime statistic.","Actualizamos el tiempo de vida de la estadística.",module,Magento_Backend
 "We can't refresh lifetime statistics.","No podemos actualizar el tiempo de vida de las estadísticas.",module,Magento_Backend
-"invalid request","Solicitud inválida",module,Magento_Backend
+"invalid request","solicitud inválida",module,Magento_Backend
 "see error log for details","ver registro de errores para más detalles",module,Magento_Backend
 "Service unavailable: %1","Servicio no disponible: %1",module,Magento_Backend
 Error,Error,module,Magento_Backend
@@ -266,46 +266,46 @@ System,Sistema,module,Magento_Backend
 "Manage Stores","Administrar Tiendas",module,Magento_Backend
 "The database was backed up.","La base de datos fue respaldada.",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","No podemos crear una copia de seguridad ahora mismo. Por favor, inténtelo de nuevo más tarde.",module,Magento_Backend
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.",module,Magento_Backend
-"Something went wrong. Please try again.","Something went wrong. Please try again.",module,Magento_Backend
-"This store cannot be deleted.","This store cannot be deleted.",module,Magento_Backend
-"You deleted the store.","You deleted the store.",module,Magento_Backend
-"Unable to delete the store. Please try again later.","Unable to delete the store. Please try again later.",module,Magento_Backend
-"This store view cannot be deleted.","This store view cannot be deleted.",module,Magento_Backend
-"Store View","Store View",module,Magento_Backend
-"You deleted the store view.","You deleted the store view.",module,Magento_Backend
-"Unable to delete the store view. Please try again later.","Unable to delete the store view. Please try again later.",module,Magento_Backend
-"This website cannot be deleted.","This website cannot be deleted.",module,Magento_Backend
-"You deleted the website.","You deleted the website.",module,Magento_Backend
-"Unable to delete the website. Please try again later.","Unable to delete the website. Please try again later.",module,Magento_Backend
-"The website does not exist.","The website does not exist.",module,Magento_Backend
-"Before modifying the website code please make sure it is not used in index.php.","Before modifying the website code please make sure it is not used in index.php.",module,Magento_Backend
-"The store does not exist","The store does not exist",module,Magento_Backend
-"Store view doesn't exist","Store view doesn't exist",module,Magento_Backend
-"Before modifying the store view code please make sure it is not used in index.php.","Before modifying the store view code please make sure it is not used in index.php.",module,Magento_Backend
-"New ","New ",module,Magento_Backend
-"You saved the website.","You saved the website.",module,Magento_Backend
-"An inactive store view cannot be saved as default store view","An inactive store view cannot be saved as default store view",module,Magento_Backend
-"You saved the store.","You saved the store.",module,Magento_Backend
-"The default store cannot be disabled","The default store cannot be disabled",module,Magento_Backend
-"You saved the store view.","You saved the store view.",module,Magento_Backend
-"Something went wrong while saving. Please review the error log.","Something went wrong while saving. Please review the error log.",module,Magento_Backend
-"Last 24 Hours","Last 24 Hours",module,Magento_Backend
-"Last 7 Days","Last 7 Days",module,Magento_Backend
-"Current Month","Current Month",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Eliminar un %1 no eliminará la información asociada con el %1 (ej. categorias, productos, etc.), pero el %1 no podrá ser restaurado. Se sugiere que cree una copia de seguridad de la base de datos antes de eliminar el %1.",module,Magento_Backend
+"Something went wrong. Please try again.","Algo salió mal. Inténtalo de nuevo.",module,Magento_Backend
+"This store cannot be deleted.","Esta tienda no puede ser eliminada.",module,Magento_Backend
+"You deleted the store.","Eliminaste la tienda.",module,Magento_Backend
+"Unable to delete the store. Please try again later.","No se puede eliminar la tienda. Por favor, inténtelo de nuevo más tarde.",module,Magento_Backend
+"This store view cannot be deleted.","Esta vista de la tienda no se puede eliminar.",module,Magento_Backend
+"Store View","Vista de la Tienda",module,Magento_Backend
+"You deleted the store view.","Borraste la vista de la tienda.",module,Magento_Backend
+"Unable to delete the store view. Please try again later.","No se puede eliminar la vista de la tienda. Por favor, inténtelo de nuevo más tarde.",module,Magento_Backend
+"This website cannot be deleted.","Este sitio web no puede ser eliminado.",module,Magento_Backend
+"You deleted the website.","Eliminaste el sitio web.",module,Magento_Backend
+"Unable to delete the website. Please try again later.","No se puede eliminar el sitio web. Por favor, inténtelo de nuevo más tarde.",module,Magento_Backend
+"The website does not exist.","El sitio web no existe.",module,Magento_Backend
+"Before modifying the website code please make sure it is not used in index.php.","Antes de modificar el código del sitio web, asegúrese de que no se use en index.php.",module,Magento_Backend
+"The store does not exist","La tienda no existe",module,Magento_Backend
+"Store view doesn't exist","La vista de tienda no existe",module,Magento_Backend
+"Before modifying the store view code please make sure it is not used in index.php.","Antes de modificar el código de vista de la tienda, asegúrese de que no se use en index.php.",module,Magento_Backend
+"New ","Nuevo ",module,Magento_Backend
+"You saved the website.","Usted guardó el sitio web.",module,Magento_Backend
+"An inactive store view cannot be saved as default store view","Una vista de tienda inactiva no se puede guardar como vista de tienda predeterminada",module,Magento_Backend
+"You saved the store.","Guardaste la tienda.",module,Magento_Backend
+"The default store cannot be disabled","La tienda predeterminada no puede ser deshabilitada",module,Magento_Backend
+"You saved the store view.","Guardaste la vista de la tienda.",module,Magento_Backend
+"Something went wrong while saving. Please review the error log.","Algo salió mal al guardar. Por favor revise el registro de errores.",module,Magento_Backend
+"Last 24 Hours","Últimas 24 Horas",module,Magento_Backend
+"Last 7 Days","Últimos 7 días",module,Magento_Backend
+"Current Month","Mes Actual",module,Magento_Backend
 YTD,YTD,module,Magento_Backend
 2YTD,2YTD,module,Magento_Backend
-"Authentication storage is incorrect.","Authentication storage is incorrect.",module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Backend
-"Authentication error occurred.","Authentication error occurred.",module,Magento_Backend
-"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Admin session lifetime must be less than or equal to 31536000 seconds (one year)",module,Magento_Backend
-"Admin session lifetime must be greater than or equal to 60 seconds","Admin session lifetime must be greater than or equal to 60 seconds",module,Magento_Backend
-Order,Order,module,Magento_Backend
-"Order #%1","Order #%1",module,Magento_Backend
-"Access denied","Access denied",module,Magento_Backend
-"Please try to sign out and sign in again.","Please try to sign out and sign in again.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","If you continue to receive this message, please contact the store owner.",module,Magento_Backend
-"You need more permissions to access this.","You need more permissions to access this.",module,Magento_Backend
+"Authentication storage is incorrect.","El almacenamiento de autenticación es incorrecto.",module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","No has iniciado sesión correctamente o tu cuenta está deshabilitada temporalmente.",module,Magento_Backend
+"Authentication error occurred.","Se produjo un error de autenticación.",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","La duración de la sesión de administración debe ser inferior o igual a 31536000 segundos (un año)",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","La duración de la sesión de administración debe ser mayor o igual a 60 segundos",module,Magento_Backend
+Order,Pedido,module,Magento_Backend
+"Order #%1","Pedido #%1",module,Magento_Backend
+"Access denied","Acceso denegado",module,Magento_Backend
+"Please try to sign out and sign in again.","Intente cerrar la sesión e iniciar sesión nuevamente.",module,Magento_Backend
+"If you continue to receive this message, please contact the store owner.","Si continúa recibiendo este mensaje, póngase en contacto con el propietario de la tienda.",module,Magento_Backend
+"You need more permissions to access this.","Necesitas más permisos para acceder a esto.",module,Magento_Backend
 "Welcome, please sign in","Bienvenido, por favor inicia sesión",module,Magento_Backend
 Username,Usuario,module,Magento_Backend
 "user name","nombre de usuario",module,Magento_Backend
@@ -316,67 +316,67 @@ password,contraseña,module,Magento_Backend
 "No Data Found","Datos no Encontrados",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","El gráfico está deshabilitado. Para habilitar el gráfico, haga clic <a href=""%1"">here</a>.",module,Magento_Backend
 "Last Orders","Últimas Ordenes",module,Magento_Backend
-"Last Search Terms","Last Search Terms",module,Magento_Backend
-"Top Search Terms","Top Search Terms",module,Magento_Backend
-"There are no search keywords.","There are no search keywords.",module,Magento_Backend
-"View Statistics For:","View Statistics For:",module,Magento_Backend
-"All Websites","All Websites",module,Magento_Backend
-"Reload Data","Reload Data",module,Magento_Backend
-"Browse Files...","Browse Files...",module,Magento_Backend
+"Last Search Terms","Últimos Términos de Búsqueda",module,Magento_Backend
+"Top Search Terms","Principales Términos de Búsqueda",module,Magento_Backend
+"There are no search keywords.","No hay palabras clave de búsqueda.",module,Magento_Backend
+"View Statistics For:","Ver Estadísticas Para:",module,Magento_Backend
+"All Websites","Todos los Sitios Web",module,Magento_Backend
+"Reload Data","Recargar Datos",module,Magento_Backend
+"Browse Files...","Búsqueda de Archivos...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
 "Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento, Inc. All rights reserved.",module,Magento_Backend
 "ver. %1","ver. %1",module,Magento_Backend
-"Magento Admin Panel","Magento Admin Panel",module,Magento_Backend
-"Account Setting","Account Setting",module,Magento_Backend
-"Customer View","Customer View",module,Magento_Backend
-"Sign Out","Sign Out",module,Magento_Backend
-"About the calendar","About the calendar",module,Magento_Backend
-Close,Close,module,Magento_Backend
-"Go Today","Go Today",module,Magento_Backend
-Previous,Previous,module,Magento_Backend
-Next,Next,module,Magento_Backend
+"Magento Admin Panel","Magento Panel de Admininistración",module,Magento_Backend
+"Account Setting","Configuración de Cuenta",module,Magento_Backend
+"Customer View","Ver Cliente",module,Magento_Backend
+"Sign Out","Desconectar",module,Magento_Backend
+"About the calendar","Sobre el calendario",module,Magento_Backend
+Close,Cerrar,module,Magento_Backend
+"Go Today","Ir a Hoy",module,Magento_Backend
+Previous,Anterior,module,Magento_Backend
+Next,Siguiente,module,Magento_Backend
 WK,WK,module,Magento_Backend
-Time,Time,module,Magento_Backend
-Hour,Hour,module,Magento_Backend
-Minute,Minute,module,Magento_Backend
-"JavaScript may be disabled in your browser.","JavaScript may be disabled in your browser.",module,Magento_Backend
-"To use this website you must first enable JavaScript in your browser.","To use this website you must first enable JavaScript in your browser.",module,Magento_Backend
-"This is only a demo store. You can browse and place orders, but nothing will be processed.","This is only a demo store. You can browse and place orders, but nothing will be processed.",module,Magento_Backend
-"Report Bugs","Report Bugs",module,Magento_Backend
-"Store View:","Store View:",module,Magento_Backend
-"Stores Configuration","Stores Configuration",module,Magento_Backend
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost.",module,Magento_Backend
-"Additional Cache Management","Additional Cache Management",module,Magento_Backend
-"Flush Catalog Images Cache","Flush Catalog Images Cache",module,Magento_Backend
-"Pregenerated product images files","Pregenerated product images files",module,Magento_Backend
-"Flush JavaScript/CSS Cache","Flush JavaScript/CSS Cache",module,Magento_Backend
+Time,Tiempo,module,Magento_Backend
+Hour,Hora,module,Magento_Backend
+Minute,Minuto,module,Magento_Backend
+"JavaScript may be disabled in your browser.","JavaScript puede estar deshabilitado en su navegador.",module,Magento_Backend
+"To use this website you must first enable JavaScript in your browser.","Para usar este sitio web primero debes habilitar JavaScript en tu navegador.",module,Magento_Backend
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","Esta es solo una tienda de demostración. Puede navegar y hacer pedidos, pero no se procesará nada.",module,Magento_Backend
+"Report Bugs","Reportar Errores",module,Magento_Backend
+"Store View:","Vista de la Tienda:",module,Magento_Backend
+"Stores Configuration","Configuración de las Tiendas",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Por favor confirme el cambio de alcance. Todos los datos que no se han guardado se perderán.",module,Magento_Backend
+"Additional Cache Management","Gestión de Caché Adicional",module,Magento_Backend
+"Flush Catalog Images Cache","Vaciar el Catálogo de Caché de Imágenes",module,Magento_Backend
+"Pregenerated product images files","Archivos de imágenes de productos pregenerados",module,Magento_Backend
+"Flush JavaScript/CSS Cache","Vaciar JavaScript/CSS Caché",module,Magento_Backend
 "Themes JavaScript and CSS files combined to one file","Themes JavaScript and CSS files combined to one file",module,Magento_Backend
-"Flush Static Files Cache","Flush Static Files Cache",module,Magento_Backend
-"Preprocessed view files and static files","Preprocessed view files and static files",module,Magento_Backend
-Catalog,Catalog,module,Magento_Backend
+"Flush Static Files Cache","Vaciar Caché de Archivos Estáticos",module,Magento_Backend
+"Preprocessed view files and static files","Archivos de vista preprocesados y archivos estáticos",module,Magento_Backend
+Catalog,Catalogo,module,Magento_Backend
 JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
-"JavaScript/CSS Cache","JavaScript/CSS Cache",module,Magento_Backend
-"No records found.","No records found.",module,Magento_Backend
-Images,Images,module,Magento_Backend
-"Big Image","Big Image",module,Magento_Backend
+"JavaScript/CSS Cache","JavaScript/CSS Caché",module,Magento_Backend
+"No records found.","No se encontrarón archivos.",module,Magento_Backend
+Images,Imagenes,module,Magento_Backend
+"Big Image","Gran Imagen",module,Magento_Backend
 Thumbnail,Thumbnail,module,Magento_Backend
-"Additional Settings","Additional Settings",module,Magento_Backend
-"records found","records found",module,Magento_Backend
-selected,selected,module,Magento_Backend
-"per page","per page",module,Magento_Backend
-"Previous page","Previous page",module,Magento_Backend
-"of %1","of %1",module,Magento_Backend
-"Next page","Next page",module,Magento_Backend
-"Export to:","Export to:",module,Magento_Backend
+"Additional Settings","Ajustes Adicionales",module,Magento_Backend
+"records found","registros encontrados",module,Magento_Backend
+selected,seleccionado,module,Magento_Backend
+"per page","por página",module,Magento_Backend
+"Previous page","Página anterior",module,Magento_Backend
+"of %1","de %1",module,Magento_Backend
+"Next page","Siguiente página",module,Magento_Backend
+"Export to:","Exportar a:",module,Magento_Backend
 Actions,Actions,module,Magento_Backend
-"Mass Actions","Mass Actions",module,Magento_Backend
-"Unselect All","Unselect All",module,Magento_Backend
-"Select Visible","Select Visible",module,Magento_Backend
-"Unselect Visible","Unselect Visible",module,Magento_Backend
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Backend
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Backend
-"The information in this tab has been changed.","The information in this tab has been changed.",module,Magento_Backend
-Loading...,Loading...,module,Magento_Backend
+"Mass Actions","Acciones Masivas",module,Magento_Backend
+"Unselect All","Deselecciona Todo",module,Magento_Backend
+"Select Visible","Seleccione Visible",module,Magento_Backend
+"Unselect Visible","Deseleccionar Visible",module,Magento_Backend
+"Changes have been made to this section that have not been saved.","Se han realizado cambios en esta sección que no se han guardado.",module,Magento_Backend
+"This tab contains invalid data. Please resolve this before saving.","Esta pestaña contiene datos no válidos. Por favor resuelve esto antes de guardar.",module,Magento_Backend
+"The information in this tab has been changed.","La información en esta pestaña ha sido cambiada.",module,Magento_Backend
+Loading...,Cargando...,module,Magento_Backend
 "System Backup","System Backup",module,Magento_Backup
 "Database and Media Backup","Database and Media Backup",module,Magento_Backup
 "Database Backup","Database Backup",module,Magento_Backup
