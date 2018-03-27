@@ -8710,14 +8710,14 @@ Name,Name,module,Magento_Variable
 "Anchor Custom Title","Anchor Custom Title",module,Magento_Widget
 "CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Widget
 "CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_Widget
-"Display a Link to Loading a Spreadsheet","Display a Link to Loading a Spreadsheet",module,Magento_Widget
-"Defines whether a link to My Account","Defines whether a link to My Account",module,Magento_Widget
-"Link Text","Link Text",module,Magento_Widget
-"The text of the link to the My Account &gt; Order by SKU page","The text of the link to the My Account &gt; Order by SKU page",module,Magento_Widget
-"Load a list of SKUs","Load a list of SKUs",module,Magento_Widget
-Product,Product,module,Magento_Widget
-"Select Product...","Select Product...",module,Magento_Widget
-Conditions,Conditions,module,Magento_Widget
+"Display a Link to Loading a Spreadsheet","Mostrar un enlace para cargar una Hoja de Cálculo",module,Magento_Widget
+"Defines whether a link to My Account","Define si un enlace a Mi Cuenta",module,Magento_Widget
+"Link Text","Texto de Enlace",module,Magento_Widget
+"The text of the link to the My Account &gt; Order by SKU page","El texto del enlace a Mi Cuenta &gt; Ordenar página por CÓDIGO",module,Magento_Widget
+"Load a list of SKUs","Cargue una lista de Códigos",module,Magento_Widget
+Product,Producto,module,Magento_Widget
+"Select Product...","Seleccionar Producto...",module,Magento_Widget
+Conditions,Condiciones,module,Magento_Widget
 "Widget ID","Widget ID",module,Magento_Widget
 "Wish List Section","Sección de Lista de Deseos",module,Magento_Wishlist
 "Share Options","Compartir Opciones",module,Magento_Wishlist
@@ -8731,7 +8731,7 @@ Enabled,Habilitado,module,Magento_Wishlist
 "My Wish List Link","Mi Lista de Deseos Enlace",module,Magento_Wishlist
 "Display Wish List Summary","Mostrar Resumen de Lista de Deseos",module,Magento_Wishlist
 "Enable RSS","Habilitar RSS",module,Magento_Wishlist
-"No Items Found","No se Encontraron Artículos",module,Magento_Wishlist
+"No Items Found","No se Encontraron Productos",module,Magento_Wishlist
 "Product Name","Nombre del Producto",module,Magento_Wishlist
 "User Description","Descripción de Usuario",module,Magento_Wishlist
 Quantity,Cantidad,module,Magento_Wishlist
