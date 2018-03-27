@@ -5004,27 +5004,27 @@ View/Edit,View/Edit,module,Magento_Search
 "Search entire store here...","Busca la tienda entera aquí...",module,Magento_Search
 "There are no search terms available.","No hay términos de búsqueda disponibles.",module,Magento_Search
 "Account Activity","Actividad de la Cuenta",module,Magento_Security
-"All other open sessions for this account were terminated.","All other open sessions for this account were terminated.",module,Magento_Security
-"We couldn't logout because of an error.","We couldn't logout because of an error.",module,Magento_Security
-"Someone logged into this account from another device or browser. Your current session is terminated.","Someone logged into this account from another device or browser. Your current session is terminated.",module,Magento_Security
-"Your current session is terminated by another user of this account.","Your current session is terminated by another user of this account.",module,Magento_Security
-"Your account is temporarily disabled.","Your account is temporarily disabled.",module,Magento_Security
-"Your current session has been expired.","Your current session has been expired.",module,Magento_Security
-"By IP and Email","By IP and Email",module,Magento_Security
-"By IP","By IP",module,Magento_Security
-"By Email","By Email",module,Magento_Security
-None,None,module,Magento_Security
-"Too many password reset requests. Please wait and try again or contact %1.","Too many password reset requests. Please wait and try again or contact %1.",module,Magento_Security
-"Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Incorrect Security Checker class. It has to implement SecurityCheckerInterface",module,Magento_Security
-"some error","some error",module,Magento_Security
-"This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.",module,Magento_Security
-"Concurrent session information:","Concurrent session information:",module,Magento_Security
-"IP Address","IP Address",module,Magento_Security
-"Time of session start","Time of session start",module,Magento_Security
-"Are you sure that you want to log out all other sessions?","Are you sure that you want to log out all other sessions?",module,Magento_Security
-"Log out all other sessions","Log out all other sessions",module,Magento_Security
-"This computer is using IP address %1.","This computer is using IP address %1.",module,Magento_Security
-"Page not found.","Page not found.",module,Magento_SendFriend
+"All other open sessions for this account were terminated.","Todas las demás sesiones abiertas para esta cuenta finalizaron.",module,Magento_Security
+"We couldn't logout because of an error.","No pudimos cerrar la sesión debido a un error.",module,Magento_Security
+"Someone logged into this account from another device or browser. Your current session is terminated.","Alguien inició sesión en esta cuenta desde otro dispositivo o navegador. Su sesión actual ha terminado.",module,Magento_Security
+"Your current session is terminated by another user of this account.","Su sesión actual es terminada por otro usuario de esta cuenta.",module,Magento_Security
+"Your account is temporarily disabled.","Su cuenta está deshabilitada temporalmente.",module,Magento_Security
+"Your current session has been expired.","Su sesión actual ha expirado.",module,Magento_Security
+"By IP and Email","Por IP y Correo",module,Magento_Security
+"By IP","Por IP",module,Magento_Security
+"By Email","Por Correo",module,Magento_Security
+None,Ninguno,module,Magento_Security
+"Too many password reset requests. Please wait and try again or contact %1.","Demasiadas solicitudes de restablecimiento de contraseña. Por favor espere e intente de nuevo o contacte %1.",module,Magento_Security
+"Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Clase incorrecta de Comprobador de seguridad. Tiene que implementar SecurityCheckerInterface",module,Magento_Security
+"some error","algún error",module,Magento_Security
+"This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","Esta cuenta de administrador está abierta en más de una ubicación. Tenga en cuenta que otras ubicaciones pueden ser diferentes navegadores o sesiones en la misma computadora.",module,Magento_Security
+"Concurrent session information:","Información de sesión simultánea:",module,Magento_Security
+"IP Address","Dirección IP",module,Magento_Security
+"Time of session start","Hora de inicio de la sesión",module,Magento_Security
+"Are you sure that you want to log out all other sessions?","¿Estás seguro de que quieres cerrar todas las demás sesiones?",module,Magento_Security
+"Log out all other sessions","Salga de todas las otras sesiones",module,Magento_Security
+"This computer is using IP address %1.","Esta computadora está usando una dirección IP %1.",module,Magento_Security
+"Page not found.","Página no encontrada.",module,Magento_SendFriend
 "You can't send messages more than %1 times an hour.","You can't send messages more than %1 times an hour.",module,Magento_SendFriend
 "The link to a friend was sent.","The link to a friend was sent.",module,Magento_SendFriend
 "We found some problems with the data.","We found some problems with the data.",module,Magento_SendFriend
@@ -5086,29 +5086,29 @@ Print,Imprimir,module,Magento_Shipping
 Shipments,Despachos,module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","No podemos inicializar el despacho para agregar el número de seguimiento.",module,Magento_Shipping
 "Cannot add tracking number.","No se puede agregar el número de seguimiento.",module,Magento_Shipping
-"You created the shipping label.","You created the shipping label.",module,Magento_Shipping
-"An error occurred while creating shipping label.","An error occurred while creating shipping label.",module,Magento_Shipping
-"You sent the shipment.","You sent the shipment.",module,Magento_Shipping
-"Cannot send shipment information.","Cannot send shipment information.",module,Magento_Shipping
-"There are no shipping labels related to selected orders.","There are no shipping labels related to selected orders.",module,Magento_Shipping
-"New Shipment","New Shipment",module,Magento_Shipping
-"We don't recognize or support the file extension in this shipment: %1.","We don't recognize or support the file extension in this shipment: %1.",module,Magento_Shipping
-"We can't initialize shipment for delete tracking number.","We can't initialize shipment for delete tracking number.",module,Magento_Shipping
-"We can't delete tracking number.","We can't delete tracking number.",module,Magento_Shipping
-"We can't load track with retrieving identifier right now.","We can't load track with retrieving identifier right now.",module,Magento_Shipping
-"We can't save the shipment right now.","We can't save the shipment right now.",module,Magento_Shipping
-"""Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" .",module,Magento_Shipping
-"The shipment has been created.","The shipment has been created.",module,Magento_Shipping
-"Cannot save shipment.","Cannot save shipment.",module,Magento_Shipping
-"The order no longer exists.","The order no longer exists.",module,Magento_Shipping
-"Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice.",module,Magento_Shipping
-"Cannot do shipment for the order.","Cannot do shipment for the order.",module,Magento_Shipping
-"Tracking information must contain title, carrier code, and tracking number","Tracking information must contain title, carrier code, and tracking number",module,Magento_Shipping
-"There are no shipping labels related to selected shipments.","There are no shipping labels related to selected shipments.",module,Magento_Shipping
-"Page not found.","Page not found.",module,Magento_Shipping
-"Tracking Information","Tracking Information",module,Magento_Shipping
-"Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module.",module,Magento_Shipping
-"The shipping module is not available.","The shipping module is not available.",module,Magento_Shipping
+"You created the shipping label.","Usted creó la etiqueta de despacho.",module,Magento_Shipping
+"An error occurred while creating shipping label.","Se produjo un error al crear la etiqueta de despacho.",module,Magento_Shipping
+"You sent the shipment.","Usted envió el despacho.",module,Magento_Shipping
+"Cannot send shipment information.","No se puede enviar información de despacho.",module,Magento_Shipping
+"There are no shipping labels related to selected orders.","No hay etiquetas de envío relacionadas con pedidos seleccionados.",module,Magento_Shipping
+"New Shipment","Nuevo Despacho",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","No reconocemos ni soportamos la extensión de archivo en este despacho: %1.",module,Magento_Shipping
+"We can't initialize shipment for delete tracking number.","No podemos inicializar el despacho para eliminar el número de seguimiento.",module,Magento_Shipping
+"We can't delete tracking number.","No podemos eliminar el número de seguimiento.",module,Magento_Shipping
+"We can't load track with retrieving identifier right now.","No podemos cargar el seguimiento con el identificador de recuperación en este momento.",module,Magento_Shipping
+"We can't save the shipment right now.","No podemos guardar el despacho en este momento.",module,Magento_Shipping
+"""Shipment Document Validation Error(s):\n"" .","""Error de Validación del Documento de Despacho(s):\n"" .",module,Magento_Shipping
+"The shipment has been created.","El despacho ha sido creado.",module,Magento_Shipping
+"Cannot save shipment.","No se puede guardar el despacho.",module,Magento_Shipping
+"The order no longer exists.","La orden ya no existe.",module,Magento_Shipping
+"Cannot do shipment for the order separately from invoice.","No se puede hacer el despacho para el pedido por separado de la factura.",module,Magento_Shipping
+"Cannot do shipment for the order.","No se puede hacer el despacho para el pedido.",module,Magento_Shipping
+"Tracking information must contain title, carrier code, and tracking number","La información de seguimiento debe contener el título, el código del operador y el número de seguimiento",module,Magento_Shipping
+"There are no shipping labels related to selected shipments.","No hay etiquetas de despacho relacionadas con envíos seleccionados.",module,Magento_Shipping
+"Page not found.","Página no encontrada.",module,Magento_Shipping
+"Tracking Information","Información de Seguimiento",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Lo sentimos, pero no podemos entregar al país de destino con este módulo de envío.",module,Magento_Shipping
+"The shipping module is not available.","El módulo de envío no está disponible.",module,Magento_Shipping
 "This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the zip code.",module,Magento_Shipping
 "No packages for request","No packages for request",module,Magento_Shipping
 "Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Shipping
@@ -6360,43 +6360,43 @@ Password:,Password:,module,Magento_Theme
 "Check the status of orders","Check the status of orders",module,Magento_Theme
 "View past orders","View past orders",module,Magento_Theme
 "Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Theme
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Ui
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
-Assign,Assign,module,Magento_Ui
-Options,Options,module,Magento_Ui
-"records found","records found",module,Magento_Ui
-selected,selected,module,Magento_Ui
-of,of,module,Magento_Ui
-Filters,Filters,module,Magento_Ui
-"Password Reset Confirmation for %name","Password Reset Confirmation for %name",module,Magento_User
+"Changes have been made to this section that have not been saved.","Se han realizado cambios en esta sección que no se han guardado.",module,Magento_Ui
+"This tab contains invalid data. Please resolve this before saving.","Esta pestaña contiene datos no válidos. Por favor resuelve esto antes de guardar.",module,Magento_Ui
+Assign,Asignar,module,Magento_Ui
+Options,Opciones,module,Magento_Ui
+"records found","registros encontrados",module,Magento_Ui
+selected,seleccionado,module,Magento_Ui
+of,de,module,Magento_Ui
+Filters,Filtros,module,Magento_Ui
+"Password Reset Confirmation for %name","Confirmación de restabler contraseña para %name",module,Magento_User
 "%name,","%name,",module,Magento_User
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
-"If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_User
-"Thank you,","Thank you,",module,Magento_User
-"New %changes for %user_name","New %changes for %user_name",module,Magento_User
-"Hello,","Hello,",module,Magento_User
-"We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
-"If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
-"or call us at %store_phone","or call us at %store_phone",module,Magento_User
-"Thanks,","Thanks,",module,Magento_User
-"Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
-"Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
-"View all Wish List items","View all Wish List items",module,Magento_Wishlist
-"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"There was recently a request to change the password for your account.","Recientemente se solicitó cambiar la contraseña de su cuenta.",module,Magento_User
+"If you requested this change, reset your password here:","Si solicitó este cambio, restablezca su contraseña aquí:",module,Magento_User
+"If you did not make this request, you can ignore this email and your password will remain the same.","Si no hizo esta solicitud, puede ignorar este correo electrónico y su contraseña seguirá siendo la misma.",module,Magento_User
+"Thank you,","Gracias,",module,Magento_User
+"New %changes for %user_name","Nuevo %changes para %user_name",module,Magento_User
+"Hello,","Hola,",module,Magento_User
+"We have received a request to change the following information associated with your account at %store_name: %changes.","Hemos recibido una solicitud para cambiar la siguiente información asociada con su cuenta en %store_name: %changes.",module,Magento_User
+"If you have not authorized this action, please contact us immediately at %store_email","Si no ha autorizado esta acción, contáctenos inmediatamente a %store_email",module,Magento_User
+"or call us at %store_phone","o llámenos a %store_phone",module,Magento_User
+"Thanks,","Gracias,",module,Magento_User
+"Take a look at %customer_name's Wish List","Eche un vistazo a la lista de deseos de %customer_name",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name quiere compartir esta lista de deseos de %store_name con usted:",module,Magento_Wishlist
+"Message from %customer_name:","Mensaje de %customer_name:",module,Magento_Wishlist
+"View all Wish List items","Ver todos los Productos de la Lista de Deseos",module,Magento_Wishlist
+"Welcome to %store_name","Bienvenido a %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Magento/luma
-Email:,Email:,theme,frontend/Magento/luma
-Password:,Password:,theme,frontend/Magento/luma
-"Password you set when creating account","Password you set when creating account",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend/Magento/luma
+"Welcome to %store_name.","Bienvenido a %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Para iniciar sesión en nuestro sitio, use estas credenciales durante el pago o en el <a href=""%customer_url"">Mi Cuentas</a> página:",theme,frontend/Magento/luma
+Email:,Correo:,theme,frontend/Magento/luma
+Password:,Contraseña:,theme,frontend/Magento/luma
+"Password you set when creating account","Contraseña que estableces al crear una cuenta",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidó la contraseña de su cuenta? Click <a href=""%reset_url"">aquí</a> para restablecerla.",theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
-"Quick Checkout","Quick Checkout",theme,frontend/Magento/luma
-"Proceed through checkout faster","Proceed through checkout faster",theme,frontend/Magento/luma
-"Order Status","Order Status",theme,frontend/Magento/luma
-"Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
+"Quick Checkout","Pago Rapido",theme,frontend/Magento/luma
+"Proceed through checkout faster","Proceda con el proceso de pago más rápido",theme,frontend/Magento/luma
+"Order Status","Estado de Pedido",theme,frontend/Magento/luma
+"Check the status of orders","Verifica el estado de los pedidos",theme,frontend/Magento/luma
 "Manage Addresses","Manage Addresses",theme,frontend/Magento/luma
 "Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
@@ -6793,46 +6793,46 @@ Debug,Depurar,module,Magento_Authorizenet
 "Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
 "Maximum Order Total","Maximum Order Total",module,Magento_Authorizenet
 "Sort Order","Sort Order",module,Magento_Authorizenet
-"Allow everything","Allow everything",module,Magento_Backend
-"Magento Admin","Magento Admin",module,Magento_Backend
-"Global Search","Global Search",module,Magento_Backend
-Marketing,Marketing,module,Magento_Backend
-"SEO & Search","SEO & Search",module,Magento_Backend
-"User Content","User Content",module,Magento_Backend
-Content,Content,module,Magento_Backend
-Elements,Elements,module,Magento_Backend
-Design,Design,module,Magento_Backend
-Schedule,Schedule,module,Magento_Backend
-"Content translation","Content translation",module,Magento_Backend
-Settings,Settings,module,Magento_Backend
-"All Stores","All Stores",module,Magento_Backend
-Attributes,Attributes,module,Magento_Backend
-"Other Settings","Other Settings",module,Magento_Backend
-"Data Transfer","Data Transfer",module,Magento_Backend
-"Magento Connect","Magento Connect",module,Magento_Backend
-"Connect Manager","Connect Manager",module,Magento_Backend
-"Package Extensions","Package Extensions",module,Magento_Backend
-Tools,Tools,module,Magento_Backend
-"Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
-Currency,Currency,module,Magento_Backend
-Communications,Communications,module,Magento_Backend
-Services,Services,module,Magento_Backend
-Advanced,Advanced,module,Magento_Backend
-"Disable Modules Output","Disable Modules Output",module,Magento_Backend
-"Store Email Addresses","Store Email Addresses",module,Magento_Backend
-"Custom Email 1","Custom Email 1",module,Magento_Backend
-"Sender Email","Sender Email",module,Magento_Backend
-"Sender Name","Sender Name",module,Magento_Backend
-"Custom Email 2","Custom Email 2",module,Magento_Backend
-"General Contact","General Contact",module,Magento_Backend
-"Sales Representative","Sales Representative",module,Magento_Backend
-"Customer Support","Customer Support",module,Magento_Backend
+"Allow everything","Permitir todo",module,Magento_Backend
+"Magento Admin","Administrador Magento",module,Magento_Backend
+"Global Search","Búsqueda Global",module,Magento_Backend
+Marketing,Márketing,module,Magento_Backend
+"SEO & Search","Buscadores y SEO",module,Magento_Backend
+"User Content","Contenido de Usuario",module,Magento_Backend
+Content,Contenido,module,Magento_Backend
+Elements,Elementos,module,Magento_Backend
+Design,Diseño,module,Magento_Backend
+Schedule,Horario,module,Magento_Backend
+"Content translation","Traducción de Contenido",module,Magento_Backend
+Settings,Configuraciones,module,Magento_Backend
+"All Stores","Todas las Tiendas",module,Magento_Backend
+Attributes,Atributos,module,Magento_Backend
+"Other Settings","Otros Ajustes",module,Magento_Backend
+"Data Transfer","Transferencia de Datos",module,Magento_Backend
+"Magento Connect","Conector Magento",module,Magento_Backend
+"Connect Manager","Administrar Conector",module,Magento_Backend
+"Package Extensions","Extensiones de Paquete",module,Magento_Backend
+Tools,Herramientas,module,Magento_Backend
+"Web Setup Wizard","Asistente de Configuración Web",module,Magento_Backend
+Currency,Moneda,module,Magento_Backend
+Communications,Comunicaciones,module,Magento_Backend
+Services,Servicios,module,Magento_Backend
+Advanced,Avanzado,module,Magento_Backend
+"Disable Modules Output","Desactivar Salida de Módulos",module,Magento_Backend
+"Store Email Addresses","Tienda Direcciones de Correo",module,Magento_Backend
+"Custom Email 1","Correo Personalizado 1",module,Magento_Backend
+"Sender Email","Correo del Remitente",module,Magento_Backend
+"Sender Name","Nombre del Remitente",module,Magento_Backend
+"Custom Email 2","Correo Personalizado 2",module,Magento_Backend
+"General Contact","Contacto General",module,Magento_Backend
+"Sales Representative","Representante de Ventas",module,Magento_Backend
+"Customer Support","Atención al Cliente",module,Magento_Backend
 Developer,Desarrollador,module,Magento_Backend
 Debug,Depurar,module,Magento_Backend
-"Enabled Template Path Hints for Storefront","Enabled Template Path Hints for Storefront",module,Magento_Backend
-"Enabled Template Path Hints for Admin","Enabled Template Path Hints for Admin",module,Magento_Backend
-"Add Block Names to Hints","Add Block Names to Hints",module,Magento_Backend
-"Template Settings","Template Settings",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Habilitado Sugerencias de Ruta de Plantilla para escaparate",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Habilitado Sugerencias de Ruta de Plantilla para el administrador",module,Magento_Backend
+"Add Block Names to Hints","Agregar Nombres de Bloque a Sugerir",module,Magento_Backend
+"Template Settings","Configuración de Plantilla",module,Magento_Backend
 "Allow Symlinks","Allow Symlinks",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",module,Magento_Backend
 "Minify Html","Minify Html",module,Magento_Backend
