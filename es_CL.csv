@@ -306,7 +306,7 @@ Order,Pedido,module,Magento_Backend
 "Please try to sign out and sign in again.","Intente cerrar la sesión e iniciar sesión nuevamente.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Si continúa recibiendo este mensaje, póngase en contacto con el propietario de la tienda.",module,Magento_Backend
 "You need more permissions to access this.","Necesitas más permisos para acceder a esto.",module,Magento_Backend
-"Welcome, please sign in","Bienvenido, por favor inicia sesión",module,Magento_Backend
+"Welcome, please sign in","Bienvenido, inicie sesión",module,Magento_Backend
 Username,Usuario,module,Magento_Backend
 "user name","nombre de usuario",module,Magento_Backend
 Password,Contraseña,module,Magento_Backend
@@ -650,7 +650,7 @@ Reset,Reinicializar,module,Magento_CatalogRule
 "Save and Apply","Guardar y Aplicar",module,Magento_CatalogRule
 "Save and Continue Edit","Guardar y Continua Editando",module,Magento_CatalogRule
 Save,Guardar,module,Magento_CatalogRule
-"Catalog Price Rule","Regla de Catalogo de Precio",module,Magento_CatalogRule
+"Catalog Price Rule","Catalogo de Precio Reglas",module,Magento_CatalogRule
 "Add New Rule","Agregar Nueva Regla",module,Magento_CatalogRule
 "Apply Rules","Aplicar Reglas",module,Magento_CatalogRule
 Conditions,Condiciones,module,Magento_CatalogRule
@@ -1853,66 +1853,66 @@ Total,Total,module,Magento_Customer
 Action,Acción,module,Magento_Customer
 Configure,Configurar,module,Magento_Customer
 Delete,Borrar,module,Magento_Customer
-"Shopping Cart from %1","Shopping Cart from %1",module,Magento_Customer
-Newsletter,Newsletter,module,Magento_Customer
-"Newsletter Information","Newsletter Information",module,Magento_Customer
-"Subscribed to Newsletter","Subscribed to Newsletter",module,Magento_Customer
-"Last Date Subscribed","Last Date Subscribed",module,Magento_Customer
-"Last Date Unsubscribed","Last Date Unsubscribed",module,Magento_Customer
-"No Newsletter Found","No Newsletter Found",module,Magento_Customer
-"Start date","Start date",module,Magento_Customer
-"End Date","End Date",module,Magento_Customer
-"Receive Date","Receive Date",module,Magento_Customer
+"Shopping Cart from %1","Carrito de Compras de %1",module,Magento_Customer
+Newsletter,Boletín,module,Magento_Customer
+"Newsletter Information","Información del Boletín",module,Magento_Customer
+"Subscribed to Newsletter","Suscrito al Boletín",module,Magento_Customer
+"Last Date Subscribed","Última Fecha de Suscripción",module,Magento_Customer
+"Last Date Unsubscribed","Última Fecha de Desuscripción",module,Magento_Customer
+"No Newsletter Found","No se Encontró Boletín",module,Magento_Customer
+"Start date","Fecha de inicio",module,Magento_Customer
+"End Date","Fecha de Termino",module,Magento_Customer
+"Receive Date","Fecha de Recepción",module,Magento_Customer
 Subject,Asunto,module,Magento_Customer
 Status,Estado,module,Magento_Customer
 Sent,Enviar,module,Magento_Customer
 Cancel,Cancelar,module,Magento_Customer
-"Not Sent","Not Sent",module,Magento_Customer
+"Not Sent","No Enviado",module,Magento_Customer
 Sending,Enviando,module,Magento_Customer
 Paused,Pausado,module,Magento_Customer
 View,Vista,module,Magento_Customer
-Unknown,Unknown,module,Magento_Customer
-Order,Order,module,Magento_Customer
-Purchased,Purchased,module,Magento_Customer
-"Bill-to Name","Bill-to Name",module,Magento_Customer
-"Ship-to Name","Ship-to Name",module,Magento_Customer
-"Order Total","Order Total",module,Magento_Customer
-"Purchase Point","Purchase Point",module,Magento_Customer
-"Customer View","Customer View",module,Magento_Customer
-"There are no items in customer's shopping cart.","There are no items in customer's shopping cart.",module,Magento_Customer
-Qty,Qty,module,Magento_Customer
-Confirmed,Confirmed,module,Magento_Customer
-"Confirmation Required","Confirmation Required",module,Magento_Customer
-"Confirmation Not Required","Confirmation Not Required",module,Magento_Customer
-Indeterminate,Indeterminate,module,Magento_Customer
-"The customer does not have default billing address.","The customer does not have default billing address.",module,Magento_Customer
-Offline,Offline,module,Magento_Customer
-Online,Online,module,Magento_Customer
-Never,Never,module,Magento_Customer
-Unlocked,Unlocked,module,Magento_Customer
-Locked,Locked,module,Magento_Customer
-"Deleted Stores","Deleted Stores",module,Magento_Customer
-"Add Locale","Add Locale",module,Magento_Customer
-"Add Date","Add Date",module,Magento_Customer
-"Days in Wish List","Days in Wish List",module,Magento_Customer
-Unlock,Unlock,module,Magento_Customer
+Unknown,Desconocido,module,Magento_Customer
+Order,Pedido,module,Magento_Customer
+Purchased,Comprado,module,Magento_Customer
+"Bill-to Name","Nombre a Cobrar",module,Magento_Customer
+"Ship-to Name","Nombre a Despachar",module,Magento_Customer
+"Order Total","Total del Pedido",module,Magento_Customer
+"Purchase Point","Punto de Compra",module,Magento_Customer
+"Customer View","Vista del Cliente",module,Magento_Customer
+"There are no items in customer's shopping cart.","No hay productos en el carrito de compras del cliente.",module,Magento_Customer
+Qty,Cantidad,module,Magento_Customer
+Confirmed,Confirmado,module,Magento_Customer
+"Confirmation Required","Confirmación Requerida",module,Magento_Customer
+"Confirmation Not Required","Confirmación no Requerida",module,Magento_Customer
+Indeterminate,Indeterminado,module,Magento_Customer
+"The customer does not have default billing address.","El cliente no tiene una dirección de facturación predeterminada.",module,Magento_Customer
+Offline,Desconectado,module,Magento_Customer
+Online,En-Linea,module,Magento_Customer
+Never,Nunca,module,Magento_Customer
+Unlocked,Desbloqueado,module,Magento_Customer
+Locked,Bloqueado,module,Magento_Customer
+"Deleted Stores","Tiendas Eliminadas",module,Magento_Customer
+"Add Locale","Agregar Configuración Regional",module,Magento_Customer
+"Add Date","Agregar Fecha",module,Magento_Customer
+"Days in Wish List","Días en Lista de Deseos",module,Magento_Customer
+Unlock,Desbloquear,module,Magento_Customer
 No,No,module,Magento_Customer
 Yes,Si,module,Magento_Customer
 "Delete File","Archivo Borrado",module,Magento_Customer
 Download,Descarga,module,Magento_Customer
 "Delete Image","Imagen Borrada",module,Magento_Customer
-"View Full Size","View Full Size",module,Magento_Customer
-"All countries","All countries",module,Magento_Customer
-"Customer Groups","Customer Groups",module,Magento_Customer
-"Add New Customer Group","Add New Customer Group",module,Magento_Customer
-"Save Customer Group","Save Customer Group",module,Magento_Customer
-"Delete Customer Group","Delete Customer Group",module,Magento_Customer
-"New Customer Group","New Customer Group",module,Magento_Customer
-"Edit Customer Group ""%1""","Edit Customer Group ""%1""",module,Magento_Customer
-"Group Information","Group Information",module,Magento_Customer
-"Group Name","Group Name",module,Magento_Customer
-"Maximum length must be less then %1 characters.","Maximum length must be less then %1 characters.",module,Magento_Customer
-"Tax Class","Tax Class",module,Magento_Customer
+"View Full Size","Ver Tamaño Completo",module,Magento_Customer
+"All countries","Todos los Países",module,Magento_Customer
+"Customer Groups","Grupos de Clientes",module,Magento_Customer
+"Add New Customer Group","Agregar Nuevo Grupo de Clientes",module,Magento_Customer
+"Save Customer Group","Guardar Grupo de Clientes",module,Magento_Customer
+"Delete Customer Group","Eliminar Grupo de Clientes",module,Magento_Customer
+"New Customer Group","Nuevo Grupo de Clientes",module,Magento_Customer
+"Edit Customer Group ""%1""","Editar Grupo de Clientes ""%1""",module,Magento_Customer
+"Group Information","Información del Grupo",module,Magento_Customer
+"Group Name","Nombre del Grupo",module,Magento_Customer
+"Maximum length must be less then %1 characters.","La longitud máxima debe ser inferior a %1 caracteres.",module,Magento_Customer
+"Tax Class","Clase de Impuestos",module,Magento_Customer
 "The customer is now assigned to Customer Group %s.","The customer is now assigned to Customer Group %s.",module,Magento_Customer
 "Would you like to change the Customer Group for this order?","Would you like to change the Customer Group for this order?",module,Magento_Customer
 "The VAT ID is valid.","The VAT ID is valid.",module,Magento_Customer
