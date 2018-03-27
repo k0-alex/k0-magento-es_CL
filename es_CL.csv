@@ -2408,8 +2408,8 @@ Yes,Si,module,Magento_Eav
 No,No,module,Magento_Eav
 System,Sistema,module,Magento_Eav
 None,Ninguno,module,Magento_Eav
-"Decimal Number","Decimal Number",module,Magento_Eav
-"Integer Number","Integer Number",module,Magento_Eav
+"Decimal Number","Número Decimal",module,Magento_Eav
+"Integer Number","Número Entero",module,Magento_Eav
 Email,Email,module,Magento_Eav
 URL,URL,module,Magento_Eav
 Letters,Letters,module,Magento_Eav
