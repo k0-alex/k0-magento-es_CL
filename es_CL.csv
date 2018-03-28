@@ -5108,85 +5108,85 @@ Shipments,Despachos,module,Magento_Shipping
 "Page not found.","Página no encontrada.",module,Magento_Shipping
 "Tracking Information","Información de Seguimiento",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Lo sentimos, pero no podemos entregar al país de destino con este módulo de envío.",module,Magento_Shipping
-"The shipping module is not available.","El módulo de envío no está disponible.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the zip code.",module,Magento_Shipping
-"No packages for request","No packages for request",module,Magento_Shipping
-"Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Shipping
-"All Allowed Countries","All Allowed Countries",module,Magento_Shipping
-"Specific Countries","Specific Countries",module,Magento_Shipping
-Development,Development,module,Magento_Shipping
-Live,Live,module,Magento_Shipping
-"Divide to equal weight (one request)","Divide to equal weight (one request)",module,Magento_Shipping
-"Use origin weight (few requests)","Use origin weight (few requests)",module,Magento_Shipping
-Packages,Packages,module,Magento_Shipping
-Package,Package,module,Magento_Shipping
-Type,Type,module,Magento_Shipping
-Length,Length,module,Magento_Shipping
-"Signature Confirmation","Signature Confirmation",module,Magento_Shipping
-"Customs Value","Customs Value",module,Magento_Shipping
-Width,Width,module,Magento_Shipping
-Contents,Contents,module,Magento_Shipping
-"Total Weight","Total Weight",module,Magento_Shipping
-Height,Height,module,Magento_Shipping
-Size,Size,module,Magento_Shipping
-Girth,Girth,module,Magento_Shipping
-"Items in the Package","Items in the Package",module,Magento_Shipping
-Product,Product,module,Magento_Shipping
-Weight,Weight,module,Magento_Shipping
-"Qty Ordered","Qty Ordered",module,Magento_Shipping
+"The shipping module is not available.","El módulo de despacho no está disponible.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","Este método de envío no está disponible. Por favor especifique el código postal.",module,Magento_Shipping
+"No packages for request","Sin paquetes para solicitar",module,Magento_Shipping
+"Security validation of XML document has been failed.","La validación de seguridad del documento XML ha fallado.",module,Magento_Shipping
+"All Allowed Countries","Todos los Países Permitidos",module,Magento_Shipping
+"Specific Countries","Países Específicos",module,Magento_Shipping
+Development,Desarrollo,module,Magento_Shipping
+Live,Pasar,module,Magento_Shipping
+"Divide to equal weight (one request)","Divida a igual peso (una solicitud)",module,Magento_Shipping
+"Use origin weight (few requests)","Usar peso de origen (pocas solicitudes)",module,Magento_Shipping
+Packages,Paquetes,module,Magento_Shipping
+Package,Paquete,module,Magento_Shipping
+Type,Tipo,module,Magento_Shipping
+Length,Longitud,module,Magento_Shipping
+"Signature Confirmation","Firma de Confirmación",module,Magento_Shipping
+"Customs Value","Valor Aduanero",module,Magento_Shipping
+Width,Ancho,module,Magento_Shipping
+Contents,Contenido,module,Magento_Shipping
+"Total Weight","Peso Total",module,Magento_Shipping
+Height,Altura,module,Magento_Shipping
+Size,Tamaño,module,Magento_Shipping
+Girth,Circunferencia,module,Magento_Shipping
+"Items in the Package","Artículos en el Paquete",module,Magento_Shipping
+Product,Producto,module,Magento_Shipping
+Weight,Peso,module,Magento_Shipping
+"Qty Ordered","Cantidad Solicitada",module,Magento_Shipping
 Qty,Cantidad,module,Magento_Shipping
-"No detail for number ""%1""","No detail for number ""%1""",module,Magento_Shipping
-"Shipping labels is not available.","Shipping labels is not available.",module,Magento_Shipping
-"Response info is not exist.","Response info is not exist.",module,Magento_Shipping
-"Invalid carrier: %1","Invalid carrier: %1",module,Magento_Shipping
-"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
-"Per Order","Per Order",module,Magento_Shipping
-"Per Package","Per Package",module,Magento_Shipping
-Fixed,Fixed,module,Magento_Shipping
-Percent,Percent,module,Magento_Shipping
-"Tracking information is unavailable.","Tracking information is unavailable.",module,Magento_Shipping
-message,message,module,Magento_Shipping
-"Email has not been sent","Email has not been sent",module,Magento_Shipping
-"Payment &amp; Shipping Method","Payment &amp; Shipping Method",module,Magento_Shipping
-"Payment Information","Payment Information",module,Magento_Shipping
-"The order was placed using %1.","The order was placed using %1.",module,Magento_Shipping
-"Shipping Information","Shipping Information",module,Magento_Shipping
-"Total Shipping Charges","Total Shipping Charges",module,Magento_Shipping
-"Incl. Tax","Incl. Tax",module,Magento_Shipping
-"Items to Ship","Items to Ship",module,Magento_Shipping
-"Qty to Ship","Qty to Ship",module,Magento_Shipping
-Ship,Ship,module,Magento_Shipping
-"Shipment Total","Shipment Total",module,Magento_Shipping
-"Shipment Comments","Shipment Comments",module,Magento_Shipping
-"Comment Text","Comment Text",module,Magento_Shipping
-"Shipment Options","Shipment Options",module,Magento_Shipping
-"Create Shipping Label","Create Shipping Label",module,Magento_Shipping
-"Append Comments","Append Comments",module,Magento_Shipping
-"Email Copy of Shipment","Email Copy of Shipment",module,Magento_Shipping
-"Invalid value(s) for Qty to Ship","Invalid value(s) for Qty to Ship",module,Magento_Shipping
-"Select All","Select All",module,Magento_Shipping
-"Product Name","Product Name",module,Magento_Shipping
-Delete,Delete,module,Magento_Shipping
-"Create Packages","Create Packages",module,Magento_Shipping
-Cancel,Cancel,module,Magento_Shipping
-Save,Save,module,Magento_Shipping
-"Add Package","Add Package",module,Magento_Shipping
-"Add Selected Product(s) to Package","Add Selected Product(s) to Package",module,Magento_Shipping
-"Add Products to Package","Add Products to Package",module,Magento_Shipping
-"USPS domestic shipments don't use package types.","USPS domestic shipments don't use package types.",module,Magento_Shipping
+"No detail for number ""%1""","Sin detalles para el número ""%1""",module,Magento_Shipping
+"Shipping labels is not available.","Las etiquetas de envío no están disponibles.",module,Magento_Shipping
+"Response info is not exist.","La información de respuesta no existe.",module,Magento_Shipping
+"Invalid carrier: %1","Portador inválido: %1",module,Magento_Shipping
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","No tenemos suficiente información para crear etiquetas de despacho. Asegúrate de que la información y la configuración de tu tienda estén completas.",module,Magento_Shipping
+"Per Order","Por Pedido",module,Magento_Shipping
+"Per Package","Por Paquete",module,Magento_Shipping
+Fixed,Fijo,module,Magento_Shipping
+Percent,Porcentaje,module,Magento_Shipping
+"Tracking information is unavailable.","La información de seguimiento no está disponible.",module,Magento_Shipping
+message,mensaje,module,Magento_Shipping
+"Email has not been sent","El correo no ha sido enviado",module,Magento_Shipping
+"Payment &amp; Shipping Method","Pago y Metodo de Despacho",module,Magento_Shipping
+"Payment Information","Información del Pago",module,Magento_Shipping
+"The order was placed using %1.","El pedido fue colocado usando %1.",module,Magento_Shipping
+"Shipping Information","Información de Despacho",module,Magento_Shipping
+"Total Shipping Charges","Total Gastos de Envío",module,Magento_Shipping
+"Incl. Tax","Incl. Impuesto",module,Magento_Shipping
+"Items to Ship","Artículos para Despachar",module,Magento_Shipping
+"Qty to Ship","Cantidad para Despachar",module,Magento_Shipping
+Ship,Despacho,module,Magento_Shipping
+"Shipment Total","Total del Despacho",module,Magento_Shipping
+"Shipment Comments","Comentarios de Despacho",module,Magento_Shipping
+"Comment Text","Texto de Comentario",module,Magento_Shipping
+"Shipment Options","Opciones de Despacho",module,Magento_Shipping
+"Create Shipping Label","Crear Etiqueta de Envío",module,Magento_Shipping
+"Append Comments","Agregar Comentarios",module,Magento_Shipping
+"Email Copy of Shipment","Copia de Despacho por Correo",module,Magento_Shipping
+"Invalid value(s) for Qty to Ship","Valor(es) inválido(s) para la Cantidad a Despachar",module,Magento_Shipping
+"Select All","Seleccionar Todo",module,Magento_Shipping
+"Product Name","Nombre del Producto",module,Magento_Shipping
+Delete,Quitar,module,Magento_Shipping
+"Create Packages","Crear Paquetes",module,Magento_Shipping
+Cancel,Cancelar,module,Magento_Shipping
+Save,Guardar,module,Magento_Shipping
+"Add Package","Agregar Paquete",module,Magento_Shipping
+"Add Selected Product(s) to Package","Agregar Producto(s) Seleccionado(s) al paquete",module,Magento_Shipping
+"Add Products to Package","Agregue Productos al Paquete",module,Magento_Shipping
+"USPS domestic shipments don't use package types.","Los envíos nacionales de USPS no usan tipos de paquetes.",module,Magento_Shipping
 in,in,module,Magento_Shipping
 cm,cm,module,Magento_Shipping
 lb,lb,module,Magento_Shipping
 kg,kg,module,Magento_Shipping
-"Delete Package","Delete Package",module,Magento_Shipping
-Explanation,Explanation,module,Magento_Shipping
-Carrier,Carrier,module,Magento_Shipping
+"Delete Package","Quitar Paquete",module,Magento_Shipping
+Explanation,Explicación,module,Magento_Shipping
+Carrier,Portador,module,Magento_Shipping
 Title,Título,module,Magento_Shipping
-Number,Number,module,Magento_Shipping
-Action,Action,module,Magento_Shipping
+Number,Número,module,Magento_Shipping
+Action,Acción,module,Magento_Shipping
 "Are you sure?","¿Estás seguro?",module,Magento_Shipping
-"Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Magento_Shipping
-"Track Order","Track Order",module,Magento_Shipping
+"Shipping &amp; Handling Information","Información de Despacho y Manipulación",module,Magento_Shipping
+"Track Order","Rastreo de Pedido",module,Magento_Shipping
 "No shipping information available","No shipping information available",module,Magento_Shipping
 "Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
 "Track this shipment","Track this shipment",module,Magento_Shipping
