@@ -5311,28 +5311,28 @@ Options,Options,module,Magento_Swatches
 "Save Option","Save Option",module,Magento_Swatches
 "Remove Option","Remove Option",module,Magento_Swatches
 "Create New Value","Create New Value",module,Magento_Swatches
-Code,Code,module,Magento_TaxImportExport
-Country,Country,module,Magento_TaxImportExport
-State,State,module,Magento_TaxImportExport
-"Zip/Post Code","Zip/Post Code",module,Magento_TaxImportExport
-Rate,Rate,module,Magento_TaxImportExport
-"Zip/Post is Range","Zip/Post is Range",module,Magento_TaxImportExport
-"Range From","Range From",module,Magento_TaxImportExport
-"Range To","Range To",module,Magento_TaxImportExport
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_TaxImportExport
-"Import and Export Tax Rates","Import and Export Tax Rates",module,Magento_TaxImportExport
-"The tax rate has been imported.","The tax rate has been imported.",module,Magento_TaxImportExport
-"Invalid file upload attempt","Invalid file upload attempt",module,Magento_TaxImportExport
-"Invalid file upload attempt.","Invalid file upload attempt.",module,Magento_TaxImportExport
-"Invalid file format.","Invalid file format.",module,Magento_TaxImportExport
-"One of the countries has invalid code.","One of the countries has invalid code.",module,Magento_TaxImportExport
-"Import Tax Rates","Import Tax Rates",module,Magento_TaxImportExport
-"Export Tax Rates","Export Tax Rates",module,Magento_TaxImportExport
+Code,Código,module,Magento_TaxImportExport
+Country,País,module,Magento_TaxImportExport
+State,Estado,module,Magento_TaxImportExport
+"Zip/Post Code","Código Postal",module,Magento_TaxImportExport
+Rate,Tarifa,module,Magento_TaxImportExport
+"Zip/Post is Range","Código Postal es Rango",module,Magento_TaxImportExport
+"Range From","Rango De",module,Magento_TaxImportExport
+"Range To","Rango A",module,Magento_TaxImportExport
+"Tax Zones and Rates","Zonas Fiscales y Tarifas",module,Magento_TaxImportExport
+"Import and Export Tax Rates","Importar y Exportar Tasas Impositivas",module,Magento_TaxImportExport
+"The tax rate has been imported.","La tasa de impuestos ha sido importada.",module,Magento_TaxImportExport
+"Invalid file upload attempt","Intento de carga de archivo inválido",module,Magento_TaxImportExport
+"Invalid file upload attempt.","Intento de carga de archivo inválido.",module,Magento_TaxImportExport
+"Invalid file format.","Formato de archivo inválido.",module,Magento_TaxImportExport
+"One of the countries has invalid code.","Uno de los países tiene un código inválido.",module,Magento_TaxImportExport
+"Import Tax Rates","Importar Tasas de Impuestos",module,Magento_TaxImportExport
+"Export Tax Rates","Exportar Tasas de Impuestos",module,Magento_TaxImportExport
 "Tax Rate Information","Información de Tasa de Impuestos",module,Magento_Tax
 "Tax Identifier","Identificador de Impuestos",module,Magento_Tax
 "Zip/Post is Range","Código Postal es Rango",module,Magento_Tax
 "Zip/Post Code","Código Postal",module,Magento_Tax
-"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.",module,Magento_Tax
+"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - coincide con cualquier; 'xyz*' - coincide con cualquiera que comience en 'xyz' y no son más largos que %1.",module,Magento_Tax
 "Range From","Rango De",module,Magento_Tax
 "Range To","Rango A",module,Magento_Tax
 State,Estado,module,Magento_Tax
@@ -7036,15 +7036,15 @@ Amount,Amount,module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
 "Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
 Currency,Currency,module,Magento_Braintree
-Select...,Select...,module,Magento_Bundle
-Status,Status,module,Magento_Bundle
-Thumbnail,Thumbnail,module,Magento_Bundle
-Type,Type,module,Magento_Bundle
+Select...,Seleccionar...,module,Magento_Bundle
+Status,Estado,module,Magento_Bundle
+Thumbnail,Miniatura,module,Magento_Bundle
+Type,Tipo,module,Magento_Bundle
 CAPTCHA,CAPTCHA,module,Magento_Captcha
-"Enable CAPTCHA in Admin","Enable CAPTCHA in Admin",module,Magento_Captcha
-Font,Font,module,Magento_Captcha
-Forms,Forms,module,Magento_Captcha
-"Displaying Mode","Displaying Mode",module,Magento_Captcha
+"Enable CAPTCHA in Admin","Enable CAPTCHA en Admin",module,Magento_Captcha
+Font,Fuente,module,Magento_Captcha
+Forms,Formularios,module,Magento_Captcha
+"Displaying Mode","Modo de Visualización",module,Magento_Captcha
 "Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login",module,Magento_Captcha
 "If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available.",module,Magento_Captcha
 "CAPTCHA Timeout (minutes)","CAPTCHA Timeout (minutes)",module,Magento_Captcha
@@ -8357,60 +8357,60 @@ Shipment,Shipment,module,Magento_Sales
 "Credit Memo Comment Email Template for Guest","Credit Memo Comment Email Template for Guest",module,Magento_Sales
 "Send Credit Memo Comment Email Copy To","Send Credit Memo Comment Email Copy To",module,Magento_Sales
 "Send Credit Memo Comments Email Copy Method","Send Credit Memo Comments Email Copy Method",module,Magento_Sales
-"PDF Print-outs","PDF Print-outs",module,Magento_Sales
-"Display Order ID in Header","Display Order ID in Header",module,Magento_Sales
-"Customer Order Status Notification","Customer Order Status Notification",module,Magento_Sales
-"Asynchronous indexing","Asynchronous indexing",module,Magento_Sales
+"PDF Print-outs","Impresiones en PDF",module,Magento_Sales
+"Display Order ID in Header","Mostrar ID de Pedido en el Encabezado",module,Magento_Sales
+"Customer Order Status Notification","Notificación de Estado del Pedido del Cliente",module,Magento_Sales
+"Asynchronous indexing","Indexación Asincrónica",module,Magento_Sales
 "Orders and Returns Search Form","Formulario Búsqueda de Pedidos y Devoluciones",module,Magento_Sales
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Sales
-Template,Template,module,Magento_Sales
-"Default Template","Default Template",module,Magento_Sales
-Name,Name,module,Magento_Sales
-Phone,Phone,module,Magento_Sales
-"ZIP/Post Code","ZIP/Post Code",module,Magento_Sales
-"Signed-up Point","Signed-up Point",module,Magento_Sales
-Website,Website,module,Magento_Sales
-order-header,order-header,module,Magento_Sales
+"Anchor Custom Title","Título Personalizado de Anclaje",module,Magento_Sales
+Template,Plantilla,module,Magento_Sales
+"Default Template","Plantilla Predeterminada",module,Magento_Sales
+Name,Nombre,module,Magento_Sales
+Phone,Teléfono,module,Magento_Sales
+"ZIP/Post Code","Código Postal",module,Magento_Sales
+"Signed-up Point","Punto Registrado",module,Magento_Sales
+Website,Sitio-Web,module,Magento_Sales
+order-header,encabezado-pedido,module,Magento_Sales
 "Bill-to Name","Bill-to Name",module,Magento_Sales
-Created,Created,module,Magento_Sales
-"Invoice Date","Invoice Date",module,Magento_Sales
-"Ship-to Name","Ship-to Name",module,Magento_Sales
-"Ship Date","Ship Date",module,Magento_Sales
-"Total Quantity","Total Quantity",module,Magento_Sales
-"Default Status","Default Status",module,Magento_Sales
-"State Code and Title","State Code and Title",module,Magento_Sales
-"Item Status","Item Status",module,Magento_Sales
-"Original Price","Original Price",module,Magento_Sales
-"Tax Percent","Tax Percent",module,Magento_Sales
-"All Store Views","All Store Views",module,Magento_Sales
-"PDF Credit Memos","PDF Credit Memos",module,Magento_Sales
-"Purchase Point","Purchase Point",module,Magento_Sales
-"Print Invoices","Print Invoices",module,Magento_Sales
-"Print Packing Slips","Print Packing Slips",module,Magento_Sales
-"Print Credit Memos","Print Credit Memos",module,Magento_Sales
-"Print All","Print All",module,Magento_Sales
-"Print Shipping Labels","Print Shipping Labels",module,Magento_Sales
-"Purchase Date","Purchase Date",module,Magento_Sales
-"Grand Total (Base)","Grand Total (Base)",module,Magento_Sales
-"Grand Total (Purchased)","Grand Total (Purchased)",module,Magento_Sales
-"Customer Email","Customer Email",module,Magento_Sales
-"Shipping and Handling","Shipping and Handling",module,Magento_Sales
-"PDF Invoices","PDF Invoices",module,Magento_Sales
-"PDF Shipments","PDF Shipments",module,Magento_Sales
-"PDF Creditmemos","PDF Creditmemos",module,Magento_Sales
-Refunds,Refunds,module,Magento_Sales
-"Search Engine","Search Engine",module,Magento_Search
+Created,Creado,module,Magento_Sales
+"Invoice Date","Fecha de Factura",module,Magento_Sales
+"Ship-to Name","Despachar a Nombre",module,Magento_Sales
+"Ship Date","Fecha de Despacho",module,Magento_Sales
+"Total Quantity","Cantidad Total",module,Magento_Sales
+"Default Status","Estado Predeterminado",module,Magento_Sales
+"State Code and Title","Código de Estado y Título",module,Magento_Sales
+"Item Status","Estados de Productos",module,Magento_Sales
+"Original Price","Precio Original",module,Magento_Sales
+"Tax Percent","Porcentaje de Impuesto",module,Magento_Sales
+"All Store Views","Todas las Vistas de Tienda",module,Magento_Sales
+"PDF Credit Memos","PDF de Notas de Crédito",module,Magento_Sales
+"Purchase Point","Punto de Compra",module,Magento_Sales
+"Print Invoices","Imprimir Facturas",module,Magento_Sales
+"Print Packing Slips","Imprimir Boletas de Embalaje",module,Magento_Sales
+"Print Credit Memos","Imprimir Notas de Crédito",module,Magento_Sales
+"Print All","Imprimir Todo",module,Magento_Sales
+"Print Shipping Labels","Imprimir Etiquetas de Despacho",module,Magento_Sales
+"Purchase Date","Fecha de Compra",module,Magento_Sales
+"Grand Total (Base)","Total Final (Base)",module,Magento_Sales
+"Grand Total (Purchased)","Total Final (Comprado)",module,Magento_Sales
+"Customer Email","Correo del Cliente",module,Magento_Sales
+"Shipping and Handling","Despacho y Manipulación",module,Magento_Sales
+"PDF Invoices","PDF Facturas",module,Magento_Sales
+"PDF Shipments","PDF Despachos",module,Magento_Sales
+"PDF Creditmemos","PDF Notas de Crédito",module,Magento_Sales
+Refunds,Reembolsos,module,Magento_Sales
+"Search Engine","Buscador",module,Magento_Search
 CSV,CSV,module,Magento_Search
 "Excel XML","Excel XML",module,Magento_Search
 ID,ID,module,Magento_Search
 Hits,Hits,module,Magento_Search
 "Are you sure?","¿Estás seguro?",module,Magento_Search
-"Suggested Terms","Suggested Terms",module,Magento_Search
-yes,yes,module,Magento_Search
+"Suggested Terms","Términos Sugeridos",module,Magento_Search
+yes,si,module,Magento_Search
 no,no,module,Magento_Search
-Action,Action,module,Magento_Search
-Edit,Edit,module,Magento_Search
-Scope,Scope,module,Magento_Search
+Action,Acción,module,Magento_Search
+Edit,Editar,module,Magento_Search
+Scope,Alcance,module,Magento_Search
 "You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list.",module,Magento_Search
 Synonyms,Synonyms,module,Magento_Search
 "Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”",module,Magento_Search
@@ -8501,49 +8501,49 @@ Image,Image,module,Magento_Swatches
 Admin,Admin,module,Magento_Swatches
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
-Taxes,Taxes,module,Magento_Tax
-"Tax Section","Tax Section",module,Magento_Tax
-"Tax Classes","Tax Classes",module,Magento_Tax
-"Tax Class for Shipping","Tax Class for Shipping",module,Magento_Tax
-"Default Tax Class for Product","Default Tax Class for Product",module,Magento_Tax
-"Default Tax Class for Customer","Default Tax Class for Customer",module,Magento_Tax
-"Calculation Settings","Calculation Settings",module,Magento_Tax
-"Tax Calculation Method Based On","Tax Calculation Method Based On",module,Magento_Tax
-"Tax Calculation Based On","Tax Calculation Based On",module,Magento_Tax
-"Catalog Prices","Catalog Prices",module,Magento_Tax
-"This sets whether catalog prices entered from Magento Admin include tax.","This sets whether catalog prices entered from Magento Admin include tax.",module,Magento_Tax
-"Shipping Prices","Shipping Prices",module,Magento_Tax
-"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.",module,Magento_Tax
-"Apply Customer Tax","Apply Customer Tax",module,Magento_Tax
-"Apply Discount On Prices","Apply Discount On Prices",module,Magento_Tax
-"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
-"Apply Tax On","Apply Tax On",module,Magento_Tax
-"Enable Cross Border Trade","Enable Cross Border Trade",module,Magento_Tax
-"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.",module,Magento_Tax
-"Default Tax Destination Calculation","Default Tax Destination Calculation",module,Magento_Tax
-"Default Country","Default Country",module,Magento_Tax
-"Default State","Default State",module,Magento_Tax
-"Default Post Code","Default Post Code",module,Magento_Tax
-"Price Display Settings","Price Display Settings",module,Magento_Tax
-"Display Product Prices In Catalog","Display Product Prices In Catalog",module,Magento_Tax
-"Display Shipping Prices","Display Shipping Prices",module,Magento_Tax
-"Shopping Cart Display Settings","Shopping Cart Display Settings",module,Magento_Tax
-"Display Prices","Display Prices",module,Magento_Tax
-"Display Subtotal","Display Subtotal",module,Magento_Tax
-"Display Shipping Amount","Display Shipping Amount",module,Magento_Tax
-"Include Tax In Order Total","Include Tax In Order Total",module,Magento_Tax
-"Display Full Tax Summary","Display Full Tax Summary",module,Magento_Tax
-"Display Zero Tax Subtotal","Display Zero Tax Subtotal",module,Magento_Tax
-"Orders, Invoices, Credit Memos Display Settings","Orders, Invoices, Credit Memos Display Settings",module,Magento_Tax
-State/Region,State/Region,module,Magento_Tax
-Rate,Rate,module,Magento_Tax
-"Subtotal Only","Subtotal Only",module,Magento_Tax
-"(Excl. Tax)","(Excl. Tax)",module,Magento_Tax
-"(Incl. Tax)","(Incl. Tax)",module,Magento_Tax
-"Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
-"Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
-"Order Total","Order Total",module,Magento_Tax
-"Your credit card will be charged for","Your credit card will be charged for",module,Magento_Tax
+Taxes,Impuestos,module,Magento_Tax
+"Tax Section","Sección de Impuestos",module,Magento_Tax
+"Tax Classes","Clases de Impuestos",module,Magento_Tax
+"Tax Class for Shipping","Clase Impositiva para Despacho",module,Magento_Tax
+"Default Tax Class for Product","Clase de Impuesto Predeterminada para Producto",module,Magento_Tax
+"Default Tax Class for Customer","Clase de Impuesto Predeterminada para Cliente",module,Magento_Tax
+"Calculation Settings","Configuración de Cálculo",module,Magento_Tax
+"Tax Calculation Method Based On","Método de Cálculo de Impuestos Basado En",module,Magento_Tax
+"Tax Calculation Based On","Cálculo de Impuestos Basado En",module,Magento_Tax
+"Catalog Prices","Catálogo de Precios",module,Magento_Tax
+"This sets whether catalog prices entered from Magento Admin include tax.","Esto establece si los precios de catálogo ingresados desde Admin en Magento incluyen impuestos.",module,Magento_Tax
+"Shipping Prices","Precios de Despacho",module,Magento_Tax
+"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","Esto establece si los importes de envío ingresados desde Admin en Magento u obtenidos de las puertas de enlace incluyen impuestos.",module,Magento_Tax
+"Apply Customer Tax","Aplicar Impuesto al Cliente",module,Magento_Tax
+"Apply Discount On Prices","Aplicar Descuento en Precios",module,Magento_Tax
+"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Advertencia: para aplicar el descuento en los precios, incluido el impuesto, y aplicar el impuesto después del descuento, configure los Catálogo de Precios en “Incluido Impuesto”.",module,Magento_Tax
+"Apply Tax On","Aplicar Impuesto Sobre",module,Magento_Tax
+"Enable Cross Border Trade","Habilitar el Comercio Transfronterizo",module,Magento_Tax
+"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Cuando el precio del catálogo incluye impuestos, habilite esta configuración para fijar el precio sin importar la tasa de impuestos del cliente.",module,Magento_Tax
+"Default Tax Destination Calculation","Cálculo de Destino Predeterminado de Impuesto ",module,Magento_Tax
+"Default Country","País Predeterminado",module,Magento_Tax
+"Default State","Estado Predeterminado",module,Magento_Tax
+"Default Post Code","Código Postal Predeterminado",module,Magento_Tax
+"Price Display Settings","Configuración de Visualización de Precios",module,Magento_Tax
+"Display Product Prices In Catalog","Mostrar Precios de Productos en Catálogo",module,Magento_Tax
+"Display Shipping Prices","Mostrar Precios de Despacho",module,Magento_Tax
+"Shopping Cart Display Settings","Configuración de Visualización del Carro de Compras",module,Magento_Tax
+"Display Prices","Mostrar Precios",module,Magento_Tax
+"Display Subtotal","Mostrar Subtotal",module,Magento_Tax
+"Display Shipping Amount","Mostrar Cantidad de Despacho",module,Magento_Tax
+"Include Tax In Order Total","Incluir Impuesto en Pedido Total",module,Magento_Tax
+"Display Full Tax Summary","Mostrar Resumen de Impuestos Completo",module,Magento_Tax
+"Display Zero Tax Subtotal","Mostrar Subtotal de Impuestos Vacio",module,Magento_Tax
+"Orders, Invoices, Credit Memos Display Settings","Configuración de Visualización de Pedidos, Facturas y Notas de Crédito",module,Magento_Tax
+State/Region,Estado/Región,module,Magento_Tax
+Rate,Tarifa,module,Magento_Tax
+"Subtotal Only","Subtotal Solamente",module,Magento_Tax
+"(Excl. Tax)","(Excl. Impuesto)",module,Magento_Tax
+"(Incl. Tax)","(Incl. Impuesto)",module,Magento_Tax
+"Order Total Excl. Tax","Pedido Total Excl. Impuesto",module,Magento_Tax
+"Order Total Incl. Tax","Pedido Total Incl. Impuesto",module,Magento_Tax
+"Order Total","Total de Pedido",module,Magento_Tax
+"Your credit card will be charged for","Su tarjeta de crédito será cargada",module,Magento_Tax
 Empty,Vacío,module,Magento_Theme
 "1 column","1 columna",module,Magento_Theme
 Configuration,Configuración,module,Magento_Theme
