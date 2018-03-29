@@ -4842,81 +4842,81 @@ Item,Producto,module,Magento_Sales
 "Refund Totals","Refund Totals",module,Magento_Sales
 "Email Copy of Credit Memo","Email Copy of Credit Memo",module,Magento_Sales
 "Please enter a positive number in this field.","Please enter a positive number in this field.",module,Magento_Sales
-"Items Refunded","Items Refunded",module,Magento_Sales
-"No Items","No Items",module,Magento_Sales
+"Items Refunded","Productos Reembolsados",module,Magento_Sales
+"No Items","Sin Productos",module,Magento_Sales
 "Memo Total","Memo Total",module,Magento_Sales
-"Credit Memo History","Credit Memo History",module,Magento_Sales
-"Credit Memo Totals","Credit Memo Totals",module,Magento_Sales
-"Customer Name: %1","Customer Name: %1",module,Magento_Sales
-"Purchased From: %1","Purchased From: %1",module,Magento_Sales
-"Gift Message","Gift Message",module,Magento_Sales
-From:,From:,module,Magento_Sales
-To:,To:,module,Magento_Sales
-Message:,Message:,module,Magento_Sales
-"Shipping &amp; Handling","Shipping &amp; Handling",module,Magento_Sales
-"Gift Options","Gift Options",module,Magento_Sales
-"Create Shipment","Create Shipment",module,Magento_Sales
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
+"Credit Memo History","Historial de Notas de Crédito",module,Magento_Sales
+"Credit Memo Totals","Totales de Nota de Crédito",module,Magento_Sales
+"Customer Name: %1","Nombre del Cliente: %1",module,Magento_Sales
+"Purchased From: %1","Comprado De: %1",module,Magento_Sales
+"Gift Message","Mensaje de Regalo",module,Magento_Sales
+From:,De:,module,Magento_Sales
+To:,A:,module,Magento_Sales
+Message:,Mensaje:,module,Magento_Sales
+"Shipping &amp; Handling","Despacho y Manipulación",module,Magento_Sales
+"Gift Options","Opciones de Regalo",module,Magento_Sales
+"Create Shipment","Crear Despacho",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Los tipos de factura y despacho no coinciden con algunos artículos de este pedido. Puede crear un despacho solo después de crear la factura.",module,Magento_Sales
 %1,%1,module,Magento_Sales
-"Qty to Invoice","Qty to Invoice",module,Magento_Sales
-"Invoice History","Invoice History",module,Magento_Sales
-"Invoice Comments","Invoice Comments",module,Magento_Sales
-"Invoice Totals","Invoice Totals",module,Magento_Sales
-Amount,Amount,module,Magento_Sales
-"Capture Online","Capture Online",module,Magento_Sales
-"Capture Offline","Capture Offline",module,Magento_Sales
-"Not Capture","Not Capture",module,Magento_Sales
-"The invoice will be created offline without the payment gateway.","The invoice will be created offline without the payment gateway.",module,Magento_Sales
-"Email Copy of Invoice","Email Copy of Invoice",module,Magento_Sales
-"Items Invoiced","Items Invoiced",module,Magento_Sales
-"Total Tax","Total Tax",module,Magento_Sales
-"From Name","From Name",module,Magento_Sales
-"To Name","To Name",module,Magento_Sales
-Status,Status,module,Magento_Sales
-Comment,Comment,module,Magento_Sales
-"Notification Not Applicable","Notification Not Applicable",module,Magento_Sales
-"Order & Account Information","Order & Account Information",module,Magento_Sales
-"The order confirmation email was sent","The order confirmation email was sent",module,Magento_Sales
-"The order confirmation email is not sent","The order confirmation email is not sent",module,Magento_Sales
-"Order Date","Order Date",module,Magento_Sales
-"Order Date (%1)","Order Date (%1)",module,Magento_Sales
-"Purchased From","Purchased From",module,Magento_Sales
-"Link to the New Order","Link to the New Order",module,Magento_Sales
-"Link to the Previous Order","Link to the Previous Order",module,Magento_Sales
-"Placed from IP","Placed from IP",module,Magento_Sales
-"%1 / %2 rate:","%1 / %2 rate:",module,Magento_Sales
-"Edit Customer","Edit Customer",module,Magento_Sales
-"Customer Name","Customer Name",module,Magento_Sales
-"Customer Group","Customer Group",module,Magento_Sales
-"Notes for this Order","Notes for this Order",module,Magento_Sales
-"Comment added","Comment added",module,Magento_Sales
-"Transaction Data","Transaction Data",module,Magento_Sales
-"Transaction ID","Transaction ID",module,Magento_Sales
-"Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
+"Qty to Invoice","Cantidad a Facturar",module,Magento_Sales
+"Invoice History","Historia de la Factura",module,Magento_Sales
+"Invoice Comments","Comentarios de la Factura",module,Magento_Sales
+"Invoice Totals","Totales de la Factura",module,Magento_Sales
+Amount,Cantidad,module,Magento_Sales
+"Capture Online","Captura Con Conexión",module,Magento_Sales
+"Capture Offline","Captura Sin Conexión",module,Magento_Sales
+"Not Capture","No Captura",module,Magento_Sales
+"The invoice will be created offline without the payment gateway.","La factura se creará sin conexión al enlace de pago.",module,Magento_Sales
+"Email Copy of Invoice","Copia po Correo de la Factura",module,Magento_Sales
+"Items Invoiced","Productos Facturados",module,Magento_Sales
+"Total Tax","Total Impuesto",module,Magento_Sales
+"From Name","De Nombre",module,Magento_Sales
+"To Name","A Nombre",module,Magento_Sales
+Status,Estado,module,Magento_Sales
+Comment,Comentario,module,Magento_Sales
+"Notification Not Applicable","Notificación No Aplicable",module,Magento_Sales
+"Order & Account Information","Información de Pedido y Cuenta",module,Magento_Sales
+"The order confirmation email was sent","Se envió el correo de confirmación de pedido",module,Magento_Sales
+"The order confirmation email is not sent","El correo de confirmación del pedido no se envía",module,Magento_Sales
+"Order Date","Fecha de Pedido",module,Magento_Sales
+"Order Date (%1)","Fecha de Pedido (%1)",module,Magento_Sales
+"Purchased From","Comprado De",module,Magento_Sales
+"Link to the New Order","Enlace al Nuevo Pedido",module,Magento_Sales
+"Link to the Previous Order","Enlace al Pedido Anterior",module,Magento_Sales
+"Placed from IP","Situado desde IP",module,Magento_Sales
+"%1 / %2 rate:","%1 / %2 tarifa:",module,Magento_Sales
+"Edit Customer","Editar Cliente",module,Magento_Sales
+"Customer Name","Nombre de Cliente",module,Magento_Sales
+"Customer Group","Grupo de Clientes",module,Magento_Sales
+"Notes for this Order","Notas para este Pedido",module,Magento_Sales
+"Comment added","Comentario Agregado",module,Magento_Sales
+"Transaction Data","Datos de Transacción",module,Magento_Sales
+"Transaction ID","ID Transacción",module,Magento_Sales
+"Parent Transaction ID","ID de Transacción Principal",module,Magento_Sales
 "Order ID","ID de Pedido",module,Magento_Sales
 "Transaction Type","Tipo de Transaccion",module,Magento_Sales
 "Is Closed","Esta Cerrado",module,Magento_Sales
-"Created At","Created At",module,Magento_Sales
-"Child Transactions","Child Transactions",module,Magento_Sales
-"Transaction Details","Transaction Details",module,Magento_Sales
-Items,Items,module,Magento_Sales
-"Gift Message for this Order","Gift Message for this Order",module,Magento_Sales
-"Shipped By","Shipped By",module,Magento_Sales
-"Tracking Number","Tracking Number",module,Magento_Sales
+"Created At","Creado En",module,Magento_Sales
+"Child Transactions","Transacciones Hijo",module,Magento_Sales
+"Transaction Details","Detalles de Transacción",module,Magento_Sales
+Items,Productos,module,Magento_Sales
+"Gift Message for this Order","Mensaje de Obsequio para este Pedido",module,Magento_Sales
+"Shipped By","Despachado Por",module,Magento_Sales
+"Tracking Number","Número de Rastreo",module,Magento_Sales
 "Billing Last Name","Apellido de Facturación",module,Magento_Sales
 "Find Order By","Buscar Pedido Por",module,Magento_Sales
 "ZIP Code","Código Postal",module,Magento_Sales
 "Billing ZIP Code","Código Postal de Facturación",module,Magento_Sales
-Continue,Continue,module,Magento_Sales
-"Print All Refunds","Print All Refunds",module,Magento_Sales
-"Refund #","Refund #",module,Magento_Sales
-"Print Refund","Print Refund",module,Magento_Sales
-"Product Name","Product Name",module,Magento_Sales
-"Order #","Order #",module,Magento_Sales
-Date,Date,module,Magento_Sales
-"Ship To","Ship To",module,Magento_Sales
-Actions,Actions,module,Magento_Sales
-"View Order","View Order",module,Magento_Sales
+Continue,Continuar,module,Magento_Sales
+"Print All Refunds","Imprimir Todos los Reembolsos",module,Magento_Sales
+"Refund #","Reembolso #",module,Magento_Sales
+"Print Refund","Imprimir Reembolso",module,Magento_Sales
+"Product Name","Nombre de Producto",module,Magento_Sales
+"Order #","Pedido #",module,Magento_Sales
+Date,Fecha,module,Magento_Sales
+"Ship To","Despachar A",module,Magento_Sales
+Actions,Acciones,module,Magento_Sales
+"View Order","Ver Pedido",module,Magento_Sales
 "You have placed no orders.","No has realizado ningún pedido.",module,Magento_Sales
 "No shipping information available","No hay información de despacho disponible",module,Magento_Sales
 "Print Order","Imprimir Orden",module,Magento_Sales
@@ -4929,26 +4929,26 @@ Close,Cerrado,module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1",module,Magento_Sales
 "Refund #%1","Refund #%1",module,Magento_Sales
 "Shipment #%1","Shipment #%1",module,Magento_Sales
-"Qty Shipped","Qty Shipped",module,Magento_Sales
-"Recent Orders","Recent Orders",module,Magento_Sales
-"View All","View All",module,Magento_Sales
-"Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
-"Recently Ordered","Recently Ordered",module,Magento_Sales
+"Qty Shipped","Cantidad Despachada",module,Magento_Sales
+"Recent Orders","Pedidos Recientes",module,Magento_Sales
+"View All","Ver Todos",module,Magento_Sales
+"Gift Message for This Order","Mensaje de Regalo para este Pedido",module,Magento_Sales
+"Recently Ordered","Pedido Recientemente",module,Magento_Sales
 "Add to Cart","Agregar al Carro",module,Magento_Sales
 Search,Buscar,module,Magento_Sales
 "Search Term","Terminos de Busqueda",module,Magento_Search
 Results,Resultados,module,Magento_Search
 Uses,Usos,module,Magento_Search
 "Search Terms","Términos de Búsqueda",module,Magento_Search
-"Search Synonyms","Search Synonyms",module,Magento_Search
-"New Synonym Group","New Synonym Group",module,Magento_Search
-Back,Back,module,Magento_Search
-"Delete Synonym Group","Delete Synonym Group",module,Magento_Search
-"Are you sure you want to delete this synonym group?","Are you sure you want to delete this synonym group?",module,Magento_Search
-Reset,Reset,module,Magento_Search
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Search
-"Save Synonym Group","Save Synonym Group",module,Magento_Search
-Search,Search,module,Magento_Search
+"Search Synonyms","Buscar Sinónimos",module,Magento_Search
+"New Synonym Group","Nuevo Grupo de Sinónimos",module,Magento_Search
+Back,Atras,module,Magento_Search
+"Delete Synonym Group","Quitar Grupo de Sinónimos",module,Magento_Search
+"Are you sure you want to delete this synonym group?","¿Seguro que quieres eliminar este grupo de sinónimos?",module,Magento_Search
+Reset,Reiniciar,module,Magento_Search
+"Save and Continue Edit","Guardar y Continuar Editando",module,Magento_Search
+"Save Synonym Group","Guardar Grupo de Sinónimo",module,Magento_Search
+Search,Buscar,module,Magento_Search
 "Add New Search Term","Add New Search Term",module,Magento_Search
 "Save Search","Save Search",module,Magento_Search
 "Delete Search","Delete Search",module,Magento_Search
@@ -6656,47 +6656,47 @@ Delete,Delete,module,Magento_ProductVideo
 "This won't take long . . .","This won't take long . . .",module,Magento_Rule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
-"Gift Options for ","Gift Options for ",module,Magento_Sales
-"Add Products","Add Products",module,Magento_Sales
-"You have item changes","You have item changes",module,Magento_Sales
+"Gift Options for ","Opciones de Regalo para ",module,Magento_Sales
+"Add Products","Agregar Productos",module,Magento_Sales
+"You have item changes","Usted tiene cambios de productos",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
 "These changes affect all related products.","These changes affect all related products.",module,Magento_Swatches
 "We could not detect a size.","We could not detect a size.",module,Magento_Theme
 "We don't recognize this file extension.","We don't recognize this file extension.",module,Magento_Theme
-Add,Add,module,Magento_Ui
-"Something went wrong.","Something went wrong.",module,Magento_Ui
-Yes,Yes,module,Magento_Ui
+Add,Agregar,module,Magento_Ui
+"Something went wrong.","Algo salió mal.",module,Magento_Ui
+Yes,Si,module,Magento_Ui
 No,No,module,Magento_Ui
-Done,Done,module,Magento_Ui
-options,options,module,Magento_Ui
-Select...,Select...,module,Magento_Ui
-Selected,Selected,module,Magento_Ui
-"Select All","Select All",module,Magento_Ui
-"Deselect All","Deselect All",module,Magento_Ui
-"Select All on This Page","Select All on This Page",module,Magento_Ui
-"Deselect All on This Page","Deselect All on This Page",module,Magento_Ui
-On,On,module,Magento_Ui
-Off,Off,module,Magento_Ui
-"Go to Details Page","Go to Details Page",module,Magento_Ui
-"New View","New View",module,Magento_Ui
-"Default View","Default View",module,Magento_Ui
-"${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
-"You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
-"You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
-"Search by keyword","Search by keyword",module,Magento_Ui
-Keyword,Keyword,module,Magento_Ui
-"Select Date","Select Date",module,Magento_Ui
-"Please enter more or equal than {0} symbols.","Please enter more or equal than {0} symbols.",module,Magento_Ui
-"Please enter less or equal than {0} symbols.","Please enter less or equal than {0} symbols.",module,Magento_Ui
-"Please enter {0} words or less.","Please enter {0} words or less.",module,Magento_Ui
-"Please enter at least {0} words.","Please enter at least {0} words.",module,Magento_Ui
-"Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",module,Magento_Ui
-"Letters or punctuation only please","Letters or punctuation only please",module,Magento_Ui
-"Letters, numbers, spaces or underscores only please","Letters, numbers, spaces or underscores only please",module,Magento_Ui
-"Letters only please","Letters only please",module,Magento_Ui
-"No white space please","No white space please",module,Magento_Ui
-"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx",module,Magento_Ui
-"A positive or negative non-decimal number please","A positive or negative non-decimal number please",module,Magento_Ui
+Done,Hecho,module,Magento_Ui
+options,opciones,module,Magento_Ui
+Select...,Seleccionar...,module,Magento_Ui
+Selected,Seleccionado,module,Magento_Ui
+"Select All","Seleccionar Todo",module,Magento_Ui
+"Deselect All","Deseleccionar Todo",module,Magento_Ui
+"Select All on This Page","Seleccionar Todo en Esta Página",module,Magento_Ui
+"Deselect All on This Page","Deseleccionar Todo en Esta Página",module,Magento_Ui
+On,Encender,module,Magento_Ui
+Off,Apagar,module,Magento_Ui
+"Go to Details Page","Ir a Página de Detalles",module,Magento_Ui
+"New View","Nueva Vista",module,Magento_Ui
+"Default View","Vista Predetermminada",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","${ $.visible } fuera de ${ $.total } visibilidad",module,Magento_Ui
+"You have successfully saved your edits.","Has guardado tus ediciones exitosamente.",module,Magento_Ui
+"You haven't selected any items!","No ha seleccionado ningún producto!",module,Magento_Ui
+"Search by keyword","Buscar por palabra clave",module,Magento_Ui
+Keyword,Palabra,module,Magento_Ui
+"Select Date","Seleccione Fecha",module,Magento_Ui
+"Please enter more or equal than {0} symbols.","Por favor ingrese más o igual que {0} symbols.",module,Magento_Ui
+"Please enter less or equal than {0} symbols.","Por favor ingrese menos o igual que {0} symbols.",module,Magento_Ui
+"Please enter {0} words or less.","Por favor escribe {0} palabras o menos.",module,Magento_Ui
+"Please enter at least {0} words.","Por favor escribe al menos {0} palabras.",module,Magento_Ui
+"Please enter between {0} and {1} words.","Por favor escribe entre {0} y {1} palabras.",module,Magento_Ui
+"Letters or punctuation only please","Solo letras o puntuación por favor",module,Magento_Ui
+"Letters, numbers, spaces or underscores only please","Solo letras, números, espacios o guion bajo por favor",module,Magento_Ui
+"Letters only please","Solo letras por favor",module,Magento_Ui
+"No white space please","Sin espacios en blanco por favor",module,Magento_Ui
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Su código postal debe estar en el rango 902xx-xxxx a 905-xx-xxxx",module,Magento_Ui
+"A positive or negative non-decimal number please","Un número positivo o negativo no decimal, por favor",module,Magento_Ui
 "The specified vehicle identification number (VIN) is invalid.","The specified vehicle identification number (VIN) is invalid.",module,Magento_Ui
 "Please enter a correct date","Please enter a correct date",module,Magento_Ui
 "Vul hier een geldige datum in.","Vul hier een geldige datum in.",module,Magento_Ui
@@ -6753,28 +6753,28 @@ Keyword,Keyword,module,Magento_Ui
 "File you are trying to upload exceeds maximum file size limit.","File you are trying to upload exceeds maximum file size limit.",module,Magento_Ui
 "Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.",module,Magento_Ui
 "The date is not within the specified range.","The date is not within the specified range.",module,Magento_Ui
-Attention,Attention,module,Magento_Ui
+Attention,Atención,module,Magento_Ui
 OK,OK,module,Magento_Ui
-Close,Close,module,Magento_Ui
+Close,Cerrar,module,Magento_Ui
 Ok,Ok,module,Magento_Ui
-"Field ","Field ",module,Magento_Ups
-" is required."," is required.",module,Magento_Ups
-"Field ","Field ",module,Magento_Usps
-" is required."," is required.",module,Magento_Usps
-Cancel,Cancel,module,Magento_Vault
-"Show Toolbar","Show Toolbar",module,Magento_AdminNotification
-"Show List","Show List",module,Magento_AdminNotification
-"Use HTTPS to Get Feed","Use HTTPS to Get Feed",module,Magento_AdminNotification
-"Update Frequency","Update Frequency",module,Magento_AdminNotification
-"Last Update","Last Update",module,Magento_AdminNotification
-Severity,Severity,module,Magento_AdminNotification
-"Date Added","Date Added",module,Magento_AdminNotification
-Message,Message,module,Magento_AdminNotification
-Actions,Actions,module,Magento_AdminNotification
+"Field ","Campo ",module,Magento_Ups
+" is required."," es requerido.",module,Magento_Ups
+"Field ","Campo ",module,Magento_Usps
+" is required."," es requerido.",module,Magento_Usps
+Cancel,Cancelar,module,Magento_Vault
+"Show Toolbar","Mostrar Herramientas",module,Magento_AdminNotification
+"Show List","Mostrar Lista",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","Usar HTTPS para Obtener Feed",module,Magento_AdminNotification
+"Update Frequency","Frecuencia de Actualización",module,Magento_AdminNotification
+"Last Update","Última Actualización",module,Magento_AdminNotification
+Severity,Gravedad,module,Magento_AdminNotification
+"Date Added","Fecha Agregada",module,Magento_AdminNotification
+Message,Mensaje,module,Magento_AdminNotification
+Actions,Acciones,module,Magento_AdminNotification
 "Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
-Enabled,Enabled,module,Magento_Authorizenet
-"Payment Action","Payment Action",module,Magento_Authorizenet
-Title,Title,module,Magento_Authorizenet
+Enabled,Activo,module,Magento_Authorizenet
+"Payment Action","Acción de Pago",module,Magento_Authorizenet
+Title,Título,module,Magento_Authorizenet
 "API Login ID","API Login ID",module,Magento_Authorizenet
 "Transaction Key","Transaction Key",module,Magento_Authorizenet
 "Merchant MD5","Merchant MD5",module,Magento_Authorizenet
