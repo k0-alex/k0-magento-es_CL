@@ -1789,31 +1789,31 @@ Monthly,Monthly,module,Magento_Cron
 "Invalid cron expression, expecting 'match/modulus': %1","Invalid cron expression, expecting 'match/modulus': %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Invalid cron expression, expecting numeric modulus: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1",module,Magento_Cron
-"Save Currency Rates","Save Currency Rates",module,Magento_CurrencySymbol
-Options,Options,module,Magento_CurrencySymbol
-Reset,Reset,module,Magento_CurrencySymbol
-Import,Import,module,Magento_CurrencySymbol
-"Manage Currency Rates","Manage Currency Rates",module,Magento_CurrencySymbol
-"Import Service","Import Service",module,Magento_CurrencySymbol
-"Save Currency Symbols","Save Currency Symbols",module,Magento_CurrencySymbol
-"Currency Symbols","Currency Symbols",module,Magento_CurrencySymbol
-"Use Standard","Use Standard",module,Magento_CurrencySymbol
-"Please specify a correct Import Service.","Please specify a correct Import Service.",module,Magento_CurrencySymbol
-"We can't initialize the import model.","We can't initialize the import model.",module,Magento_CurrencySymbol
-"Click ""Save"" to apply the rates we found.","Click ""Save"" to apply the rates we found.",module,Magento_CurrencySymbol
-"Currency Rates","Currency Rates",module,Magento_CurrencySymbol
-"Please correct the input data for ""%1 => %2"" rate.","Please correct the input data for ""%1 => %2"" rate.",module,Magento_CurrencySymbol
-"All valid rates have been saved.","All valid rates have been saved.",module,Magento_CurrencySymbol
-System,System,module,Magento_CurrencySymbol
-"You applied the custom currency symbols.","You applied the custom currency symbols.",module,Magento_CurrencySymbol
-"You must first configure currency options before being able to see currency rates.","You must first configure currency options before being able to see currency rates.",module,Magento_CurrencySymbol
-"Old rate:","Old rate:",module,Magento_CurrencySymbol
-"Please specify a website.","Please specify a website.",module,Magento_CustomerImportExport
-"Please specify an email.","Please specify an email.",module,Magento_CustomerImportExport
-"We found an invalid value in a website column.","We found an invalid value in a website column.",module,Magento_CustomerImportExport
-"Please enter a valid email.","Please enter a valid email.",module,Magento_CustomerImportExport
-"Please make sure attribute ""%s"" is not empty.","Please make sure attribute ""%s"" is not empty.",module,Magento_CustomerImportExport
-"We can't find a customer who matches this email and website code.","We can't find a customer who matches this email and website code.",module,Magento_CustomerImportExport
+"Save Currency Rates","Guardar Tasas de Cambio",module,Magento_CurrencySymbol
+Options,Opciones,module,Magento_CurrencySymbol
+Reset,Reiniciar,module,Magento_CurrencySymbol
+Import,Importar,module,Magento_CurrencySymbol
+"Manage Currency Rates","Administrar Tasas de Cambio",module,Magento_CurrencySymbol
+"Import Service","Servicio de Importación",module,Magento_CurrencySymbol
+"Save Currency Symbols","Guardar Símbolos de Moneda",module,Magento_CurrencySymbol
+"Currency Symbols","Símbolos de Moneda",module,Magento_CurrencySymbol
+"Use Standard","Usar Estándar",module,Magento_CurrencySymbol
+"Please specify a correct Import Service.","Por favor, especifique un Servicio de Importación correcto.",module,Magento_CurrencySymbol
+"We can't initialize the import model.","No podemos inicializar el modelo de importación.",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","Click ""Guardar"" para aplicar las tasas que encontramos.",module,Magento_CurrencySymbol
+"Currency Rates","Tasas de Cambio",module,Magento_CurrencySymbol
+"Please correct the input data for ""%1 => %2"" rate.","Corrija los datos de entrada para tasa ""%1 => %2"".",module,Magento_CurrencySymbol
+"All valid rates have been saved.","Todas las tarifas válidas se han guardado.",module,Magento_CurrencySymbol
+System,Sistema,module,Magento_CurrencySymbol
+"You applied the custom currency symbols.","Usted aplicó los símbolos de moneda personalizados.",module,Magento_CurrencySymbol
+"You must first configure currency options before being able to see currency rates.","Primero debe configurar las opciones de moneda antes de poder ver las tasas de cambio.",module,Magento_CurrencySymbol
+"Old rate:","Tasa anterior:",module,Magento_CurrencySymbol
+"Please specify a website.","Por favor, especifique un sitio web.",module,Magento_CustomerImportExport
+"Please specify an email.","Por favor, especifique un correo.",module,Magento_CustomerImportExport
+"We found an invalid value in a website column.","Encontramos un valor no válido en una columna de sitio web.",module,Magento_CustomerImportExport
+"Please enter a valid email.","Por favor introduzca un correo electrónico válido.",module,Magento_CustomerImportExport
+"Please make sure attribute ""%s"" is not empty.","Por favor, asegúrese de atributo ""%s"" no está vacío.",module,Magento_CustomerImportExport
+"We can't find a customer who matches this email and website code.","No podemos encontrar un cliente que coincida con este código de correo electrónico y sitio web.",module,Magento_CustomerImportExport
 "Customer address id column is not specified","Customer address id column is not specified",module,Magento_CustomerImportExport
 "We can't find that customer address.","We can't find that customer address.",module,Magento_CustomerImportExport
 "Please enter a valid region.","Please enter a valid region.",module,Magento_CustomerImportExport
@@ -7386,34 +7386,34 @@ Dashboard,Dashboard,module,Magento_Config
 "Web Section","Web Section",module,Magento_Config
 "Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
 "Email to a Friend","Enviar un Correo a un Amigo",module,Magento_Config
-"Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
-Select...,Select...,module,Magento_ConfigurableProduct
+"Configurable Product Image","Imagen de Producto Configurable",module,Magento_ConfigurableProduct
+Select...,Seleccionar...,module,Magento_ConfigurableProduct
 ID,ID,module,Magento_ConfigurableProduct
-Thumbnail,Thumbnail,module,Magento_ConfigurableProduct
-"Attribute Code","Attribute Code",module,Magento_ConfigurableProduct
-"Attribute Label","Attribute Label",module,Magento_ConfigurableProduct
-Required,Required,module,Magento_ConfigurableProduct
-System,System,module,Magento_ConfigurableProduct
+Thumbnail,Miniatura,module,Magento_ConfigurableProduct
+"Attribute Code","Código de Atributo",module,Magento_ConfigurableProduct
+"Attribute Label","Etiqueta de Atributo",module,Magento_ConfigurableProduct
+Required,Necesario,module,Magento_ConfigurableProduct
+System,Sistema,module,Magento_ConfigurableProduct
 Visible,Visible,module,Magento_ConfigurableProduct
-Scope,Scope,module,Magento_ConfigurableProduct
-Searchable,Searchable,module,Magento_ConfigurableProduct
+Scope,Alcance,module,Magento_ConfigurableProduct
+Searchable,Buscable,module,Magento_ConfigurableProduct
 Comparable,Comparable,module,Magento_ConfigurableProduct
-"Contacts Section","Contacts Section",module,Magento_Contact
+"Contacts Section","Sección de Contactos",module,Magento_Contact
 Contacts,Contactos,module,Magento_Contact
 "Contact Us","Contáctenos",module,Magento_Contact
-"Enable Contact Us","Enable Contact Us",module,Magento_Contact
-"Email Options","Email Options",module,Magento_Contact
-"Send Emails To","Send Emails To",module,Magento_Contact
-"Email Sender","Email Sender",module,Magento_Contact
-"Email Template","Email Template",module,Magento_Contact
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Contact
-"Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
-"Cookie Lifetime","Cookie Lifetime",module,Magento_Cookie
+"Enable Contact Us","Habilitar Contáctenos",module,Magento_Contact
+"Email Options","Opciones de Correo",module,Magento_Contact
+"Send Emails To","Enviar Correo A",module,Magento_Contact
+"Email Sender","Remitente de Correo",module,Magento_Contact
+"Email Template","Plantilla de Correo",module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo elegida en función del tema de respaldo cuando la opción ""Predeterminado"" esta seleccionada.",module,Magento_Contact
+"Default Cookie Settings","Configuración de Cookies Predeterminada",module,Magento_Cookie
+"Cookie Lifetime","Tiempo de Vida de Cookie",module,Magento_Cookie
 "Cookie Path","Cookie Path",module,Magento_Cookie
-"Cookie Domain","Cookie Domain",module,Magento_Cookie
-"Use HTTP Only","Use HTTP Only",module,Magento_Cookie
-"Cookie Restriction Mode","Cookie Restriction Mode",module,Magento_Cookie
-"Cron (Scheduled Tasks)","Cron (Scheduled Tasks)",module,Magento_Cron
+"Cookie Domain","Cookie Dominio",module,Magento_Cookie
+"Use HTTP Only","Usar HTTP Solamente",module,Magento_Cookie
+"Cookie Restriction Mode","Cookie Modo de Restricción",module,Magento_Cookie
+"Cron (Scheduled Tasks)","Cron (Tareas Programadas)",module,Magento_Cron
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.",module,Magento_Cron
 "Cron configuration options for group: ","Cron configuration options for group: ",module,Magento_Cron
 "Generate Schedules Every","Generate Schedules Every",module,Magento_Cron
@@ -7426,57 +7426,57 @@ Contacts,Contactos,module,Magento_Contact
 Currency,Currency,module,Magento_CurrencySymbol
 CSV,CSV,module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
-"All Customers","All Customers",module,Magento_Customer
-"Now Online","Now Online",module,Magento_Customer
-"Customers Section","Customers Section",module,Magento_Customer
-"Customer Configuration","Customer Configuration",module,Magento_Customer
-"Account Sharing Options","Account Sharing Options",module,Magento_Customer
-"Share Customer Accounts","Share Customer Accounts",module,Magento_Customer
-"Create New Account Options","Create New Account Options",module,Magento_Customer
-"Enable Automatic Assignment to Customer Group","Enable Automatic Assignment to Customer Group",module,Magento_Customer
-"Tax Calculation Based On","Tax Calculation Based On",module,Magento_Customer
-"Default Group","Default Group",module,Magento_Customer
+"All Customers","Todos Los Clientes",module,Magento_Customer
+"Now Online","Ahora en Línea",module,Magento_Customer
+"Customers Section","Sección de Clientes",module,Magento_Customer
+"Customer Configuration","Configuración de Cliente",module,Magento_Customer
+"Account Sharing Options","Opciones de uso Compartido de Cuentas",module,Magento_Customer
+"Share Customer Accounts","Compartir Cuentas de Clientes",module,Magento_Customer
+"Create New Account Options","Crear Nuevas Opciones de Cuenta",module,Magento_Customer
+"Enable Automatic Assignment to Customer Group","Habilitar la Asignación Automática al Grupo de Clientes",module,Magento_Customer
+"Tax Calculation Based On","Cálculo de Impuestos Basado En",module,Magento_Customer
+"Default Group","Grupo Predeterminado",module,Magento_Customer
 "Group for Valid VAT ID - Domestic","Group for Valid VAT ID - Domestic",module,Magento_Customer
 "Group for Valid VAT ID - Intra-Union","Group for Valid VAT ID - Intra-Union",module,Magento_Customer
 "Group for Invalid VAT ID","Group for Invalid VAT ID",module,Magento_Customer
-"Validation Error Group","Validation Error Group",module,Magento_Customer
-"Validate on Each Transaction","Validate on Each Transaction",module,Magento_Customer
+"Validation Error Group","Grupo Error de Validación",module,Magento_Customer
+"Validate on Each Transaction","Validar en Cada Transacción",module,Magento_Customer
 "Default Value for Disable Automatic Group Changes Based on VAT ID","Default Value for Disable Automatic Group Changes Based on VAT ID",module,Magento_Customer
-"Show VAT Number on Storefront","Show VAT Number on Storefront",module,Magento_Customer
+"Show VAT Number on Storefront","Mostrar Número de RUT en el Escaparate",module,Magento_Customer
 "To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.",module,Magento_Customer
-"Default Email Domain","Default Email Domain",module,Magento_Customer
-"Default Welcome Email","Default Welcome Email",module,Magento_Customer
+"Default Email Domain","Dominio de Correo Predeterminado",module,Magento_Customer
+"Default Welcome Email","Correo de Bienvenida Predeterminado",module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Customer
-"Default Welcome Email Without Password","Default Welcome Email Without Password",module,Magento_Customer
+"Default Welcome Email Without Password","Correo de Bienvenida Predeterminado Sin Contraseña",module,Magento_Customer
 "
                         This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.
                     ","
-                        This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.
+                        Este correo será enviado en lugar del Correo de Bienvenida Predeterminado, si un cliente fue creado sin contraseña. <br /><br />
+                        Plantilla de correo elegida en función del tema de respaldo cuando ""Predeterminado"" es la opción seleccionada.
                     ",module,Magento_Customer
-"Email Sender","Email Sender",module,Magento_Customer
-"Require Emails Confirmation","Require Emails Confirmation",module,Magento_Customer
-"Confirmation Link Email","Confirmation Link Email",module,Magento_Customer
-"Welcome Email","Welcome Email",module,Magento_Customer
+"Email Sender","Remitente de Correo",module,Magento_Customer
+"Require Emails Confirmation","Requerir Confirmación de Correos",module,Magento_Customer
+"Confirmation Link Email","Correo de Enlace de Confirmación",module,Magento_Customer
+"Welcome Email","Correo de Bienvenida",module,Magento_Customer
 "
                         This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.
                     ","
-                        This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.
+                        Este correo será enviado en lugar del Correo de Bienvenida Predeterminado, después de la confirmación de cuenta. <br /><br />
+                        Plantilla de correo elegida en función del tema de respaldo cuando ""Predeterminado"" es la opción seleccionada.
                     ",module,Magento_Customer
-"Generate Human-Friendly Customer ID","Generate Human-Friendly Customer ID",module,Magento_Customer
-"Password Options","Password Options",module,Magento_Customer
-"Forgot Email Template","Forgot Email Template",module,Magento_Customer
-"Remind Email Template","Remind Email Template",module,Magento_Customer
-"Reset Password Template","Reset Password Template",module,Magento_Customer
+"Generate Human-Friendly Customer ID","Generar ID de cliente Amigable para Personas",module,Magento_Customer
+"Password Options","Opciones de Contraseña",module,Magento_Customer
+"Forgot Email Template","Olvidar Plantilla de Correo",module,Magento_Customer
+"Remind Email Template","Recordar Plantilla de Correo",module,Magento_Customer
+"Reset Password Template","Restablecer Contraseña Plantilla",module,Magento_Customer
 "Password Template Email Sender","Password Template Email Sender",module,Magento_Customer
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Customer
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Customer
-"Number of Required Character Classes","Number of Required Character Classes",module,Magento_Customer
+"Recovery Link Expiration Period (hours)","Período de Caducidad del Enlace de Recuperación (horas)",module,Magento_Customer
+"Please enter a number 1 or greater in this field.","Por favor ingrese un número 1 o más en este campo.",module,Magento_Customer
+"Number of Required Character Classes","Número de Clases de Caracteres Requeridas",module,Magento_Customer
 "Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.",module,Magento_Customer
-"Minimum Password Length","Minimum Password Length",module,Magento_Customer
+"Minimum Password Length","Longitud Mínima de Contraseña",module,Magento_Customer
 "Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_Customer
 "Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
 "Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_Customer
