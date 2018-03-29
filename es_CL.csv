@@ -5392,88 +5392,88 @@ Tax,Impuesto,module,Magento_Tax
 "You saved the tax rule.","Guardaste la regla de impuestos.",module,Magento_Tax
 "We can't save this tax rule right now.","No podemos guardar esta regla de impuestos en este momento.",module,Magento_Tax
 "Invalid name of tax class specified.","Nombre inválido de la clase de impuesto especificada.",module,Magento_Tax
-"We can't delete this tax class right now.","We can't delete this tax class right now.",module,Magento_Tax
-"We can't save this tax class right now.","We can't save this tax class right now.",module,Magento_Tax
-"Make sure all required information is valid.","Make sure all required information is valid.",module,Magento_Tax
-"The Rate Percent should be a positive number.","The Rate Percent should be a positive number.",module,Magento_Tax
-"Maximum zip code length is 9.","Maximum zip code length is 9.",module,Magento_Tax
-"Use digits only for the zip code.","Use digits only for the zip code.",module,Magento_Tax
-"Range To should be equal or greater than Range From.","Range To should be equal or greater than Range From.",module,Magento_Tax
-"The tax rate cannot be removed. It exists in a tax rule.","The tax rate cannot be removed. It exists in a tax rule.",module,Magento_Tax
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Tax
-"Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field.",module,Magento_Tax
-"This class no longer exists.","This class no longer exists.",module,Magento_Tax
-"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.",module,Magento_Tax
-"You cannot delete this tax class because it is used in existing %1(s).","You cannot delete this tax class because it is used in existing %1(s).",module,Magento_Tax
-"Custom price if available","Custom price if available",module,Magento_Tax
-"Original price only","Original price only",module,Magento_Tax
-"Shipping Address","Shipping Address",module,Magento_Tax
-"Billing Address","Billing Address",module,Magento_Tax
-"Shipping Origin","Shipping Origin",module,Magento_Tax
-"No (price without tax)","No (price without tax)",module,Magento_Tax
-"Yes (only price with tax)","Yes (only price with tax)",module,Magento_Tax
-"Both (without and with tax)","Both (without and with tax)",module,Magento_Tax
-"Invalid attribute %1","Invalid attribute %1",module,Magento_Tax
-Code,Code,module,Magento_Tax
-"Invalid type supplied","Invalid type supplied",module,Magento_Tax
-"Class name and class type","Class name and class type",module,Magento_Tax
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Tax
-"Grand Total (Excl. Tax)","Grand Total (Excl. Tax)",module,Magento_Tax
-"Grand Total (Incl. Tax)","Grand Total (Incl. Tax)",module,Magento_Tax
-"Shipping (Excl. Tax)","Shipping (Excl. Tax)",module,Magento_Tax
-"Shipping (Incl. Tax)","Shipping (Incl. Tax)",module,Magento_Tax
-"Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Tax
-"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Tax
+"We can't delete this tax class right now.","No podemos eliminar esta clase de impuestos en este momento.",module,Magento_Tax
+"We can't save this tax class right now.","No podemos guardar esta clase de impuestos en este momento.",module,Magento_Tax
+"Make sure all required information is valid.","Asegúrese de que toda la información requerida sea válida.",module,Magento_Tax
+"The Rate Percent should be a positive number.","El porcentaje de la tarifa debe ser un número positivo.",module,Magento_Tax
+"Maximum zip code length is 9.","Longitud máxima del código postal es 9.",module,Magento_Tax
+"Use digits only for the zip code.","Use solo dígitos para el código postal.",module,Magento_Tax
+"Range To should be equal or greater than Range From.","El rango A debe ser igual o mayor que el Rango Desde.",module,Magento_Tax
+"The tax rate cannot be removed. It exists in a tax rule.","La tasa de impuestos no puede eliminarse. Existe en una regla de impuestos.",module,Magento_Tax
+"%fieldName is a required field.","%fieldName es un campo obligatorio.",module,Magento_Tax
+"Invalid value of ""%value"" provided for the %fieldName field.","Valor inválido de ""%value"" proporcionado para el campo %fieldName.",module,Magento_Tax
+"This class no longer exists.","Esta clase ya no existe.",module,Magento_Tax
+"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","No puede eliminar esta clase de impuestos porque se usa en Reglas fiscales. Tienes que eliminar las reglas en las que se usa primero.",module,Magento_Tax
+"You cannot delete this tax class because it is used in existing %1(s).","No puede eliminar esta clase de impuestos porque se usa en las existente(s) %1(s).",module,Magento_Tax
+"Custom price if available","Precio personalizado si está disponible",module,Magento_Tax
+"Original price only","Solo precio original",module,Magento_Tax
+"Shipping Address","Dirección de Despacho",module,Magento_Tax
+"Billing Address","Dirección de Facturación",module,Magento_Tax
+"Shipping Origin","Origen del Despacho",module,Magento_Tax
+"No (price without tax)","No (precio sin impuestos)",module,Magento_Tax
+"Yes (only price with tax)","Si (solo precio con impuestos)",module,Magento_Tax
+"Both (without and with tax)","Ambos (con y sin impuestos)",module,Magento_Tax
+"Invalid attribute %1","Atributo inválido %1",module,Magento_Tax
+Code,Código,module,Magento_Tax
+"Invalid type supplied","Tipo suministrado es inválido",module,Magento_Tax
+"Class name and class type","Nombre de clase y tipo clase",module,Magento_Tax
+"No such entity with %fieldName = %fieldValue","No hay tal entidad con %fieldName = %fieldValue",module,Magento_Tax
+"Grand Total (Excl. Tax)","Total Final (Excl. Impuesto)",module,Magento_Tax
+"Grand Total (Incl. Tax)","Total Final (Incl. Impuesto)",module,Magento_Tax
+"Shipping (Excl. Tax)","Despacho (Excl. Impuesto)",module,Magento_Tax
+"Shipping (Incl. Tax)","Despacho (Incl. Impuesto)",module,Magento_Tax
+"Subtotal (Excl. Tax)","Subtotal (Excl. Impuesto)",module,Magento_Tax
+"Subtotal (Incl. Tax)","Subtotal (Incl. Impuesto)",module,Magento_Tax
 Subtotal,Subtotal,module,Magento_Tax
-"Unit Price","Unit Price",module,Magento_Tax
-"Row Total","Row Total",module,Magento_Tax
+"Unit Price","Precio Unitario",module,Magento_Tax
+"Row Total","Total de Fila",module,Magento_Tax
 Total,Total,module,Magento_Tax
-"Before Discount","Before Discount",module,Magento_Tax
-"After Discount","After Discount",module,Magento_Tax
-"Excluding Tax","Excluding Tax",module,Magento_Tax
-"Including Tax","Including Tax",module,Magento_Tax
-None,None,module,Magento_Tax
-"Including and Excluding Tax","Including and Excluding Tax",module,Magento_Tax
-"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ",module,Magento_Tax
-"Store(s) affected: ","Store(s) affected: ",module,Magento_Tax
-"Click on the link to <a href=""%1"">ignore this notification</a>","Click on the link to <a href=""%1"">ignore this notification</a>",module,Magento_Tax
-"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.",module,Magento_Tax
-"Your current tax configuration may result in rounding errors. ","Your current tax configuration may result in rounding errors. ",module,Magento_Tax
-"Please see <a href=""%1"">documentation</a> for more details. ","Please see <a href=""%1"">documentation</a> for more details. ",module,Magento_Tax
-"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.",module,Magento_Tax
-"Invalid type of tax class ""%1""","Invalid type of tax class ""%1""",module,Magento_Tax
-"Updating classType is not allowed.","Updating classType is not allowed.",module,Magento_Tax
-"A class with the same name already exists for ClassType %1.","A class with the same name already exists for ClassType %1.",module,Magento_Tax
-"customer group","customer group",module,Magento_Tax
-product,product,module,Magento_Tax
-"Excl. tax:","Excl. tax:",module,Magento_Tax
-"Incl. Tax","Incl. Tax",module,Magento_Tax
-"Entity already exists","Entity already exists",module,Magento_Tax
-"Cannot save titles","Cannot save titles",module,Magento_Tax
-"Some Message","Some Message",module,Magento_Tax
-"Something went wrong","Something went wrong",module,Magento_Tax
-"Could not save","Could not save",module,Magento_Tax
-"No such entity","No such entity",module,Magento_Tax
-"Excl. Tax","Excl. Tax",module,Magento_Tax
-Note:,Note:,module,Magento_Tax
-"Leave this field empty if you wish to use the tax identifier.","Leave this field empty if you wish to use the tax identifier.",module,Magento_Tax
-"An error occurred","An error occurred",module,Magento_Tax
-"Do you really want to delete this tax rate?","Do you really want to delete this tax rate?",module,Magento_Tax
-Save,Save,module,Magento_Tax
-"Add New Class","Add New Class",module,Magento_Tax
-"Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
-"Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
-Back,Back,module,Magento_Theme
-"Save and Continue","Save and Continue",module,Magento_Theme
-"Save Configuration","Save Configuration",module,Magento_Theme
+"Before Discount","Antes del Descuento",module,Magento_Tax
+"After Discount","Después del Descuento",module,Magento_Tax
+"Excluding Tax","Excluyendo Impuesto",module,Magento_Tax
+"Including Tax","Incluyendo Impuesto",module,Magento_Tax
+None,Ninguno,module,Magento_Tax
+"Including and Excluding Tax","Incluyendo y Excluyendo Impuesto",module,Magento_Tax
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","Para aplicar el descuento en los precios, incluido el impuesto, y aplicar el impuesto después del descuento, establezca Precios de catálogo en “Impuesto Incluido”. ",module,Magento_Tax
+"Store(s) affected: ","Tienda(s) afectada(s): ",module,Magento_Tax
+"Click on the link to <a href=""%1"">ignore this notification</a>","Haga clic en el enlace para <a href=""%1"">ignorar esta notificación</a>",module,Magento_Tax
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","Con el impuesto al cliente aplicado “Antes del descuento”, el cálculo del descuento final puede no coincidir con las expectativas de los clientes.",module,Magento_Tax
+"Your current tax configuration may result in rounding errors. ","Su configuración actual de impuestos puede provocar errores de redondeo. ",module,Magento_Tax
+"Please see <a href=""%1"">documentation</a> for more details. ","Por favor ver <a href=""%1"">documentation</a> para más detalles. ",module,Magento_Tax
+"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Haga clic aquí para ir a <a href=""%1"">Configuración de Impuestos</a> y cambia tu configuración.",module,Magento_Tax
+"Invalid type of tax class ""%1""","Tipo inválido de clase impositiva ""%1""",module,Magento_Tax
+"Updating classType is not allowed.","La actualización de classType no está permitida.",module,Magento_Tax
+"A class with the same name already exists for Tipo de Clase %1.","Ya existe una clase con el mismo nombre para Tipo de Clase %1.",module,Magento_Tax
+"customer group","grupo de clientes",module,Magento_Tax
+product,producto,module,Magento_Tax
+"Excl. tax:","Excl. impuesto:",module,Magento_Tax
+"Incl. Tax","Incl. Impuesto",module,Magento_Tax
+"Entity already exists","La entidad ya existe",module,Magento_Tax
+"Cannot save titles","No se puede guardar títulos",module,Magento_Tax
+"Some Message","Algún Mensaje",module,Magento_Tax
+"Something went wrong","Algo salió mal",module,Magento_Tax
+"Could not save","No se pudo guardar",module,Magento_Tax
+"No such entity","No hay tal entidad",module,Magento_Tax
+"Excl. Impuesto","Excl. Tax",module,Magento_Tax
+Note:,Nota:,module,Magento_Tax
+"Leave this field empty if you wish to use the tax identifier.","Deje este campo vacío si desea usar el identificador de impuestos.",module,Magento_Tax
+"An error occurred","Ocurrió un error",module,Magento_Tax
+"Do you really want to delete this tax rate?","¿De verdad quieres eliminar esta tasa de impuestos?",module,Magento_Tax
+Save,Guardar,module,Magento_Tax
+"Add New Class","Agregar Nueva Clase",module,Magento_Tax
+"Grand Total Excl. Tax","Total Final Excl. Impuesto",module,Magento_Tax
+"Grand Total Incl. Tax","Total Final Incl. Impuesto",module,Magento_Tax
+Back,Atras,module,Magento_Theme
+"Save and Continue","Guardar y Continuar",module,Magento_Theme
+"Save Configuration","Guardar Configuración",module,Magento_Theme
 %1,%1,module,Magento_Theme
-Default,Default,module,Magento_Theme
-Themes,Themes,module,Magento_Theme
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Theme
-"Are you sure you want to delete this theme?","Are you sure you want to delete this theme?",module,Magento_Theme
-"Theme: %1","Theme: %1",module,Magento_Theme
-"New Theme","New Theme",module,Magento_Theme
-"Theme CSS","Theme CSS",module,Magento_Theme
+Default,Predeterminado,module,Magento_Theme
+Themes,Temas,module,Magento_Theme
+"Save and Continue Edit","Guardar y Continuar Editando",module,Magento_Theme
+"Are you sure you want to delete this theme?","¿Seguro que quieres eliminar este tema?",module,Magento_Theme
+"Theme: %1","Tema: %1",module,Magento_Theme
+"New Theme","Nuevo Tema",module,Magento_Theme
+"Theme CSS","CSS del Tema",module,Magento_Theme
 "Theme CSS Assets","Theme CSS Assets",module,Magento_Theme
 "Custom CSS","Custom CSS",module,Magento_Theme
 "Select CSS File to Upload","Select CSS File to Upload",module,Magento_Theme
