@@ -141,7 +141,7 @@ Refresh,Refrescar,module,Magento_Backend
 Clear,Limpiar,module,Magento_Backend
 "Search Index","Índice de Búsqueda",module,Magento_Backend
 Rebuild,Reorganizar,module,Magento_Backend
-"Inventory Stock Status","Estado de Stock de Inventario",module,Magento_Backend
+"Inventory Stock Status","Estado Stock de Inventario",module,Magento_Backend
 "Rebuild Catalog Index","Reconstruir Índice de Catálogo",module,Magento_Backend
 "Rebuild Flat Catalog Category","Reconstruir la Categoría de Catálogo Plana",module,Magento_Backend
 "Rebuild Flat Catalog Product","Reconstruir el Producto de Catálogo Plano",module,Magento_Backend
@@ -636,7 +636,7 @@ Always,Siempre,module,Magento_Captcha
 "You can buy %1 only in quantities of %2 at a time.","You can buy %1 only in quantities of %2 at a time.",module,Magento_CatalogInventory
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_CatalogInventory
 "Decimal qty increments is not allowed.","Decimal qty increments is not allowed.",module,Magento_CatalogInventory
-"Stock Status","Estado de Stock",module,Magento_CatalogInventory
+"Stock Status","Estado Stock",module,Magento_CatalogInventory
 Quantity,Cantidad,module,Magento_CatalogInventory
 "Advanced Inventory","Inventario Avanzado",module,Magento_CatalogInventory
 "%1 is available to buy in increments of %2","%1 is available to buy in increments of %2",module,Magento_CatalogInventory
@@ -3062,16 +3062,16 @@ Total,Total,module,Magento_Multishipping
 "Please check shipping addresses information.","Please check shipping addresses information.",module,Magento_Multishipping
 "Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
 "Select Addresses","Select Addresses",module,Magento_Multishipping
-"Shipping Information","Shipping Information",module,Magento_Multishipping
-"Billing Information","Billing Information",module,Magento_Multishipping
-"Place Order","Place Order",module,Magento_Multishipping
-"Order Success","Order Success",module,Magento_Multishipping
-"Default Billing","Default Billing",module,Magento_Multishipping
-"Default Shipping","Default Shipping",module,Magento_Multishipping
-"Select Address","Select Address",module,Magento_Multishipping
-"Add New Address","Add New Address",module,Magento_Multishipping
-"Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
-"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
+"Shipping Information","Información de Despacho",module,Magento_Multishipping
+"Billing Information","Información de Facturación",module,Magento_Multishipping
+"Place Order","Realizar Pedido",module,Magento_Multishipping
+"Order Success","Pedido Exitoso",module,Magento_Multishipping
+"Default Billing","Facturación Predeterminada",module,Magento_Multishipping
+"Default Shipping","Despacho Predeterminado",module,Magento_Multishipping
+"Select Address","Seleccionar Dirección",module,Magento_Multishipping
+"Add New Address","Agregar Nueva Dirección",module,Magento_Multishipping
+"Back to Billing Information","Volver a la Información de Facturación",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Seleccione una dirección de despacho para los artículos aplicables.",module,Magento_Multishipping
 Product,Producto,module,Magento_Multishipping
 Qty,Cantidad,module,Magento_Multishipping
 "Send To","Enviar a",module,Magento_Multishipping
@@ -3079,7 +3079,7 @@ Qty,Cantidad,module,Magento_Multishipping
 Actions,Comportamiento,module,Magento_Multishipping
 "Remove Item","Quitar el Producto",module,Magento_Multishipping
 "Remove item","Quitar el producto",module,Magento_Multishipping
-"Go to Shipping Information","Ir a la Información de Despacho",module,Magento_Multishipping
+"Go to Shipping Information","Ir a Información de Despacho",module,Magento_Multishipping
 "Update Qty &amp; Addresses","Actualizar Cantidad y Direcciones",module,Magento_Multishipping
 "Enter a New Address","Ingrese una Nueva Dirección",module,Magento_Multishipping
 "Back to Shopping Cart","Volver al Carro de Compras",module,Magento_Multishipping
@@ -3094,34 +3094,34 @@ Change,Cambio,module,Magento_Multishipping
 "Product Name","Nombre del Producto",module,Magento_Multishipping
 "Check Out with Multiple Addresses","Salida con Múltiples Direcciones",module,Magento_Multishipping
 "Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
-"Shipping To","Shipping To",module,Magento_Multishipping
-"Shipping Method","Shipping Method",module,Magento_Multishipping
-"Incl. Tax","Incl. Tax",module,Magento_Multishipping
-"Excl. Tax","Excl. Tax",module,Magento_Multishipping
-"Order Review","Order Review",module,Magento_Multishipping
-Item,Item,module,Magento_Multishipping
-Edit,Edit,module,Magento_Multishipping
-Price,Price,module,Magento_Multishipping
+"Shipping To","Despachar A",module,Magento_Multishipping
+"Shipping Method","Metodo de Despacho",module,Magento_Multishipping
+"Incl. Tax","Con Impuesto",module,Magento_Multishipping
+"Excl. Tax","Sin Impuesto",module,Magento_Multishipping
+"Order Review","Revisión del Pedido",module,Magento_Multishipping
+Item,Producto,module,Magento_Multishipping
+Edit,Editar,module,Magento_Multishipping
+Price,Precio,module,Magento_Multishipping
 Subtotal,Subtotal,module,Magento_Multishipping
-Items,Items,module,Magento_Multishipping
-"Grand Total:","Grand Total:",module,Magento_Multishipping
+Items,Productos,module,Magento_Multishipping
+"Grand Total:","Total Final:",module,Magento_Multishipping
 "Submitting order information...","Submitting order information...",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
 "Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
 "Back to Select Addresses","Back to Select Addresses",module,Magento_Multishipping
 "Thank you for your purchase!","Thank you for your purchase!",module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.","Thanks for your order. We'll email you order details and tracking information.",module,Magento_Multishipping
-"Your order numbers are: ","Your order numbers are: ",module,Magento_Multishipping
-"Your order number is: ","Your order number is: ",module,Magento_Multishipping
-"Continue Shopping","Continue Shopping",module,Magento_Multishipping
+"Your order numbers are: ","Sus números de pedido son: ",module,Magento_Multishipping
+"Your order number is: ","Tu numero de pedido es: ",module,Magento_Multishipping
+"Continue Shopping","Seguir Comprando",module,Magento_Multishipping
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
 "Delete Selected Problems","Delete Selected Problems",module,Magento_Newsletter
 "Unsubscribe Selected","Unsubscribe Selected",module,Magento_Newsletter
-Back,Back,module,Magento_Newsletter
-Reset,Reset,module,Magento_Newsletter
+Back,Atras,module,Magento_Newsletter
+Reset,Reiniciar,module,Magento_Newsletter
 "Preview Template","Preview Template",module,Magento_Newsletter
 "Save Newsletter","Save Newsletter",module,Magento_Newsletter
 "Save and Resume","Save and Resume",module,Magento_Newsletter
@@ -3130,7 +3130,7 @@ Reset,Reset,module,Magento_Newsletter
 "Queue Information","Queue Information",module,Magento_Newsletter
 "Queue Date Start","Queue Date Start",module,Magento_Newsletter
 "Subscribers From","Subscribers From",module,Magento_Newsletter
-Subject,Subject,module,Magento_Newsletter
+Subject,Asunto,module,Magento_Newsletter
 "Sender Name","Sender Name",module,Magento_Newsletter
 "Sender Email","Sender Email",module,Magento_Newsletter
 Message,Message,module,Magento_Newsletter
@@ -3138,9 +3138,9 @@ Message,Message,module,Magento_Newsletter
 Start,Start,module,Magento_Newsletter
 Pause,Pause,module,Magento_Newsletter
 "Do you really want to cancel the queue?","Do you really want to cancel the queue?",module,Magento_Newsletter
-Cancel,Cancel,module,Magento_Newsletter
-Resume,Resume,module,Magento_Newsletter
-Preview,Preview,module,Magento_Newsletter
+Cancel,Cancelar,module,Magento_Newsletter
+Resume,Resumen,module,Magento_Newsletter
+Preview,Presentar,module,Magento_Newsletter
 "Add New Template","Add New Template",module,Magento_Newsletter
 "Newsletter Templates","Newsletter Templates",module,Magento_Newsletter
 "Convert to Plain Text","Convert to Plain Text",module,Magento_Newsletter
@@ -4791,29 +4791,29 @@ Remove,Remove,module,Magento_Sales
 "Address Information","Address Information",module,Magento_Sales
 "Payment &amp; Shipping Information","Payment &amp; Shipping Information",module,Magento_Sales
 "Order Total","Order Total",module,Magento_Sales
-"Order Currency:","Order Currency:",module,Magento_Sales
-"Same As Billing Address","Same As Billing Address",module,Magento_Sales
-"Select from existing customer addresses:","Select from existing customer addresses:",module,Magento_Sales
-"Add New Address","Add New Address",module,Magento_Sales
-"Save in address book","Save in address book",module,Magento_Sales
-"You don't need to select a shipping address.","You don't need to select a shipping address.",module,Magento_Sales
-"Gift Message for the Entire Order","Gift Message for the Entire Order",module,Magento_Sales
+"Order Currency:","Moneda del Pedido:",module,Magento_Sales
+"Same As Billing Address","Igual a la Dirección de Facturación",module,Magento_Sales
+"Select from existing customer addresses:","Seleccionar desde direcciones de clientes existentes:",module,Magento_Sales
+"Add New Address","Agregar Nueva Dirección",module,Magento_Sales
+"Save in address book","Guardar en libreta de direcciones",module,Magento_Sales
+"You don't need to select a shipping address.","No es necesario que seleccione una dirección de envío.",module,Magento_Sales
+"Gift Message for the Entire Order","Mensaje de Regalo para Todo el Pedido",module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_Sales
-"Row Subtotal","Row Subtotal",module,Magento_Sales
-Action,Action,module,Magento_Sales
-"No ordered items","No ordered items",module,Magento_Sales
-"Update Items and Quantities","Update Items and Quantities",module,Magento_Sales
-"Total %1 product(s)","Total %1 product(s)",module,Magento_Sales
+"Row Subtotal","Subtotal de Fila",module,Magento_Sales
+Action,Acción,module,Magento_Sales
+"No ordered items","Sin productos pedidos",module,Magento_Sales
+"Update Items and Quantities","Actualizar Productos y Cantidades",module,Magento_Sales
+"Total %1 product(s)","Total %1 producto(s)",module,Magento_Sales
 Subtotal:,Subtotal:,module,Magento_Sales
-"Tier Pricing","Tier Pricing",module,Magento_Sales
-"Custom Price","Custom Price",module,Magento_Sales
-"Please select","Please select",module,Magento_Sales
-"Move to Shopping Cart","Move to Shopping Cart",module,Magento_Sales
-"Move to Wish List","Move to Wish List",module,Magento_Sales
-"Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Sales
-"Click to change shipping method","Click to change shipping method",module,Magento_Sales
-"Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order.",module,Magento_Sales
-"Get shipping methods and rates","Get shipping methods and rates",module,Magento_Sales
+"Tier Pricing","Precios de Nivel",module,Magento_Sales
+"Custom Price","Precio Personalizado",module,Magento_Sales
+"Please select","Por favor selecciona",module,Magento_Sales
+"Move to Shopping Cart","Mover al Carro de Compras",module,Magento_Sales
+"Move to Wish List","Mover a Lista de Deseos",module,Magento_Sales
+"Subscribe to Newsletter","Suscríbete al Boletín",module,Magento_Sales
+"Click to change shipping method","Haga clic para cambiar el método de despacho",module,Magento_Sales
+"Sorry, no quotes are available for this order.","Lo sentimos, no hay presupuestos disponibles para este pedido.",module,Magento_Sales
+"Get shipping methods and rates","Obtenga métodos de despacho y tarifas",module,Magento_Sales
 "You don't need to select a shipping method.","No necesita seleccionar un método de despacho.",module,Magento_Sales
 "Customer's Activities","Actividades del Cliente",module,Magento_Sales
 Refresh,Refrescar,module,Magento_Sales
