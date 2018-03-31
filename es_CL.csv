@@ -860,84 +860,84 @@ Websites,Websites,module,Magento_Catalog
 "First Name","Nombre",module,Magento_Catalog
 "Last Name","Apellido",module,Magento_Catalog
 Email,Correo,module,Magento_Catalog
-"Subscribe Date","Subscribe Date",module,Magento_Catalog
-"Last Notified","Last Notified",module,Magento_Catalog
-"Send Count","Send Count",module,Magento_Catalog
+"Subscribe Date","Fecha al Suscribirse",module,Magento_Catalog
+"Last Notified","Último Notificado",module,Magento_Catalog
+"Send Count","Enviar Conteo",module,Magento_Catalog
 "New Attribute","Atributo Nuevo",module,Magento_Catalog
 Type,Tipo,module,Magento_Catalog
-"Attribute Set","Attribute Set",module,Magento_Catalog
+"Attribute Set","Conjunto de Atributos",module,Magento_Catalog
 Status,Estado,module,Magento_Catalog
 Visibility,Visibility,module,Magento_Catalog
-"Add New Option","Add New Option",module,Magento_Catalog
-"Import Options","Import Options",module,Magento_Catalog
-"Use Default","Use Default",module,Magento_Catalog
+"Add New Option","Agregar Nueva Opción",module,Magento_Catalog
+"Import Options","Importar Opciones",module,Magento_Catalog
+"Use Default","Usar Predeterminado",module,Magento_Catalog
 Import,Importar,module,Magento_Catalog
-"Add New Row","Add New Row",module,Magento_Catalog
-"Delete Row","Delete Row",module,Magento_Catalog
-"Tier Pricing","Tier Pricing",module,Magento_Catalog
-"Default Price","Default Price",module,Magento_Catalog
-"All Websites","All Websites",module,Magento_Catalog
-"ALL GROUPS","ALL GROUPS",module,Magento_Catalog
-"Add Price","Add Price",module,Magento_Catalog
-"Default Values","Default Values",module,Magento_Catalog
-"Related Products","Related Products",module,Magento_Catalog
+"Add New Row","Agregar Nueva Fila",module,Magento_Catalog
+"Delete Row","Quitar Fila",module,Magento_Catalog
+"Tier Pricing","Precios de Nivel",module,Magento_Catalog
+"Default Price","Precio Predeterminado",module,Magento_Catalog
+"All Websites","Todos los Websites",module,Magento_Catalog
+"ALL GROUPS","TODOS LOS GRUPOS",module,Magento_Catalog
+"Add Price","Agregar Precio",module,Magento_Catalog
+"Default Values","Valores Predeterminados",module,Magento_Catalog
+"Related Products","Productos Relacionados",module,Magento_Catalog
 Up-sells,Up-sells,module,Magento_Catalog
 Cross-sells,Cross-sells,module,Magento_Catalog
-"Size for %1","Size for %1",module,Magento_Catalog
-"Watermark File for %1","Watermark File for %1",module,Magento_Catalog
-"Position of Watermark for %1","Position of Watermark for %1",module,Magento_Catalog
-"Name in %1","Name in %1",module,Magento_Catalog
+"Size for %1","Tamaño para %1",module,Magento_Catalog
+"Watermark File for %1","Archivo Marca de Agua para %1",module,Magento_Catalog
+"Position of Watermark for %1","Posición Marca de Agua para %1",module,Magento_Catalog
+"Name in %1","Nombre en %1",module,Magento_Catalog
 Quantity,Cantidad,module,Magento_Catalog
 Edit,Editar,module,Magento_Catalog
 "Are you sure?","¿Estás seguro?",module,Magento_Catalog
-"Change Status","Change Status",module,Magento_Catalog
-"Update Attributes","Update Attributes",module,Magento_Catalog
-"start typing to search category","start typing to search category",module,Magento_Catalog
-"New Category","New Category",module,Magento_Catalog
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Catalog
-"Add New Images","Add New Images",module,Magento_Catalog
-"Inc. Tax","Inc. Tax",module,Magento_Catalog
-"Does this have a weight?","Does this have a weight?",module,Magento_Catalog
+"Change Status","Cambiar Estado",module,Magento_Catalog
+"Update Attributes","Actualización de Atributos",module,Magento_Catalog
+"start typing to search category","comience a escribir en la categoría de búsqueda",module,Magento_Catalog
+"New Category","Nueva Categoría",module,Magento_Catalog
+"Images (.gif, .jpg, .png)","Imagenes (.gif, .jpg, .png)",module,Magento_Catalog
+"Add New Images","Agregar Nuevas Imagenes",module,Magento_Catalog
+"Inc. Tax","Con Impuesto",module,Magento_Catalog
+"Does this have a weight?","¿Esto tiene un peso?",module,Magento_Catalog
 Product,Producto,module,Magento_Catalog
-"Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
-"Low Stock Products","Low Stock Products",module,Magento_Catalog
-"%1 has reached a quantity of %2.","%1 has reached a quantity of %2.",module,Magento_Catalog
+"Notify Low Stock RSS","Notificar Stock Bajo RSS",module,Magento_Catalog
+"Low Stock Products","Productos Stock Bajo",module,Magento_Catalog
+"%1 has reached a quantity of %2.","%1 ha alcanzado una cantidad de %2.",module,Magento_Catalog
 Home,Inicio,module,Magento_Catalog
 "Go to Home Page","Ir a Pagina de Inicio",module,Magento_Catalog
-"Subscribe to RSS Feed","Subscribe to RSS Feed",module,Magento_Catalog
-"Products Comparison List","Products Comparison List",module,Magento_Catalog
-N/A,N/A,module,Magento_Catalog
+"Subscribe to RSS Feed","Suscribir a RSS Feed",module,Magento_Catalog
+"Products Comparison List","Lista Comparación de Productos",module,Magento_Catalog
+N/A,Ninguno,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
-"-- Please Select --","-- Please Select --",module,Magento_Catalog
-None,None,module,Magento_Catalog
-"New Products from %1","New Products from %1",module,Magento_Catalog
-"New Products","New Products",module,Magento_Catalog
-"%1 - Special Products","%1 - Special Products",module,Magento_Catalog
-"Click for price","Click for price",module,Magento_Catalog
-"Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
-"Price: %1","Price: %1",module,Magento_Catalog
-"Special Price: %1","Special Price: %1",module,Magento_Catalog
-"Special Products","Special Products",module,Magento_Catalog
-"Manage Catalog Categories","Manage Catalog Categories",module,Magento_Catalog
-"Manage Categories","Manage Categories",module,Magento_Catalog
-"You deleted the category.","You deleted the category.",module,Magento_Catalog
-"Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category.",module,Magento_Catalog
+"-- Please Select --","-- Seleccione --",module,Magento_Catalog
+None,Ninguno,module,Magento_Catalog
+"New Products from %1","Nuevos Productos de %1",module,Magento_Catalog
+"New Products","Nuevos Productos",module,Magento_Catalog
+"%1 - Special Products","%1 - Productos Especiales",module,Magento_Catalog
+"Click for price","Click por precio",module,Magento_Catalog
+"Special Expires On: %1","Especial Expira En: %1",module,Magento_Catalog
+"Price: %1","Precio: %1",module,Magento_Catalog
+"Special Price: %1","Precio Especial: %1",module,Magento_Catalog
+"Special Products","Productos Especiales",module,Magento_Catalog
+"Manage Catalog Categories","Administrar Categorías de Catálogo",module,Magento_Catalog
+"Manage Categories","Administrar Categorías",module,Magento_Catalog
+"You deleted the category.","Eliminaste la Categoría.",module,Magento_Catalog
+"Something went wrong while trying to delete the category.","Algo salió mal al intentar eliminar la categoría.",module,Magento_Catalog
 Categories,Categories,module,Magento_Catalog
-"Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
-"There was a category move error. %1","There was a category move error. %1",module,Magento_Catalog
-"There was a category move error.","There was a category move error.",module,Magento_Catalog
-"You moved the category","You moved the category",module,Magento_Catalog
-"Attribute ""%1"" is required.","Attribute ""%1"" is required.",module,Magento_Catalog
-"You saved the category.","You saved the category.",module,Magento_Catalog
-"Something went wrong while saving the category.","Something went wrong while saving the category.",module,Magento_Catalog
+"Category is not available for requested store.","La categoría no está disponible para la tienda solicitada.",module,Magento_Catalog
+"There was a category move error. %1","Hubo un error de movimiento de categoría. %1",module,Magento_Catalog
+"There was a category move error.","Hubo un error de movimiento de categoría.",module,Magento_Catalog
+"You moved the category","Has movido la categoría",module,Magento_Catalog
+"Attribute ""%1"" is required.","Atributo ""%1"" is required.",module,Magento_Catalog
+"You saved the category.","Salvaste la categoría.",module,Magento_Catalog
+"Something went wrong while saving the category.","Algo salió mal al guardar la categoría.",module,Magento_Catalog
 "Please select products for attributes update.","Please select products for attributes update.",module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products.",module,Magento_Catalog
 "A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes.",module,Magento_Catalog
 "Unable to add attribute","Unable to add attribute",module,Magento_Catalog
 "Please, specify attributes","Please, specify attributes",module,Magento_Catalog
-Catalog,Catalog,module,Magento_Catalog
+Catalog,Catalogo,module,Magento_Catalog
 "Manage Product Attributes","Manage Product Attributes",module,Magento_Catalog
 "We can't delete the attribute.","We can't delete the attribute.",module,Magento_Catalog
 "You deleted the product attribute.","You deleted the product attribute.",module,Magento_Catalog
@@ -956,7 +956,7 @@ Catalog,Catalog,module,Magento_Catalog
 "You duplicated the product.","You duplicated the product.",module,Magento_Catalog
 "This product doesn't exist.","This product doesn't exist.",module,Magento_Catalog
 "Invalid product id. Should be numeric value greater than 0","Invalid product id. Should be numeric value greater than 0",module,Magento_Catalog
-Products,Products,module,Magento_Catalog
+Products,Productos,module,Magento_Catalog
 "A group with the same name already exists.","A group with the same name already exists.",module,Magento_Catalog
 "Something went wrong while saving this group.","Something went wrong while saving this group.",module,Magento_Catalog
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Catalog
@@ -1065,8 +1065,8 @@ Category,Category,module,Magento_Catalog
 "Can not create attribute set based on not existing attribute set","Can not create attribute set based on not existing attribute set",module,Magento_Catalog
 "Provided Attribute set non product Attribute set.","Provided Attribute set non product Attribute set.",module,Magento_Catalog
 "Use config","Use config",module,Magento_Catalog
-Enabled,Enabled,module,Magento_Catalog
-Disabled,Disabled,module,Magento_Catalog
+Enabled,Activar,module,Magento_Catalog
+Disabled,Desactivar,module,Magento_Catalog
 "Attribute Set already exists.","Attribute Set already exists.",module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","We couldn't copy file %1. Please delete media with non-existing images and try again.",module,Magento_Catalog
 "The image content is not valid.","The image content is not valid.",module,Magento_Catalog
@@ -1085,7 +1085,7 @@ Disabled,Disabled,module,Magento_Catalog
 "Could not remove custom option","Could not remove custom option",module,Magento_Catalog
 "Please specify date required option(s).","Please specify date required option(s).",module,Magento_Catalog
 "Please specify time required option(s).","Please specify time required option(s).",module,Magento_Catalog
-"Please specify product's required option(s).","Please specify product's required option(s).",module,Magento_Catalog
+"Please specify product's required option(s).","Por favor especifique la(s) opción(es) requerida(s) del producto.",module,Magento_Catalog
 "The option instance type in options group is incorrect.","The option instance type in options group is incorrect.",module,Magento_Catalog
 "The product instance type in options group is incorrect.","The product instance type in options group is incorrect.",module,Magento_Catalog
 "The configuration item option instance in options group is incorrect.","The configuration item option instance in options group is incorrect.",module,Magento_Catalog
@@ -1120,8 +1120,8 @@ px.,px.,module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
 "Not Visible Individually","Not Visible Individually",module,Magento_Catalog
-Search,Search,module,Magento_Catalog
-"Catalog, Search","Catalog, Search",module,Magento_Catalog
+Search,Buscar,module,Magento_Catalog
+"Catalog, Search","Catalogo, Busqueda",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","Something went wrong while removing products from the websites.",module,Magento_Catalog
 "Something went wrong while adding products to websites.","Something went wrong while adding products to websites.",module,Magento_Catalog
 "Group with id ""%1"" does not exist.","Group with id ""%1"" does not exist.",module,Magento_Catalog
@@ -1155,35 +1155,35 @@ test,test,module,Magento_Catalog
 message,message,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
-text,text,module,Magento_Catalog
-Images,Images,module,Magento_Catalog
-Select...,Select...,module,Magento_Catalog
-"Advanced Pricing","Advanced Pricing",module,Magento_Catalog
-"Tier Price","Tier Price",module,Magento_Catalog
-"Customer Group","Customer Group",module,Magento_Catalog
-"Special Price From","Special Price From",module,Magento_Catalog
-To,To,module,Magento_Catalog
-Done,Done,module,Magento_Catalog
-"Product Alerts","Product Alerts",module,Magento_Catalog
-"Alert stock","Alert stock",module,Magento_Catalog
-"Alert Stock","Alert Stock",module,Magento_Catalog
-"Alert price","Alert price",module,Magento_Catalog
-"Alert Price","Alert Price",module,Magento_Catalog
-"Add Selected","Add Selected",module,Magento_Catalog
-"Select Attribute","Select Attribute",module,Magento_Catalog
-"Create New Attribute","Create New Attribute",module,Magento_Catalog
-"Customizable Options","Customizable Options",module,Magento_Catalog
-"Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
-"Add Option","Add Option",module,Magento_Catalog
-"New Option","New Option",module,Magento_Catalog
-"Select Product","Select Product",module,Magento_Catalog
-"Option Title","Option Title",module,Magento_Catalog
-"Add Value","Add Value",module,Magento_Catalog
-Title,Title,module,Magento_Catalog
-"Option Type","Option Type",module,Magento_Catalog
-Required,Required,module,Magento_Catalog
-"Price Type","Price Type",module,Magento_Catalog
-"Max Characters","Max Characters",module,Magento_Catalog
+text,texto,module,Magento_Catalog
+Images,Imagenes,module,Magento_Catalog
+Select...,Selecionar...,module,Magento_Catalog
+"Advanced Pricing","Precio Avanzado",module,Magento_Catalog
+"Tier Price","Nivel de Precio",module,Magento_Catalog
+"Customer Group","Grupo de Clientes",module,Magento_Catalog
+"Special Price From","Precio Especial De",module,Magento_Catalog
+To,A,module,Magento_Catalog
+Done,Hecho,module,Magento_Catalog
+"Product Alerts","Alertas de Productos",module,Magento_Catalog
+"Alert stock","Alerta stock",module,Magento_Catalog
+"Alert Stock","Alerta Stock",module,Magento_Catalog
+"Alert price","Alerta precio",module,Magento_Catalog
+"Alert Price","Alerta Precio",module,Magento_Catalog
+"Add Selected","Agregar Seleccionados",module,Magento_Catalog
+"Select Attribute","Seleccionar Atributo",module,Magento_Catalog
+"Create New Attribute","Crear Nuevo Atributo",module,Magento_Catalog
+"Customizable Options","Opciones Personalizables",module,Magento_Catalog
+"Custom options let customers choose the product variations they want.","Las opciones personalizadas permiten a los clientes elegir las variaciones de productos que desean.",module,Magento_Catalog
+"Add Option","Agregar Opción",module,Magento_Catalog
+"New Option","Nueva Opción",module,Magento_Catalog
+"Select Product","Seleccionar Producto",module,Magento_Catalog
+"Option Title","Opción de Título",module,Magento_Catalog
+"Add Value","Agregar Valor",module,Magento_Catalog
+Title,Título,module,Magento_Catalog
+"Option Type","Tipo de Opción",module,Magento_Catalog
+Required,Requerido,module,Magento_Catalog
+"Price Type","Tipo de Precio",module,Magento_Catalog
+"Max Characters","Max Caracteres",module,Magento_Catalog
 "Compatible File Extensions","Compatible File Extensions",module,Magento_Catalog
 "Enter separated extensions, like: png, jpg, gif.","Enter separated extensions, like: png, jpg, gif.",module,Magento_Catalog
 "Maximum Image Size","Maximum Image Size",module,Magento_Catalog
@@ -5090,7 +5090,7 @@ Shipments,Despachos,module,Magento_Shipping
 "An error occurred while creating shipping label.","Se produjo un error al crear la etiqueta de despacho.",module,Magento_Shipping
 "You sent the shipment.","Usted envió el despacho.",module,Magento_Shipping
 "Cannot send shipment information.","No se puede enviar información de despacho.",module,Magento_Shipping
-"There are no shipping labels related to selected orders.","No hay etiquetas de envío relacionadas con pedidos seleccionados.",module,Magento_Shipping
+"There are no shipping labels related to selected orders.","No hay etiquetas de despacho relacionadas con pedidos seleccionados.",module,Magento_Shipping
 "New Shipment","Nuevo Despacho",module,Magento_Shipping
 "We don't recognize or support the file extension in this shipment: %1.","No reconocemos ni soportamos la extensión de archivo en este despacho: %1.",module,Magento_Shipping
 "We can't initialize shipment for delete tracking number.","No podemos inicializar el despacho para eliminar el número de seguimiento.",module,Magento_Shipping
@@ -5107,9 +5107,9 @@ Shipments,Despachos,module,Magento_Shipping
 "There are no shipping labels related to selected shipments.","No hay etiquetas de despacho relacionadas con envíos seleccionados.",module,Magento_Shipping
 "Page not found.","Página no encontrada.",module,Magento_Shipping
 "Tracking Information","Información de Seguimiento",module,Magento_Shipping
-"Sorry, but we can't deliver to the destination country with this shipping module.","Lo sentimos, pero no podemos entregar al país de destino con este módulo de envío.",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Lo sentimos, pero no podemos entregar al país de destino con este módulo de despacho.",module,Magento_Shipping
 "The shipping module is not available.","El módulo de despacho no está disponible.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","Este método de envío no está disponible. Por favor especifique el código postal.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","Este método de despacho no está disponible. Por favor especifique el código postal.",module,Magento_Shipping
 "No packages for request","Sin paquetes para solicitar",module,Magento_Shipping
 "Security validation of XML document has been failed.","La validación de seguridad del documento XML ha fallado.",module,Magento_Shipping
 "All Allowed Countries","Todos los Países Permitidos",module,Magento_Shipping
@@ -5136,7 +5136,7 @@ Weight,Peso,module,Magento_Shipping
 "Qty Ordered","Cantidad Solicitada",module,Magento_Shipping
 Qty,Cantidad,module,Magento_Shipping
 "No detail for number ""%1""","Sin detalles para el número ""%1""",module,Magento_Shipping
-"Shipping labels is not available.","Las etiquetas de envío no están disponibles.",module,Magento_Shipping
+"Shipping labels is not available.","Las etiquetas de despacho no están disponibles.",module,Magento_Shipping
 "Response info is not exist.","La información de respuesta no existe.",module,Magento_Shipping
 "Invalid carrier: %1","Portador inválido: %1",module,Magento_Shipping
 "We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","No tenemos suficiente información para crear etiquetas de despacho. Asegúrate de que la información y la configuración de tu tienda estén completas.",module,Magento_Shipping
@@ -5212,7 +5212,7 @@ Track:,Rastreo:,module,Magento_Shipping
 ". ':'",". ':'",module,Magento_Shipping
 "Delivered on:","Entregado en:",module,Magento_Shipping
 N/A,Ninguno,module,Magento_Shipping
-"There is no tracking available for this shipment.","No hay seguimiento disponible para este envío.",module,Magento_Shipping
+"There is no tracking available for this shipment.","No hay seguimiento disponible para este despacho.",module,Magento_Shipping
 "There is no tracking available.","No hay seguimiento disponible.",module,Magento_Shipping
 "Close Window","Cerrar Ventana",module,Magento_Shipping
 "Track history","Rastreo historico",module,Magento_Shipping
@@ -7272,12 +7272,12 @@ System,System,module,Magento_Catalog
 "All Store Views","All Store Views",module,Magento_Catalog
 "Delete items","Delete items",module,Magento_Catalog
 "Delete selected items?","Delete selected items?",module,Magento_Catalog
-"Change status","Change status",module,Magento_Catalog
-Enable,Enable,module,Magento_Catalog
-Disable,Disable,module,Magento_Catalog
-"Update attributes","Update attributes",module,Magento_Catalog
-Overview,Overview,module,Magento_Catalog
-Details,Details,module,Magento_Catalog
+"Change status","Cambiar Estado",module,Magento_Catalog
+Enable,Activar,module,Magento_Catalog
+Disable,Desactivar,module,Magento_Catalog
+"Update attributes","Actualizar Atributos",module,Magento_Catalog
+Overview,Conjunto,module,Magento_Catalog
+Details,Detalles,module,Magento_Catalog
 "Terms & Conditions","Términos y Condiciones",module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Habilitar Términos y Condiciones",module,Magento_CheckoutAgreements
 "Checkout Options","Opciones de Pago",module,Magento_Checkout
@@ -7285,7 +7285,7 @@ Details,Details,module,Magento_Catalog
 "Allow Guest Checkout","Habilitar el Pago de Invitados",module,Magento_Checkout
 "Display Billing Address On","Mostrar Dirección de Facturación Activada",module,Magento_Checkout
 "Maximum Number of Items to Display in Order Summary","Número Máximo de Productos para Mostrar en Resumen de Pedido",module,Magento_Checkout
-"Quote Lifetime (days)","Quote Lifetime (days)",module,Magento_Checkout
+"Quote Lifetime (days)","Cotización Vida Util (dias)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Después de Agregar un Producto, Redirigir al Carro de Compras",module,Magento_Checkout
 "Number of Items to Display Pager","Número de Productos para Mostrar Paginados",module,Magento_Checkout
 "My Cart Link","Mi Enlace de Carro",module,Magento_Checkout
@@ -7310,10 +7310,10 @@ Payment,Pago,module,Magento_Checkout
 "We received your order!","Recibimos su orden!",module,Magento_Checkout
 "Thank you for your purchase!","Gracias por su compra!",module,Magento_Checkout
 "Media Gallery","Galería de Medios",module,Magento_Cms
-"Content Management","Content Management",module,Magento_Cms
-"CMS Home Page","CMS Home Page",module,Magento_Cms
-"CMS No Route Page","CMS No Route Page",module,Magento_Cms
-"CMS No Cookies Page","CMS No Cookies Page",module,Magento_Cms
+"Content Management","Gestión de Contenido",module,Magento_Cms
+"CMS Home Page","CMS Página de Inicio",module,Magento_Cms
+"CMS No Route Page","CMS Sin Ruta de Página",module,Magento_Cms
+"CMS No Cookies Page","CMS Sin Cookies de Página",module,Magento_Cms
 "Show Breadcrumbs for CMS Pages","Show Breadcrumbs for CMS Pages",module,Magento_Cms
 "Browser Capabilities Detection","Browser Capabilities Detection",module,Magento_Cms
 "Redirect to CMS-page if Cookies are Disabled","Redirect to CMS-page if Cookies are Disabled",module,Magento_Cms
@@ -7364,27 +7364,27 @@ Enable,Enable,module,Magento_Cms
 "Custom design to","Custom design to",module,Magento_Cms
 "Custom Theme","Custom Theme",module,Magento_Cms
 "Custom Layout","Custom Layout",module,Magento_Cms
-"Group Label","Group Label",module,Magento_Config
-"Some Label","Some Label",module,Magento_Config
-"Tab Label","Tab Label",module,Magento_Config
-"Allow everything","Allow everything",module,Magento_Config
+"Group Label","Etiqueta de Grupo",module,Magento_Config
+"Some Label","Algunas Etiquetas",module,Magento_Config
+"Tab Label","Pestaña de Etiqueta",module,Magento_Config
+"Allow everything","Permitir todo",module,Magento_Config
 "Magento Admin","Magento Admin",module,Magento_Config
-Dashboard,Dashboard,module,Magento_Config
-"Manage Stores","Manage Stores",module,Magento_Config
-"Field 2","Field 2",module,Magento_Config
-"Field 3","Field 3",module,Magento_Config
-"Field 3.1","Field 3.1",module,Magento_Config
-"Field 3.1.1","Field 3.1.1",module,Magento_Config
-"Field 4","Field 4",module,Magento_Config
-"Advanced Section","Advanced Section",module,Magento_Config
-"Advanced Admin Section","Advanced Admin Section",module,Magento_Config
-"Design Section","Design Section",module,Magento_Config
-"General Section","General Section",module,Magento_Config
-"System Section","System Section",module,Magento_Config
-"Currency Setup Section","Currency Setup Section",module,Magento_Config
-"Developer Section","Developer Section",module,Magento_Config
-"Web Section","Web Section",module,Magento_Config
-"Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
+Dashboard,Tablero,module,Magento_Config
+"Manage Stores","Administrar Tiendas",module,Magento_Config
+"Field 2","Campo 2",module,Magento_Config
+"Field 3","Campo 3",module,Magento_Config
+"Field 3.1","Campo 3.1",module,Magento_Config
+"Field 3.1.1","Campo 3.1.1",module,Magento_Config
+"Field 4","Campo 4",module,Magento_Config
+"Advanced Section","Sección Avanzada",module,Magento_Config
+"Advanced Admin Section","Sección de Administración Avanzada",module,Magento_Config
+"Design Section","Sección de Diseño",module,Magento_Config
+"General Section","Sección General",module,Magento_Config
+"System Section","Sección de Sistema",module,Magento_Config
+"Currency Setup Section","Sección de Configuración de Moneda",module,Magento_Config
+"Developer Section","Sección de Desarrollo",module,Magento_Config
+"Web Section","Sección Web",module,Magento_Config
+"Store Email Addresses Section","Sección Almacen de Direcciones de Correo",module,Magento_Config
 "Email to a Friend","Enviar un Correo a un Amigo",module,Magento_Config
 "Configurable Product Image","Imagen de Producto Configurable",module,Magento_ConfigurableProduct
 Select...,Seleccionar...,module,Magento_ConfigurableProduct
@@ -8513,7 +8513,7 @@ Taxes,Impuestos,module,Magento_Tax
 "Catalog Prices","Catálogo de Precios",module,Magento_Tax
 "This sets whether catalog prices entered from Magento Admin include tax.","Esto establece si los precios de catálogo ingresados desde Admin en Magento incluyen impuestos.",module,Magento_Tax
 "Shipping Prices","Precios de Despacho",module,Magento_Tax
-"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","Esto establece si los importes de envío ingresados desde Admin en Magento u obtenidos de las puertas de enlace incluyen impuestos.",module,Magento_Tax
+"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","Esto establece si los importes de despacho ingresados desde Admin en Magento u obtenidos de las puertas de enlace incluyen impuestos.",module,Magento_Tax
 "Apply Customer Tax","Aplicar Impuesto al Cliente",module,Magento_Tax
 "Apply Discount On Prices","Aplicar Descuento en Precios",module,Magento_Tax
 "Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Advertencia: para aplicar el descuento en los precios, incluido el impuesto, y aplicar el impuesto después del descuento, configure los Catálogo de Precios en “Incluido Impuesto”.",module,Magento_Tax
