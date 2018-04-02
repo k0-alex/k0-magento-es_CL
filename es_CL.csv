@@ -97,7 +97,7 @@ void,vacío,module,Magento_Authorizenet
 Invalidated,Invalidado,module,Magento_Backend
 Orders,Pedidos,module,Magento_Backend
 Amounts,Cantidades,module,Magento_Backend
-Bestsellers,"Los más Vendidos",module,Magento_Backend
+Bestsellers,"Los Más Vendidos",module,Magento_Backend
 "Most Viewed Products","Productos Más Vistos",module,Magento_Backend
 "New Customers","Nuevos Clientes",module,Magento_Backend
 Customers,Clientes,module,Magento_Backend
@@ -704,7 +704,7 @@ Home,Inicio,module,Magento_CatalogSearch
 All,Todos,module,Magento_CatalogSearch
 Yes,Si,module,Magento_CatalogSearch
 No,No,module,Magento_CatalogSearch
-Results,Resultadoss,module,Magento_CatalogSearch
+Results,Resultados,module,Magento_CatalogSearch
 "Advanced Search Results","Resultados de Búsqueda Avanzada",module,Magento_CatalogSearch
 Grid,Grilla,module,Magento_CatalogSearch
 List,Lista,module,Magento_CatalogSearch
@@ -923,7 +923,7 @@ None,Ninguno,module,Magento_Catalog
 "Manage Categories","Administrar Categorías",module,Magento_Catalog
 "You deleted the category.","Eliminaste la Categoría.",module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Algo salió mal al intentar eliminar la categoría.",module,Magento_Catalog
-Categories,Categories,module,Magento_Catalog
+Categories,Categorias,module,Magento_Catalog
 "Category is not available for requested store.","La categoría no está disponible para la tienda solicitada.",module,Magento_Catalog
 "There was a category move error. %1","Hubo un error de movimiento de categoría. %1",module,Magento_Catalog
 "There was a category move error.","Hubo un error de movimiento de categoría.",module,Magento_Catalog
@@ -1212,13 +1212,13 @@ name,name,module,Magento_Catalog
 "Copy Data from","Copy Data from",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.",module,Magento_Catalog
 "This operation can take a long time","This operation can take a long time",module,Magento_Catalog
-"Collapse All","Collapse All",module,Magento_Catalog
-"Expand All","Expand All",module,Magento_Catalog
-"Please confirm site switching. All data that hasn't been saved will be lost.","Please confirm site switching. All data that hasn't been saved will be lost.",module,Magento_Catalog
-"Use Default Value","Use Default Value",module,Magento_Catalog
+"Collapse All","Contraer Todo",module,Magento_Catalog
+"Expand All","Expandir Todo",module,Magento_Catalog
+"Please confirm site switching. All data that hasn't been saved will be lost.","Confirme el cambio de sitio. Todos los datos que no se han guardado se perderán.",module,Magento_Catalog
+"Use Default Value","Usar Valor Predeterminado",module,Magento_Catalog
 "Manage Titles (Size, Color, etc.)","Manage Titles (Size, Color, etc.)",module,Magento_Catalog
 "Manage Options (Values of Your Attribute)","Manage Options (Values of Your Attribute)",module,Magento_Catalog
-"Is Default","Is Default",module,Magento_Catalog
+"Is Default","Es Predeterminado",module,Magento_Catalog
 "Sort Option","Sort Option",module,Magento_Catalog
 Groups,Groups,module,Magento_Catalog
 "Double click on a group to rename it.","Double click on a group to rename it.",module,Magento_Catalog
@@ -4779,17 +4779,17 @@ View,View,module,Magento_Sales
 "Comment Text","Comment Text",module,Magento_Sales
 "Notify Customer by Email","Notify Customer by Email",module,Magento_Sales
 "Visible on Storefront","Visible on Storefront",module,Magento_Sales
-Customer,Customer,module,Magento_Sales
-Notified,Notified,module,Magento_Sales
-"Not Notified","Not Notified",module,Magento_Sales
-"No Payment Methods","No Payment Methods",module,Magento_Sales
-"Order Comments","Order Comments",module,Magento_Sales
-"Apply Coupon Code","Apply Coupon Code",module,Magento_Sales
-Apply,Apply,module,Magento_Sales
-"Remove Coupon Code","Remove Coupon Code",module,Magento_Sales
-Remove,Remove,module,Magento_Sales
-"Address Information","Address Information",module,Magento_Sales
-"Payment &amp; Shipping Information","Payment &amp; Shipping Information",module,Magento_Sales
+Customer,Cliente,module,Magento_Sales
+Notified,Notificado,module,Magento_Sales
+"Not Notified","Sin Notificar",module,Magento_Sales
+"No Payment Methods","Sin Métodos de Pago",module,Magento_Sales
+"Order Comments","Comentarios del Pedido",module,Magento_Sales
+"Apply Coupon Code","Aplicar Código de Cupón",module,Magento_Sales
+Apply,Aplicar,module,Magento_Sales
+"Remove Coupon Code","Quitar Código de Cupón",module,Magento_Sales
+Remove,Quitar,module,Magento_Sales
+"Address Information","Datos del Domicilio",module,Magento_Sales
+"Payment &amp; Shipping Information","Pago y Información de Despacho",module,Magento_Sales
 "Order Total","Order Total",module,Magento_Sales
 "Order Currency:","Moneda del Pedido:",module,Magento_Sales
 "Same As Billing Address","Igual a la Dirección de Facturación",module,Magento_Sales
@@ -4928,7 +4928,7 @@ Close,Cerrado,module,Magento_Sales
 "About Your Order","Acerca de Su Orden",module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1",module,Magento_Sales
 "Refund #%1","Refund #%1",module,Magento_Sales
-"Shipment #%1","Shipment #%1",module,Magento_Sales
+"Shipment #%1","Despacho #%1",module,Magento_Sales
 "Qty Shipped","Cantidad Despachada",module,Magento_Sales
 "Recent Orders","Pedidos Recientes",module,Magento_Sales
 "View All","Ver Todos",module,Magento_Sales
@@ -6680,7 +6680,7 @@ Off,Apagar,module,Magento_Ui
 "Go to Details Page","Ir a Página de Detalles",module,Magento_Ui
 "New View","Nueva Vista",module,Magento_Ui
 "Default View","Vista Predetermminada",module,Magento_Ui
-"${ $.visible } out of ${ $.total } visible","${ $.visible } fuera de ${ $.total } visibilidad",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","${ $.visible } elegidos de ${ $.total } visibles",module,Magento_Ui
 "You have successfully saved your edits.","Has guardado tus ediciones exitosamente.",module,Magento_Ui
 "You haven't selected any items!","No ha seleccionado ningún producto!",module,Magento_Ui
 "Search by keyword","Buscar por palabra clave",module,Magento_Ui
@@ -7225,14 +7225,14 @@ Template,Template,module,Magento_Catalog
 "Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
 Set,Set,module,Magento_Catalog
 "Category Information","Category Information",module,Magento_Catalog
-"Enable Category","Enable Category",module,Magento_Catalog
-"Include in Menu","Include in Menu",module,Magento_Catalog
-Content,Content,module,Magento_Catalog
-"Category Image","Category Image",module,Magento_Catalog
-Description,Description,module,Magento_Catalog
-"Add CMS Block","Add CMS Block",module,Magento_Catalog
-"Display Settings","Display Settings",module,Magento_Catalog
-"Display Mode","Display Mode",module,Magento_Catalog
+"Enable Category","Habilitar Categoría",module,Magento_Catalog
+"Include in Menu","Incluir en el Menú",module,Magento_Catalog
+Content,Contenido,module,Magento_Catalog
+"Category Image","Imagen de Categoría",module,Magento_Catalog
+Description,Descripción,module,Magento_Catalog
+"Add CMS Block","Agregar Bloque CMS",module,Magento_Catalog
+"Display Settings","Configuración de Visualización",module,Magento_Catalog
+"Display Mode","Modo de Visualización",module,Magento_Catalog
 Anchor,Anchor,module,Magento_Catalog
 "Sort Products By","Sort Products By",module,Magento_Catalog
 "Available Product Listing Sort By","Available Product Listing Sort By",module,Magento_Catalog
@@ -7251,7 +7251,7 @@ Theme,Theme,module,Magento_Catalog
 Layout,Layout,module,Magento_Catalog
 "Layout Update XML","Layout Update XML",module,Magento_Catalog
 "Apply Design to Products","Apply Design to Products",module,Magento_Catalog
-"Schedule Design Update","Schedule Design Update",module,Magento_Catalog
+"Schedule Design Update","Programar Actualización de Visualización",module,Magento_Catalog
 AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
 "Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
@@ -7273,7 +7273,7 @@ System,System,module,Magento_Catalog
 "Delete items","Delete items",module,Magento_Catalog
 "Delete selected items?","Delete selected items?",module,Magento_Catalog
 "Change status","Cambiar Estado",module,Magento_Catalog
-Enable,Activar,module,Magento_Catalog
+Enable,Habilitar,module,Magento_Catalog
 Disable,Desactivar,module,Magento_Catalog
 "Update attributes","Actualizar Atributos",module,Magento_Catalog
 Overview,Conjunto,module,Magento_Catalog
