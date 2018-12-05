@@ -6,7 +6,7 @@ Remove,Quitar,module,Magento_AdminNotification
 "You have %1 new system messages","Tienes %1 nuevos mensajes del sistema",module,Magento_AdminNotification
 "You have %1 new system message","Tienes %1 nuevo mensaje del sistema",module,Magento_AdminNotification
 "Incoming Message","Mensaje Entrante",module,Magento_AdminNotification
-close,cerrado,module,Magento_AdminNotification
+close,cerrar,module,Magento_AdminNotification
 Notifications,Notificaciones,module,Magento_AdminNotification
 "The message has been marked as Read.","El mensaje ha sido marcado como Leído.",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","No pudimos marcar la notificación como Leída debido a un error.",module,Magento_AdminNotification
