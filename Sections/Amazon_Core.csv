@@ -1,0 +1,47 @@
+"click here to display the categories","haga clic aquí para mostrar las categorías",module,Amazon_Core
+"No logs are currently available.","No hay registros disponibles actualmente.",module,Amazon_Core
+--,--,module,Amazon_Core
+"Module version","Versión del Modulo",module,Amazon_Core
+"You entered an invalid Secret Key. Please refresh the page.","Has introducido una Clave Secreta no válida. Por favor, actualice la página.",module,Amazon_Core
+"Address country handler %1 must be of type %2","Address country handler %1 must be of type %2",module,Amazon_Core
+"Amazon could not process your request.","Amazon could not process your request.",module,Amazon_Core
+"No Simulation","No Simulation",module,Amazon_Core
+"Authorization soft decline","Authorization soft decline",module,Amazon_Core
+"Authorization hard decline","Authorization hard decline",module,Amazon_Core
+"Authorization timed out","Authorization timed out",module,Amazon_Core
+"Unable to import Amazon keys. Please verify your JSON format and values.","Unable to import Amazon keys. Please verify your JSON format and values.",module,Amazon_Core
+"If you're experiencing consistent errors with transferring keys, click <a href=""%1"" target=""_blank"">Manual Transfer Instructions</a> to learn more.","If you're experiencing consistent errors with transferring keys, click <a href=""%1"" target=""_blank"">Manual Transfer Instructions</a> to learn more.",module,Amazon_Core
+"Login and Pay with Amazon is now enabled.","Login and Pay with Amazon is now enabled.",module,Amazon_Core
+Immediate,Immediate,module,Amazon_Core
+Automatic,Automatic,module,Amazon_Core
+Gold,Gold,module,Amazon_Core
+"Light Gray","Light Gray",module,Amazon_Core
+"Dark Gray","Dark Gray",module,Amazon_Core
+Small,Small,module,Amazon_Core
+Medium,Medium,module,Amazon_Core
+Large,Large,module,Amazon_Core
+"Extra Large","Extra Large",module,Amazon_Core
+"Login with Amazon / Amazon Pay","Login with Amazon / Amazon Pay",module,Amazon_Core
+"Login / Pay","Login / Pay",module,Amazon_Core
+"Amazon Pay Logo","Amazon Pay Logo",module,Amazon_Core
+"Charge on Shipment","Charge on Shipment",module,Amazon_Core
+"Charge on Order","Charge on Order",module,Amazon_Core
+"-- Please Select --","-- Please Select --",module,Amazon_Core
+"Euro Region","Euro Region",module,Amazon_Core
+"United Kingdom","United Kingdom",module,Amazon_Core
+"United States","United States",module,Amazon_Core
+Japan,Japan,module,Amazon_Core
+"Data Polling via Cron Job","Data Polling via Cron Job",module,Amazon_Core
+"Instant Payment Notifications","Instant Payment Notifications",module,Amazon_Core
+"An unsupported currency is currently selected. Please review our configuration guide.","An unsupported currency is currently selected. Please review our configuration guide.",module,Amazon_Core
+"More Information","More Information",module,Amazon_Core
+"You will be registering for a %1 account based on the base currency of your shop (%2).","You will be registering for a %1 account based on the base currency of your shop (%2).",module,Amazon_Core
+"Get started with account registration","Get started with account registration",module,Amazon_Core
+or,or,module,Amazon_Core
+"I've already setup Amazon Pay, I want to edit my settings","I've already setup Amazon Pay, I want to edit my settings",module,Amazon_Core
+"""In order to enable automatic account configuration using Amazon's secure key "" . 'exchange, please turn on secure admin pages in General > Web > Use secure URLs in Admin.'","""In order to enable automatic account configuration using Amazon's secure key "" . 'exchange, please turn on secure admin pages in General > Web > Use secure URLs in Admin.'",module,Amazon_Core
+"Updating your config with new keys, please wait...","Updating your config with new keys, please wait...",module,Amazon_Core
+"Paste JSON credentials here","Paste JSON credentials here",module,Amazon_Core
+"Save Credentials","Save Credentials",module,Amazon_Core
+"Back to register or connect an account","Back to register or connect an account",module,Amazon_Core
+"Amazon Pay","Amazon Pay",module,Amazon_Core
