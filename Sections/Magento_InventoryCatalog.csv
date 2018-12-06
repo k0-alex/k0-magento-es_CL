@@ -1,0 +1,12 @@
+"Validation Failed","Validation Failed",module,Magento_InventoryCatalog
+"Following products with requested skus were not found: %1","Following products with requested skus were not found: %1",module,Magento_InventoryCatalog
+"Following products with requested ids were not found: %1","Following products with requested ids were not found: %1",module,Magento_InventoryCatalog
+"Source %sourceCode does not exist","Source %sourceCode does not exist",module,Magento_InventoryCatalog
+"Origin source %sourceCode does not exist","Origin source %sourceCode does not exist",module,Magento_InventoryCatalog
+"Destination source %sourceCode does not exist","Destination source %sourceCode does not exist",module,Magento_InventoryCatalog
+"Cannot transfer a source on itself","Cannot transfer a source on itself",module,Magento_InventoryCatalog
+"Default source can not be disabled.","Default source can not be disabled.",module,Magento_InventoryCatalog
+"Can not save link related to Default Source or Default Stock","Can not save link related to Default Source or Default Stock",module,Magento_InventoryCatalog
+"Website code is empty","Website code is empty",module,Magento_InventoryCatalog
+"Default Stock could not be deleted.","Default Stock could not be deleted.",module,Magento_InventoryCatalog
+"Can not delete link related to Default Source or Default Stock","Can not delete link related to Default Source or Default Stock",module,Magento_InventoryCatalog
