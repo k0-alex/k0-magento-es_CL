@@ -1,0 +1,6 @@
+"""Entity type should be specified","""Entity type should be specified",module,Magento_EavGraphQl
+"""Attribute code should be specified","""Attribute code should be specified",module,Magento_EavGraphQl
+"Attribute code %1 of entity type %2 not configured to have a type.","Attribute code %1 of entity type %2 not configured to have a type.",module,Magento_EavGraphQl
+"Invalid entity_type specified: %1","Invalid entity_type specified: %1",module,Magento_EavGraphQl
+"Missing %1 for the input %2.","Missing %1 for the input %2.",module,Magento_EavGraphQl
+"Type %1 has no internal representation declared.","Type %1 has no internal representation declared.",module,Magento_EavGraphQl
