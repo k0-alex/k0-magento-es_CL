@@ -1,0 +1,29 @@
+"Wish List Section","Wish List Section",module,Magento_Wishlist
+"Share Options","Share Options",module,Magento_Wishlist
+"Email Sender","Email Sender",module,Magento_Wishlist
+"Email Template","Email Template",module,Magento_Wishlist
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Wishlist
+"Max Emails Allowed to be Sent","Max Emails Allowed to be Sent",module,Magento_Wishlist
+"10 by default. Max - 10000","10 by default. Max - 10000",module,Magento_Wishlist
+"Email Text Length Limit","Email Text Length Limit",module,Magento_Wishlist
+"255 by default","255 by default",module,Magento_Wishlist
+"General Options","General Options",module,Magento_Wishlist
+Enabled,Enabled,module,Magento_Wishlist
+"My Wish List Link","My Wish List Link",module,Magento_Wishlist
+"Display Wish List Summary","Display Wish List Summary",module,Magento_Wishlist
+"Enable RSS","Enable RSS",module,Magento_Wishlist
+"No Items Found","No Items Found",module,Magento_Wishlist
+"Product Name","Product Name",module,Magento_Wishlist
+"User Description","User Description",module,Magento_Wishlist
+Quantity,Quantity,module,Magento_Wishlist
+"Add Locale","Add Locale",module,Magento_Wishlist
+"Add Date","Add Date",module,Magento_Wishlist
+"Days in Wish List","Days in Wish List",module,Magento_Wishlist
+Action,Action,module,Magento_Wishlist
+Configure,Configure,module,Magento_Wishlist
+Delete,Delete,module,Magento_Wishlist
+"Product Details and Comment","Product Details and Comment",module,Magento_Wishlist
+"Add To Wishlist","Add To Wishlist",module,Magento_Wishlist
+"My Account","My Account",theme,frontend/Magento/luma
+"Address Book","Address Book",theme,frontend/Magento/luma
+"Account Information","Account Information",theme,frontend/Magento/luma

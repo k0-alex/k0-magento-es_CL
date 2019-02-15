@@ -1,0 +1,14 @@
+"Orders and Returns","Orders and Returns",module,Magento_Widget
+"Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Widget
+"Anchor Custom Title","Anchor Custom Title",module,Magento_Widget
+"CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Widget
+"CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_Widget
+"Display a Link to Loading a Spreadsheet","Display a Link to Loading a Spreadsheet",module,Magento_Widget
+"Defines whether a link to My Account","Defines whether a link to My Account",module,Magento_Widget
+"Link Text","Link Text",module,Magento_Widget
+"The text of the link to the My Account &gt; Order by SKU page","The text of the link to the My Account &gt; Order by SKU page",module,Magento_Widget
+"Load a list of SKUs","Load a list of SKUs",module,Magento_Widget
+Product,Product,module,Magento_Widget
+"Select Product...","Select Product...",module,Magento_Widget
+Conditions,Conditions,module,Magento_Widget
+"Widget ID","Widget ID",module,Magento_Widget
