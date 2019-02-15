@@ -1,0 +1,19 @@
+"Security Suite","Security Suite",module,MSP_ReCaptcha
+ReCaptcha,ReCaptcha,module,MSP_ReCaptcha
+Security,Security,module,MSP_ReCaptcha
+"Google reCaptcha","Google reCaptcha",module,MSP_ReCaptcha
+General,General,module,MSP_ReCaptcha
+"Google API website key","Google API website key",module,MSP_ReCaptcha
+"Google API secret key","Google API secret key",module,MSP_ReCaptcha
+Backend,Backend,module,MSP_ReCaptcha
+Enable,Enable,module,MSP_ReCaptcha
+Theme,Theme,module,MSP_ReCaptcha
+Size,Size,module,MSP_ReCaptcha
+Frontend,Frontend,module,MSP_ReCaptcha
+"reCaptcha type","reCaptcha type",module,MSP_ReCaptcha
+"Badge position","Badge position",module,MSP_ReCaptcha
+"Language Code","Language Code",module,MSP_ReCaptcha
+"Use in login","Use in login",module,MSP_ReCaptcha
+"Use in Forgot password","Use in Forgot password",module,MSP_ReCaptcha
+"Use in Contact","Use in Contact",module,MSP_ReCaptcha
+"Use in Create user","Use in Create user",module,MSP_ReCaptcha

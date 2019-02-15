@@ -1,0 +1,56 @@
+Shipping,Shipping,module,Temando_Shipping
+Version,Version,module,Temando_Shipping
+Enabled,Enabled,module,Temando_Shipping
+"Enable API Logging","Enable API Logging",module,Temando_Shipping
+"Log all API communication. If set to <em>No</em>, only API errors will be logged.","Log all API communication. If set to <em>No</em>, only API errors will be logged.",module,Temando_Shipping
+"API Endpoint","API Endpoint",module,Temando_Shipping
+"Account ID","Account ID",module,Temando_Shipping
+"API Token","API Token",module,Temando_Shipping
+"Enabled for RMA","Enabled for RMA",module,Temando_Shipping
+"Enable Collection Points at Checkout","Enable Collection Points at Checkout",module,Temando_Shipping
+"Countries Available for Collection Points","Countries Available for Collection Points",module,Temando_Shipping
+"Enable Click and Collect at Checkout","Enable Click and Collect at Checkout",module,Temando_Shipping
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Temando_Shipping
+"Ship to Specific Countries","Ship to Specific Countries",module,Temando_Shipping
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Temando_Shipping
+"Displayed Error Message","Displayed Error Message",module,Temando_Shipping
+"Sort Order","Sort Order",module,Temando_Shipping
+"Magento Shipping Pickup","Magento Shipping Pickup",module,Temando_Shipping
+"Pickup Status Email Sender","Pickup Status Email Sender",module,Temando_Shipping
+"Pickup Ready Template","Pickup Ready Template",module,Temando_Shipping
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Temando_Shipping
+"Pickup Collected Template","Pickup Collected Template",module,Temando_Shipping
+"Pickup Canceled Template","Pickup Canceled Template",module,Temando_Shipping
+"Send Pickup Ready Email Copy To","Send Pickup Ready Email Copy To",module,Temando_Shipping
+Comma-separated,Comma-separated,module,Temando_Shipping
+"Send Pickup Ready Email Copy Method","Send Pickup Ready Email Copy Method",module,Temando_Shipping
+"Order &amp; Account Information","Order &amp; Account Information",module,Temando_Shipping
+"Batch Process","Batch Process",module,Temando_Shipping
+"Order #","Order #",module,Temando_Shipping
+"Ready for Pickup Date","Ready for Pickup Date",module,Temando_Shipping
+Status,Status,module,Temando_Shipping
+"Connect New Carrier","Connect New Carrier",module,Temando_Shipping
+"Are you sure you want to delete selected carriers?","Are you sure you want to delete selected carriers?",module,Temando_Shipping
+"Delete Carriers","Delete Carriers",module,Temando_Shipping
+Logo,Logo,module,Temando_Shipping
+"Connection Name","Connection Name",module,Temando_Shipping
+"Active Services","Active Services",module,Temando_Shipping
+"Create New Location","Create New Location",module,Temando_Shipping
+"Are you sure you want to delete selected locations?","Are you sure you want to delete selected locations?",module,Temando_Shipping
+"Delete Locations","Delete Locations",module,Temando_Shipping
+Type,Type,module,Temando_Shipping
+Name,Name,module,Temando_Shipping
+"Unique Identifier","Unique Identifier",module,Temando_Shipping
+Address,Address,module,Temando_Shipping
+Postcode,Postcode,module,Temando_Shipping
+Default,Default,module,Temando_Shipping
+"Create New Packaging","Create New Packaging",module,Temando_Shipping
+"Are you sure you want to delete selected packages?","Are you sure you want to delete selected packages?",module,Temando_Shipping
+"Delete Packages","Delete Packages",module,Temando_Shipping
+"Packaging Name","Packaging Name",module,Temando_Shipping
+"Tare Weight","Tare Weight",module,Temando_Shipping
+"Max Weight","Max Weight",module,Temando_Shipping
+"Ship Date","Ship Date",module,Temando_Shipping
+"Return From Name","Return From Name",module,Temando_Shipping
+"Return To Name","Return To Name",module,Temando_Shipping
+"Total Packages","Total Packages",module,Temando_Shipping

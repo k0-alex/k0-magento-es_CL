@@ -1,0 +1,36 @@
+"Vertex Settings","Vertex Settings",module,Vertex_Tax
+"Enable Vertex Tax Calculation","Enable Vertex Tax Calculation",module,Vertex_Tax
+"Vertex API Status","Vertex API Status",module,Vertex_Tax
+"Vertex Calculation API Url","Vertex Calculation API Url",module,Vertex_Tax
+"Vertex Address Validation API Url","Vertex Address Validation API Url",module,Vertex_Tax
+"Vertex Trusted Id","Vertex Trusted Id",module,Vertex_Tax
+"When to send invoice to Vertex","When to send invoice to Vertex",module,Vertex_Tax
+"Invoice When Order Status","Invoice When Order Status",module,Vertex_Tax
+"Vertex Company Information","Vertex Company Information",module,Vertex_Tax
+"Company Code","Company Code",module,Vertex_Tax
+"Location Code","Location Code",module,Vertex_Tax
+"Company Street Address","Company Street Address",module,Vertex_Tax
+"Company Street Address 2","Company Street Address 2",module,Vertex_Tax
+"Company City","Company City",module,Vertex_Tax
+"Company Country","Company Country",module,Vertex_Tax
+"Company State","Company State",module,Vertex_Tax
+"Company Postal Code","Company Postal Code",module,Vertex_Tax
+"Shipping Product Codes","Shipping Product Codes",module,Vertex_Tax
+"Tax Class for Shipping","Tax Class for Shipping",module,Vertex_Tax
+"Default Tax Class for Product","Default Tax Class for Product",module,Vertex_Tax
+"Default Tax Class for Customer","Default Tax Class for Customer",module,Vertex_Tax
+"Default Customer Code","Default Customer Code",module,Vertex_Tax
+"Refund Adjustments Class","Refund Adjustments Class",module,Vertex_Tax
+"Adjustment Fee Code","Adjustment Fee Code",module,Vertex_Tax
+"Adjustment Refund Code","Adjustment Refund Code",module,Vertex_Tax
+"Gift Wrap For Order Class","Gift Wrap For Order Class",module,Vertex_Tax
+"Gift Wrap For Order Code","Gift Wrap For Order Code",module,Vertex_Tax
+"Gift Wrap Class For Single Product","Gift Wrap Class For Single Product",module,Vertex_Tax
+"Gift Wrap Code Prefix For Single Product","Gift Wrap Code Prefix For Single Product",module,Vertex_Tax
+"Item Line Class For Printed Gift Card","Item Line Class For Printed Gift Card",module,Vertex_Tax
+"Item Line Code For Printed Gift Card","Item Line Code For Printed Gift Card",module,Vertex_Tax
+"Class For Reward Points Discount Line Item","Class For Reward Points Discount Line Item",module,Vertex_Tax
+"Product Code For Reward Points Discount Line Item","Product Code For Reward Points Discount Line Item",module,Vertex_Tax
+Vertex,Vertex,module,Vertex_Tax
+"Vertex tax calculation data","Vertex tax calculation data",module,Vertex_Tax
+"Vertex Customer Code","Vertex Customer Code",module,Vertex_Tax

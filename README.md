@@ -10,7 +10,7 @@ Traduction de Magento 2 Spanish Chile.
 * Magento v2.3.0 branch 2.3.0
 
 ## Links
-* Github: https://github.com/k0-alex/k0-magento-es_CL
+* Github: https://github.com/k0derz-alex/k0-magento-es_CL
 
 ## Installation
 In progress ...
