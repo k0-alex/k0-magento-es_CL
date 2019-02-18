@@ -6,7 +6,6 @@ Spanish translation for Magento 2. Translation es_CL (Spanish Chile).
 Traduction de Magento 2 Spanish Chile.
 
 ## Supported versions
-* Magento v2.1.12 branch 2.1.12
 * Magento v2.3.0 branch 2.3.0
 
 ## Links
@@ -14,4 +13,13 @@ Traduction de Magento 2 Spanish Chile.
 
 ## Installation
 In progress ...
+
+Extract command as root :
+php bin/magento i18n:collect-phrases -o "$HOME/es_CL.csv" -m  
+
+Update command as root :
+php bin/magento i18n:pack -m merge -d /root/es_CL.csv es_CL
+
+Always in the directory of Magento
+
 ## End
