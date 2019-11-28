@@ -1,40 +1,4 @@
 
-Synchronize,Synchronize,module,Magento_MediaStorage
-"Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
-Synchronizing...,Synchronizing...,module,Magento_MediaStorage
-"The timeout limit for response from synchronize process was reached.","The timeout limit for response from synchronize process was reached.",module,Magento_MediaStorage
-"The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again.",module,Magento_MediaStorage
-"File %1 is not readable","File %1 is not readable",module,Magento_MediaStorage
-"File System","File System",module,Magento_MediaStorage
-Database,Database,module,Magento_MediaStorage
-"database ""%1""","database ""%1""",module,Magento_MediaStorage
-"Parent directory does not exist: %1","Parent directory does not exist: %1",module,Magento_MediaStorage
-"File system","File system",module,Magento_MediaStorage
-"Unable to save file ""%1"" at ""%2""","Unable to save file ""%1"" at ""%2""",module,Magento_MediaStorage
-"Wrong file info format","Wrong file info format",module,Magento_MediaStorage
-"Path ""%value%"" is protected and cannot be used.","Path ""%value%"" is protected and cannot be used.",module,Magento_MediaStorage
-"Path ""%value%"" is not available and cannot be used.","Path ""%value%"" is not available and cannot be used.",module,Magento_MediaStorage
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","Path ""%value%"" may not include parent directory traversal (""../"", ""..\").",module,Magento_MediaStorage
-"Please set available and/or protected paths list(s) before validation.","Please set available and/or protected paths list(s) before validation.",module,Magento_MediaStorage
-"File with an extension ""%value%"" is protected and cannot be uploaded","File with an extension ""%value%"" is protected and cannot be uploaded",module,Magento_MediaStorage
-"Unable to create directory: %1","Unable to create directory: %1",module,Magento_MediaStorage
-"Unable to save file: %1","Unable to save file: %1",module,Magento_MediaStorage
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found",module,Magento_MediaStorage
-"Cannot resize images - product images not found","Cannot resize images - product images not found",module,Magento_MediaStorage
-"Some exception","Some exception",module,Magento_MessageQueue
-"To see product price, add this item to your cart. You can always remove it later.","To see product price, add this item to your cart. You can always remove it later.",module,Magento_Msrp
-"See price before order confirmation.","See price before order confirmation.",module,Magento_Msrp
-"On Gesture","On Gesture",module,Magento_Msrp
-"In Cart","In Cart",module,Magento_Msrp
-"Before Order Confirmation","Before Order Confirmation",module,Magento_Msrp
-"Use config","Use config",module,Magento_Msrp
-"Click for price","Click for price",module,Magento_Msrp
-"What's this?","What's this?",module,Magento_Msrp
-"Order total will be displayed before you submit the order","Order total will be displayed before you submit the order",module,Magento_Msrp
-"You will see the order total before you submit the order.","You will see the order total before you submit the order.",module,Magento_Msrp
-Price,Price,module,Magento_Msrp
-"Actual Price","Actual Price",module,Magento_Msrp
-"Add to Cart","Add to Cart",module,Magento_Msrp
 "Change Billing Address","Change Billing Address",module,Magento_Multishipping
 "Ship to Multiple Addresses","Ship to Multiple Addresses",module,Magento_Multishipping
 "Billing Information - %1","Billing Information - %1",module,Magento_Multishipping
