@@ -1,0 +1,22 @@
+"Required parameters are missing: %1","Required parameters are missing: %1",module,Magento_CustomerGraphQl
+"Customer Address %1 is set as default billing address and can not be deleted","Customer Address %1 is set as default billing address and can not be deleted",module,Magento_CustomerGraphQl
+"Customer Address %1 is set as default shipping address and can not be deleted","Customer Address %1 is set as default shipping address and can not be deleted",module,Magento_CustomerGraphQl
+"Could not find a address with ID ""%address_id""","Could not find a address with ID ""%address_id""",module,Magento_CustomerGraphQl
+"Current customer does not have permission to address with ID ""%address_id""","Current customer does not have permission to address with ID ""%address_id""",module,Magento_CustomerGraphQl
+"Customer with id ""%customer_id"" does not exist.","Customer with id ""%customer_id"" does not exist.",module,Magento_CustomerGraphQl
+"The account is locked.","The account is locked.",module,Magento_CustomerGraphQl
+"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_CustomerGraphQl
+"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_CustomerGraphQl
+"Provide the current ""password"" to change ""email"".","Provide the current ""password"" to change ""email"".",module,Magento_CustomerGraphQl
+"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_CustomerGraphQl
+"Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value.",module,Magento_CustomerGraphQl
+"Specify the ""newPassword"" value.","Specify the ""newPassword"" value.",module,Magento_CustomerGraphQl
+"""input"" value should be specified","""input"" value should be specified",module,Magento_CustomerGraphQl
+"""model"" value should be specified","""model"" value should be specified",module,Magento_CustomerGraphQl
+"Address ""id"" value should be specified","Address ""id"" value should be specified",module,Magento_CustomerGraphQl
+"Specify the ""email"" value.","Specify the ""email"" value.",module,Magento_CustomerGraphQl
+"Specify the ""password"" value.","Specify the ""password"" value.",module,Magento_CustomerGraphQl
+"Email must be specified","Email must be specified",module,Magento_CustomerGraphQl
+"Email is invalid","Email is invalid",module,Magento_CustomerGraphQl
+"Address ""id"" value must be specified","Address ""id"" value must be specified",module,Magento_CustomerGraphQl
+"""input"" value must be specified","""input"" value must be specified",module,Magento_CustomerGraphQl

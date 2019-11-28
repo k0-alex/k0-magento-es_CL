@@ -1,0 +1,7 @@
+"Required parameter ""braintree"" for ""payment_method"" is missing.","Required parameter ""braintree"" for ""payment_method"" is missing.",module,Magento_BraintreeGraphQl
+"Required parameter ""payment_method_nonce"" for ""braintree"" is missing.","Required parameter ""payment_method_nonce"" for ""braintree"" is missing.",module,Magento_BraintreeGraphQl
+"Required parameter ""is_active_payment_token_enabler"" for ""braintree"" is missing.","Required parameter ""is_active_payment_token_enabler"" for ""braintree"" is missing.",module,Magento_BraintreeGraphQl
+"Required parameter ""braintree_cc_vault"" for ""payment_method"" is missing.","Required parameter ""braintree_cc_vault"" for ""payment_method"" is missing.",module,Magento_BraintreeGraphQl
+"Required parameter ""public_hash"" for ""braintree_cc_vault"" is missing.","Required parameter ""public_hash"" for ""braintree_cc_vault"" is missing.",module,Magento_BraintreeGraphQl
+"The Braintree payment method is not active.","The Braintree payment method is not active.",module,Magento_BraintreeGraphQl
+"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_BraintreeGraphQl

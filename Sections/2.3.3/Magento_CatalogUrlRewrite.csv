@@ -1,0 +1,3 @@
+"Create Permanent Redirect for old URL","Create Permanent Redirect for old URL",module,Magento_CatalogUrlRewrite
+"Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.",module,Magento_CatalogUrlRewrite
+"Invalid URL key","Invalid URL key",module,Magento_CatalogUrlRewrite
