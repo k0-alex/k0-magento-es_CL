@@ -1,0 +1,10 @@
+"There was an error while trying to process the request.","There was an error while trying to process the request.",module,Magento_AuthorizenetAcceptjs
+"This transaction cannot be refunded with its current status.","This transaction cannot be refunded with its current status.",module,Magento_AuthorizenetAcceptjs
+"Something went wrong in the payment gateway.","Something went wrong in the payment gateway.",module,Magento_AuthorizenetAcceptjs
+"The authenticity of the gateway response could not be verified.","The authenticity of the gateway response could not be verified.",module,Magento_AuthorizenetAcceptjs
+"Authorize Only","Authorize Only",module,Magento_AuthorizenetAcceptjs
+"Authorize and Capture","Authorize and Capture",module,Magento_AuthorizenetAcceptjs
+"Credit Card Type","Credit Card Type",module,Magento_AuthorizenetAcceptjs
+"Credit Card Number","Credit Card Number",module,Magento_AuthorizenetAcceptjs
+"Expiration Date","Expiration Date",module,Magento_AuthorizenetAcceptjs
+"Card Verification Number","Card Verification Number",module,Magento_AuthorizenetAcceptjs
