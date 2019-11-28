@@ -1,0 +1,46 @@
+"Europe First Priority","Europe First Priority",module,Magento_Fedex
+"1 Day Freight","1 Day Freight",module,Magento_Fedex
+"2 Day Freight","2 Day Freight",module,Magento_Fedex
+"2 Day","2 Day",module,Magento_Fedex
+"2 Day AM","2 Day AM",module,Magento_Fedex
+"3 Day Freight","3 Day Freight",module,Magento_Fedex
+"Express Saver","Express Saver",module,Magento_Fedex
+Ground,Ground,module,Magento_Fedex
+"First Overnight","First Overnight",module,Magento_Fedex
+"Home Delivery","Home Delivery",module,Magento_Fedex
+"International Economy","International Economy",module,Magento_Fedex
+"Intl Economy Freight","Intl Economy Freight",module,Magento_Fedex
+"International First","International First",module,Magento_Fedex
+"International Ground","International Ground",module,Magento_Fedex
+"International Priority","International Priority",module,Magento_Fedex
+"Intl Priority Freight","Intl Priority Freight",module,Magento_Fedex
+"Priority Overnight","Priority Overnight",module,Magento_Fedex
+"Smart Post","Smart Post",module,Magento_Fedex
+"Standard Overnight","Standard Overnight",module,Magento_Fedex
+Freight,Freight,module,Magento_Fedex
+"National Freight","National Freight",module,Magento_Fedex
+"Regular Pickup","Regular Pickup",module,Magento_Fedex
+"Request Courier","Request Courier",module,Magento_Fedex
+"Drop Box","Drop Box",module,Magento_Fedex
+"Business Service Center","Business Service Center",module,Magento_Fedex
+Station,Station,module,Magento_Fedex
+"FedEx Envelope","FedEx Envelope",module,Magento_Fedex
+"FedEx Pak","FedEx Pak",module,Magento_Fedex
+"FedEx Box","FedEx Box",module,Magento_Fedex
+"FedEx Tube","FedEx Tube",module,Magento_Fedex
+"FedEx 10kg Box","FedEx 10kg Box",module,Magento_Fedex
+"FedEx 25kg Box","FedEx 25kg Box",module,Magento_Fedex
+"Your Packaging","Your Packaging",module,Magento_Fedex
+"Not Required","Not Required",module,Magento_Fedex
+Adult,Adult,module,Magento_Fedex
+Direct,Direct,module,Magento_Fedex
+Indirect,Indirect,module,Magento_Fedex
+Pounds,Pounds,module,Magento_Fedex
+Kilograms,Kilograms,module,Magento_Fedex
+"Invalid response from carrier","Invalid response from carrier",module,Magento_Fedex
+"No available tracking items","No available tracking items",module,Magento_Fedex
+"For some reason we can't retrieve tracking info right now.","For some reason we can't retrieve tracking info right now.",module,Magento_Fedex
+status,status,module,Magento_Fedex
+"Empty response","Empty response",module,Magento_Fedex
+None,None,module,Magento_Fedex
+"Expected Delivery:","Expected Delivery:",module,Magento_Fedex

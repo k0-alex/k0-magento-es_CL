@@ -1,0 +1,11 @@
+"Your order number is: %1.","Your order number is: %1.",module,Magento_InstantPurchase
+"Something went wrong while processing your order. Please try again later.","Something went wrong while processing your order. Please try again later.",module,Magento_InstantPurchase
+"A payment method isn't defined for instance purchase. Verify and try again.","A payment method isn't defined for instance purchase. Verify and try again.",module,Magento_InstantPurchase
+"Shipping address is not defined for instance purchase.","Shipping address is not defined for instance purchase.",module,Magento_InstantPurchase
+"Billing address is not defined for instance purchase.","Billing address is not defined for instance purchase.",module,Magento_InstantPurchase
+"Shipping method is not defined for instance purchase.","Shipping method is not defined for instance purchase.",module,Magento_InstantPurchase
+"Specified payment method is not available now.","Specified payment method is not available now.",module,Magento_InstantPurchase
+"Specified shipping method is not available.","Specified shipping method is not available.",module,Magento_InstantPurchase
+"Appropriate shipping method is not available.","Appropriate shipping method is not available.",module,Magento_InstantPurchase
+"Cheapest price","Cheapest price",module,Magento_InstantPurchase
+"Instant purchase integration not available for token.","Instant purchase integration not available for token.",module,Magento_InstantPurchase
