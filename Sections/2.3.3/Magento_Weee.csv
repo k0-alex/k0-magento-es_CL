@@ -1,6 +1,6 @@
-"Add Tax","Add Tax",module,Magento_Weee
-"Delete Tax","Delete Tax",module,Magento_Weee
-"All Websites","All Websites",module,Magento_Weee
+"Add Tax","Agregar Impuesto",module,Magento_Weee
+"Delete Tax","Quitar Impuesto",module,Magento_Weee
+"All Websites","Todos los Sitios",module,Magento_Weee
 FPT,FPT,module,Magento_Weee
 "Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.",module,Magento_Weee
 "Including FPT only","Including FPT only",module,Magento_Weee

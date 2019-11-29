@@ -1,5 +1,5 @@
-Username,Username,module,MSP_TwoFactorAuth
-"Provider code","Provider code",module,MSP_TwoFactorAuth
+Username,Usuario,module,MSP_TwoFactorAuth
+"Provider code","Código proveedor",module,MSP_TwoFactorAuth
 "Unknown user %1","Unknown user %1",module,MSP_TwoFactorAuth
 "Provider %1 has been reset for user %2","Provider %1 has been reset for user %2",module,MSP_TwoFactorAuth
 "Internal error accessing 2FA index page","Internal error accessing 2FA index page",module,MSP_TwoFactorAuth

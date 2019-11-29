@@ -1,6 +1,6 @@
-Back,Back,module,Magento_User
-Reset,Reset,module,Magento_User
-"Delete Role","Delete Role",module,Magento_User
+Back,Atras,module,Magento_User
+Reset,Reiniciar,module,Magento_User
+"Delete Role","Elimina Role",module,Magento_User
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_User
 "Save Role","Save Role",module,Magento_User
 Roles,Roles,module,Magento_User

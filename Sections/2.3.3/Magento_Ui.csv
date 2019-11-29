@@ -16,10 +16,10 @@
 "The bookmark with ""%1"" ID doesn't exist. Verify your information and try again.","The bookmark with ""%1"" ID doesn't exist. Verify your information and try again.",module,Magento_Ui
 URL,URL,module,Magento_Ui
 "The """" UI component element name is invalid. Verify the name and try again.","The """" UI component element name is invalid. Verify the name and try again.",module,Magento_Ui
-Select,Select,module,Magento_Ui
+Select,Seleccion,module,Magento_Ui
 Cancel,Cancel,module,Magento_Ui
-Back,Back,module,Magento_Ui
-Next,Next,module,Magento_Ui
+Back,Atras,module,Magento_Ui
+Next,Siguiente,module,Magento_Ui
 "This element contains invalid data. Please resolve this before saving.","This element contains invalid data. Please resolve this before saving.",module,Magento_Ui
 "Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Ui
 "This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui

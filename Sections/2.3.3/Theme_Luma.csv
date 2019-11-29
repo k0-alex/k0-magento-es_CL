@@ -1,17 +1,17 @@
 "Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
-Previous,Previo,theme,frontend/Magento/luma
+Previous,Anterior,theme,frontend/Magento/luma
 Remove,Eliminar,theme,frontend/Magento/luma
 "Remove This Item","Eliminar este Articulo",theme,frontend/Magento/luma
 "Shop By","Comprar Por",theme,frontend/Magento/luma
 "Clear All","Limpiar Todo",theme,frontend/Magento/luma
 "Shopping Options","Shopping Options",theme,frontend/Magento/luma
 "My Account","Mi Cuenta",theme,frontend/Magento/luma
-"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"Welcome to %store_name","Bienvenido a %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Magento/luma
-Email:,Email:,theme,frontend/Magento/luma
-Password:,Password:,theme,frontend/Magento/luma
+Email:,Correo:,theme,frontend/Magento/luma
+Password:,Clave:,theme,frontend/Magento/luma
 "Password you set when creating account","Password you set when creating account",theme,frontend/Magento/luma
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
@@ -24,7 +24,7 @@ Password:,Password:,theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
 "Order History","Order History",theme,frontend/Magento/luma
 "View past orders","View past orders",theme,frontend/Magento/luma
-Footer,Footer,theme,frontend/Magento/luma
+Footer,Pie,theme,frontend/Magento/luma
 "<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
 "<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
