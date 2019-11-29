@@ -55,3 +55,6 @@ Template,Template,module,Magento_Email
 "Are you sure you want to strip tags?","Are you sure you want to strip tags?",module,Magento_Email
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Email
 "The template did not load. Please review the log for details.","The template did not load. Please review the log for details.",module,Magento_Email
+Footer,Footer,module,Magento_Email
+"Thank you, %store_name","Thank you, %store_name",module,Magento_Email
+Header,Header,module,Magento_Email

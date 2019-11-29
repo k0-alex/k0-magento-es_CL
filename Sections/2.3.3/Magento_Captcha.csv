@@ -8,3 +8,4 @@ Always,Always,module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Captcha
 "Reload captcha","Reload captcha",module,Magento_Captcha
 "Please type the letters and numbers below","Please type the letters and numbers below",module,Magento_Captcha
+"Attention: Captcha is case sensitive.","Attention: Captcha is case sensitive.",module,Magento_Captcha

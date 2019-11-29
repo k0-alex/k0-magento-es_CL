@@ -104,3 +104,10 @@ Paused,Paused,module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
 "Enter your email address","Enter your email address",module,Magento_Newsletter
 Subscribe,Subscribe,module,Magento_Newsletter
+"Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
+"Thank you for subscribing to our newsletter.","Thank you for subscribing to our newsletter.",module,Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",module,Magento_Newsletter
+"Newsletter subscription success","Newsletter subscription success",module,Magento_Newsletter
+"You have been successfully subscribed to our newsletter.","You have been successfully subscribed to our newsletter.",module,Magento_Newsletter
+"Newsletter unsubscription success","Newsletter unsubscription success",module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter.",module,Magento_Newsletter

@@ -6,3 +6,4 @@
 "Purchase Order Number: %1","Purchase Order Number: %1",module,Magento_OfflinePayments
 "Make Check payable to","Make Check payable to",module,Magento_OfflinePayments
 "Send Check to","Send Check to",module,Magento_OfflinePayments
+"Place Order","Place Order",module,Magento_OfflinePayments

@@ -51,3 +51,6 @@ Visa,Visa,module,Magento_Payment
 "Card Verification Number Visual Reference","Card Verification Number Visual Reference",module,Magento_Payment
 "What is this?","What is this?",module,Magento_Payment
 "Credit Card Information","Credit Card Information",module,Magento_Payment
+"Place Order","Place Order",module,Magento_Payment
+"Forgot an Item?","Forgot an Item?",module,Magento_Payment
+"Edit Your Cart","Edit Your Cart",module,Magento_Payment

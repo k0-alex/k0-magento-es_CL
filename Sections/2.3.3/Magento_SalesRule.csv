@@ -132,3 +132,7 @@ Inactive,Inactive,module,Magento_SalesRule
 "Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 coupon(s) have been generated.",module,Magento_SalesRule
+"Apply Discount Code","Apply Discount Code",module,Magento_SalesRule
+"Enter discount code","Enter discount code",module,Magento_SalesRule
+"Apply Discount","Apply Discount",module,Magento_SalesRule
+"Cancel coupon","Cancel coupon",module,Magento_SalesRule

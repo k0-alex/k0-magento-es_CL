@@ -28,3 +28,19 @@
 "Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.","Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.",module,Amazon_Payment
 "If you created this account using Amazon Pay, you might not know your site password.","If you created this account using Amazon Pay, you might not know your site password.",module,Amazon_Payment
 "Request a password to change your account password.","Request a password to change your account password.",module,Amazon_Payment
+"Valued customer","Valued customer",module,Amazon_Payment
+"Unfortunately Amazon Pay declined the payment for your order in our online shop %storeName. Please contact us.","Unfortunately Amazon Pay declined the payment for your order in our online shop %storeName. Please contact us.",module,Amazon_Payment
+"Kind regards","Kind regards",module,Amazon_Payment
+"Thank you very much for your order at %storeName","Thank you very much for your order at %storeName",module,Amazon_Payment
+"Amazon Pay was not able to process your payment","Amazon Pay was not able to process your payment",module,Amazon_Payment
+"Please go to <a href=""%amazonAccountUrl"">%amazonAccountUrl</a> and update the payment information for your order","Please go to <a href=""%amazonAccountUrl"">%amazonAccountUrl</a> and update the payment information for your order",module,Amazon_Payment
+"Afterwards we will automatically request payment again from Amazon Pay and you will receive a confirmation email","Afterwards we will automatically request payment again from Amazon Pay and you will receive a confirmation email",module,Amazon_Payment
+"Return to standard checkout","Return to standard checkout",module,Amazon_Payment
+"Simulate Payment Scenarios","Simulate Payment Scenarios",module,Amazon_Payment
+"Email Address","Email Address",module,Amazon_Payment
+"You can create an account after checkout.","You can create an account after checkout.",module,Amazon_Payment
+Password,Password,module,Amazon_Payment
+"You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Amazon_Payment
+Login,Login,module,Amazon_Payment
+"Forgot Your Password?","Forgot Your Password?",module,Amazon_Payment
+"Place Order","Place Order",module,Amazon_Payment

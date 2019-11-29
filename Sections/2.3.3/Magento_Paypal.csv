@@ -433,3 +433,6 @@ Continue,Continue,module,Magento_Paypal
 "Acceptance Mark","Acceptance Mark",module,Magento_Paypal
 "What is PayPal?","What is PayPal?",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases with PayPal.","Sign a billing agreement to streamline further purchases with PayPal.",module,Magento_Paypal
+"Continue to PayPal","Continue to PayPal",module,Magento_Paypal
+"Save credit card information for future use.","Save credit card information for future use.",module,Magento_Paypal

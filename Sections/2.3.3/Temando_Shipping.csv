@@ -1,0 +1,365 @@
+Dispatches,Dispatches,module,Temando_Shipping
+dispatches,dispatches,module,Temando_Shipping
+Packaging,Packaging,module,Temando_Shipping
+"packaging types","packaging types",module,Temando_Shipping
+Returns,Returns,module,Temando_Shipping
+"RMA shipments","RMA shipments",module,Temando_Shipping
+Batches,Batches,module,Temando_Shipping
+batches,batches,module,Temando_Shipping
+"Advanced Settings","Advanced Settings",module,Temando_Shipping
+"advanced settings","advanced settings",module,Temando_Shipping
+"Checkout View Settings","Checkout View Settings",module,Temando_Shipping
+"checkout options","checkout options",module,Temando_Shipping
+"Product Attribute Mapping","Product Attribute Mapping",module,Temando_Shipping
+"attribute mappings","attribute mappings",module,Temando_Shipping
+"Magento Shipping","Magento Shipping",module,Temando_Shipping
+Back,Back,module,Temando_Shipping
+Save,Save,module,Temando_Shipping
+"Entities to sync","Entities to sync",module,Temando_Shipping
+Shipment,Shipment,module,Temando_Shipping
+"Enable sync","Enable sync",module,Temando_Shipping
+"Save Mapping","Save Mapping",module,Temando_Shipping
+"Print All Packing Slips","Print All Packing Slips",module,Temando_Shipping
+"Cancel Pickup","Cancel Pickup",module,Temando_Shipping
+"Mark as Picked Up","Mark as Picked Up",module,Temando_Shipping
+Print,Print,module,Temando_Shipping
+"Are you sure you want to cancel this shipment?","Are you sure you want to cancel this shipment?",module,Temando_Shipping
+"Cancel Shipment","Cancel Shipment",module,Temando_Shipping
+"Return Shipments","Return Shipments",module,Temando_Shipping
+"Dispatch Shipment","Dispatch Shipment",module,Temando_Shipping
+Pickups,Pickups,module,Temando_Shipping
+"Prepare for Pickup","Prepare for Pickup",module,Temando_Shipping
+Configure,Configure,module,Temando_Shipping
+"Unable to save product attribute mapping.","Unable to save product attribute mapping.",module,Temando_Shipping
+"Could not save product attribute mapping, invalid node path.","Could not save product attribute mapping, invalid node path.",module,Temando_Shipping
+"Could not save product attribute mapping for attribute %1. %2","Could not save product attribute mapping for attribute %1. %2",module,Temando_Shipping
+"Product attribute mappings saved.","Product attribute mappings saved.",module,Temando_Shipping
+"Create New Batch","Create New Batch",module,Temando_Shipping
+"There are no printable documents in this batch.","There are no printable documents in this batch.",module,Temando_Shipping
+"An error occurred while creating the packing slips.","An error occurred while creating the packing slips.",module,Temando_Shipping
+"Find Solutions","Find Solutions",module,Temando_Shipping
+"There are shipments in this batch that are still being created. Please check back soon to view these shipments.","There are shipments in this batch that are still being created. Please check back soon to view these shipments.",module,Temando_Shipping
+"Container ID missing.","Container ID missing.",module,Temando_Shipping
+"Container was deleted successfully.","Container was deleted successfully.",module,Temando_Shipping
+"An error occurred while deleting the container: %1","An error occurred while deleting the container: %1",module,Temando_Shipping
+"Edit Package","Edit Package",module,Temando_Shipping
+"Package %1 cannot be deleted: %2","Package %1 cannot be deleted: %2",module,Temando_Shipping
+"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Temando_Shipping
+"An error occurred while deleting packages.","An error occurred while deleting packages.",module,Temando_Shipping
+"Please see the log files for more detailed information.","Please see the log files for more detailed information.",module,Temando_Shipping
+"Add a Package","Add a Package",module,Temando_Shipping
+"Temando Shipping is not properly configured. Please register an account.","Temando Shipping is not properly configured. Please register an account.",module,Temando_Shipping
+"Create New Dispatch","Create New Dispatch",module,Temando_Shipping
+"Pickup ""%1"" does not exist.","Pickup ""%1"" does not exist.",module,Temando_Shipping
+"There are no packing slips related to selected pickups.","There are no packing slips related to selected pickups.",module,Temando_Shipping
+"There was an error creating package slip pdf.","There was an error creating package slip pdf.",module,Temando_Shipping
+"Create Return Shipment","Create Return Shipment",module,Temando_Shipping
+"Shipment '%1' not found.","Shipment '%1' not found.",module,Temando_Shipping
+"Dispatch Return Shipment","Dispatch Return Shipment",module,Temando_Shipping
+"Tracking Information","Tracking Information",module,Temando_Shipping
+"Return Shipment","Return Shipment",module,Temando_Shipping
+Configuration,Configuration,module,Temando_Shipping
+"Settings saved successfully, stream created.","Settings saved successfully, stream created.",module,Temando_Shipping
+"Settings saved successfully.","Settings saved successfully.",module,Temando_Shipping
+"Settings saved successfully, stream removed.","Settings saved successfully, stream removed.",module,Temando_Shipping
+"Shipment was successfully cancelled.","Shipment was successfully cancelled.",module,Temando_Shipping
+"Unable to load shipping address for specified quote.","Unable to load shipping address for specified quote.",module,Temando_Shipping
+"Unable to save search parameters.","Unable to save search parameters.",module,Temando_Shipping
+"Unable to delete search parameters.","Unable to delete search parameters.",module,Temando_Shipping
+"No items to ship found in rates request.","No items to ship found in rates request.",module,Temando_Shipping
+"Unable to delete collection points.","Unable to delete collection points.",module,Temando_Shipping
+"Unable to select collection point.","Unable to select collection point.",module,Temando_Shipping
+"Please set API credentials before enabling Magento Shipping.","Please set API credentials before enabling Magento Shipping.",module,Temando_Shipping
+"Please enter a valid URL. Protocol (http://, https://) is required.","Please enter a valid URL. Protocol (http://, https://) is required.",module,Temando_Shipping
+"Magento Shipping authentication failed. Please check your credentials.","Magento Shipping authentication failed. Please check your credentials.",module,Temando_Shipping
+"No store found for scope ID %1","No store found for scope ID %1",module,Temando_Shipping
+description,description,module,Temando_Shipping
+"Unable to select pickup location.","Unable to select pickup location.",module,Temando_Shipping
+"Attribute %1 does not exist for mapping to %2","Attribute %1 does not exist for mapping to %2",module,Temando_Shipping
+"Cannot map attribute %1 due to attribute type %2","Cannot map attribute %1 due to attribute type %2",module,Temando_Shipping
+"Direct barcode output is not supported.","Direct barcode output is not supported.",module,Temando_Shipping
+Products,Products,module,Temando_Shipping
+Qty,Qty,module,Temando_Shipping
+SKU,SKU,module,Temando_Shipping
+"We found an invalid renderer model.","We found an invalid renderer model.",module,Temando_Shipping
+"Pickup # ","Pickup # ",module,Temando_Shipping
+"Product attribute mapping for node path ""%1"" does not exist.","Product attribute mapping for node path ""%1"" does not exist.",module,Temando_Shipping
+"%1 is already mapped to another shipping attribute.","%1 is already mapped to another shipping attribute.",module,Temando_Shipping
+"Unable to create attribute mapping.","Unable to create attribute mapping.",module,Temando_Shipping
+"Error saving product attribute mapping.","Error saving product attribute mapping.",module,Temando_Shipping
+"An error occurred while loading data.","An error occurred while loading data.",module,Temando_Shipping
+"Address with id ""%1"" does not exist.","Address with id ""%1"" does not exist.",module,Temando_Shipping
+"Unable to save shipping services.","Unable to save shipping services.",module,Temando_Shipping
+"Shipping services for address ""%1"" could not be deleted.","Shipping services for address ""%1"" could not be deleted.",module,Temando_Shipping
+"Search request for address id ""%1"" does not exist.","Search request for address id ""%1"" does not exist.",module,Temando_Shipping
+"Search request for address id ""%1"" could not be deleted.","Search request for address id ""%1"" could not be deleted.",module,Temando_Shipping
+"Collection point with id ""%1"" does not exist.","Collection point with id ""%1"" does not exist.",module,Temando_Shipping
+"Unable to save collection point.","Unable to save collection point.",module,Temando_Shipping
+"Pickup location with id ""%1"" does not exist.","Pickup location with id ""%1"" does not exist.",module,Temando_Shipping
+"Unable to save pickup location.","Unable to save pickup location.",module,Temando_Shipping
+"Unable to delete pickup locations.","Unable to delete pickup locations.",module,Temando_Shipping
+"Selected collection point for address id ""%1"" does not exist.","Selected collection point for address id ""%1"" does not exist.",module,Temando_Shipping
+"Unable to delete collection point.","Unable to delete collection point.",module,Temando_Shipping
+"Selected pickup location for address id ""%1"" does not exist.","Selected pickup location for address id ""%1"" does not exist.",module,Temando_Shipping
+"Unable to delete pickup location.","Unable to delete pickup location.",module,Temando_Shipping
+"Unable to load stream events.","Unable to load stream events.",module,Temando_Shipping
+"Unable to delete stream event.","Unable to delete stream event.",module,Temando_Shipping
+"Unable to save event stream.","Unable to save event stream.",module,Temando_Shipping
+"Unable to delete event stream.","Unable to delete event stream.",module,Temando_Shipping
+"Unable to qualify order.","Unable to qualify order.",module,Temando_Shipping
+"Unable to update order.","Unable to update order.",module,Temando_Shipping
+"Order with id ""%1"" does not exist.","Order with id ""%1"" does not exist.",module,Temando_Shipping
+"Unable to save order.","Unable to save order.",module,Temando_Shipping
+"Unable to allocate shipments.","Unable to allocate shipments.",module,Temando_Shipping
+"Unable to save order reference.","Unable to save order reference.",module,Temando_Shipping
+"Order reference to ""%1"" does not exist.","Order reference to ""%1"" does not exist.",module,Temando_Shipping
+"Unable to delete packaging.","Unable to delete packaging.",module,Temando_Shipping
+"Unable to save pickup.","Unable to save pickup.",module,Temando_Shipping
+"Unable to assign shipments.","Unable to assign shipments.",module,Temando_Shipping
+"Unable to remove shipment assignments.","Unable to remove shipment assignments.",module,Temando_Shipping
+"Unable to save shipment reference.","Unable to save shipment reference.",module,Temando_Shipping
+"Shipment with id ""%1"" does not exist.","Shipment with id ""%1"" does not exist.",module,Temando_Shipping
+"Unable to cancel shipment: %1.","Unable to cancel shipment: %1.",module,Temando_Shipping
+"RMA is not available","RMA is not available",module,Temando_Shipping
+"The shipment cancellation email was sent.","The shipment cancellation email was sent.",module,Temando_Shipping
+"The shipment cancellation email was not sent.","The shipment cancellation email was not sent.",module,Temando_Shipping
+"An error occurred during email sending.","An error occurred during email sending.",module,Temando_Shipping
+"-- Please Select --","-- Please Select --",module,Temando_Shipping
+None,None,module,Temando_Shipping
+Pre-packaged,Pre-packaged,module,Temando_Shipping
+Assigned,Assigned,module,Temando_Shipping
+"Please do not use different configurations for the same address.","Please do not use different configurations for the same address.",module,Temando_Shipping
+"View Return Shipment","View Return Shipment",module,Temando_Shipping
+"Filter field %1 is not supported by the API.","Filter field %1 is not supported by the API.",module,Temando_Shipping
+"No applicable shipping cost found in webservice response.","No applicable shipping cost found in webservice response.",module,Temando_Shipping
+"No applicable shipping cost found.","No applicable shipping cost found.",module,Temando_Shipping
+"Filter condition %1 is not supported by the API.","Filter condition %1 is not supported by the API.",module,Temando_Shipping
+"Entity type '%1' cannot be processed.","Entity type '%1' cannot be processed.",module,Temando_Shipping
+"The '%1' operation is not supported for '%2' entities.","The '%1' operation is not supported for '%2' entities.",module,Temando_Shipping
+"The '%1' operation was skipped for %2 %3%4","The '%1' operation was skipped for %2 %3%4",module,Temando_Shipping
+"Entity '%1' of type '%2' could not be processed.","Entity '%1' of type '%2' could not be processed.",module,Temando_Shipping
+Foo,Foo,module,Temando_Shipping
+"Not found.","Not found.",module,Temando_Shipping
+Reload,Reload,module,Temando_Shipping
+View,View,module,Temando_Shipping
+Edit,Edit,module,Temando_Shipping
+Delete,Delete,module,Temando_Shipping
+"Delete ""${ $.$data.name }""","Delete ""${ $.$data.name }""",module,Temando_Shipping
+"Are you sure you want to delete the package ""${ $.$data.name }""?","Are you sure you want to delete the package ""${ $.$data.name }""?",module,Temando_Shipping
+"Pickup Requested","Pickup Requested",module,Temando_Shipping
+"Ready for Pickup","Ready for Pickup",module,Temando_Shipping
+"Picked Up","Picked Up",module,Temando_Shipping
+Cancelled,Cancelled,module,Temando_Shipping
+Remove,Remove,module,Temando_Shipping
+Add,Add,module,Temando_Shipping
+Shipping,Shipping,module,Temando_Shipping
+"Collection Point","Collection Point",module,Temando_Shipping
+"Pickup Location","Pickup Location",module,Temando_Shipping
+" [deleted]"," [deleted]",module,Temando_Shipping
+"Order has no payment information","Order has no payment information",module,Temando_Shipping
+"To add and manage %1 first <a href=""%2"">Activate Magento Shipping</a>","To add and manage %1 first <a href=""%2"">Activate Magento Shipping</a>",module,Temando_Shipping
+"General Attributes","General Attributes",module,Temando_Shipping
+"Match the Magento shipping attributes with your Magento product attributes","Match the Magento shipping attributes with your Magento product attributes",module,Temando_Shipping
+"%1 Shipments(s) failed to book in this Batch","%1 Shipments(s) failed to book in this Batch",module,Temando_Shipping
+"Steps to find a solution","Steps to find a solution",module,Temando_Shipping
+"Review the errors, address them where possible and attempt to re-process the Order/s.","Review the errors, address them where possible and attempt to re-process the Order/s.",module,Temando_Shipping
+"If the error is related to the carrier in question, please contact the carrier directly.","If the error is related to the carrier in question, please contact the carrier directly.",module,Temando_Shipping
+"Contact Magento Shipping Support","Contact Magento Shipping Support",module,Temando_Shipping
+"Magento Order ID","Magento Order ID",module,Temando_Shipping
+"Destination Address","Destination Address",module,Temando_Shipping
+Reason,Reason,module,Temando_Shipping
+Action,Action,module,Temando_Shipping
+"View Order","View Order",module,Temando_Shipping
+"Batch Information","Batch Information",module,Temando_Shipping
+"Date Created","Date Created",module,Temando_Shipping
+"Number of Shipments booked successfully","Number of Shipments booked successfully",module,Temando_Shipping
+"Number of Shipments failed to book","Number of Shipments failed to book",module,Temando_Shipping
+"Date Updated","Date Updated",module,Temando_Shipping
+Batch-id,Batch-id,module,Temando_Shipping
+"Batch Status","Batch Status",module,Temando_Shipping
+Documentation,Documentation,module,Temando_Shipping
+"Shipping labels for each shipment are consolidated into a single compressed file","Shipping labels for each shipment are consolidated into a single compressed file",module,Temando_Shipping
+"Download Documentation","Download Documentation",module,Temando_Shipping
+"Documentation is not available.","Documentation is not available.",module,Temando_Shipping
+"Items Ordered","Items Ordered",module,Temando_Shipping
+"Choose entities to sync into Magento created by other systems in your stack (e.g. WMS)","Choose entities to sync into Magento created by other systems in your stack (e.g. WMS)",module,Temando_Shipping
+Yes,Yes,module,Temando_Shipping
+No,No,module,Temando_Shipping
+"Pickup Rates","Pickup Rates",module,Temando_Shipping
+"%1 Shipment(s) were not included in this dispatch","%1 Shipment(s) were not included in this dispatch",module,Temando_Shipping
+"Review the errors below. If there is an issue which can be resolved with the carrier, please contact them directly.","Review the errors below. If there is an issue which can be resolved with the carrier, please contact them directly.",module,Temando_Shipping
+"Try <a href=""%1"">Create Dispatch</a> with the same Carrier and Location to re-attempt to dispatch these.","Try <a href=""%1"">Create Dispatch</a> with the same Carrier and Location to re-attempt to dispatch these.",module,Temando_Shipping
+"Magento Shipping ID","Magento Shipping ID",module,Temando_Shipping
+"View Shipment","View Shipment",module,Temando_Shipping
+"Dispatch Information","Dispatch Information",module,Temando_Shipping
+"Carrier Name","Carrier Name",module,Temando_Shipping
+"Ready At","Ready At",module,Temando_Shipping
+"Number of included shipments","Number of included shipments",module,Temando_Shipping
+"Number of failed shipments","Number of failed shipments",module,Temando_Shipping
+"Pickup Request No.","Pickup Request No.",module,Temando_Shipping
+"Address Information","Address Information",module,Temando_Shipping
+"Shipping Address","Shipping Address",module,Temando_Shipping
+"Recipient Address","Recipient Address",module,Temando_Shipping
+"Account Information","Account Information",module,Temando_Shipping
+"Edit Customer","Edit Customer",module,Temando_Shipping
+"Customer Name","Customer Name",module,Temando_Shipping
+Email,Email,module,Temando_Shipping
+"Customer Group","Customer Group",module,Temando_Shipping
+"Order # %1","Order # %1",module,Temando_Shipping
+"Order Date","Order Date",module,Temando_Shipping
+"Order Date (%1)","Order Date (%1)",module,Temando_Shipping
+"Order Status","Order Status",module,Temando_Shipping
+"Order ID","Order ID",module,Temando_Shipping
+"Purchased From","Purchased From",module,Temando_Shipping
+"Magento Shipping Order ID","Magento Shipping Order ID",module,Temando_Shipping
+"Pickup ID","Pickup ID",module,Temando_Shipping
+"Pickup State","Pickup State",module,Temando_Shipping
+"Ready Date","Ready Date",module,Temando_Shipping
+Description,Description,module,Temando_Shipping
+Sku,Sku,module,Temando_Shipping
+Weight,Weight,module,Temando_Shipping
+"Qty Ordered","Qty Ordered",module,Temando_Shipping
+"Qty Fulfilled","Qty Fulfilled",module,Temando_Shipping
+"Qty Prepared","Qty Prepared",module,Temando_Shipping
+"Qty Packed","Qty Packed",module,Temando_Shipping
+Items,Items,module,Temando_Shipping
+"Payment &amp; Shipping Method","Payment &amp; Shipping Method",module,Temando_Shipping
+"Payment Information","Payment Information",module,Temando_Shipping
+"The order was placed using %1.","The order was placed using %1.",module,Temando_Shipping
+"Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Temando_Shipping
+"Total Shipping Charges","Total Shipping Charges",module,Temando_Shipping
+"Incl. Tax","Incl. Tax",module,Temando_Shipping
+"No shipping information available","No shipping information available",module,Temando_Shipping
+"This is alternative method of producing a shipping label that will not use Magento Shipping.","This is alternative method of producing a shipping label that will not use Magento Shipping.",module,Temando_Shipping
+"Return From Address","Return From Address",module,Temando_Shipping
+"Return To Location","Return To Location",module,Temando_Shipping
+"Magento Shipping Return Shipment ID","Magento Shipping Return Shipment ID",module,Temando_Shipping
+"RMA # %1","RMA # %1",module,Temando_Shipping
+"RMA Date","RMA Date",module,Temando_Shipping
+"RMA Status","RMA Status",module,Temando_Shipping
+Product,Product,module,Temando_Shipping
+"Qty Shipped","Qty Shipped",module,Temando_Shipping
+"No additional customer payment is applicable for this return shipment","No additional customer payment is applicable for this return shipment",module,Temando_Shipping
+"Shipping and Tracking Information","Shipping and Tracking Information",module,Temando_Shipping
+"Track this shipment","Track this shipment",module,Temando_Shipping
+Carrier,Carrier,module,Temando_Shipping
+Title,Title,module,Temando_Shipping
+Number,Number,module,Temando_Shipping
+"Return Shipment Tracking","Return Shipment Tracking",module,Temando_Shipping
+"Tracking Number","Tracking Number",module,Temando_Shipping
+"Tracking URL","Tracking URL",module,Temando_Shipping
+"Close Window","Close Window",module,Temando_Shipping
+"Order & Account Information","Order & Account Information",module,Temando_Shipping
+"The order confirmation email was sent","The order confirmation email was sent",module,Temando_Shipping
+"The order confirmation email is not sent","The order confirmation email is not sent",module,Temando_Shipping
+"Link to the New Order","Link to the New Order",module,Temando_Shipping
+"Link to the Previous Order","Link to the Previous Order",module,Temando_Shipping
+"Placed from IP","Placed from IP",module,Temando_Shipping
+"%1 / %2 rate:","%1 / %2 rate:",module,Temando_Shipping
+"Magento Shipping Shipment ID","Magento Shipping Shipment ID",module,Temando_Shipping
+"Shipment Reference","Shipment Reference",module,Temando_Shipping
+"Shipment Status","Shipment Status",module,Temando_Shipping
+"Billing Address","Billing Address",module,Temando_Shipping
+"Origin Location","Origin Location",module,Temando_Shipping
+"Order Type","Order Type",module,Temando_Shipping
+Pickup,Pickup,module,Temando_Shipping
+"Paperless Shipment - Customs documentation has been submitted electronically and is not required to be physically attached to the shipment.","Paperless Shipment - Customs documentation has been submitted electronically and is not required to be physically attached to the shipment.",module,Temando_Shipping
+"Document Name","Document Name",module,Temando_Shipping
+Size,Size,module,Temando_Shipping
+"File Type","File Type",module,Temando_Shipping
+Download,Download,module,Temando_Shipping
+"HS Code","HS Code",module,Temando_Shipping
+"Country of Manufacture","Country of Manufacture",module,Temando_Shipping
+"Country of Origin","Country of Origin",module,Temando_Shipping
+"Declared value","Declared value",module,Temando_Shipping
+"Item details are not available for this shipment.","Item details are not available for this shipment.",module,Temando_Shipping
+Packages,Packages,module,Temando_Shipping
+Length,Length,module,Temando_Shipping
+Width,Width,module,Temando_Shipping
+Height,Height,module,Temando_Shipping
+Contents:,Contents:,module,Temando_Shipping
+"No Description","No Description",module,Temando_Shipping
+"No packages found.","No packages found.",module,Temando_Shipping
+"Items Shipped","Items Shipped",module,Temando_Shipping
+"Order Total","Order Total",module,Temando_Shipping
+"Shipment History","Shipment History",module,Temando_Shipping
+"Address Type","Address Type",module,Temando_Shipping
+"Adult Signature Required","Adult Signature Required",module,Temando_Shipping
+"Unattended Delivery","Unattended Delivery",module,Temando_Shipping
+"Collection Point Delivery","Collection Point Delivery",module,Temando_Shipping
+"Delivery Availability Requested","Delivery Availability Requested",module,Temando_Shipping
+"Direct Delivery Only","Direct Delivery Only",module,Temando_Shipping
+"Signature Required","Signature Required",module,Temando_Shipping
+Add-Ons,Add-Ons,module,Temando_Shipping
+"International Shipment Details","International Shipment Details",module,Temando_Shipping
+"Signatory Title","Signatory Title",module,Temando_Shipping
+"Signatory First Name","Signatory First Name",module,Temando_Shipping
+"Signatory Last Name","Signatory Last Name",module,Temando_Shipping
+"International Commercial Terms (Incoterm)","International Commercial Terms (Incoterm)",module,Temando_Shipping
+"Export Reason","Export Reason",module,Temando_Shipping
+"Export Category","Export Category",module,Temando_Shipping
+"Dutiable Shipment","Dutiable Shipment",module,Temando_Shipping
+EDN,EDN,module,Temando_Shipping
+EEL,EEL,module,Temando_Shipping
+EEI,EEI,module,Temando_Shipping
+ITN,ITN,module,Temando_Shipping
+"Access the Magento Shipping Portal here","Access the Magento Shipping Portal here",module,Temando_Shipping
+"Request Shipping Account","Request Shipping Account",module,Temando_Shipping
+"Once you have activated Magento Shipping, configure these sections to get up and running:","Once you have activated Magento Shipping, configure these sections to get up and running:",module,Temando_Shipping
+Locations,Locations,module,Temando_Shipping
+Carriers,Carriers,module,Temando_Shipping
+"Shipping Experiences","Shipping Experiences",module,Temando_Shipping
+"Processed Items for Pickup","Processed Items for Pickup",module,Temando_Shipping
+"Product Name","Product Name",module,Temando_Shipping
+Quantity,Quantity,module,Temando_Shipping
+"Opening Hours","Opening Hours",module,Temando_Shipping
+"Open %1 %2 to %3","Open %1 %2 to %3",module,Temando_Shipping
+"Closed %1 %2 to %3","Closed %1 %2 to %3",module,Temando_Shipping
+"Order Information","Order Information",module,Temando_Shipping
+"Shipping Method","Shipping Method",module,Temando_Shipping
+"Payment Method","Payment Method",module,Temando_Shipping
+"Attribute Mapping","Attribute Mapping",module,Temando_Shipping
+Version,Version,module,Temando_Shipping
+Enabled,Enabled,module,Temando_Shipping
+"Enable API Logging","Enable API Logging",module,Temando_Shipping
+"Log all API communication. If set to <em>No</em>, only API errors will be logged.","Log all API communication. If set to <em>No</em>, only API errors will be logged.",module,Temando_Shipping
+"API Endpoint","API Endpoint",module,Temando_Shipping
+"Account ID","Account ID",module,Temando_Shipping
+"API Token","API Token",module,Temando_Shipping
+"Enabled for RMA","Enabled for RMA",module,Temando_Shipping
+"Enable Collection Points at Checkout","Enable Collection Points at Checkout",module,Temando_Shipping
+"Countries Available for Collection Points","Countries Available for Collection Points",module,Temando_Shipping
+"Enable Click and Collect at Checkout","Enable Click and Collect at Checkout",module,Temando_Shipping
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Temando_Shipping
+"Ship to Specific Countries","Ship to Specific Countries",module,Temando_Shipping
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Temando_Shipping
+"Displayed Error Message","Displayed Error Message",module,Temando_Shipping
+"Sort Order","Sort Order",module,Temando_Shipping
+"Magento Shipping Cancellation Email Template","Magento Shipping Cancellation Email Template",module,Temando_Shipping
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Temando_Shipping
+"Magento Shipping Cancellation Email Template for Guest","Magento Shipping Cancellation Email Template for Guest",module,Temando_Shipping
+"Magento Shipping Pickup","Magento Shipping Pickup",module,Temando_Shipping
+"Pickup Status Email Sender","Pickup Status Email Sender",module,Temando_Shipping
+"Pickup Ready Template","Pickup Ready Template",module,Temando_Shipping
+"Pickup Collected Template","Pickup Collected Template",module,Temando_Shipping
+"Pickup Canceled Template","Pickup Canceled Template",module,Temando_Shipping
+"Send Pickup Ready Email Copy To","Send Pickup Ready Email Copy To",module,Temando_Shipping
+Comma-separated,Comma-separated,module,Temando_Shipping
+"Send Pickup Ready Email Copy Method","Send Pickup Ready Email Copy Method",module,Temando_Shipping
+"Order &amp; Account Information","Order &amp; Account Information",module,Temando_Shipping
+"Batch Process","Batch Process",module,Temando_Shipping
+"Print Packing Slips","Print Packing Slips",module,Temando_Shipping
+"Order #","Order #",module,Temando_Shipping
+"Ready for Pickup Date","Ready for Pickup Date",module,Temando_Shipping
+Status,Status,module,Temando_Shipping
+"Create New Packaging","Create New Packaging",module,Temando_Shipping
+"Are you sure you want to delete selected packages?","Are you sure you want to delete selected packages?",module,Temando_Shipping
+"Delete Packages","Delete Packages",module,Temando_Shipping
+"Packaging Name","Packaging Name",module,Temando_Shipping
+Type,Type,module,Temando_Shipping
+"Tare Weight","Tare Weight",module,Temando_Shipping
+"Max Weight","Max Weight",module,Temando_Shipping
+"Ship Date","Ship Date",module,Temando_Shipping
+"Return From Name","Return From Name",module,Temando_Shipping
+"Return To Name","Return To Name",module,Temando_Shipping
+"Total Packages","Total Packages",module,Temando_Shipping

@@ -43,3 +43,4 @@ void,void,module,Magento_Authorizenet
 "Card Code Response","Card Code Response",module,Magento_Authorizenet
 "CAVV Response","CAVV Response",module,Magento_Authorizenet
 "Fraud Filters","Fraud Filters",module,Magento_Authorizenet
+"Place Order","Place Order",module,Magento_Authorizenet

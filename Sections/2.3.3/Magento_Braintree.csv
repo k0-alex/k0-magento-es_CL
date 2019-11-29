@@ -33,3 +33,6 @@ PayPal,PayPal,module,Magento_Braintree
 "PayPal Logo","PayPal Logo",module,Magento_Braintree
 Actions,Actions,module,Magento_Braintree
 Delete,Delete,module,Magento_Braintree
+"Credit Card Information","Credit Card Information",module,Magento_Braintree
+"What is this?","What is this?",module,Magento_Braintree
+"Place Order","Place Order",module,Magento_Braintree

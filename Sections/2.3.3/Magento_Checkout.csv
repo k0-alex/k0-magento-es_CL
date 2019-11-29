@@ -99,3 +99,43 @@ Loading...,Loading...,module,Magento_Checkout
 "Your order number is: %1.","Your order number is: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Your order # is: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","We'll email you an order confirmation with details and tracking info.",module,Magento_Checkout
+"Payment Transaction Failed Reminder","Payment Transaction Failed Reminder",module,Magento_Checkout
+"Payment Transaction Failed","Payment Transaction Failed",module,Magento_Checkout
+Reason,Reason,module,Magento_Checkout
+"Checkout Type","Checkout Type",module,Magento_Checkout
+Customer:,Customer:,module,Magento_Checkout
+Items,Items,module,Magento_Checkout
+Total:,Total:,module,Magento_Checkout
+"Billing Address:","Billing Address:",module,Magento_Checkout
+"Shipping Address:","Shipping Address:",module,Magento_Checkout
+"Shipping Method:","Shipping Method:",module,Magento_Checkout
+"Payment Method:","Payment Method:",module,Magento_Checkout
+"Date & Time:","Date & Time:",module,Magento_Checkout
+"Sign In","Sign In",module,Magento_Checkout
+"Email Address","Email Address",module,Magento_Checkout
+Password,Password,module,Magento_Checkout
+"Forgot Your Password?","Forgot Your Password?",module,Magento_Checkout
+"My billing and shipping address are the same","My billing and shipping address are the same",module,Magento_Checkout
+"Save in address book","Save in address book",module,Magento_Checkout
+"Billing Address","Billing Address",module,Magento_Checkout
+"Estimated Total","Estimated Total",module,Magento_Checkout
+"You can create an account after checkout.","You can create an account after checkout.",module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_Checkout
+Login,Login,module,Magento_Checkout
+"See Details","See Details",module,Magento_Checkout
+"Options Details","Options Details",module,Magento_Checkout
+Update,Update,module,Magento_Checkout
+Remove,Remove,module,Magento_Checkout
+"Cart Subtotal","Cart Subtotal",module,Magento_Checkout
+"Payment Information","Payment Information",module,Magento_Checkout
+"No Payment method available.","No Payment method available.",module,Magento_Checkout
+"You can track your order status by creating an account.","You can track your order status by creating an account.",module,Magento_Checkout
+"Create an Account","Create an Account",module,Magento_Checkout
+"Place Order","Place Order",module,Magento_Checkout
+"Forgot an Item?","Forgot an Item?",module,Magento_Checkout
+"Edit Your Cart","Edit Your Cart",module,Magento_Checkout
+"Ship To:","Ship To:",module,Magento_Checkout
+edit,edit,module,Magento_Checkout
+"Order Summary","Order Summary",module,Magento_Checkout
+"View and Edit Cart","View and Edit Cart",module,Magento_Checkout
+"View Details","View Details",module,Magento_Checkout

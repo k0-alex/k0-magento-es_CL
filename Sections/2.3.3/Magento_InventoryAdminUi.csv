@@ -29,3 +29,4 @@ List,List,module,Magento_InventoryAdminUi
 "The Stock has been saved.","The Stock has been saved.",module,Magento_InventoryAdminUi
 "The Stock does not exist.","The Stock does not exist.",module,Magento_InventoryAdminUi
 "Could not save Stock.","Could not save Stock.",module,Magento_InventoryAdminUi
+"Assigned Sources:","Assigned Sources:",module,Magento_InventoryAdminUi

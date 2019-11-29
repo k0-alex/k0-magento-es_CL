@@ -1,0 +1,44 @@
+Username,Username,module,MSP_TwoFactorAuth
+"Provider code","Provider code",module,MSP_TwoFactorAuth
+"Unknown user %1","Unknown user %1",module,MSP_TwoFactorAuth
+"Provider %1 has been reset for user %2","Provider %1 has been reset for user %2",module,MSP_TwoFactorAuth
+"Internal error accessing 2FA index page","Internal error accessing 2FA index page",module,MSP_TwoFactorAuth
+"Invalid user","Invalid user",module,MSP_TwoFactorAuth
+"Unknown provider","Unknown provider",module,MSP_TwoFactorAuth
+"Configuration has been reset for this user","Configuration has been reset for this user",module,MSP_TwoFactorAuth
+"Device authorization revoked","Device authorization revoked",module,MSP_TwoFactorAuth
+"Missing phone information","Missing phone information",module,MSP_TwoFactorAuth
+"Missing user information","Missing user information",module,MSP_TwoFactorAuth
+"No approval requests for this user","No approval requests for this user",module,MSP_TwoFactorAuth
+"Invalid approval code","Invalid approval code",module,MSP_TwoFactorAuth
+"Unsupported via method","Unsupported via method",module,MSP_TwoFactorAuth
+"Invalid code format","Invalid code format",module,MSP_TwoFactorAuth
+"Missing verify request information","Missing verify request information",module,MSP_TwoFactorAuth
+"Missing registration data","Missing registration data",module,MSP_TwoFactorAuth
+"Unexpected error while parsing domain name","Unexpected error while parsing domain name",module,MSP_TwoFactorAuth
+"Unknown provider %1","Unknown provider %1",module,MSP_TwoFactorAuth
+"No such Country","No such Country",module,MSP_TwoFactorAuth
+"No such Trusted","No such Trusted",module,MSP_TwoFactorAuth
+"No such UserConfig","No such UserConfig",module,MSP_TwoFactorAuth
+"Unknown or not enabled provider %1 for this user","Unknown or not enabled provider %1 for this user",module,MSP_TwoFactorAuth
+2FA,2FA,module,MSP_TwoFactorAuth
+"Reset %1","Reset %1",module,MSP_TwoFactorAuth
+"Two Factor Auth","Two Factor Auth",module,MSP_TwoFactorAuth
+"Security Suite","Security Suite",module,MSP_TwoFactorAuth
+Security,Security,module,MSP_TwoFactorAuth
+General,General,module,MSP_TwoFactorAuth
+"Enable Two Factor Auth","Enable Two Factor Auth",module,MSP_TwoFactorAuth
+"Force providers","Force providers",module,MSP_TwoFactorAuth
+"Google Authenticator","Google Authenticator",module,MSP_TwoFactorAuth
+"Enable this provider","Enable this provider",module,MSP_TwoFactorAuth
+"Enable ""trust this device"" option","Enable ""trust this device"" option",module,MSP_TwoFactorAuth
+"U2F Devices (Yubikey and others)","U2F Devices (Yubikey and others)",module,MSP_TwoFactorAuth
+"Duo Security","Duo Security",module,MSP_TwoFactorAuth
+"Integration key","Integration key",module,MSP_TwoFactorAuth
+"Secret key","Secret key",module,MSP_TwoFactorAuth
+"API hostname","API hostname",module,MSP_TwoFactorAuth
+Authy,Authy,module,MSP_TwoFactorAuth
+"API key","API key",module,MSP_TwoFactorAuth
+"OneTouch Message","OneTouch Message",module,MSP_TwoFactorAuth
+"Configuration reset","Configuration reset",module,MSP_TwoFactorAuth
+"Trusted devices","Trusted devices",module,MSP_TwoFactorAuth

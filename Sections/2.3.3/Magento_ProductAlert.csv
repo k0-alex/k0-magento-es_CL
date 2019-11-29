@@ -16,3 +16,8 @@ Price:,Price:,module,Magento_ProductAlert
 "Unsubscribe from all price alerts","Unsubscribe from all price alerts",module,Magento_ProductAlert
 "In stock alert! We wanted you to know that these products are now available:","In stock alert! We wanted you to know that these products are now available:",module,Magento_ProductAlert
 "Unsubscribe from all stock alerts","Unsubscribe from all stock alerts",module,Magento_ProductAlert
+"Product alerts Cron error","Product alerts Cron error",module,Magento_ProductAlert
+"Product alerts cron warnings","Product alerts cron warnings",module,Magento_ProductAlert
+"Products price changed alert","Products price changed alert",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_ProductAlert
+"Products back in stock alert","Products back in stock alert",module,Magento_ProductAlert

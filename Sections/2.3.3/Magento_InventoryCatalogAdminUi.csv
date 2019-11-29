@@ -25,3 +25,4 @@ Back,Back,module,Magento_InventoryCatalogAdminUi
 "Select one or more sources","Select one or more sources",module,Magento_InventoryCatalogAdminUi
 WARNING:,WARNING:,module,Magento_InventoryCatalogAdminUi
 "Products quantity will be permanently removed from selected sources.","Products quantity will be permanently removed from selected sources.",module,Magento_InventoryCatalogAdminUi
+"Quantity per Source:","Quantity per Source:",module,Magento_InventoryCatalogAdminUi

@@ -12,3 +12,6 @@ Email,Email,module,Magento_Contact
 "Phone Number","Phone Number",module,Magento_Contact
 "What’s on your mind?","What’s on your mind?",module,Magento_Contact
 Submit,Submit,module,Magento_Contact
+"Contact Form","Contact Form",module,Magento_Contact
+Phone,Phone,module,Magento_Contact
+Message,Message,module,Magento_Contact

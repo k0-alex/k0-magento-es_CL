@@ -32,3 +32,11 @@ OK,OK,module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for this address.","You can leave this box blank if you don't want to add a gift message for this address.",module,Magento_GiftMessage
 "Add Gift Options for Individual Items","Add Gift Options for Individual Items",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for the item.","You can leave this box blank if you don't want to add a gift message for the item.",module,Magento_GiftMessage
+"Gift Message (optional)","Gift Message (optional)",module,Magento_GiftMessage
+To:,To:,module,Magento_GiftMessage
+From:,From:,module,Magento_GiftMessage
+Message:,Message:,module,Magento_GiftMessage
+Update,Update,module,Magento_GiftMessage
+"Gift options","Gift options",module,Magento_GiftMessage
+Edit,Edit,module,Magento_GiftMessage
+Delete,Delete,module,Magento_GiftMessage

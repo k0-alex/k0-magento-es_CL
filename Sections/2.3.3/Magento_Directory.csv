@@ -22,3 +22,4 @@ WARNING:,WARNING:,module,Magento_Directory
 Currency,Currency,module,Magento_Directory
 "Your current currency is: %1.","Your current currency is: %1.",module,Magento_Directory
 Continue,Continue,module,Magento_Directory
+"Currency Update Warnings","Currency Update Warnings",module,Magento_Directory

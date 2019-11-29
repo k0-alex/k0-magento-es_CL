@@ -1,0 +1,14 @@
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources.",module,Magento_Webapi
+"Operation allowed only in HTTPS","Operation allowed only in HTTPS",module,Magento_Webapi
+"Cannot perform GET operation with store code 'all'","Cannot perform GET operation with store code 'all'",module,Magento_Webapi
+"Specified request cannot be processed.","Specified request cannot be processed.",module,Magento_Webapi
+"Request does not match any route.","Request does not match any route.",module,Magento_Webapi
+"Not allowed parameters: %1. Please use only %2 and %3.","Not allowed parameters: %1. Please use only %2 and %3.",module,Magento_Webapi
+"Requested service is not available: ""%1""","Requested service is not available: ""%1""",module,Magento_Webapi
+"Operation ""%1"" not found.","Operation ""%1"" not found.",module,Magento_Webapi
+"SOAP extension is not loaded.","SOAP extension is not loaded.",module,Magento_Webapi
+"Invalid XML","Invalid XML",module,Magento_Webapi
+"Invalid XML: Detected use of illegal DOCTYPE","Invalid XML: Detected use of illegal DOCTYPE",module,Magento_Webapi
+message,message,module,Magento_Webapi
+Message,Message,module,Magento_Webapi
+"Soap fault reason.","Soap fault reason.",module,Magento_Webapi
