@@ -27,4 +27,6 @@ Always in the directory of Magento
 ## Process to Translate
 In progress ...
 
+Production file is "es_CL.csv"
+
 ## End
