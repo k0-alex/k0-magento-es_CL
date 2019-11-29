@@ -55,3 +55,5 @@ Documents,Documents,module,Magento_Dhl
 None,None,module,Magento_Dhl
 "The security validation of the XML document has failed.","The security validation of the XML document has failed.",module,Magento_Dhl
 "The response is in the wrong format","The response is in the wrong format",module,Magento_Dhl
+"Field ","Field ",module,Magento_Dhl
+" is required."," is required.",module,Magento_Dhl

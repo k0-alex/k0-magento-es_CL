@@ -9,3 +9,10 @@
 "Appropriate shipping method is not available.","Appropriate shipping method is not available.",module,Magento_InstantPurchase
 "Cheapest price","Cheapest price",module,Magento_InstantPurchase
 "Instant purchase integration not available for token.","Instant purchase integration not available for token.",module,Magento_InstantPurchase
+"Instant Purchase","Instant Purchase",module,Magento_InstantPurchase
+"Instant Purchase Confirmation","Instant Purchase Confirmation",module,Magento_InstantPurchase
+"Are you sure you want to place order and pay?","Are you sure you want to place order and pay?",module,Magento_InstantPurchase
+"Shipping Address","Shipping Address",module,Magento_InstantPurchase
+"Billing Address","Billing Address",module,Magento_InstantPurchase
+"Payment Method","Payment Method",module,Magento_InstantPurchase
+"Shipping Method","Shipping Method",module,Magento_InstantPurchase

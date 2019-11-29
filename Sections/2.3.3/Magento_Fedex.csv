@@ -44,3 +44,6 @@ status,status,module,Magento_Fedex
 "Empty response","Empty response",module,Magento_Fedex
 None,None,module,Magento_Fedex
 "Expected Delivery:","Expected Delivery:",module,Magento_Fedex
+"These changes affect all related products.","These changes affect all related products.",module,Magento_Eav
+"Field ","Field ",module,Magento_Fedex
+" is required."," is required.",module,Magento_Fedex

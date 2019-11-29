@@ -139,3 +139,18 @@ edit,edit,module,Magento_Checkout
 "Order Summary","Order Summary",module,Magento_Checkout
 "View and Edit Cart","View and Edit Cart",module,Magento_Checkout
 "View Details","View Details",module,Magento_Checkout
+"Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
+" Example: "," Example: ",module,Magento_Checkout
+"If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
+"Field ","Field ",module,Magento_Checkout
+" is required."," is required.",module,Magento_Checkout
+"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Checkout
+"New Address","New Address",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Review & Payments","Review & Payments",module,Magento_Checkout
+"Select a new payment method","Select a new payment method",module,Magento_Checkout
+Shipping,Shipping,module,Magento_Checkout
+"Save Address","Save Address",module,Magento_Checkout
+Cancel,Cancel,module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
+"Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout

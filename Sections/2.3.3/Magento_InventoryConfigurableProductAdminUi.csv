@@ -27,3 +27,15 @@ Price,Price,module,Magento_InventoryConfigurableProductAdminUi
 "Apply unique quantity by attribute to each SKU","Apply unique quantity by attribute to each SKU",module,Magento_InventoryConfigurableProductAdminUi
 "Skip quantity at this time","Skip quantity at this time",module,Magento_InventoryConfigurableProductAdminUi
 "Step 4: Summary","Step 4: Summary",module,Magento_InventoryConfigurableProductAdminUi
+"New Product Review","New Product Review",module,Magento_InventoryConfigurableProductAdminUi
+"Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_InventoryConfigurableProductAdminUi
+"Associated Products","Associated Products",module,Magento_InventoryConfigurableProductAdminUi
+"You created these products for this configuration.","You created these products for this configuration.",module,Magento_InventoryConfigurableProductAdminUi
+"Disassociated Products","Disassociated Products",module,Magento_InventoryConfigurableProductAdminUi
+"These products are not associated.","These products are not associated.",module,Magento_InventoryConfigurableProductAdminUi
+Enabled,Enabled,module,Magento_InventoryConfigurableProductAdminUi
+Disabled,Disabled,module,Magento_InventoryConfigurableProductAdminUi
+Quantity,Quantity,module,Magento_InventoryConfigurableProductAdminUi
+"Show more...","Show more...",module,Magento_InventoryConfigurableProductAdminUi
+"Please fill-in correct values.","Please fill-in correct values.",module,Magento_InventoryConfigurableProductAdminUi
+SKU,SKU,module,Magento_InventoryConfigurableProductAdminUi

@@ -434,3 +434,15 @@ Password:,Password:,module,Magento_Customer
 "Check out faster","Check out faster",module,Magento_Customer
 "Checkout using your account","Checkout using your account",module,Magento_Customer
 "Email Address","Email Address",module,Magento_Customer
+"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Customer
+"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Customer
+"Could not authenticate. Please try again later","Could not authenticate. Please try again later",module,Magento_Customer
+"Are you sure you want to delete this address?","Are you sure you want to delete this address?",module,Magento_Customer
+"Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Customer
+" Example: "," Example: ",module,Magento_Customer
+"If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Customer
+Weak,Weak,module,Magento_Customer
+Medium,Medium,module,Magento_Customer
+Strong,Strong,module,Magento_Customer
+"Very Strong","Very Strong",module,Magento_Customer
+"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer

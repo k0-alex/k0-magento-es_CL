@@ -36,3 +36,4 @@ Manually,Manually,module,Magento_CheckoutAgreements
 "The ""%1"" checkout agreement couldn't be saved.","The ""%1"" checkout agreement couldn't be saved.",module,Magento_CheckoutAgreements
 "The ""%1"" checkout agreement couldn't be removed.","The ""%1"" checkout agreement couldn't be removed.",module,Magento_CheckoutAgreements
 "A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.","A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.",module,Magento_CheckoutAgreements
+Close,Close,module,Magento_CheckoutAgreements

@@ -54,3 +54,7 @@ Visa,Visa,module,Magento_Payment
 "Place Order","Place Order",module,Magento_Payment
 "Forgot an Item?","Forgot an Item?",module,Magento_Payment
 "Edit Your Cart","Edit Your Cart",module,Magento_Payment
+"Please enter a valid credit card type number.","Please enter a valid credit card type number.",module,Magento_Payment
+"Please enter a valid credit card number.","Please enter a valid credit card number.",module,Magento_Payment
+"Incorrect credit card expiration month.","Incorrect credit card expiration month.",module,Magento_Payment
+"Incorrect credit card expiration year.","Incorrect credit card expiration year.",module,Magento_Payment

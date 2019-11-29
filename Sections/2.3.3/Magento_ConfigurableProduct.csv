@@ -116,4 +116,27 @@ Cancel,Cancel,module,Magento_ConfigurableProduct
 "As low as","As low as",module,Magento_ConfigurableProduct
 "Regular Price","Regular Price",module,Magento_ConfigurableProduct
 "Buy %1 for %2 each and","Buy %1 for %2 each and",module,Magento_ConfigurableProduct
-save,save,module,Magento_ConfigurableProduct
+save,save,module,
+"New Product Review","New Product Review",module,Magento_ConfigurableProduct
+"Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
+"You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
+"Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
+"These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
+"Disable Product","Disable Product",module,Magento_ConfigurableProduct
+"Enable Product","Enable Product",module,Magento_ConfigurableProduct
+"Incl. Tax","Incl. Tax",module,Magento_ConfigurableProduct
+"Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
+"An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
+"Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
+"Choose this option to delete and replace extension data for all past configurations.","Choose this option to delete and replace extension data for all past configurations.",module,Magento_ConfigurableProduct
+"Please select attribute for {section} section.","Please select attribute for {section} section.",module,Magento_ConfigurableProduct
+"Please fill in the values for {section} section.","Please fill in the values for {section} section.",module,Magento_ConfigurableProduct
+"Please fill-in correct values.","Please fill-in correct values.",module,Magento_ConfigurableProduct
+"Please select image(s) for your attribute.","Please select image(s) for your attribute.",module,Magento_ConfigurableProduct
+"Please choose image(s).","Please choose image(s).",module,Magento_ConfigurableProduct
+"We could not detect a size.","We could not detect a size.",module,Magento_ConfigurableProduct
+"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_ConfigurableProduct
+"When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.","When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.",module,Magento_ConfigurableProduct
+"Please select attribute(s).","Please select attribute(s).",module,Magento_ConfigurableProduct
+"Generate Products","Generate Products",module,Magento_ConfigurableProduct
+"Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct

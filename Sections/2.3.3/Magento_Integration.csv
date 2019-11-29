@@ -100,3 +100,7 @@ Reset,Reset,module,Magento_Integration
 Custom,Custom,module,Magento_Integration
 All,All,module,Magento_Integration
 Resources,Resources,module,Magento_Integration
+"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Integration
+"Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
+Allow,Allow,module,Magento_Integration
+Done,Done,module,Magento_Integration

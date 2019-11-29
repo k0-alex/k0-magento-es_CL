@@ -31,3 +31,5 @@ None,None,module,Magento_OfflineShipping
 No,No,module,Magento_OfflineShipping
 "For matching items only","For matching items only",module,Magento_OfflineShipping
 "For shipment with matching items","For shipment with matching items",module,Magento_OfflineShipping
+"Field ","Field ",module,Magento_OfflineShipping
+" is required."," is required.",module,Magento_OfflineShipping

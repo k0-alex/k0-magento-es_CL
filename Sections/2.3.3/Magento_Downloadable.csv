@@ -114,3 +114,4 @@ Ordered,Ordered,module,Magento_Downloadable
 Shipped,Shipped,module,Magento_Downloadable
 Canceled,Canceled,module,Magento_Downloadable
 Refunded,Refunded,module,Magento_Downloadable
+"We could not detect a size.","We could not detect a size.",module,Magento_Downloadable

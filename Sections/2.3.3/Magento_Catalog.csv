@@ -629,3 +629,20 @@ Show,Show,module,Magento_Catalog
 "Maximum %1 characters","Maximum %1 characters",module,Magento_Catalog
 "* Required Fields","* Required Fields",module,Magento_Catalog
 Availability,Availability,module,Magento_Catalog
+"Turn off ""category/products"" URL rewrites?","Turn off ""category/products"" URL rewrites?",module,Magento_CatalogUrlRewrite
+"Warning message","Warning message",module,Magento_Catalog
+"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Catalog
+"Configure Product","Configure Product",module,Magento_Catalog
+OK,OK,module,Magento_Catalog
+"This value does not follow the specified format (for example, 200X300).","This value does not follow the specified format (for example, 200X300).",module,Magento_Catalog
+"Select type of option.","Select type of option.",module,Magento_Catalog
+"Please add rows to option.","Please add rows to option.",module,Magento_Catalog
+"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Catalog
+"Choose existing category.","Choose existing category.",module,Magento_Catalog
+"Image Detail","Image Detail",module,Magento_Catalog
+Adding...,Adding...,module,Magento_Catalog
+Added,Added,module,Magento_Catalog
+remaining,remaining,module,Magento_Catalog
+"too many","too many",module,Magento_Catalog
+"does not implement Storage Interface","does not implement Storage Interface",module,Magento_Catalog
+"unselect all","unselect all",module,Magento_Catalog

@@ -436,3 +436,6 @@ Continue,Continue,module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases with PayPal.","Sign a billing agreement to streamline further purchases with PayPal.",module,Magento_Paypal
 "Continue to PayPal","Continue to PayPal",module,Magento_Paypal
 "Save credit card information for future use.","Save credit card information for future use.",module,Magento_Paypal
+"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Paypal
+"Sorry, something went wrong.","Sorry, something went wrong.",module,Magento_Paypal
+"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Paypal
