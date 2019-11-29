@@ -1,4 +1,0 @@
-"The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration.",module,Magento_Elasticsearch
-"There is no such data mapper ""%1"" for interface %2","There is no such data mapper ""%1"" for interface %2",module,Magento_Elasticsearch
-"Data mapper ""%1"" must implement interface %2","Data mapper ""%1"" must implement interface %2",module,Magento_Elasticsearch
-"Could not ping search engine: %1","Could not ping search engine: %1",module,Magento_Elasticsearch

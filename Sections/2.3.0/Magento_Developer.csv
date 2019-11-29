@@ -1,5 +1,0 @@
-"Format for IDE '%1' is not supported","Format for IDE '%1' is not supported",module,Magento_Developer
-"Client side compilation doesn't work in production mode","Client side compilation doesn't work in production mode",module,Magento_Developer
-"Client side less compilation","Client side less compilation",module,Magento_Developer
-"Server side less compilation","Server side less compilation",module,Magento_Developer
-"Magento was installed with a table prefix. Please re-install without prefix.","Magento was installed with a table prefix. Please re-install without prefix.",module,Magento_Developer

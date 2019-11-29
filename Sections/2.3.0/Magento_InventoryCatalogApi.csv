@@ -1,3 +1,0 @@
-"Source Validator must implement BulkInventoryTransferValidatorInterface.","Source Validator must implement BulkInventoryTransferValidatorInterface.",module,Magento_InventoryCatalogApi
-"Source Validator must implement AssignValidatorInterface.","Source Validator must implement AssignValidatorInterface.",module,Magento_InventoryCatalogApi
-"Source Validator must implement MassUnassignValidatorInterface.","Source Validator must implement MassUnassignValidatorInterface.",module,Magento_InventoryCatalogApi

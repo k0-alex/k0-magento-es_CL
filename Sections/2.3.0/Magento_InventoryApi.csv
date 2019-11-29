@@ -1,4 +1,0 @@
-"Source item Validator must implement SourceItemValidatorInterface.","Source item Validator must implement SourceItemValidatorInterface.",module,Magento_InventoryApi
-"Source Validator must implement SourceValidatorInterface.","Source Validator must implement SourceValidatorInterface.",module,Magento_InventoryApi
-"Validator must implement StockSourceLinkValidatorInterface.","Validator must implement StockSourceLinkValidatorInterface.",module,Magento_InventoryApi
-"Stock Validator must implement StockValidatorInterface.","Stock Validator must implement StockValidatorInterface.",module,Magento_InventoryApi
