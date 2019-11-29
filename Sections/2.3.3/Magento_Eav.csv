@@ -136,3 +136,12 @@ label,label,module,Magento_Eav
 hello,hello,module,Magento_Eav
 "Some internal exception message.","Some internal exception message.",module,Magento_Eav
 "The value of attribute not valid","The value of attribute not valid",module,Magento_Eav
+"Text Field","Text Field",module,Magento_Eav
+"Text Area","Text Area",module,Magento_Eav
+"Text Editor","Text Editor",module,Magento_Eav
+Date,Date,module,Magento_Eav
+Yes/No,Yes/No,module,Magento_Eav
+"Multiple Select","Multiple Select",module,Magento_Eav
+Dropdown,Dropdown,module,Magento_Eav
+"EAV types and attributes","EAV types and attributes",module,Magento_Eav
+"Entity types declaration cache","Entity types declaration cache",module,Magento_Eav

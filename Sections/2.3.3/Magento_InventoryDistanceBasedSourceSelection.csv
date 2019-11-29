@@ -7,3 +7,5 @@
 "Cannot download country","Cannot download country",module,Magento_InventoryDistanceBasedSourceSelection
 "Undefined country code","Undefined country code",module,Magento_InventoryDistanceBasedSourceSelection
 "Unknown geoname for %1","Unknown geoname for %1",module,Magento_InventoryDistanceBasedSourceSelection
+"Distance Priority","Distance Priority",module,Magento_InventoryDistanceBasedSourceSelection
+"Algorithm which provides Source Selections based on shipping address distance from the source","Algorithm which provides Source Selections based on shipping address distance from the source",module,Magento_InventoryDistanceBasedSourceSelection

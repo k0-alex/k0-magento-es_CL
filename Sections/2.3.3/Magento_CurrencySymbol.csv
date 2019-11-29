@@ -17,3 +17,4 @@ System,System,module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","You applied the custom currency symbols.",module,Magento_CurrencySymbol
 "You must first configure currency options before being able to see currency rates.","You must first configure currency options before being able to see currency rates.",module,Magento_CurrencySymbol
 "Old rate:","Old rate:",module,Magento_CurrencySymbol
+Currency,Currency,module,Magento_CurrencySymbol

@@ -17,3 +17,9 @@ Never,Never,module,Magento_Indexer
 "Field '%1' not found","Field '%1' not found",module,Magento_Indexer
 "Some Exception Message","Some Exception Message",module,Magento_Indexer
 "Test Phrase","Test Phrase",module,Magento_Indexer
+"Change indexer mode","Change indexer mode",module,Magento_Indexer
+Indexer,Indexer,module,Magento_Indexer
+Description,Description,module,Magento_Indexer
+Mode,Mode,module,Magento_Indexer
+Status,Status,module,Magento_Indexer
+Updated,Updated,module,Magento_Indexer

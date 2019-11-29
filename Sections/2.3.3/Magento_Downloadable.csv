@@ -115,3 +115,14 @@ Shipped,Shipped,module,Magento_Downloadable
 Canceled,Canceled,module,Magento_Downloadable
 Refunded,Refunded,module,Magento_Downloadable
 "We could not detect a size.","We could not detect a size.",module,Magento_Downloadable
+"Downloadable Product Section","Downloadable Product Section",module,Magento_Downloadable
+Downloads,Downloads,module,Magento_Downloadable
+"Downloadable Product Options","Downloadable Product Options",module,Magento_Downloadable
+"Order Item Status to Enable Downloads","Order Item Status to Enable Downloads",module,Magento_Downloadable
+"Default Maximum Number of Downloads","Default Maximum Number of Downloads",module,Magento_Downloadable
+"Default Sample Title","Default Sample Title",module,Magento_Downloadable
+"Default Link Title","Default Link Title",module,Magento_Downloadable
+"Open Links in New Window","Open Links in New Window",module,Magento_Downloadable
+"Use Content-Disposition","Use Content-Disposition",module,Magento_Downloadable
+"Disable Guest Checkout if Cart Contains Downloadable Items","Disable Guest Checkout if Cart Contains Downloadable Items",module,Magento_Downloadable
+"Guest checkout will only work with shareable.","Guest checkout will only work with shareable.",module,Magento_Downloadable

@@ -58,3 +58,21 @@ Template,Template,module,Magento_Email
 Footer,Footer,module,Magento_Email
 "Thank you, %store_name","Thank you, %store_name",module,Magento_Email
 Header,Header,module,Magento_Email
+Communications,Communications,module,Magento_Email
+"No Templates Found","No Templates Found",module,Magento_Email
+ID,ID,module,Magento_Email
+Added,Added,module,Magento_Email
+Updated,Updated,module,Magento_Email
+Subject,Subject,module,Magento_Email
+"Template Type","Template Type",module,Magento_Email
+Action,Action,module,Magento_Email
+"To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.",module,Magento_Email
+"Logo Image","Logo Image",module,Magento_Email
+"Logo Image Alt","Logo Image Alt",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".",module,Magento_Email
+"Logo Width","Logo Width",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".",module,Magento_Email
+"Logo Height","Logo Height",module,Magento_Email
+"Email template chosen based on theme fallback, when the ""Default"" option is selected.","Email template chosen based on theme fallback, when the ""Default"" option is selected.",module,Magento_Email
+"Header Template","Header Template",module,Magento_Email
+"Footer Template","Footer Template",module,Magento_Email

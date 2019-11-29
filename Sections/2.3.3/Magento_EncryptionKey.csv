@@ -11,3 +11,4 @@ Yes,Yes,module,Magento_EncryptionKey
 "Please enter an encryption key.","Please enter an encryption key.",module,Magento_EncryptionKey
 "The encryption key has been changed.","The encryption key has been changed.",module,Magento_EncryptionKey
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","This is your new encryption key: %1. Be sure to write it down and take good care of it!",module,Magento_EncryptionKey
+"Manage Encryption Key","Manage Encryption Key",module,Magento_EncryptionKey

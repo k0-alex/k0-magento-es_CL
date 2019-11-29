@@ -47,3 +47,35 @@ None,None,module,Magento_Fedex
 "These changes affect all related products.","These changes affect all related products.",module,Magento_Eav
 "Field ","Field ",module,Magento_Fedex
 " is required."," is required.",module,Magento_Fedex
+FedEx,FedEx,module,Magento_Fedex
+"Enabled for Checkout","Enabled for Checkout",module,Magento_Fedex
+Title,Title,module,Magento_Fedex
+"Account ID","Account ID",module,Magento_Fedex
+"Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed.",module,Magento_Fedex
+"Meter Number","Meter Number",module,Magento_Fedex
+Key,Key,module,Magento_Fedex
+Password,Password,module,Magento_Fedex
+"Sandbox Mode","Sandbox Mode",module,Magento_Fedex
+"Web-Services URL (Production)","Web-Services URL (Production)",module,Magento_Fedex
+"Web-Services URL (Sandbox)","Web-Services URL (Sandbox)",module,Magento_Fedex
+"Packages Request Type","Packages Request Type",module,Magento_Fedex
+Packaging,Packaging,module,Magento_Fedex
+Dropoff,Dropoff,module,Magento_Fedex
+"Weight Unit","Weight Unit",module,Magento_Fedex
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Fedex
+"Calculate Handling Fee","Calculate Handling Fee",module,Magento_Fedex
+"Handling Applied","Handling Applied",module,Magento_Fedex
+"Handling Fee","Handling Fee",module,Magento_Fedex
+"Residential Delivery","Residential Delivery",module,Magento_Fedex
+"Allowed Methods","Allowed Methods",module,Magento_Fedex
+"Hub ID","Hub ID",module,Magento_Fedex
+"The field is applicable if the Smart Post method is selected.","The field is applicable if the Smart Post method is selected.",module,Magento_Fedex
+"Free Method","Free Method",module,Magento_Fedex
+"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Fedex
+"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Fedex
+"Displayed Error Message","Displayed Error Message",module,Magento_Fedex
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Fedex
+"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Fedex
+Debug,Debug,module,Magento_Fedex
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Fedex
+"Sort Order","Sort Order",module,Magento_Fedex

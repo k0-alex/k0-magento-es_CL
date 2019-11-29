@@ -57,3 +57,32 @@ None,None,module,Magento_Dhl
 "The response is in the wrong format","The response is in the wrong format",module,Magento_Dhl
 "Field ","Field ",module,Magento_Dhl
 " is required."," is required.",module,Magento_Dhl
+"Enabled for Checkout","Enabled for Checkout",module,Magento_Dhl
+Title,Title,module,Magento_Dhl
+"Access ID","Access ID",module,Magento_Dhl
+Password,Password,module,Magento_Dhl
+"Account Number","Account Number",module,Magento_Dhl
+"Content Type (Non Domestic)","Content Type (Non Domestic)",module,Magento_Dhl
+"Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)","Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)",module,Magento_Dhl
+"Calculate Handling Fee","Calculate Handling Fee",module,Magento_Dhl
+"Handling Applied","Handling Applied",module,Magento_Dhl
+"""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.",module,Magento_Dhl
+"Handling Fee","Handling Fee",module,Magento_Dhl
+"Divide Order Weight","Divide Order Weight",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
+"Weight Unit","Weight Unit",module,Magento_Dhl
+Size,Size,module,Magento_Dhl
+"Documents Allowed Methods","Documents Allowed Methods",module,Magento_Dhl
+"Non Documents Allowed Methods","Non Documents Allowed Methods",module,Magento_Dhl
+"Ready time","Ready time",module,Magento_Dhl
+"Package ready time after order submission (in hours)","Package ready time after order submission (in hours)",module,Magento_Dhl
+"Displayed Error Message","Displayed Error Message",module,Magento_Dhl
+"Free Method","Free Method",module,Magento_Dhl
+"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Dhl
+"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Dhl
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Dhl
+"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Dhl
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
+"Sort Order","Sort Order",module,Magento_Dhl
+Debug,Debug,module,Magento_Dhl
+"Sandbox Mode","Sandbox Mode",module,Magento_Dhl

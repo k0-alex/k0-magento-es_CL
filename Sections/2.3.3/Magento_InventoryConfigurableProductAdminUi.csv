@@ -39,3 +39,7 @@ Quantity,Quantity,module,Magento_InventoryConfigurableProductAdminUi
 "Show more...","Show more...",module,Magento_InventoryConfigurableProductAdminUi
 "Please fill-in correct values.","Please fill-in correct values.",module,Magento_InventoryConfigurableProductAdminUi
 SKU,SKU,module,Magento_InventoryConfigurableProductAdminUi
+"Assign Sources","Assign Sources",module,Magento_InventoryConfigurableProductAdminUi
+Source,Source,module,Magento_InventoryConfigurableProductAdminUi
+"Source Status","Source Status",module,Magento_InventoryConfigurableProductAdminUi
+Done,Done,module,Magento_InventoryConfigurableProductAdminUi

@@ -9,3 +9,13 @@ Monthly,Monthly,module,Magento_Cron
 "Some error","Some error",module,Magento_Cron
 "Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called",module,Magento_Cron
 "Test exception","Test exception",module,Magento_Cron
+"Cron (Scheduled Tasks)","Cron (Scheduled Tasks)",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.",module,Magento_Cron
+"Cron configuration options for group:","Cron configuration options for group:",module,Magento_Cron
+"Generate Schedules Every","Generate Schedules Every",module,Magento_Cron
+"Schedule Ahead for","Schedule Ahead for",module,Magento_Cron
+"Missed if Not Run Within","Missed if Not Run Within",module,Magento_Cron
+"History Cleanup Every","History Cleanup Every",module,Magento_Cron
+"Success History Lifetime","Success History Lifetime",module,Magento_Cron
+"Failure History Lifetime","Failure History Lifetime",module,Magento_Cron
+"Use Separate Process","Use Separate Process",module,Magento_Cron

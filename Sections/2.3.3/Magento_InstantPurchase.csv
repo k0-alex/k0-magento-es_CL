@@ -16,3 +16,6 @@
 "Billing Address","Billing Address",module,Magento_InstantPurchase
 "Payment Method","Payment Method",module,Magento_InstantPurchase
 "Shipping Method","Shipping Method",module,Magento_InstantPurchase
+Enabled,Enabled,module,Magento_InstantPurchase
+"Payment method with vault and instant purchase support should be enabled.","Payment method with vault and instant purchase support should be enabled.",module,Magento_InstantPurchase
+"Button Text","Button Text",module,Magento_InstantPurchase

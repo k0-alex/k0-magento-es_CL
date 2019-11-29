@@ -28,3 +28,9 @@ Qty,Qty,module,Magento_GroupedProduct
 Availability,Availability,module,Magento_GroupedProduct
 "In stock","In stock",module,Magento_GroupedProduct
 "Grouped product items","Grouped product items",module,Magento_GroupedProduct
+"Grouped Product Image","Grouped Product Image",module,Magento_GroupedProduct
+Select...,Select...,module,Magento_GroupedProduct
+Type,Type,module,Magento_GroupedProduct
+Quantity,Quantity,module,Magento_GroupedProduct
+AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
+StatusText,StatusText,module,Magento_GroupedProduct

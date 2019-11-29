@@ -13,3 +13,5 @@
 "Invalid value in Store column (store does not exists?)","Invalid value in Store column (store does not exists?)",module,Magento_CustomerImportExport
 "We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Please enter a password with a valid length.",module,Magento_CustomerImportExport
+CSV,CSV,module,Magento_CustomerImportExport
+"Excel XML","Excel XML",module,Magento_CustomerImportExport

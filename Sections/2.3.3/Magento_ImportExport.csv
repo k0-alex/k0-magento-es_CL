@@ -129,3 +129,11 @@ Delete,Delete,module,Magento_ImportExport
 "Entity Attributes","Entity Attributes",module,Magento_ImportExport
 Continue,Continue,module,Magento_ImportExport
 "Validation Results","Validation Results",module,Magento_ImportExport
+ID,ID,module,Magento_ImportExport
+"Start Date&Time","Start Date&Time",module,Magento_ImportExport
+User,User,module,Magento_ImportExport
+"Imported File","Imported File",module,Magento_ImportExport
+"Error File","Error File",module,Magento_ImportExport
+"Execution Time","Execution Time",module,Magento_ImportExport
+Summary,Summary,module,Magento_ImportExport
+"File name","File name",module,Magento_ImportExport

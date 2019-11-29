@@ -104,3 +104,33 @@ Resources,Resources,module,Magento_Integration
 "Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
 Allow,Allow,module,Magento_Integration
 Done,Done,module,Magento_Integration
+"System Extensions","System Extensions",module,Magento_Integration
+"System Integrations","System Integrations",module,Magento_Integration
+Extensions,Extensions,module,Magento_Integration
+OAuth,OAuth,module,Magento_Integration
+"Access Token Expiration","Access Token Expiration",module,Magento_Integration
+"Customer Token Lifetime (hours)","Customer Token Lifetime (hours)",module,Magento_Integration
+"We will disable this feature if the value is empty.","We will disable this feature if the value is empty.",module,Magento_Integration
+"Admin Token Lifetime (hours)","Admin Token Lifetime (hours)",module,Magento_Integration
+"Cleanup Settings","Cleanup Settings",module,Magento_Integration
+"Cleanup Probability","Cleanup Probability",module,Magento_Integration
+"Integer. Launch cleanup in X OAuth requests. 0 (not recommended) - to disable cleanup","Integer. Launch cleanup in X OAuth requests. 0 (not recommended) - to disable cleanup",module,Magento_Integration
+"Expiration Period","Expiration Period",module,Magento_Integration
+"Cleanup entries older than X minutes.","Cleanup entries older than X minutes.",module,Magento_Integration
+"Consumer Settings","Consumer Settings",module,Magento_Integration
+"Consumer key/secret will expire if not used within X seconds after Oauth token exchange starts.","Consumer key/secret will expire if not used within X seconds after Oauth token exchange starts.",module,Magento_Integration
+"OAuth consumer credentials HTTP Post maxredirects","OAuth consumer credentials HTTP Post maxredirects",module,Magento_Integration
+"Number of maximum redirects for OAuth consumer credentials Post request.","Number of maximum redirects for OAuth consumer credentials Post request.",module,Magento_Integration
+"OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration
+"Timeout for OAuth consumer credentials Post request within X seconds.","Timeout for OAuth consumer credentials Post request within X seconds.",module,Magento_Integration
+"Authentication Locks","Authentication Locks",module,Magento_Integration
+"Maximum Login Failures to Lock Out Account","Maximum Login Failures to Lock Out Account",module,Magento_Integration
+"Maximum Number of authentication failures to lock out account.","Maximum Number of authentication failures to lock out account.",module,Magento_Integration
+"Lockout Time (seconds)","Lockout Time (seconds)",module,Magento_Integration
+"Period of time in seconds after which account will be unlocked.","Period of time in seconds after which account will be unlocked.",module,Magento_Integration
+"Integrations Configuration","Integrations Configuration",module,Magento_Integration
+"Integration configuration file","Integration configuration file",module,Magento_Integration
+"Integrations API Configuration","Integrations API Configuration",module,Magento_Integration
+"Integrations API configuration file","Integrations API configuration file",module,Magento_Integration
+"We couldn't find any records.","We couldn't find any records.",module,Magento_Integration
+Status,Status,module,Magento_Integration

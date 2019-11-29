@@ -40,3 +40,5 @@ Update,Update,module,Magento_GiftMessage
 "Gift options","Gift options",module,Magento_GiftMessage
 Edit,Edit,module,Magento_GiftMessage
 Delete,Delete,module,Magento_GiftMessage
+"Allow Gift Messages on Order Level","Allow Gift Messages on Order Level",module,Magento_GiftMessage
+"Allow Gift Messages for Order Items","Allow Gift Messages for Order Items",module,Magento_GiftMessage

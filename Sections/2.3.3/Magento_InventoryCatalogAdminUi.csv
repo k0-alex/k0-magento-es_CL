@@ -26,3 +26,23 @@ Back,Back,module,Magento_InventoryCatalogAdminUi
 WARNING:,WARNING:,module,Magento_InventoryCatalogAdminUi
 "Products quantity will be permanently removed from selected sources.","Products quantity will be permanently removed from selected sources.",module,Magento_InventoryCatalogAdminUi
 "Quantity per Source:","Quantity per Source:",module,Magento_InventoryCatalogAdminUi
+"Admin bulk operations","Admin bulk operations",module,Magento_InventoryCatalogAdminUi
+"Run asynchronously","Run asynchronously",module,Magento_InventoryCatalogAdminUi
+"Asynchronous batch size","Asynchronous batch size",module,Magento_InventoryCatalogAdminUi
+"The Default Source must be enabled. A default source is required for single source merchants and product migration.","The Default Source must be enabled. A default source is required for single source merchants and product migration.",module,Magento_InventoryCatalogAdminUi
+Sources,Sources,module,Magento_InventoryCatalogAdminUi
+"Advanced Inventory","Advanced Inventory",module,Magento_InventoryCatalogAdminUi
+"Assign Sources","Assign Sources",module,Magento_InventoryCatalogAdminUi
+Name,Name,module,Magento_InventoryCatalogAdminUi
+"Source Status","Source Status",module,Magento_InventoryCatalogAdminUi
+"Source Item Status","Source Item Status",module,Magento_InventoryCatalogAdminUi
+Qty,Qty,module,Magento_InventoryCatalogAdminUi
+Actions,Actions,module,Magento_InventoryCatalogAdminUi
+Done,Done,module,Magento_InventoryCatalogAdminUi
+"Mass source assignment","Mass source assignment",module,Magento_InventoryCatalogAdminUi
+"Are you sure you want to assign selected items to inventory sources?","Are you sure you want to assign selected items to inventory sources?",module,Magento_InventoryCatalogAdminUi
+"Assign Inventory Source","Assign Inventory Source",module,Magento_InventoryCatalogAdminUi
+"Unassign Inventory Source","Unassign Inventory Source",module,Magento_InventoryCatalogAdminUi
+"Are you sure you want to unassign one or more sources from the selected items?","Are you sure you want to unassign one or more sources from the selected items?",module,Magento_InventoryCatalogAdminUi
+"Transfer Inventory To Source","Transfer Inventory To Source",module,Magento_InventoryCatalogAdminUi
+"Are you sure you want to transfer the inventory of the selected items?","Are you sure you want to transfer the inventory of the selected items?",module,Magento_InventoryCatalogAdminUi

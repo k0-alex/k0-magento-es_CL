@@ -15,3 +15,12 @@ Submit,Submit,module,Magento_Contact
 "Contact Form","Contact Form",module,Magento_Contact
 Phone,Phone,module,Magento_Contact
 Message,Message,module,Magento_Contact
+"Contacts Section","Contacts Section",module,Magento_Contact
+Contacts,Contacts,module,Magento_Contact
+"Contact Us","Contact Us",module,Magento_Contact
+"Enable Contact Us","Enable Contact Us",module,Magento_Contact
+"Email Options","Email Options",module,Magento_Contact
+"Send Emails To","Send Emails To",module,Magento_Contact
+"Email Sender","Email Sender",module,Magento_Contact
+"Email Template","Email Template",module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Contact
