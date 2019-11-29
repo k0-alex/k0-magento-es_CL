@@ -107,3 +107,33 @@ Other,Other,module,Magento_Usps
 None,None,module,Magento_Usps
 "Field ","Field ",module,Magento_Usps
 " is required."," is required.",module,Magento_Usps
+USPS,USPS,module,Magento_Usps
+"Enabled for Checkout","Enabled for Checkout",module,Magento_Usps
+"Gateway URL","Gateway URL",module,Magento_Usps
+"Secure Gateway URL","Secure Gateway URL",module,Magento_Usps
+Title,Title,module,Magento_Usps
+"User ID","User ID",module,Magento_Usps
+Password,Password,module,Magento_Usps
+Mode,Mode,module,Magento_Usps
+"Packages Request Type","Packages Request Type",module,Magento_Usps
+Container,Container,module,Magento_Usps
+Size,Size,module,Magento_Usps
+Width,Width,module,Magento_Usps
+Length,Length,module,Magento_Usps
+Height,Height,module,Magento_Usps
+Girth,Girth,module,Magento_Usps
+Machinable,Machinable,module,Magento_Usps
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Usps
+"Calculate Handling Fee","Calculate Handling Fee",module,Magento_Usps
+"Handling Applied","Handling Applied",module,Magento_Usps
+"Handling Fee","Handling Fee",module,Magento_Usps
+"Allowed Methods","Allowed Methods",module,Magento_Usps
+"Free Method","Free Method",module,Magento_Usps
+"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Usps
+"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Usps
+"Displayed Error Message","Displayed Error Message",module,Magento_Usps
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Usps
+"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Usps
+Debug,Debug,module,Magento_Usps
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Usps
+"Sort Order","Sort Order",module,Magento_Usps

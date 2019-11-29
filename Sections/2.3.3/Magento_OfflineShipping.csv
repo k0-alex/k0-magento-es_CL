@@ -33,3 +33,24 @@ No,No,module,Magento_OfflineShipping
 "For shipment with matching items","For shipment with matching items",module,Magento_OfflineShipping
 "Field ","Field ",module,Magento_OfflineShipping
 " is required."," is required.",module,Magento_OfflineShipping
+"Flat Rate","Flat Rate",module,Magento_OfflineShipping
+Enabled,Enabled,module,Magento_OfflineShipping
+"Method Name","Method Name",module,Magento_OfflineShipping
+Price,Price,module,Magento_OfflineShipping
+"Calculate Handling Fee","Calculate Handling Fee",module,Magento_OfflineShipping
+"Handling Fee","Handling Fee",module,Magento_OfflineShipping
+"Sort Order","Sort Order",module,Magento_OfflineShipping
+Title,Title,module,Magento_OfflineShipping
+Type,Type,module,Magento_OfflineShipping
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_OfflineShipping
+"Ship to Specific Countries","Ship to Specific Countries",module,Magento_OfflineShipping
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_OfflineShipping
+"Displayed Error Message","Displayed Error Message",module,Magento_OfflineShipping
+"Table Rates","Table Rates",module,Magento_OfflineShipping
+Condition,Condition,module,Magento_OfflineShipping
+"Include Virtual Products in Price Calculation","Include Virtual Products in Price Calculation",module,Magento_OfflineShipping
+Export,Export,module,Magento_OfflineShipping
+Import,Import,module,Magento_OfflineShipping
+"Free Shipping","Free Shipping",module,Magento_OfflineShipping
+"Minimum Order Amount","Minimum Order Amount",module,Magento_OfflineShipping
+"-- Please Select --","-- Please Select --",module,Magento_OfflineShipping

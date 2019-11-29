@@ -15,3 +15,6 @@ Rate,Rate,module,Magento_TaxImportExport
 "Country code is invalid: %1","Country code is invalid: %1",module,Magento_TaxImportExport
 "Import Tax Rates","Import Tax Rates",module,Magento_TaxImportExport
 "Export Tax Rates","Export Tax Rates",module,Magento_TaxImportExport
+"Import/Export Tax Rates","Import/Export Tax Rates",module,Magento_TaxImportExport
+CSV,CSV,module,Magento_TaxImportExport
+"Excel XML","Excel XML",module,Magento_TaxImportExport

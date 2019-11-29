@@ -144,3 +144,54 @@ Password:,Password:,module,Magento_Theme
 "We don't recognize this file extension.","We don't recognize this file extension.",module,Magento_Theme
 Home,Inicio,module,Magento_Theme
 "Go to Home Page","Ir al Inicio",module,Magento_Theme
+Empty,Empty,module,Magento_Theme
+"1 column","1 column",module,Magento_Theme
+Configuration,Configuration,module,Magento_Theme
+"Move JS code to the bottom of the page","Move JS code to the bottom of the page",module,Magento_Theme
+"Use CSS critical path","Use CSS critical path",module,Magento_Theme
+"<strong style=""color:red"">Warning!</strong> Be sure that you have critical.css file for your theme. Other CSS files will be loaded asynchronously.","<strong style=""color:red"">Warning!</strong> Be sure that you have critical.css file for your theme. Other CSS files will be loaded asynchronously.",module,Magento_Theme
+"Default welcome msg!","Default welcome msg!",module,Magento_Theme
+"Copyright © 2013-present Magento, Inc. All rights reserved.","Copyright © 2013-present Magento, Inc. All rights reserved.",module,Magento_Theme
+"Design Config Grid","Design Config Grid",module,Magento_Theme
+"Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
+"Admin empty","Admin empty",module,Magento_Theme
+"Admin 1column","Admin 1column",module,Magento_Theme
+"Theme Information","Theme Information",module,Magento_Theme
+"Other Settings","Other Settings",module,Magento_Theme
+"HTML Head","HTML Head",module,Magento_Theme
+"Not all browsers support all these formats!","Not all browsers support all these formats!",module,Magento_Theme
+"Favicon Icon","Favicon Icon",module,Magento_Theme
+"Default Page Title","Default Page Title",module,Magento_Theme
+"Page Title Prefix","Page Title Prefix",module,Magento_Theme
+"Page Title Suffix","Page Title Suffix",module,Magento_Theme
+"Default Meta Description","Default Meta Description",module,Magento_Theme
+"Default Meta Keywords","Default Meta Keywords",module,Magento_Theme
+"This will be included before head closing tag in page HTML.","This will be included before head closing tag in page HTML.",module,Magento_Theme
+"Scripts and Style Sheets","Scripts and Style Sheets",module,Magento_Theme
+"Display Demo Store Notice","Display Demo Store Notice",module,Magento_Theme
+Header,Header,module,Magento_Theme
+"Logo Image","Logo Image",module,Magento_Theme
+"Logo Attribute Width","Logo Attribute Width",module,Magento_Theme
+"Logo Attribute Height","Logo Attribute Height",module,Magento_Theme
+"Welcome Text","Welcome Text",module,Magento_Theme
+"Logo Image Alt","Logo Image Alt",module,Magento_Theme
+Footer,Footer,module,Magento_Theme
+"This will be displayed just before the body closing tag.","This will be displayed just before the body closing tag.",module,Magento_Theme
+"Miscellaneous HTML","Miscellaneous HTML",module,Magento_Theme
+Copyright,Copyright,module,Magento_Theme
+"Display Report Bugs Link","Display Report Bugs Link",module,Magento_Theme
+"Default Robots","Default Robots",module,Magento_Theme
+"Edit custom instruction of robots.txt File","Edit custom instruction of robots.txt File",module,Magento_Theme
+"This action will delete your custom instructions and reset robots.txt file to system's default settings.","This action will delete your custom instructions and reset robots.txt file to system's default settings.",module,Magento_Theme
+"Reset To Defaults","Reset To Defaults",module,Magento_Theme
+Website,Website,module,Magento_Theme
+Store,Store,module,Magento_Theme
+"Store View","Store View",module,Magento_Theme
+ID,ID,module,Magento_Theme
+"Skip to Content","Skip to Content",module,Magento_Theme
+Menu,Menu,module,Magento_Theme
+Account,Account,module,Magento_Theme
+Settings,Settings,module,Magento_Theme
+"2 columns with left bar","2 columns with left bar",module,Magento_Theme
+"2 columns with right bar","2 columns with right bar",module,Magento_Theme
+"3 columns","3 columns",module,Magento_Theme

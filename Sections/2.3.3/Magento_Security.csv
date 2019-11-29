@@ -19,3 +19,10 @@ None,None,module,Magento_Security
 "Are you sure that you want to log out all other sessions?","Are you sure that you want to log out all other sessions?",module,Magento_Security
 "Log out all other sessions","Log out all other sessions",module,Magento_Security
 "This computer is using IP address %1.","This computer is using IP address %1.",module,Magento_Security
+"Admin Account Sharing","Admin Account Sharing",module,Magento_Security
+"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.",module,Magento_Security
+"Password Reset Protection Type","Password Reset Protection Type",module,Magento_Security
+"Max Number of Password Reset Requests","Max Number of Password Reset Requests",module,Magento_Security
+"Limit the number of password reset request per hour. Use 0 to disable.","Limit the number of password reset request per hour. Use 0 to disable.",module,Magento_Security
+"Min Time Between Password Reset Requests","Min Time Between Password Reset Requests",module,Magento_Security
+"Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable.",module,Magento_Security

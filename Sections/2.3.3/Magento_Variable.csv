@@ -26,3 +26,7 @@ Web,Web,module,Magento_Variable
 "The variable %1 is no longer available. Select a different variable.","The variable %1 is no longer available. Select a different variable.",module,Magento_Variable
 Cancel,Cancel,module,Magento_Variable
 Save,Save,module,Magento_Variable
+"Variable ID","Variable ID",module,Magento_Variable
+Name,Name,module,Magento_Variable
+Type,Type,module,Magento_Variable
+Code,Code,module,Magento_Variable

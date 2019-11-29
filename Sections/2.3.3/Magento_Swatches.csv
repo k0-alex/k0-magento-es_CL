@@ -27,3 +27,14 @@ Options,Options,module,Magento_Swatches
 "Remove Option","Remove Option",module,Magento_Swatches
 "Create New Value","Create New Value",module,Magento_Swatches
 More,More,module,Magento_Swatches
+Swatches,Swatches,module,Magento_Swatches
+"Swatches per Product","Swatches per Product",module,Magento_Swatches
+"Show Swatches in Product List","Show Swatches in Product List",module,Magento_Swatches
+"Swatch Image","Swatch Image",module,Magento_Swatches
+Image,Image,module,Magento_Swatches
+"Image Opacity","Image Opacity",module,Magento_Swatches
+"Example format: 200x300.","Example format: 200x300.",module,Magento_Swatches
+"Image Size","Image Size",module,Magento_Swatches
+"Image Position","Image Position",module,Magento_Swatches
+"Default Store View","Default Store View",module,Magento_Swatches
+Admin,Admin,module,Magento_Swatches

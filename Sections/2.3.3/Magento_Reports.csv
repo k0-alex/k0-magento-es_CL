@@ -170,3 +170,59 @@ Error,Error,module,Magento_Reports
 "Add to Compare","Add to Compare",module,Magento_Reports
 "Recently Compared","Recently Compared",module,Magento_Reports
 "Learn More","Learn More",module,Magento_Reports
+Marketing,Marketing,module,Magento_Reports
+"Products in Cart","Products in Cart",module,Magento_Reports
+"Abandoned Cart","Abandoned Cart",module,Magento_Reports
+"Search Terms","Search Terms",module,Magento_Reports
+"By Customers","By Customers",module,Magento_Reports
+"By Products","By Products",module,Magento_Reports
+Refunds,Refunds,module,Magento_Reports
+"Order Total","Order Total",module,Magento_Reports
+"Order Count","Order Count",module,Magento_Reports
+New,New,module,Magento_Reports
+Ordered,Ordered,module,Magento_Reports
+"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Reports
+"Show for Current","Show for Current",module,Magento_Reports
+"Default Recently Viewed Products Count","Default Recently Viewed Products Count",module,Magento_Reports
+"Default Recently Compared Products Count","Default Recently Compared Products Count",module,Magento_Reports
+Dashboard,Dashboard,module,Magento_Reports
+"Year-To-Date Starts","Year-To-Date Starts",module,Magento_Reports
+"Current Month Starts","Current Month Starts",module,Magento_Reports
+"Select day of the month.","Select day of the month.",module,Magento_Reports
+"General Options","General Options",module,Magento_Reports
+"Enable Reports","Enable Reports",module,Magento_Reports
+"If disabled, all report events will be disabled","If disabled, all report events will be disabled",module,Magento_Reports
+"Enable ""Product View"" Report","Enable ""Product View"" Report",module,Magento_Reports
+"If enabled, will collect statistic of viewed product pages","If enabled, will collect statistic of viewed product pages",module,Magento_Reports
+"Enable ""Send Product Link To Friend"" Report","Enable ""Send Product Link To Friend"" Report",module,Magento_Reports
+"If enabled, will collect statistic of product links sent to friend","If enabled, will collect statistic of product links sent to friend",module,Magento_Reports
+"Enable ""Add Product To Compare List"" Report","Enable ""Add Product To Compare List"" Report",module,Magento_Reports
+"If enabled, will collect statistic of products added to Compare List","If enabled, will collect statistic of products added to Compare List",module,Magento_Reports
+"Enable ""Product Added To Cart"" Report","Enable ""Product Added To Cart"" Report",module,Magento_Reports
+"If enabled, will collect statistic of products added to Cart","If enabled, will collect statistic of products added to Cart",module,Magento_Reports
+"Enable ""Product Added To WishList"" Report","Enable ""Product Added To WishList"" Report",module,Magento_Reports
+"If enabled, will collect statistic of products added to WishList","If enabled, will collect statistic of products added to WishList",module,Magento_Reports
+"Enable ""Share WishList"" Report","Enable ""Share WishList"" Report",module,Magento_Reports
+"If enabled, will collect statistic of shared WishLists","If enabled, will collect statistic of shared WishLists",module,Magento_Reports
+Average,Average,module,Magento_Reports
+"Stock Quantity","Stock Quantity",module,Magento_Reports
+"Ordered Quantity","Ordered Quantity",module,Magento_Reports
+"The report displays the top 5 most viewed products for each interval.","The report displays the top 5 most viewed products for each interval.",module,Magento_Reports
+"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",module,Magento_Reports
+Guest,Guest,module,Magento_Reports
+Action,Action,module,Magento_Reports
+"Average (Approved)","Average (Approved)",module,Magento_Reports
+"Last Review","Last Review",module,Magento_Reports
+"Order Created","Order Created",module,Magento_Reports
+"Order Updated","Order Updated",module,Magento_Reports
+"The Order Updated report is created in real time and does not require a refresh.","The Order Updated report is created in real time and does not require a refresh.",module,Magento_Reports
+"Last Invoice Created Date","Last Invoice Created Date",module,Magento_Reports
+"Last Credit Memo Created Date","Last Credit Memo Created Date",module,Magento_Reports
+"First Invoice Created Date","First Invoice Created Date",module,Magento_Reports
+"Refresh Lifetime Statistics","Refresh Lifetime Statistics",module,Magento_Reports
+"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.",module,Magento_Reports
+"Refresh Statistics for the Last Day","Refresh Statistics for the Last Day",module,Magento_Reports
+"Are you sure you want to refresh statistics for the last day?","Are you sure you want to refresh statistics for the last day?",module,Magento_Reports
+Report,Report,module,Magento_Reports
+Description,Description,module,Magento_Reports
+undefined,undefined,module,Magento_Reports

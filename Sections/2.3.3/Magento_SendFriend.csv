@@ -32,3 +32,13 @@ Back,Back,module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
 "Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
+"Email to a Friend","Email to a Friend",module,Magento_SendFriend
+"Email Templates","Email Templates",module,Magento_SendFriend
+Enabled,Enabled,module,Magento_SendFriend
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.",module,Magento_SendFriend
+"Select Email Template","Select Email Template",module,Magento_SendFriend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_SendFriend
+"Allow for Guests","Allow for Guests",module,Magento_SendFriend
+"Max Recipients","Max Recipients",module,Magento_SendFriend
+"Max Products Sent in 1 Hour","Max Products Sent in 1 Hour",module,Magento_SendFriend
+"Limit Sending By","Limit Sending By",module,Magento_SendFriend

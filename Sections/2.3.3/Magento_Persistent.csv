@@ -9,3 +9,11 @@
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
 "Welcome, %1!","Welcome, %1!",module,Magento_Persistent
+"Persistent Shopping Cart","Persistent Shopping Cart",module,Magento_Persistent
+"General Options","General Options",module,Magento_Persistent
+"Enable Persistence","Enable Persistence",module,Magento_Persistent
+"Persistence Lifetime (seconds)","Persistence Lifetime (seconds)",module,Magento_Persistent
+"Enable ""Remember Me""","Enable ""Remember Me""",module,Magento_Persistent
+"""Remember Me"" Default Value","""Remember Me"" Default Value",module,Magento_Persistent
+"Clear Persistence on Sign Out","Clear Persistence on Sign Out",module,Magento_Persistent
+"Persist Shopping Cart","Persist Shopping Cart",module,Magento_Persistent

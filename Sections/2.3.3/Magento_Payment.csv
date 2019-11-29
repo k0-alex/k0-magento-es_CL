@@ -58,3 +58,14 @@ Visa,Visa,module,Magento_Payment
 "Please enter a valid credit card number.","Please enter a valid credit card number.",module,Magento_Payment
 "Incorrect credit card expiration month.","Incorrect credit card expiration month.",module,Magento_Payment
 "Incorrect credit card expiration year.","Incorrect credit card expiration year.",module,Magento_Payment
+"Payment Methods Section","Payment Methods Section",module,Magento_Payment
+"Payment Services","Payment Services",module,Magento_Payment
+"Payment Methods","Payment Methods",module,Magento_Payment
+"Zero Subtotal Checkout","Zero Subtotal Checkout",module,Magento_Payment
+Enabled,Enabled,module,Magento_Payment
+"New Order Status","New Order Status",module,Magento_Payment
+"Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_Payment
+"Sort Order","Sort Order",module,Magento_Payment
+Title,Title,module,Magento_Payment
+"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Payment
+"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Payment

@@ -161,3 +161,20 @@ Date,Date,module,Magento_Shipping
 "Local Time","Local Time",module,Magento_Shipping
 Description,Description,module,Magento_Shipping
 "See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
+"Shipping Settings Section","Shipping Settings Section",module,Magento_Shipping
+"Shipping Policy Parameters Section","Shipping Policy Parameters Section",module,Magento_Shipping
+"Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping
+"Shipping Settings","Shipping Settings",module,Magento_Shipping
+Origin,Origin,module,Magento_Shipping
+Country,Country,module,Magento_Shipping
+Region/State,Region/State,module,Magento_Shipping
+"ZIP/Postal Code","ZIP/Postal Code",module,Magento_Shipping
+City,City,module,Magento_Shipping
+"Street Address","Street Address",module,Magento_Shipping
+"Street Address Line 2","Street Address Line 2",module,Magento_Shipping
+"Shipping Policy Parameters","Shipping Policy Parameters",module,Magento_Shipping
+"Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
+"Shipping Policy","Shipping Policy",module,Magento_Shipping
+"Shipping Methods","Shipping Methods",module,Magento_Shipping
+"Track your order","Track your order",module,Magento_Shipping
+"Track All Shipments","Track All Shipments",module,Magento_Shipping

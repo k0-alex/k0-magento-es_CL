@@ -688,3 +688,132 @@ Search,Search,module,Magento_Sales
 "Add Products","Add Products",module,Magento_Sales
 "You have item changes","You have item changes",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
+Operations,Operations,module,Magento_Sales
+Create,Create,module,Magento_Sales
+"Send Order Email","Send Order Email",module,Magento_Sales
+"Accept or Deny Payment","Accept or Deny Payment",module,Magento_Sales
+"Send Sales Emails","Send Sales Emails",module,Magento_Sales
+"Sales Section","Sales Section",module,Magento_Sales
+"Sales Emails Section","Sales Emails Section",module,Magento_Sales
+General,General,module,Magento_Sales
+"Hide Customer IP","Hide Customer IP",module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
+"Checkout Totals Sort Order","Checkout Totals Sort Order",module,Magento_Sales
+"Allow Reorder","Allow Reorder",module,Magento_Sales
+"Allow Zero GrandTotal","Allow Zero GrandTotal",module,Magento_Sales
+"Allow Zero GrandTotal for Creditmemo","Allow Zero GrandTotal for Creditmemo",module,Magento_Sales
+"Invoice and Packing Slip Design","Invoice and Packing Slip Design",module,Magento_Sales
+"Logo for PDF Print-outs (200x50)","Logo for PDF Print-outs (200x50)",module,Magento_Sales
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.",module,Magento_Sales
+"Logo for HTML Print View","Logo for HTML Print View",module,Magento_Sales
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)",module,Magento_Sales
+Address,Address,module,Magento_Sales
+"Minimum Order Amount","Minimum Order Amount",module,Magento_Sales
+Enable,Enable,module,Magento_Sales
+"Minimum Amount","Minimum Amount",module,Magento_Sales
+"Subtotal after discount","Subtotal after discount",module,Magento_Sales
+"Include Discount Amount","Include Discount Amount",module,Magento_Sales
+"Include Tax to Amount","Include Tax to Amount",module,Magento_Sales
+"Description Message","Description Message",module,Magento_Sales
+"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.",module,Magento_Sales
+"Error to Show in Shopping Cart","Error to Show in Shopping Cart",module,Magento_Sales
+"Validate Each Address Separately in Multi-address Checkout","Validate Each Address Separately in Multi-address Checkout",module,Magento_Sales
+"Multi-address Description Message","Multi-address Description Message",module,Magento_Sales
+"We'll use the default description above if you leave this empty.","We'll use the default description above if you leave this empty.",module,Magento_Sales
+"Multi-address Error to Show in Shopping Cart","Multi-address Error to Show in Shopping Cart",module,Magento_Sales
+"We'll use the default error above if you leave this empty.","We'll use the default error above if you leave this empty.",module,Magento_Sales
+Dashboard,Dashboard,module,Magento_Sales
+"Use Aggregated Data","Use Aggregated Data",module,Magento_Sales
+"Improves dashboard performance but provides non-realtime data.","Improves dashboard performance but provides non-realtime data.",module,Magento_Sales
+"Orders Cron Settings","Orders Cron Settings",module,Magento_Sales
+"Pending Payment Order Lifetime (minutes)","Pending Payment Order Lifetime (minutes)",module,Magento_Sales
+"Sales Emails","Sales Emails",module,Magento_Sales
+"Asynchronous sending","Asynchronous sending",module,Magento_Sales
+"Limit per cron run","Limit per cron run",module,Magento_Sales
+Enabled,Enabled,module,Magento_Sales
+"New Order Confirmation Email Sender","New Order Confirmation Email Sender",module,Magento_Sales
+"New Order Confirmation Template","New Order Confirmation Template",module,Magento_Sales
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Sales
+"New Order Confirmation Template for Guest","New Order Confirmation Template for Guest",module,Magento_Sales
+"Send Order Email Copy To","Send Order Email Copy To",module,Magento_Sales
+Comma-separated,Comma-separated,module,Magento_Sales
+"Send Order Email Copy Method","Send Order Email Copy Method",module,Magento_Sales
+"Order Comment Email Sender","Order Comment Email Sender",module,Magento_Sales
+"Order Comment Email Template","Order Comment Email Template",module,Magento_Sales
+"Order Comment Email Template for Guest","Order Comment Email Template for Guest",module,Magento_Sales
+"Send Order Comment Email Copy To","Send Order Comment Email Copy To",module,Magento_Sales
+"Send Order Comments Email Copy Method","Send Order Comments Email Copy Method",module,Magento_Sales
+"Invoice Email Sender","Invoice Email Sender",module,Magento_Sales
+"Invoice Email Template","Invoice Email Template",module,Magento_Sales
+"Invoice Email Template for Guest","Invoice Email Template for Guest",module,Magento_Sales
+"Send Invoice Email Copy To","Send Invoice Email Copy To",module,Magento_Sales
+"Send Invoice Email Copy Method","Send Invoice Email Copy Method",module,Magento_Sales
+"Invoice Comment Email Sender","Invoice Comment Email Sender",module,Magento_Sales
+"Invoice Comment Email Template","Invoice Comment Email Template",module,Magento_Sales
+"Invoice Comment Email Template for Guest","Invoice Comment Email Template for Guest",module,Magento_Sales
+"Send Invoice Comment Email Copy To","Send Invoice Comment Email Copy To",module,Magento_Sales
+"Send Invoice Comments Email Copy Method","Send Invoice Comments Email Copy Method",module,Magento_Sales
+Shipment,Shipment,module,Magento_Sales
+"Shipment Email Sender","Shipment Email Sender",module,Magento_Sales
+"Shipment Email Template","Shipment Email Template",module,Magento_Sales
+"Shipment Email Template for Guest","Shipment Email Template for Guest",module,Magento_Sales
+"Send Shipment Email Copy To","Send Shipment Email Copy To",module,Magento_Sales
+"Send Shipment Email Copy Method","Send Shipment Email Copy Method",module,Magento_Sales
+"Shipment Comments","Shipment Comments",module,Magento_Sales
+"Shipment Comment Email Sender","Shipment Comment Email Sender",module,Magento_Sales
+"Shipment Comment Email Template","Shipment Comment Email Template",module,Magento_Sales
+"Shipment Comment Email Template for Guest","Shipment Comment Email Template for Guest",module,Magento_Sales
+"Send Shipment Comment Email Copy To","Send Shipment Comment Email Copy To",module,Magento_Sales
+"Send Shipment Comments Email Copy Method","Send Shipment Comments Email Copy Method",module,Magento_Sales
+"Credit Memo Email Sender","Credit Memo Email Sender",module,Magento_Sales
+"Credit Memo Email Template","Credit Memo Email Template",module,Magento_Sales
+"Credit Memo Email Template for Guest","Credit Memo Email Template for Guest",module,Magento_Sales
+"Send Credit Memo Email Copy To","Send Credit Memo Email Copy To",module,Magento_Sales
+"Send Credit Memo Email Copy Method","Send Credit Memo Email Copy Method",module,Magento_Sales
+"Credit Memo Comment Email Sender","Credit Memo Comment Email Sender",module,Magento_Sales
+"Credit Memo Comment Email Template","Credit Memo Comment Email Template",module,Magento_Sales
+"Credit Memo Comment Email Template for Guest","Credit Memo Comment Email Template for Guest",module,Magento_Sales
+"Send Credit Memo Comment Email Copy To","Send Credit Memo Comment Email Copy To",module,Magento_Sales
+"Send Credit Memo Comments Email Copy Method","Send Credit Memo Comments Email Copy Method",module,Magento_Sales
+"PDF Print-outs","PDF Print-outs",module,Magento_Sales
+"Display Order ID in Header","Display Order ID in Header",module,Magento_Sales
+"Customer Order Status Notification","Customer Order Status Notification",module,Magento_Sales
+"Grid Settings","Grid Settings",module,Magento_Sales
+"Asynchronous indexing","Asynchronous indexing",module,Magento_Sales
+"Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Sales
+"Anchor Custom Title","Anchor Custom Title",module,Magento_Sales
+Template,Template,module,Magento_Sales
+"Default Template","Default Template",module,Magento_Sales
+Name,Name,module,Magento_Sales
+Phone,Phone,module,Magento_Sales
+"ZIP/Post Code","ZIP/Post Code",module,Magento_Sales
+"Signed-up Point","Signed-up Point",module,Magento_Sales
+Website,Website,module,Magento_Sales
+"Bill-to Name","Bill-to Name",module,Magento_Sales
+Created,Created,module,Magento_Sales
+"Invoice Date","Invoice Date",module,Magento_Sales
+"Ship-to Name","Ship-to Name",module,Magento_Sales
+"Ship Date","Ship Date",module,Magento_Sales
+"Total Quantity","Total Quantity",module,Magento_Sales
+"Default Status","Default Status",module,Magento_Sales
+"State Code and Title","State Code and Title",module,Magento_Sales
+"Item Status","Item Status",module,Magento_Sales
+"Original Price","Original Price",module,Magento_Sales
+"Tax Percent","Tax Percent",module,Magento_Sales
+"All Store Views","All Store Views",module,Magento_Sales
+"PDF Credit Memos","PDF Credit Memos",module,Magento_Sales
+"Purchase Point","Purchase Point",module,Magento_Sales
+"Print Invoices","Print Invoices",module,Magento_Sales
+"Print Packing Slips","Print Packing Slips",module,Magento_Sales
+"Print Credit Memos","Print Credit Memos",module,Magento_Sales
+"Print All","Print All",module,Magento_Sales
+"Print Shipping Labels","Print Shipping Labels",module,Magento_Sales
+"Purchase Date","Purchase Date",module,Magento_Sales
+"Grand Total (Base)","Grand Total (Base)",module,Magento_Sales
+"Grand Total (Purchased)","Grand Total (Purchased)",module,Magento_Sales
+"Customer Email","Customer Email",module,Magento_Sales
+"Shipping and Handling","Shipping and Handling",module,Magento_Sales
+"PDF Invoices","PDF Invoices",module,Magento_Sales
+"PDF Shipments","PDF Shipments",module,Magento_Sales
+"PDF Creditmemos","PDF Creditmemos",module,Magento_Sales
+Refunds,Refunds,module,Magento_Sales

@@ -125,3 +125,18 @@ Resources,Resources,module,Magento_User
 "Thank you,","Thank you,",module,Magento_User
 "New %changes for %user_name","New %changes for %user_name",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
+"All Users","All Users",module,Magento_User
+"User Roles","User Roles",module,Magento_User
+"User Notification Template","User Notification Template",module,Magento_User
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_User
+"Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_User
+"We will disable this feature if the value is empty.","We will disable this feature if the value is empty.",module,Magento_User
+"Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_User
+"Password Lifetime (days)","Password Lifetime (days)",module,Magento_User
+"Password Change","Password Change",module,Magento_User
+Unlock,Unlock,module,Magento_User
+ID,ID,module,Magento_User
+Username,Username,module,Magento_User
+"Last login","Last login",module,Magento_User
+Failures,Failures,module,Magento_User
+Unlocked,Unlocked,module,Magento_User

@@ -21,3 +21,18 @@ Price:,Price:,module,Magento_ProductAlert
 "Products price changed alert","Products price changed alert",module,Magento_ProductAlert
 "%name,","%name,",module,Magento_ProductAlert
 "Products back in stock alert","Products back in stock alert",module,Magento_ProductAlert
+"Product Alerts","Product Alerts",module,Magento_ProductAlert
+"Allow Alert When Product Price Changes","Allow Alert When Product Price Changes",module,Magento_ProductAlert
+"Allow Alert When Product Comes Back in Stock","Allow Alert When Product Comes Back in Stock",module,Magento_ProductAlert
+"Price Alert Email Template","Price Alert Email Template",module,Magento_ProductAlert
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_ProductAlert
+"Stock Alert Email Template","Stock Alert Email Template",module,Magento_ProductAlert
+"Alert Email Sender","Alert Email Sender",module,Magento_ProductAlert
+"Product Alerts Run Settings","Product Alerts Run Settings",module,Magento_ProductAlert
+Frequency,Frequency,module,Magento_ProductAlert
+"Start Time","Start Time",module,Magento_ProductAlert
+"Error Email Recipient","Error Email Recipient",module,Magento_ProductAlert
+"Error Email Sender","Error Email Sender",module,Magento_ProductAlert
+"Error Email Template","Error Email Template",module,Magento_ProductAlert
+"Notify me when the price drops","Notify me when the price drops",module,Magento_ProductAlert
+"Notify me when this product is in stock","Notify me when this product is in stock",module,Magento_ProductAlert

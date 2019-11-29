@@ -11,3 +11,9 @@
 Price,Price,module,Magento_Msrp
 "Actual Price","Actual Price",module,Magento_Msrp
 "Add to Cart","Add to Cart",module,Magento_Msrp
+"Minimum Advertised Price","Minimum Advertised Price",module,Magento_Msrp
+"Enable MAP","Enable MAP",module,Magento_Msrp
+"<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.",module,Magento_Msrp
+"Display Actual Price","Display Actual Price",module,Magento_Msrp
+"Default Popup Text Message","Default Popup Text Message",module,Magento_Msrp
+"Default ""What's This"" Text Message","Default ""What's This"" Text Message",module,Magento_Msrp

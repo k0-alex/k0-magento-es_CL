@@ -55,3 +55,10 @@ Tax,Tax,module,Magento_Quote
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Quote
 "Failed address validation:\n%1","Failed address validation:\n%1",module,Magento_Quote
 "Current customer does not have an active cart.","Current customer does not have an active cart.",module,Magento_Quote
+Carts,Carts,module,Magento_Quote
+"Manage carts","Manage carts",module,Magento_Quote
+"Some addresses can't be used due to the configurations for specific countries.","Some addresses can't be used due to the configurations for specific countries.",module,Magento_Quote
+"Please check the shipping address information.","Please check the shipping address information.",module,Magento_Quote
+"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Quote
+"Please check the billing address information.","Please check the billing address information.",module,Magento_Quote
+"Enter a valid payment method and try again.","Enter a valid payment method and try again.",module,Magento_Quote

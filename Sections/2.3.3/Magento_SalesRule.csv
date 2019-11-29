@@ -138,3 +138,41 @@ Inactive,Inactive,module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
+Promotion,Promotion,module,Magento_SalesRule
+"Auto Generated Specific Coupon Codes","Auto Generated Specific Coupon Codes",module,Magento_SalesRule
+"Web Site","Web Site",module,Magento_SalesRule
+Priority,Priority,module,Magento_SalesRule
+"Cart Price Rule","Cart Price Rule",module,Magento_SalesRule
+Back,Back,module,Magento_SalesRule
+"Currently Active","Currently Active",module,Magento_SalesRule
+"Rule Information","Rule Information",module,Magento_SalesRule
+"Rule Name","Rule Name",module,Magento_SalesRule
+Description,Description,module,Magento_SalesRule
+Websites,Websites,module,Magento_SalesRule
+"Customer Groups","Customer Groups",module,Magento_SalesRule
+Coupon,Coupon,module,Magento_SalesRule
+"
+                    If you select and save the rule you will be able to generate multiple coupon codes.
+                ","
+                    If you select and save the rule you will be able to generate multiple coupon codes.
+                ",module,Magento_SalesRule
+"Use Auto Generation","Use Auto Generation",module,Magento_SalesRule
+"Uses per Coupon","Uses per Coupon",module,Magento_SalesRule
+"
+                    Usage limit enforced for logged in customers only.
+                ","
+                    Usage limit enforced for logged in customers only.
+                ",module,Magento_SalesRule
+"Uses per Customer","Uses per Customer",module,Magento_SalesRule
+From,From,module,Magento_SalesRule
+To,To,module,Magento_SalesRule
+"Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRule
+Apply,Apply,module,Magento_SalesRule
+"Discount Amount","Discount Amount",module,Magento_SalesRule
+"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRule
+"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRule
+"Discount amount is applied to subtotal only","Discount amount is applied to subtotal only",module,Magento_SalesRule
+"Discount amount is applied to subtotal and shipping amount separately","Discount amount is applied to subtotal and shipping amount separately",module,Magento_SalesRule
+"Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRule
+"Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRule
+"Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRule

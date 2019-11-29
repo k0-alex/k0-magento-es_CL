@@ -80,3 +80,41 @@ label,label,module,Magento_Ups
 "United Parcel Service XML","United Parcel Service XML",module,Magento_Ups
 "Field ","Field ",module,Magento_Ups
 " is required."," is required.",module,Magento_Ups
+UPS,UPS,module,Magento_Ups
+"Access License Number","Access License Number",module,Magento_Ups
+"Enabled for Checkout","Enabled for Checkout",module,Magento_Ups
+"Allowed Methods","Allowed Methods",module,Magento_Ups
+"Packages Request Type","Packages Request Type",module,Magento_Ups
+Container,Container,module,Magento_Ups
+"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Ups
+"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Ups
+"Destination Type","Destination Type",module,Magento_Ups
+"Free Method","Free Method",module,Magento_Ups
+"Gateway URL","Gateway URL",module,Magento_Ups
+"Gateway XML URL","Gateway XML URL",module,Magento_Ups
+"Calculate Handling Fee","Calculate Handling Fee",module,Magento_Ups
+"Handling Applied","Handling Applied",module,Magento_Ups
+"Handling Fee","Handling Fee",module,Magento_Ups
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Ups
+"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)",module,Magento_Ups
+"Origin of the Shipment","Origin of the Shipment",module,Magento_Ups
+Password,Password,module,Magento_Ups
+"Pickup Method","Pickup Method",module,Magento_Ups
+"Sort Order","Sort Order",module,Magento_Ups
+Title,Title,module,Magento_Ups
+"Tracking XML URL","Tracking XML URL",module,Magento_Ups
+"UPS Type","UPS Type",module,Magento_Ups
+"Live Account","Live Account",module,Magento_Ups
+"Weight Unit","Weight Unit",module,Magento_Ups
+"User ID","User ID",module,Magento_Ups
+"Enable Negotiated Rates","Enable Negotiated Rates",module,Magento_Ups
+"Request Tax-Inclusive Rate","Request Tax-Inclusive Rate",module,Magento_Ups
+"Shipper Number","Shipper Number",module,Magento_Ups
+"Required for negotiated rates; 6-character UPS","Required for negotiated rates; 6-character UPS",module,Magento_Ups
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Ups
+"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Ups
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Ups
+"Displayed Error Message","Displayed Error Message",module,Magento_Ups
+Mode,Mode,module,Magento_Ups
+"This enables or disables SSL verification of the Magento server by UPS.","This enables or disables SSL verification of the Magento server by UPS.",module,Magento_Ups
+Debug,Debug,module,Magento_Ups

@@ -63,3 +63,5 @@ message,message,module,Magento_UrlRewrite
 "Select Category","Select Category",module,Magento_UrlRewrite
 "The value specified in the URL Key field would generate a URL that already exists.","The value specified in the URL Key field would generate a URL that already exists.",module,Magento_UrlRewrite
 "To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:","To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:",module,Magento_UrlRewrite
+Action,Action,module,Magento_UrlRewrite
+Edit,Edit,module,Magento_UrlRewrite

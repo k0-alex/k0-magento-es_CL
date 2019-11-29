@@ -135,3 +135,46 @@ Save,Save,module,Magento_Tax
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
 "Not yet calculated","Not yet calculated",module,Magento_Tax
+Taxes,Taxes,module,Magento_Tax
+"Tax Section","Tax Section",module,Magento_Tax
+"Tax Classes","Tax Classes",module,Magento_Tax
+"Tax Class for Shipping","Tax Class for Shipping",module,Magento_Tax
+"Default Tax Class for Product","Default Tax Class for Product",module,Magento_Tax
+"Default Tax Class for Customer","Default Tax Class for Customer",module,Magento_Tax
+"Calculation Settings","Calculation Settings",module,Magento_Tax
+"Tax Calculation Method Based On","Tax Calculation Method Based On",module,Magento_Tax
+"Tax Calculation Based On","Tax Calculation Based On",module,Magento_Tax
+"Catalog Prices","Catalog Prices",module,Magento_Tax
+"This sets whether catalog prices entered from Magento Admin include tax.","This sets whether catalog prices entered from Magento Admin include tax.",module,Magento_Tax
+"Shipping Prices","Shipping Prices",module,Magento_Tax
+"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.",module,Magento_Tax
+"Apply Customer Tax","Apply Customer Tax",module,Magento_Tax
+"Apply Discount On Prices","Apply Discount On Prices",module,Magento_Tax
+"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"Apply Tax On","Apply Tax On",module,Magento_Tax
+"Enable Cross Border Trade","Enable Cross Border Trade",module,Magento_Tax
+"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.",module,Magento_Tax
+"Default Tax Destination Calculation","Default Tax Destination Calculation",module,Magento_Tax
+"Default Country","Default Country",module,Magento_Tax
+"Default State","Default State",module,Magento_Tax
+"Default Post Code","Default Post Code",module,Magento_Tax
+"Price Display Settings","Price Display Settings",module,Magento_Tax
+"Display Product Prices In Catalog","Display Product Prices In Catalog",module,Magento_Tax
+"Display Shipping Prices","Display Shipping Prices",module,Magento_Tax
+"Shopping Cart Display Settings","Shopping Cart Display Settings",module,Magento_Tax
+"Display Prices","Display Prices",module,Magento_Tax
+"Display Subtotal","Display Subtotal",module,Magento_Tax
+"Display Shipping Amount","Display Shipping Amount",module,Magento_Tax
+"Include Tax In Order Total","Include Tax In Order Total",module,Magento_Tax
+"Display Full Tax Summary","Display Full Tax Summary",module,Magento_Tax
+"Display Zero Tax Subtotal","Display Zero Tax Subtotal",module,Magento_Tax
+"Orders, Invoices, Credit Memos Display Settings","Orders, Invoices, Credit Memos Display Settings",module,Magento_Tax
+State/Region,State/Region,module,Magento_Tax
+Rate,Rate,module,Magento_Tax
+"Subtotal Only","Subtotal Only",module,Magento_Tax
+"(Excl. Tax)","(Excl. Tax)",module,Magento_Tax
+"(Incl. Tax)","(Incl. Tax)",module,Magento_Tax
+"Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
+"Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
+"Order Total","Order Total",module,Magento_Tax
+"You will be charged for","You will be charged for",module,Magento_Tax

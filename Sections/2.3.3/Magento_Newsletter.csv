@@ -111,3 +111,46 @@ Subscribe,Subscribe,module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","You have been successfully subscribed to our newsletter.",module,Magento_Newsletter
 "Newsletter unsubscription success","Newsletter unsubscription success",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter.",module,Magento_Newsletter
+"Newsletter Template","Newsletter Template",module,Magento_Newsletter
+"Newsletter Section","Newsletter Section",module,Magento_Newsletter
+"General Options","General Options",module,Magento_Newsletter
+Enabled,Enabled,module,Magento_Newsletter
+"Subscription Options","Subscription Options",module,Magento_Newsletter
+"Allow Guest Subscription","Allow Guest Subscription",module,Magento_Newsletter
+"Need to Confirm","Need to Confirm",module,Magento_Newsletter
+"Confirmation Email Sender","Confirmation Email Sender",module,Magento_Newsletter
+"Confirmation Email Template","Confirmation Email Template",module,Magento_Newsletter
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Newsletter
+"Success Email Sender","Success Email Sender",module,Magento_Newsletter
+"Success Email Template","Success Email Template",module,Magento_Newsletter
+"Unsubscription Email Sender","Unsubscription Email Sender",module,Magento_Newsletter
+"Unsubscription Email Template","Unsubscription Email Template",module,Magento_Newsletter
+"We found no problems.","We found no problems.",module,Magento_Newsletter
+Subscriber,Subscriber,module,Magento_Newsletter
+"Queue Start Date","Queue Start Date",module,Magento_Newsletter
+"Queue Subject","Queue Subject",module,Magento_Newsletter
+"Error Code","Error Code",module,Magento_Newsletter
+"Error Text","Error Text",module,Magento_Newsletter
+"Queue Start","Queue Start",module,Magento_Newsletter
+"Queue End","Queue End",module,Magento_Newsletter
+Status,Status,module,Magento_Newsletter
+Processed,Processed,module,Magento_Newsletter
+Recipients,Recipients,module,Magento_Newsletter
+Unsubscribe,Unsubscribe,module,Magento_Newsletter
+Delete,Delete,module,Magento_Newsletter
+CSV,CSV,module,Magento_Newsletter
+"Excel XML","Excel XML",module,Magento_Newsletter
+Email,Email,module,Magento_Newsletter
+Type,Type,module,Magento_Newsletter
+Guest,Guest,module,Magento_Newsletter
+Customer,Customer,module,Magento_Newsletter
+"Customer First Name","Customer First Name",module,Magento_Newsletter
+"Customer Last Name","Customer Last Name",module,Magento_Newsletter
+"Not Activated","Not Activated",module,Magento_Newsletter
+Subscribed,Subscribed,module,Magento_Newsletter
+Unsubscribed,Unsubscribed,module,Magento_Newsletter
+Unconfirmed,Unconfirmed,module,Magento_Newsletter
+"Web Site","Web Site",module,Magento_Newsletter
+Store,Store,module,Magento_Newsletter
+"Store View","Store View",module,Magento_Newsletter
+"Newsletter Subscriptions","Newsletter Subscriptions",module,Magento_Newsletter

@@ -20,3 +20,8 @@ Database,Database,module,Magento_MediaStorage
 "Unable to save file: %1","Unable to save file: %1",module,Magento_MediaStorage
 "Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found",module,Magento_MediaStorage
 "Cannot resize images - product images not found","Cannot resize images - product images not found",module,Magento_MediaStorage
+"Storage Configuration for Media","Storage Configuration for Media",module,Magento_MediaStorage
+"Media Storage","Media Storage",module,Magento_MediaStorage
+"Select Media Database","Select Media Database",module,Magento_MediaStorage
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location and then ""Save Config"". Media will not be available in the new location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button to transfer all media to that location and then ""Save Config"". Media will not be available in the new location until the synchronization process is complete.",module,Magento_MediaStorage
+"Environment Update Time","Environment Update Time",module,Magento_MediaStorage

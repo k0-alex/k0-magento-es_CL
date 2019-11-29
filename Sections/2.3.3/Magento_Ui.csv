@@ -141,3 +141,54 @@ Attention,Attention,module,Magento_Ui
 OK,OK,module,Magento_Ui
 Close,Close,module,Magento_Ui
 Ok,Ok,module,Magento_Ui
+"Label Button 2","Label Button 2",module,Magento_Ui
+"Label Actions One","Label Actions One",module,Magento_Ui
+"Label Actions Two","Label Actions Two",module,Magento_Ui
+"Some Dynamic Actions","Some Dynamic Actions",module,Magento_Ui
+"Log JS Errors to Session Storage","Log JS Errors to Session Storage",module,Magento_Ui
+"If enabled, can be used by functional tests for extended reporting","If enabled, can be used by functional tests for extended reporting",module,Magento_Ui
+"Log JS Errors to Session Storage Key","Log JS Errors to Session Storage Key",module,Magento_Ui
+"Use this key to retrieve collected js errors","Use this key to retrieve collected js errors",module,Magento_Ui
+settings/label,settings/label,module,Magento_Ui
+settings/confirm/title,settings/confirm/title,module,Magento_Ui
+settings/confirm/message,settings/confirm/message,module,Magento_Ui
+settings/callback/provider,settings/callback/provider,module,Magento_Ui
+settings/callback/target,settings/callback/target,module,Magento_Ui
+settings/newViewLabel,settings/newViewLabel,module,Magento_Ui
+settings/title,settings/title,module,Magento_Ui
+settings/description,settings/description,module,Magento_Ui
+settings/addButtonLabel,settings/addButtonLabel,module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    ",module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    ",module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ",module,Magento_Ui
+settings/settingLabel,settings/settingLabel,module,Magento_Ui
+settings/typeSelectorTemplate,settings/typeSelectorTemplate,module,Magento_Ui
+settings/settingTemplate,settings/settingTemplate,module,Magento_Ui
+settings/openDialogTitle,settings/openDialogTitle,module,Magento_Ui
+settings/placeholder,settings/placeholder,module,Magento_Ui
+settings/caption,settings/caption,module,Magento_Ui
+settings/subTitle,settings/subTitle,module,Magento_Ui
+settings/visible,settings/visible,module,Magento_Ui
+settings/showLabel,settings/showLabel,module,Magento_Ui
+settings/breakLine,settings/breakLine,module,Magento_Ui
+settings/required,settings/required,module,Magento_Ui
+settings/size,settings/size,module,Magento_Ui
+settings/notice,settings/notice,module,Magento_Ui
+settings/tooltip/description,settings/tooltip/description,module,Magento_Ui
+settings/addBefore,settings/addBefore,module,Magento_Ui
+settings/addAfter,settings/addAfter,module,Magento_Ui
+Action,Action,module,Magento_Ui
+CSV,CSV,module,Magento_Ui
+"Excel XML","Excel XML",module,Magento_Ui

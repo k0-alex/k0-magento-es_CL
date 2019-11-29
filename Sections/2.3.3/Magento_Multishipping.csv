@@ -98,3 +98,13 @@ Error:,Error:,module,Magento_Multishipping
 "Continue Shopping","Continue Shopping",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
 "Please choose a payment method.","Please choose a payment method.",module,Magento_Multishipping
+"Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
+"Multishipping Settings","Multishipping Settings",module,Magento_Multishipping
+Options,Options,module,Magento_Multishipping
+"Allow Shipping to Multiple Addresses","Allow Shipping to Multiple Addresses",module,Magento_Multishipping
+"Maximum Qty Allowed for Shipping to Multiple Addresses","Maximum Qty Allowed for Shipping to Multiple Addresses",module,Magento_Multishipping
+"Review Order","Review Order",module,Magento_Multishipping
+"We could only complete part of your order.","We could only complete part of your order.",module,Magento_Multishipping
+"We were unable to complete your order.","We were unable to complete your order.",module,Magento_Multishipping
+"Select Shipping Method","Select Shipping Method",module,Magento_Multishipping
+"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Multishipping
