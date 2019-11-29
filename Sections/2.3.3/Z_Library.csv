@@ -1,31 +1,31 @@
-"Backup options","Backup options",lib,lib/web/mage/adminhtml/backup.js
-Warning,Warning,lib,lib/web/mage/adminhtml/backup.js
-Cancel,Cancel,lib,lib/web/mage/adminhtml/backup.js
+"Backup options","Opciones de respaldo",lib,lib/web/mage/adminhtml/backup.js
+Warning,Advertencia,lib,lib/web/mage/adminhtml/backup.js
+Cancel,Cancelar,lib,lib/web/mage/adminhtml/backup.js
 Ok,Ok,lib,lib/web/mage/adminhtml/backup.js
-"Insert Variable","Insert Variable",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentovariable/editor_plugin.js
-"Insert Widget","Insert Widget",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentowidget/editor_plugin.js
-"The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,lib/web/mage/adminhtml/wysiwyg/widget.js
-"No records found.","No records found.",lib,lib/web/mage/backend/suggest.js
-"Recent items","Recent items",lib,lib/web/mage/backend/suggest.js
-"Show all...","Show all...",lib,lib/web/mage/backend/suggest.js
-"Please enter a number greater 0 in this field.","Please enter a number greater 0 in this field.",lib,lib/web/mage/backend/validation.js
-"Please select one of each ratings above.","Please select one of each ratings above.",lib,lib/web/mage/backend/validation.js
-"Please specify Url.","Please specify Url.",lib,lib/web/mage/backend/validation.js
+"Insert Variable","Insertar Variable",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentovariable/editor_plugin.js
+"Insert Widget","Insertar Widget",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentowidget/editor_plugin.js
+"The widget %1 is no longer available. Select a different widget.","El widget %1 ya no está disponible. Seleccione un widget diferente.",lib,lib/web/mage/adminhtml/wysiwyg/widget.js
+"No records found.","No hay registros.",lib,lib/web/mage/backend/suggest.js
+"Recent items","Artículos recientes",lib,lib/web/mage/backend/suggest.js
+"Show all...","Mostrar todos...",lib,lib/web/mage/backend/suggest.js
+"Please enter a number greater 0 in this field.","Ingrese un número mayor 0 en este campo.",lib,lib/web/mage/backend/validation.js
+"Please select one of each ratings above.","Seleccione una de cada una de los puntajes anteriores.",lib,lib/web/mage/backend/validation.js
+"Please specify Url.","Por favor, especifique la Url.",lib,lib/web/mage/backend/validation.js
 "Method %s does not exist on jQuery.decorate","Method %s does not exist on jQuery.decorate",lib,lib/web/mage/decorate.js
-Close,Close,lib,lib/web/mage/dropdown.js
-Next,Next,lib,lib/web/mage/gallery/gallery.js
-Previous,Previous,lib,lib/web/mage/gallery/gallery.js
-"Please wait...","Please wait...",lib,lib/web/mage/loader.js
-Loading...,Loading...,lib,lib/web/mage/loader.js
+Close,Cerrar,lib,lib/web/mage/dropdown.js
+Next,Siguiente,lib,lib/web/mage/gallery/gallery.js
+Previous,Previo,lib,lib/web/mage/gallery/gallery.js
+"Please wait...","Por favor espere...",lib,lib/web/mage/loader.js
+Loading...,Cargando...,lib,lib/web/mage/loader.js
 "Please wait...","Please wait...",lib,lib/web/mage/loader_old.js
-Loading...,Loading...,lib,lib/web/mage/loader_old.js
-"All %1","All %1",lib,lib/web/mage/menu.js
-more,more,lib,lib/web/mage/menu.js
-Cancel,Cancel,lib,lib/web/mage/translate-inline-vde.js
-Save,Save,lib,lib/web/mage/translate-inline-vde.js
-Translate,Translate,lib,lib/web/mage/translate-inline.js
-Submit,Submit,lib,lib/web/mage/translate-inline.js
-Close,Close,lib,lib/web/mage/translate-inline.js
+Loading...,Cargando...,lib,lib/web/mage/loader_old.js
+"All %1","Todos %1",lib,lib/web/mage/menu.js
+more,mas,lib,lib/web/mage/menu.js
+Cancel,Cancelar,lib,lib/web/mage/translate-inline-vde.js
+Save,Guardar,lib,lib/web/mage/translate-inline-vde.js
+Translate,Traducir,lib,lib/web/mage/translate-inline.js
+Submit,Enviar,lib,lib/web/mage/translate-inline.js
+Close,Cerrar,lib,lib/web/mage/translate-inline.js
 "Please enter {0} words or less.","Please enter {0} words or less.",lib,lib/web/mage/validation.js
 "Please enter at least {0} words.","Please enter at least {0} words.",lib,lib/web/mage/validation.js
 "Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",lib,lib/web/mage/validation.js
