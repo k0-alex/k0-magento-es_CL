@@ -98,3 +98,5 @@ Subtotal,Subtotal,module,Magento_Bundle
 "Row Total","Row Total",module,Magento_Bundle
 "Qty Invoiced","Qty Invoiced",module,Magento_Bundle
 "Qty Shipped","Qty Shipped",module,Magento_Bundle
+"Add Products to New Option","Add Products to New Option",module,Magento_Bundle
+"Add Products to Option ""%1""","Add Products to Option ""%1""",module,Magento_Bundle

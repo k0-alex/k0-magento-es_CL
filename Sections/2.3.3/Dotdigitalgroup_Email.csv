@@ -184,3 +184,7 @@ No,No,module,Dotdigitalgroup_Email
 Rating,Rating,module,Dotdigitalgroup_Email
 Comment,Comment,module,Dotdigitalgroup_Email
 "See what our customers say about us","See what our customers say about us",module,Dotdigitalgroup_Email
+Copied!,Copied!,module,Dotdigitalgroup_Email
+"Click to copy URL","Click to copy URL",module,Dotdigitalgroup_Email
+"You are about to allow dotdigital to import customers that haven't explicitly opted into your emails. This means Customers and Guests address book will contain contacts that you might not be able to reach out, depending on the applicable regulations. Do you wish to continue?","You are about to allow dotdigital to import customers that haven't explicitly opted into your emails. This means Customers and Guests address book will contain contacts that you might not be able to reach out, depending on the applicable regulations. Do you wish to continue?",module,Dotdigitalgroup_Email
+"You are about to enable this feature for customers that haven't explicitly opted into your emails. Do you wish to continue?","You are about to enable this feature for customers that haven't explicitly opted into your emails. Do you wish to continue?",module,Dotdigitalgroup_Email

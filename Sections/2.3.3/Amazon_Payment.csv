@@ -44,3 +44,4 @@ Password,Password,module,Amazon_Payment
 Login,Login,module,Amazon_Payment
 "Forgot Your Password?","Forgot Your Password?",module,Amazon_Payment
 "Place Order","Place Order",module,Amazon_Payment
+"Your Amazon session has expired.  Please sign in again by clicking the Amazon Pay Button.","Your Amazon session has expired.  Please sign in again by clicking the Amazon Pay Button.",module,Amazon_Payment

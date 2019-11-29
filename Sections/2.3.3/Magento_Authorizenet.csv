@@ -44,3 +44,4 @@ void,void,module,Magento_Authorizenet
 "CAVV Response","CAVV Response",module,Magento_Authorizenet
 "Fraud Filters","Fraud Filters",module,Magento_Authorizenet
 "Place Order","Place Order",module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","Sorry, but something went wrong. Please contact the seller.",module,Magento_Authorizenet

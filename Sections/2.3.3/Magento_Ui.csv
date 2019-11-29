@@ -20,3 +20,13 @@ Select,Select,module,Magento_Ui
 Cancel,Cancel,module,Magento_Ui
 Back,Back,module,Magento_Ui
 Next,Next,module,Magento_Ui
+"This element contains invalid data. Please resolve this before saving.","This element contains invalid data. Please resolve this before saving.",module,Magento_Ui
+"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Ui
+"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
+Assign,Assign,module,Magento_Ui
+Options,Options,module,Magento_Ui
+"records found","records found",module,Magento_Ui
+selected,selected,module,Magento_Ui
+of,of,module,Magento_Ui
+Filters,Filters,module,Magento_Ui
+Tooltip,Tooltip,module,Magento_Ui

@@ -363,3 +363,47 @@ Type,Type,module,Temando_Shipping
 "Return From Name","Return From Name",module,Temando_Shipping
 "Return To Name","Return To Name",module,Temando_Shipping
 "Total Packages","Total Packages",module,Temando_Shipping
+"Magento Shipping Attribute","Magento Shipping Attribute",module,Temando_Shipping
+"Magento Product Attribute","Magento Product Attribute",module,Temando_Shipping
+Cancel,Cancel,module,Temando_Shipping
+"New Mapping","New Mapping",module,Temando_Shipping
+"Go to Pickup","Go to Pickup",module,Temando_Shipping
+"Your %store_name order confirmation","Your %store_name order confirmation",module,Temando_Shipping
+"%customer_name,","%customer_name,",module,Temando_Shipping
+"Thank you for your order from %store_name.","Thank you for your order from %store_name.",module,Temando_Shipping
+"We will send you a notification once your items are ready for pickup.","We will send you a notification once your items are ready for pickup.",module,Temando_Shipping
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",module,Temando_Shipping
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",module,Temando_Shipping
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>",module,Temando_Shipping
+" or call us at <a href=""tel:%store_phone"">%store_phone</a>"," or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Temando_Shipping
+"Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Temando_Shipping
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",module,Temando_Shipping
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",module,Temando_Shipping
+"Billing Info","Billing Info",module,Temando_Shipping
+"Shipping Info","Shipping Info",module,Temando_Shipping
+"%name,","%name,",module,Temando_Shipping
+"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Temando_Shipping
+"%store_name - Your pickup was canceled","%store_name - Your pickup was canceled",module,Temando_Shipping
+"Your Pickup <span class=""no-link"">#%pickup_id</span> for Order <span class=""no-link"">#%increment_id</span> has been cancelled, please contact us at <a href=""mailto:%store_email"">%store_email</a>.","Your Pickup <span class=""no-link"">#%pickup_id</span> for Order <span class=""no-link"">#%increment_id</span> has been cancelled, please contact us at <a href=""mailto:%store_email"">%store_email</a>.",module,Temando_Shipping
+"Your Pickup <span class=""no-link"">#%pickup_id</span>","Your Pickup <span class=""no-link"">#%pickup_id</span>",module,Temando_Shipping
+"Pickup Info","Pickup Info",module,Temando_Shipping
+"%store_name - Your pickup was collected","%store_name - Your pickup was collected",module,Temando_Shipping
+"Your items have now been collected.","Your items have now been collected.",module,Temando_Shipping
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",module,Temando_Shipping
+"Your Pickup <span class=""no-link"">#%pickup_id</span> for Order <span class=""no-link"">#%increment_id</span>","Your Pickup <span class=""no-link"">#%pickup_id</span> for Order <span class=""no-link"">#%increment_id</span>",module,Temando_Shipping
+"%store_name - Your pickup is ready to be collected","%store_name - Your pickup is ready to be collected",module,Temando_Shipping
+"Items from your recent order #%increment_id are now ready for pickup.","Items from your recent order #%increment_id are now ready for pickup.",module,Temando_Shipping
+"Your pickup confirmation is below. Thank you again for your business.","Your pickup confirmation is below. Thank you again for your business.",module,Temando_Shipping
+"Your %store_name shipment has been cancelled","Your %store_name shipment has been cancelled",module,Temando_Shipping
+"Your shipment #%shipment_id for order #%order_id from %store_name has been cancelled.","Your shipment #%shipment_id for order #%order_id from %store_name has been cancelled.",module,Temando_Shipping
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Temando_Shipping
+"Your shipping details are below.","Your shipping details are below.",module,Temando_Shipping
+"Collection Point Selection","Collection Point Selection",module,Temando_Shipping
+Country,Country,module,Temando_Shipping
+"Postal Code","Postal Code",module,Temando_Shipping
+Search,Search,module,Temando_Shipping
+"Not Available","Not Available",module,Temando_Shipping
+"Specific Openings","Specific Openings",module,Temando_Shipping
+"Specific Closures","Specific Closures",module,Temando_Shipping
+"Delivery Options","Delivery Options",module,Temando_Shipping
+"Select Pickup Location","Select Pickup Location",module,Temando_Shipping

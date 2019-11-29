@@ -301,3 +301,6 @@ Actions,Actions,module,Magento_Backend
 "This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Backend
 "The information in this tab has been changed.","The information in this tab has been changed.",module,Magento_Backend
 Loading...,Loading...,module,Magento_Backend
+"We could not detect a size.","We could not detect a size.",module,Magento_Backend
+"Warning message","Warning message",module,Magento_Backend
+"This operation can take a long time","This operation can take a long time",module,Magento_Backend

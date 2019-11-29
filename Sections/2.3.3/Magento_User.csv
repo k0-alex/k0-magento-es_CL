@@ -111,3 +111,17 @@ All,All,module,Magento_User
 Resources,Resources,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?",module,Magento_User
+"New admin user '%user_name' created","New admin user '%user_name' created",module,Magento_User
+"Hello,","Hello,",module,Magento_User
+"A new admin account was created for %first_name, %last_name using %email.","A new admin account was created for %first_name, %last_name using %email.",module,Magento_User
+"If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
+"or call us at %store_phone","or call us at %store_phone",module,Magento_User
+"Thanks,","Thanks,",module,Magento_User
+"Password Reset Confirmation for %name","Password Reset Confirmation for %name",module,Magento_User
+"%name,","%name,",module,Magento_User
+"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
+"If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
+"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_User
+"Thank you,","Thank you,",module,Magento_User
+"New %changes for %user_name","New %changes for %user_name",module,Magento_User
+"We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User

@@ -37,3 +37,5 @@ Never,Never,module,Magento_Sitemap
 None,None,module,Magento_Sitemap
 "Base Only","Base Only",module,Magento_Sitemap
 All,All,module,Magento_Sitemap
+"Sitemap generate Warnings","Sitemap generate Warnings",module,Magento_Sitemap
+"Sitemap Generation Warnings","Sitemap Generation Warnings",module,Magento_Sitemap

@@ -657,3 +657,29 @@ Close,Close,module,Magento_Sales
 "Add to Cart","Add to Cart",module,Magento_Sales
 "Product is not salable.","Product is not salable.",module,Magento_Sales
 Search,Search,module,Magento_Sales
+"Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
+"%name,","%name,",module,Magento_Sales
+"Thank you for your order from %store_name.","Thank you for your order from %store_name.",module,Magento_Sales
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",module,Magento_Sales
+"Billing Info","Billing Info",module,Magento_Sales
+"Shipping Info","Shipping Info",module,Magento_Sales
+"Update to your %store_name credit memo","Update to your %store_name credit memo",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",module,Magento_Sales
+"Invoice for your %store_name order","Invoice for your %store_name order",module,Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",module,Magento_Sales
+"Update to your %store_name invoice","Update to your %store_name invoice",module,Magento_Sales
+"Your %store_name order confirmation","Your %store_name order confirmation",module,Magento_Sales
+"%customer_name,","%customer_name,",module,Magento_Sales
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",module,Magento_Sales
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Magento_Sales
+"Update to your %store_name order","Update to your %store_name order",module,Magento_Sales
+"Your %store_name order has shipped","Your %store_name order has shipped",module,Magento_Sales
+"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",module,Magento_Sales
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",module,Magento_Sales
+"Update to your %store_name shipment","Update to your %store_name shipment",module,Magento_Sales

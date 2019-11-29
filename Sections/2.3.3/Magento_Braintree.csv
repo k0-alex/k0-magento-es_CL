@@ -36,3 +36,10 @@ Delete,Delete,module,Magento_Braintree
 "Credit Card Information","Credit Card Information",module,Magento_Braintree
 "What is this?","What is this?",module,Magento_Braintree
 "Place Order","Place Order",module,Magento_Braintree
+"This payment is not available","This payment is not available",module,Magento_Braintree
+"Braintree can't be initialized.","Braintree can't be initialized.",module,Magento_Braintree
+MM,MM,module,Magento_Braintree
+YY,YY,module,Magento_Braintree
+"Some payment input fields are invalid.","Some payment input fields are invalid.",module,Magento_Braintree
+"Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_Braintree
+"Payment ","Payment ",module,Magento_Braintree

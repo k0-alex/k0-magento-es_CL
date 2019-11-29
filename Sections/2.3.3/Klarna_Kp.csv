@@ -9,3 +9,4 @@ link,link,module,Klarna_Kp
 "Please check credentials","Please check credentials",module,Klarna_Kp
 "Unable to initialize Klarna payments session","Unable to initialize Klarna payments session",module,Klarna_Kp
 "Place Order","Place Order",module,Klarna_Kp
+"An unknown error occurred. Please try another payment method","An unknown error occurred. Please try another payment method",module,Klarna_Kp

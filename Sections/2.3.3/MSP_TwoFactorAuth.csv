@@ -42,3 +42,4 @@ Authy,Authy,module,MSP_TwoFactorAuth
 "OneTouch Message","OneTouch Message",module,MSP_TwoFactorAuth
 "Configuration reset","Configuration reset",module,MSP_TwoFactorAuth
 "Trusted devices","Trusted devices",module,MSP_TwoFactorAuth
+"Trust this device, do not ask again","Trust this device, do not ask again",module,MSP_TwoFactorAuth

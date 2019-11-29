@@ -1,1 +1,2 @@
 "Authentication Failed. Your card issuer cannot authenticate this card. Please select another card or form of payment to complete your purchase.","Authentication Failed. Your card issuer cannot authenticate this card. Please select another card or form of payment to complete your purchase.",module,Magento_CardinalCommerce
+"Authentication Failed. Please try again with another form of payment.","Authentication Failed. Please try again with another form of payment.",module,Magento_CardinalCommerce

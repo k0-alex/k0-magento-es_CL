@@ -45,3 +45,5 @@ or,or,module,Amazon_Core
 "Save Credentials","Save Credentials",module,Amazon_Core
 "Back to register or connect an account","Back to register or connect an account",module,Amazon_Core
 "Amazon Pay","Amazon Pay",module,Amazon_Core
+"Invalid JSON credentials entered, please try again.","Invalid JSON credentials entered, please try again.",module,Amazon_Core
+"Credential fields successfully updated and being saved.","Credential fields successfully updated and being saved.",module,Amazon_Core

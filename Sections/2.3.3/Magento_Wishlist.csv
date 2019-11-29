@@ -121,3 +121,7 @@ Configure,Configure,module,Magento_Wishlist
 Delete,Delete,module,Magento_Wishlist
 "Product Details and Comment","Product Details and Comment",module,Magento_Wishlist
 "Add To Wishlist","Add To Wishlist",module,Magento_Wishlist
+"Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
+"Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
+"View all Wish List items","View all Wish List items",module,Magento_Wishlist

@@ -21,3 +21,4 @@ Dismiss,Dismiss,module,Magento_AsynchronousOperations
 "%1 items selected for mass update","%1 items selected for mass update",module,Magento_AsynchronousOperations
 ", %1 successfully updated",", %1 successfully updated",module,Magento_AsynchronousOperations
 ", %1 failed to update",", %1 failed to update",module,Magento_AsynchronousOperations
+"Something went wrong.","Something went wrong.",module,Magento_AsynchronousOperations

@@ -28,3 +28,7 @@ Invitee,Invitee,module,Magento_SendFriend
 "Add Invitee","Add Invitee",module,Magento_SendFriend
 "Send Email","Send Email",module,Magento_SendFriend
 Back,Back,module,Magento_SendFriend
+"Welcome, %name","Welcome, %name",module,Magento_SendFriend
+"%name,","%name,",module,Magento_SendFriend
+"%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
+"Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
