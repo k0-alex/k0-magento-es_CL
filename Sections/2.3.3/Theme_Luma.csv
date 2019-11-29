@@ -1,11 +1,11 @@
 "Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
-Previous,Previous,theme,frontend/Magento/luma
-Remove,Remove,theme,frontend/Magento/luma
-"Remove This Item","Remove This Item",theme,frontend/Magento/luma
-"Shop By","Shop By",theme,frontend/Magento/luma
-"Clear All","Clear All",theme,frontend/Magento/luma
+Previous,Previo,theme,frontend/Magento/luma
+Remove,Eliminar,theme,frontend/Magento/luma
+"Remove This Item","Eliminar este Articulo",theme,frontend/Magento/luma
+"Shop By","Comprar Por",theme,frontend/Magento/luma
+"Clear All","Limpiar Todo",theme,frontend/Magento/luma
 "Shopping Options","Shopping Options",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","Mi Cuenta",theme,frontend/Magento/luma
 "Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
@@ -52,5 +52,4 @@ Footer,Footer,theme,frontend/Magento/luma
 "Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Actualizado su %store_name envío",theme,frontend/Magento/luma
