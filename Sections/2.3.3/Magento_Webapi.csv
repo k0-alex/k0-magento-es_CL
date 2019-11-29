@@ -12,3 +12,14 @@
 message,message,module,Magento_Webapi
 Message,Message,module,Magento_Webapi
 "Soap fault reason.","Soap fault reason.",module,Magento_Webapi
+"Manage Customers","Manage Customers",module,Magento_Webapi
+"Create Customer","Create Customer",module,Magento_Webapi
+"Edit Customer","Edit Customer",module,Magento_Webapi
+"Get Customer","Get Customer",module,Magento_Webapi
+"Delete Customer","Delete Customer",module,Magento_Webapi
+"Magento Web API","Magento Web API",module,Magento_Webapi
+"SOAP Settings","SOAP Settings",module,Magento_Webapi
+"Default Response Charset","Default Response Charset",module,Magento_Webapi
+"If empty, UTF-8 will be used.","If empty, UTF-8 will be used.",module,Magento_Webapi
+"Web Services Configuration","Web Services Configuration",module,Magento_Webapi
+"REST and SOAP configurations, generated WSDL file","REST and SOAP configurations, generated WSDL file",module,Magento_Webapi

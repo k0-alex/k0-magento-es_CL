@@ -138,3 +138,63 @@ Vertex,Vertex,module,Vertex_Tax
 "Vertex tax calculation data","Vertex tax calculation data",module,Vertex_Tax
 "Vertex Customer Code","Vertex Customer Code",module,Vertex_Tax
 "Vertex Messages","Vertex Messages",module,Vertex_Tax
+"Vertex Settings","Vertex Settings",module,Vertex_Tax
+"Use Vertex Tax Links","Use Vertex Tax Links",module,Vertex_Tax
+"Vertex Tax Calculation","Vertex Tax Calculation",module,Vertex_Tax
+"Vertex API Status","Vertex API Status",module,Vertex_Tax
+"Vertex Calculation API Url","Vertex Calculation API Url",module,Vertex_Tax
+"Vertex Address Validation API Url","Vertex Address Validation API Url",module,Vertex_Tax
+"Vertex Trusted Id","Vertex Trusted Id",module,Vertex_Tax
+"When to send invoice to Vertex","When to send invoice to Vertex",module,Vertex_Tax
+"Invoice When Order Status","Invoice When Order Status",module,Vertex_Tax
+"Use Vertex for orders shipping to","Use Vertex for orders shipping to",module,Vertex_Tax
+"The billing address will be used when a shipping address is absent.","The billing address will be used when a shipping address is absent.",module,Vertex_Tax
+"Summarize Tax by","Summarize Tax by",module,Vertex_Tax
+"Please select how Tax should be summarized","Please select how Tax should be summarized",module,Vertex_Tax
+"Vertex Company Information","Vertex Company Information",module,Vertex_Tax
+"Company Code","Company Code",module,Vertex_Tax
+"Location Code","Location Code",module,Vertex_Tax
+"Company Street Address","Company Street Address",module,Vertex_Tax
+"Company Street Address 2","Company Street Address 2",module,Vertex_Tax
+"Company City","Company City",module,Vertex_Tax
+"Company Country","Company Country",module,Vertex_Tax
+"Company State","Company State",module,Vertex_Tax
+"Company Postal Code","Company Postal Code",module,Vertex_Tax
+"Vertex Delivery Terms","Vertex Delivery Terms",module,Vertex_Tax
+"Global Delivery Term","Global Delivery Term",module,Vertex_Tax
+"Delivery Term Override","Delivery Term Override",module,Vertex_Tax
+"Override the Global Delivery Term based on the country being shipped to","Override the Global Delivery Term based on the country being shipped to",module,Vertex_Tax
+"Vertex Shipping Product Codes","Vertex Shipping Product Codes",module,Vertex_Tax
+"Vertex Flexible Fields","Vertex Flexible Fields",module,Vertex_Tax
+"Use optional Flexible Fields to identify taxability decisions based on Magento information beyond the standard customer and product taxability drivers defined by Vertex.","Use optional Flexible Fields to identify taxability decisions based on Magento information beyond the standard customer and product taxability drivers defined by Vertex.",module,Vertex_Tax
+"Code Fields","Code Fields",module,Vertex_Tax
+"Numeric Fields","Numeric Fields",module,Vertex_Tax
+"Date Fields","Date Fields",module,Vertex_Tax
+"Default Customer Code","Default Customer Code",module,Vertex_Tax
+"Refund Adjustments Class","Refund Adjustments Class",module,Vertex_Tax
+"Adjustment Fee Code","Adjustment Fee Code",module,Vertex_Tax
+"Adjustment Refund Code","Adjustment Refund Code",module,Vertex_Tax
+"Gift Wrap For Order Class","Gift Wrap For Order Class",module,Vertex_Tax
+"Gift Wrap For Order Code","Gift Wrap For Order Code",module,Vertex_Tax
+"Gift Wrap Class For Single Product","Gift Wrap Class For Single Product",module,Vertex_Tax
+"Gift Wrap Code Prefix For Single Product","Gift Wrap Code Prefix For Single Product",module,Vertex_Tax
+"Item Line Class For Printed Gift Card","Item Line Class For Printed Gift Card",module,Vertex_Tax
+"Item Line Code For Printed Gift Card","Item Line Code For Printed Gift Card",module,Vertex_Tax
+"Class For Reward Points Discount Line Item","Class For Reward Points Discount Line Item",module,Vertex_Tax
+"Product Code For Reward Points Discount Line Item","Product Code For Reward Points Discount Line Item",module,Vertex_Tax
+"Vertex Logging","Vertex Logging",module,Vertex_Tax
+"Vertex Request Logging","Vertex Request Logging",module,Vertex_Tax
+"When enabled, all API requests are tracked.","When enabled, all API requests are tracked.",module,Vertex_Tax
+"Log Rotation","Log Rotation",module,Vertex_Tax
+"Perform an action on logs over a certain age at a regular interval","Perform an action on logs over a certain age at a regular interval",module,Vertex_Tax
+"Rotation Action","Rotation Action",module,Vertex_Tax
+"When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>","When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>",module,Vertex_Tax
+"Log Entry Lifetime (days)","Log Entry Lifetime (days)",module,Vertex_Tax
+"How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible","How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible",module,Vertex_Tax
+"Rotation Frequency","Rotation Frequency",module,Vertex_Tax
+"How often the Rotation Action should be applied to the logs","How often the Rotation Action should be applied to the logs",module,Vertex_Tax
+"Rotation Time","Rotation Time",module,Vertex_Tax
+Vertex,Vertex,module,Vertex_Tax
+"Vertex tax calculation data","Vertex tax calculation data",module,Vertex_Tax
+"Vertex Customer Code","Vertex Customer Code",module,Vertex_Tax
+"Vertex Messages","Vertex Messages",module,Vertex_Tax

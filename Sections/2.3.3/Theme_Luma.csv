@@ -53,3 +53,4 @@ Footer,Footer,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"My Account","My Account",theme,frontend/Magento/luma

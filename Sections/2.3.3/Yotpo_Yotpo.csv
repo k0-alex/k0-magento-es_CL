@@ -54,3 +54,30 @@ Setup,Setup,module,Yotpo_Yotpo
 "Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).","Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).",module,Yotpo_Yotpo
 "Orders Sync Statuses","Orders Sync Statuses",module,Yotpo_Yotpo
 "Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.","Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.",module,Yotpo_Yotpo
+Yotpo,Yotpo,module,Yotpo_Yotpo
+"Product Reviews Settings","Product Reviews Settings",module,Yotpo_Yotpo
+"Yotpo Analytics","Yotpo Analytics",module,Yotpo_Yotpo
+"Reviews and Visual Marketing","Reviews and Visual Marketing",module,Yotpo_Yotpo
+Setup,Setup,module,Yotpo_Yotpo
+"Enable Yotpo","Enable Yotpo",module,Yotpo_Yotpo
+"To connect Yotpo to your store, enter your <a href=""https://support.yotpo.com/en/article/finding-your-yotpo-app-key-and-api-secret"" title=""App Key and API Secret"" target=""_blank"" style=""color:#2b7dbd"">App Key and API Secret</a> in the fields below and save your configuration.","To connect Yotpo to your store, enter your <a href=""https://support.yotpo.com/en/article/finding-your-yotpo-app-key-and-api-secret"" title=""App Key and API Secret"" target=""_blank"" style=""color:#2b7dbd"">App Key and API Secret</a> in the fields below and save your configuration.",module,Yotpo_Yotpo
+"App Key","App Key",module,Yotpo_Yotpo
+"Note: Additional stores must be connected to their own App Key via Store View settings.","Note: Additional stores must be connected to their own App Key via Store View settings.",module,Yotpo_Yotpo
+"API Secret","API Secret",module,Yotpo_Yotpo
+"<a href=""https://support.yotpo.com/en/article/finding-your-app-key-and-your-secret-key"" target=""_blank"" title=""I can't find my API Secret"" style=""color:#2b7dbd"">I can't find my API Secret</a>","<a href=""https://support.yotpo.com/en/article/finding-your-app-key-and-your-secret-key"" target=""_blank"" title=""I can't find my API Secret"" style=""color:#2b7dbd"">I can't find my API Secret</a>",module,Yotpo_Yotpo
+"Module Version","Module Version",module,Yotpo_Yotpo
+"Widget Settings","Widget Settings",module,Yotpo_Yotpo
+"Show Reviews Widget","Show Reviews Widget",module,Yotpo_Yotpo
+"Show star rating on category pages","Show star rating on category pages",module,Yotpo_Yotpo
+"Show star rating on product pages","Show star rating on product pages",module,Yotpo_Yotpo
+"Show Q&A Bottom-line","Show Q&A Bottom-line",module,Yotpo_Yotpo
+"Hide Magento Reviews","Hide Magento Reviews",module,Yotpo_Yotpo
+"Enable Debug Mode","Enable Debug Mode",module,Yotpo_Yotpo
+"Enable in order to log all Yotpo processes when Magento debug mode enabled.","Enable in order to log all Yotpo processes when Magento debug mode enabled.",module,Yotpo_Yotpo
+"Sync Settings","Sync Settings",module,Yotpo_Yotpo
+"Sync Status","Sync Status",module,Yotpo_Yotpo
+"Orders Sync From Date","Orders Sync From Date",module,Yotpo_Yotpo
+"Orders Sync Limit","Orders Sync Limit",module,Yotpo_Yotpo
+"Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).","Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).",module,Yotpo_Yotpo
+"Orders Sync Statuses","Orders Sync Statuses",module,Yotpo_Yotpo
+"Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.","Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.",module,Yotpo_Yotpo
