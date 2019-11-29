@@ -1,0 +1,33 @@
+Country,Country,module,Magento_OfflineShipping
+Region/State,Region/State,module,Magento_OfflineShipping
+"Zip/Postal Code","Zip/Postal Code",module,Magento_OfflineShipping
+"Shipping Price","Shipping Price",module,Magento_OfflineShipping
+"Export CSV","Export CSV",module,Magento_OfflineShipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module.",module,Magento_OfflineShipping
+"Store Pickup","Store Pickup",module,Magento_OfflineShipping
+"Weight vs. Destination","Weight vs. Destination",module,Magento_OfflineShipping
+"Price vs. Destination","Price vs. Destination",module,Magento_OfflineShipping
+"# of Items vs. Destination","# of Items vs. Destination",module,Magento_OfflineShipping
+"Weight (and above)","Weight (and above)",module,Magento_OfflineShipping
+"Order Subtotal (and above)","Order Subtotal (and above)",module,Magento_OfflineShipping
+"# of Items (and above)","# of Items (and above)",module,Magento_OfflineShipping
+"The ""%1"" code type for Table Rate is incorrect. Verify the type and try again.","The ""%1"" code type for Table Rate is incorrect. Verify the type and try again.",module,Magento_OfflineShipping
+"The ""%1: %2"" code type for Table Rate is incorrect. Verify the type and try again.","The ""%1: %2"" code type for Table Rate is incorrect. Verify the type and try again.",module,Magento_OfflineShipping
+None,None,module,Magento_OfflineShipping
+"Per Order","Per Order",module,Magento_OfflineShipping
+"Per Item","Per Item",module,Magento_OfflineShipping
+"Unable to import data","Unable to import data",module,Magento_OfflineShipping
+"Something went wrong while importing table rates.","Something went wrong while importing table rates.",module,Magento_OfflineShipping
+"We couldn't import this file because of these errors: %1","We couldn't import this file because of these errors: %1",module,Magento_OfflineShipping
+"Requested column ""%1"" cannot be resolved","Requested column ""%1"" cannot be resolved",module,Magento_OfflineShipping
+"Column ""%1"" not found","Column ""%1"" not found",module,Magento_OfflineShipping
+"The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again.","The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again.",module,Magento_OfflineShipping
+"The ""%1"" country in row number ""%2"" is incorrect. Verify the country and try again.","The ""%1"" country in row number ""%2"" is incorrect. Verify the country and try again.",module,Magento_OfflineShipping
+"The ""%1"" region or state in row number ""%2"" is incorrect. Verify the region or state and try again.","The ""%1"" region or state in row number ""%2"" is incorrect. Verify the region or state and try again.",module,Magento_OfflineShipping
+"Please correct %1 ""%2"" in the Row #%3.","Please correct %1 ""%2"" in the Row #%3.",module,Magento_OfflineShipping
+"The ""%1"" shipping price in row number ""%2"" is incorrect. Verify the shipping price and try again.","The ""%1"" shipping price in row number ""%2"" is incorrect. Verify the shipping price and try again.",module,Magento_OfflineShipping
+"Duplicate Row #%1 (duplicates row #%2)","Duplicate Row #%1 (duplicates row #%2)",module,Magento_OfflineShipping
+"The Table Rates File Format is incorrect. Verify the format and try again.","The Table Rates File Format is incorrect. Verify the format and try again.",module,Magento_OfflineShipping
+No,No,module,Magento_OfflineShipping
+"For matching items only","For matching items only",module,Magento_OfflineShipping
+"For shipment with matching items","For shipment with matching items",module,Magento_OfflineShipping

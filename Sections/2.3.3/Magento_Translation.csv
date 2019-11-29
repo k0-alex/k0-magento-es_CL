@@ -1,0 +1,5 @@
+"Dictionary (Translation on Storefront side)","Dictionary (Translation on Storefront side)",module,Magento_Translation
+"Embedded (Translation on Admin side)","Embedded (Translation on Admin side)",module,Magento_Translation
+"Error while translating phrase ""%s"" in file %s.","Error while translating phrase ""%s"" in file %s.",module,Magento_Translation
+"Error while generating js translation dictionary: ""%s""","Error while generating js translation dictionary: ""%s""",module,Magento_Translation
+translate,translate,module,Magento_Translation

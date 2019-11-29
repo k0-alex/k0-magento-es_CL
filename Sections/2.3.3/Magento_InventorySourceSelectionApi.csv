@@ -1,0 +1,2 @@
+"There is no such Source Selection Algorithm implemented: %1","There is no such Source Selection Algorithm implemented: %1",module,Magento_InventorySourceSelectionApi
+"%1 doesn't implement SourceSelectionInterface","%1 doesn't implement SourceSelectionInterface",module,Magento_InventorySourceSelectionApi

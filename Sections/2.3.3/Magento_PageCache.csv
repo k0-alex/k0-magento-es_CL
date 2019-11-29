@@ -1,0 +1,6 @@
+"Export VCL for Varnish %1","Export VCL for Varnish %1",module,Magento_PageCache
+"Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Access List value ""%1"" is not valid. Please use only IP addresses and host names.",module,Magento_PageCache
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.",module,Magento_PageCache
+"Built-in Cache","Built-in Cache",module,Magento_PageCache
+"Varnish Cache (Recommended)","Varnish Cache (Recommended)",module,Magento_PageCache
+"Unsupported varnish version","Unsupported varnish version",module,Magento_PageCache

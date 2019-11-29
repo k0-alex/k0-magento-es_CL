@@ -1,0 +1,23 @@
+Approved,Approved,module,Magento_Signifyd
+Declined,Declined,module,Magento_Signifyd
+Pending,Pending,module,Magento_Signifyd
+Canceled,Canceled,module,Magento_Signifyd
+"In Review","In Review",module,Magento_Signifyd
+Unrequested,Unrequested,module,Magento_Signifyd
+"Learn more","Learn more",module,Magento_Signifyd
+"This order already has associated case entity","This order already has associated case entity",module,Magento_Signifyd
+"The case entity should not be empty.","The case entity should not be empty.",module,Magento_Signifyd
+"Cannot update Case entity.","Cannot update Case entity.",module,Magento_Signifyd
+"The ""%1"" should not be empty.","The ""%1"" should not be empty.",module,Magento_Signifyd
+"Case entity not found.","Case entity not found.",module,Magento_Signifyd
+"Case Update: New score for the order is %1. Previous score was %2.","Case Update: New score for the order is %1. Previous score was %2.",module,Magento_Signifyd
+"Awaiting the Signifyd guarantee disposition.","Awaiting the Signifyd guarantee disposition.",module,Magento_Signifyd
+"Only single entrance of ""%1"" node is required.","Only single entrance of ""%1"" node is required.",module,Magento_Signifyd
+"Not empty value for ""%1"" node is required.","Not empty value for ""%1"" node is required.",module,Magento_Signifyd
+"%1 must implement %2","%1 must implement %2",module,Magento_Signifyd
+Error,Error,module,Magento_Signifyd
+"Cannot generate message.","Cannot generate message.",module,Magento_Signifyd
+"Message is generated.","Message is generated.",module,Magento_Signifyd
+"Case with the same order id already exists.","Case with the same order id already exists.",module,Magento_Signifyd
+"Fraud Protection Information","Fraud Protection Information",module,Magento_Signifyd
+"Signifyd Guarantee Decision","Signifyd Guarantee Decision",module,Magento_Signifyd

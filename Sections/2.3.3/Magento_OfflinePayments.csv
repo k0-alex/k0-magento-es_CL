@@ -1,0 +1,8 @@
+"Purchase order number is a required field.","Purchase order number is a required field.",module,Magento_OfflinePayments
+"Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
+"Send Check to:","Send Check to:",module,Magento_OfflinePayments
+"Purchase Order Number","Purchase Order Number",module,Magento_OfflinePayments
+"Make Check payable to: %1","Make Check payable to: %1",module,Magento_OfflinePayments
+"Purchase Order Number: %1","Purchase Order Number: %1",module,Magento_OfflinePayments
+"Make Check payable to","Make Check payable to",module,Magento_OfflinePayments
+"Send Check to","Send Check to",module,Magento_OfflinePayments

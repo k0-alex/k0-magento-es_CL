@@ -1,0 +1,3 @@
+"""%field"" must be list of SourceCarrierLinkInterface.","""%field"" must be list of SourceCarrierLinkInterface.",module,Magento_InventoryShipping
+"You can't configure ""%field"" because you have chosen Global Shipping configuration.","You can't configure ""%field"" because you have chosen Global Shipping configuration.",module,Magento_InventoryShipping
+"Carrier with code: ""%carrier"" don't exists.","Carrier with code: ""%carrier"" don't exists.",module,Magento_InventoryShipping

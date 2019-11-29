@@ -1,0 +1,2 @@
+"The requested sku is not assigned to given stock.","The requested sku is not assigned to given stock.",module,Magento_InventoryExportStock
+"Something went wrong. Export couldn't be executed, See log files for error details","Something went wrong. Export couldn't be executed, See log files for error details",module,Magento_InventoryExportStock
