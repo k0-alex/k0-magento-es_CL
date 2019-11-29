@@ -4,3 +4,23 @@ button_label,button_label,module,Magento_AdvancedSearch
 "Missing search engine parameter.","Missing search engine parameter.",module,Magento_AdvancedSearch
 "Successful! Test again?","Successful! Test again?",module,Magento_AdvancedSearch
 "Connection failed! Test again?","Connection failed! Test again?",module,Magento_AdvancedSearch
+"Enable Search Recommendations","Enable Search Recommendations",module,Magento_AdvancedSearch
+"When you enable this option your site may slow down.","When you enable this option your site may slow down.",module,Magento_AdvancedSearch
+"Search Recommendations Count","Search Recommendations Count",module,Magento_AdvancedSearch
+"Show Results Count for Each Recommendation","Show Results Count for Each Recommendation",module,Magento_AdvancedSearch
+"Enable Search Suggestions","Enable Search Suggestions",module,Magento_AdvancedSearch
+"Search Suggestions Count","Search Suggestions Count",module,Magento_AdvancedSearch
+"Show Results Count for Each Suggestion","Show Results Count for Each Suggestion",module,Magento_AdvancedSearch
+"Related search terms","Related search terms",module,Magento_AdvancedSearch
+"Did you mean","Did you mean",module,Magento_AdvancedSearch
+ID,ID,module,Magento_AdvancedSearch
+"Search Query","Search Query",module,Magento_AdvancedSearch
+Store,Store,module,Magento_AdvancedSearch
+Results,Results,module,Magento_AdvancedSearch
+Uses,Uses,module,Magento_AdvancedSearch
+"Redirect URL","Redirect URL",module,Magento_AdvancedSearch
+"Suggested Term","Suggested Term",module,Magento_AdvancedSearch
+Yes,Yes,module,Magento_AdvancedSearch
+No,No,module,Magento_AdvancedSearch
+Action,Action,module,Magento_AdvancedSearch
+Edit,Edit,module,Magento_AdvancedSearch

@@ -21,3 +21,8 @@ Yes,Yes,module,Magento_Variable
 "Base URL","Base URL",module,Magento_Variable
 "Secure Base URL","Secure Base URL",module,Magento_Variable
 Web,Web,module,Magento_Variable
+"Edit Variable","Edit Variable",module,Magento_Variable
+"Insert Variable","Insert Variable",module,Magento_Variable
+"The variable %1 is no longer available. Select a different variable.","The variable %1 is no longer available. Select a different variable.",module,Magento_Variable
+Cancel,Cancel,module,Magento_Variable
+Save,Save,module,Magento_Variable

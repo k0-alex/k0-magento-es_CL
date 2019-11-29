@@ -407,3 +407,12 @@ Search,Search,module,Temando_Shipping
 "Specific Closures","Specific Closures",module,Temando_Shipping
 "Delivery Options","Delivery Options",module,Temando_Shipping
 "Select Pickup Location","Select Pickup Location",module,Temando_Shipping
+"Invalid Pickup ID ""%1"".","Invalid Pickup ID ""%1"".",module,Temando_Shipping
+"Please wait.","Please wait.",module,Temando_Shipping
+"Are you sure you want to cancel this pickup?","Are you sure you want to cancel this pickup?",module,Temando_Shipping
+"Enter country and postal code to search for a collection point.","Enter country and postal code to search for a collection point.",module,Temando_Shipping
+"No collection points found.","No collection points found.",module,Temando_Shipping
+"There were %1 results for your search.","There were %1 results for your search.",module,Temando_Shipping
+"No pickup locations found.","No pickup locations found.",module,Temando_Shipping
+"Field ","Field ",module,Temando_Shipping
+" is required."," is required.",module,Temando_Shipping

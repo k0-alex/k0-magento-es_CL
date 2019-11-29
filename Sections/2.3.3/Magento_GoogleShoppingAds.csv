@@ -2,3 +2,21 @@
 "Something went wrong","Something went wrong",module,Magento_GoogleShoppingAds
 "Google Service is unavailable","Google Service is unavailable",module,Magento_GoogleShoppingAds
 "Magento is unable to automatically claim and verify your site. For Google to approve your products, you must claim your store's URL. <a href=""%1"">Learn more on Google.</a>","Magento is unable to automatically claim and verify your site. For Google to approve your products, you must claim your store's URL. <a href=""%1"">Learn more on Google.</a>",module,Magento_GoogleShoppingAds
+"Advertising Channels","Advertising Channels",module,Magento_GoogleShoppingAds
+Channels,Channels,module,Magento_GoogleShoppingAds
+"Google Shopping ads Channel","Google Shopping ads Channel",module,Magento_GoogleShoppingAds
+"Api Key","Api Key",module,Magento_GoogleShoppingAds
+"For the Google Shopping ads Channel to work you need an API Key.
+                    Please go <a href=""https://account.magento.com/customer/account/login"" target=""_blank"">here</a> to get one.
+                    Once created, copy and paste the key above and select ""save"".","For the Google Shopping ads Channel to work you need an API Key.
+                    Please go <a href=""https://account.magento.com/customer/account/login"" target=""_blank"">here</a> to get one.
+                    Once created, copy and paste the key above and select ""save"".",module,Magento_GoogleShoppingAds
+"Unique ID","Unique ID",module,Magento_GoogleShoppingAds
+"An unique ID of your magento instance.","An unique ID of your magento instance.",module,Magento_GoogleShoppingAds
+"Enable Service Logs","Enable Service Logs",module,Magento_GoogleShoppingAds
+"Google Product Cache","Google Product Cache",module,Magento_GoogleShoppingAds
+"Caches products data not to do additional requests to Google service","Caches products data not to do additional requests to Google service",module,Magento_GoogleShoppingAds
+"Google Product Removal Feed","Google Product Removal Feed",module,Magento_GoogleShoppingAds
+"Removes products from Google Merchant Center","Removes products from Google Merchant Center",module,Magento_GoogleShoppingAds
+"Google Product Feed","Google Product Feed",module,Magento_GoogleShoppingAds
+"Sends product data to Google Merchant Center","Sends product data to Google Merchant Center",module,Magento_GoogleShoppingAds

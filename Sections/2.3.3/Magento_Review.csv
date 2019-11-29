@@ -129,3 +129,4 @@ Summary,Summary,module,Magento_Review
 "Product Rating:","Product Rating:",module,Magento_Review
 "Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
 "Back to Product Reviews","Back to Product Reviews",module,Magento_Review
+"Please select one of each of the ratings above.","Please select one of each of the ratings above.",module,Magento_Review

@@ -105,3 +105,5 @@ Documents,Documents,module,Magento_Usps
 Return,Return,module,Magento_Usps
 Other,Other,module,Magento_Usps
 None,None,module,Magento_Usps
+"Field ","Field ",module,Magento_Usps
+" is required."," is required.",module,Magento_Usps

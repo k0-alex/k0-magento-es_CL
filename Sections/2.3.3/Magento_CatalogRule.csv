@@ -56,3 +56,29 @@ Promo,Promo,module,Magento_CatalogRule
 "Undefined rule aggregator ""%1"" passed in. Valid operators are: %2","Undefined rule aggregator ""%1"" passed in. Valid operators are: %2",module,Magento_CatalogRule
 "Updated rules applied.","Updated rules applied.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","You disabled %1 Catalog Price Rules based on ""%2"" attribute.",module,Magento_CatalogRule
+"Catalog Rule Product","Catalog Rule Product",module,Magento_CatalogRule
+"Indexed rule/product association","Indexed rule/product association",module,Magento_CatalogRule
+"Catalog Product Rule","Catalog Product Rule",module,Magento_CatalogRule
+"Indexed product/rule association","Indexed product/rule association",module,Magento_CatalogRule
+Rule,Rule,module,Magento_CatalogRule
+Start,Start,module,Magento_CatalogRule
+End,End,module,Magento_CatalogRule
+Status,Status,module,Magento_CatalogRule
+Active,Active,module,Magento_CatalogRule
+Inactive,Inactive,module,Magento_CatalogRule
+"Web Site","Web Site",module,Magento_CatalogRule
+Back,Back,module,Magento_CatalogRule
+"Rule Information","Rule Information",module,Magento_CatalogRule
+"Rule Name","Rule Name",module,Magento_CatalogRule
+Description,Description,module,Magento_CatalogRule
+Websites,Websites,module,Magento_CatalogRule
+"Customer Groups","Customer Groups",module,Magento_CatalogRule
+From,From,module,Magento_CatalogRule
+To,To,module,Magento_CatalogRule
+Priority,Priority,module,Magento_CatalogRule
+Actions,Actions,module,Magento_CatalogRule
+Apply,Apply,module,Magento_CatalogRule
+"Discount Amount","Discount Amount",module,Magento_CatalogRule
+"Discard subsequent rules","Discard subsequent rules",module,Magento_CatalogRule
+Yes,Yes,module,Magento_CatalogRule
+No,No,module,Magento_CatalogRule

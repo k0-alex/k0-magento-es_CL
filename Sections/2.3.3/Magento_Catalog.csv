@@ -646,3 +646,190 @@ remaining,remaining,module,Magento_Catalog
 "too many","too many",module,Magento_Catalog
 "does not implement Storage Interface","does not implement Storage Interface",module,Magento_Catalog
 "unselect all","unselect all",module,Magento_Catalog
+Inventory,Inventory,module,Magento_Catalog
+"Edit Product Design","Edit Product Design",module,Magento_Catalog
+"Edit Category Design","Edit Category Design",module,Magento_Catalog
+"Catalog Section","Catalog Section",module,Magento_Catalog
+Small,Small,module,Magento_Catalog
+Main,Main,module,Magento_Catalog
+"Custom image","Custom image",module,Magento_Catalog
+Advanced,Advanced,module,Magento_Catalog
+"Product Fields Auto-Generation","Product Fields Auto-Generation",module,Magento_Catalog
+"Mask for SKU","Mask for SKU",module,Magento_Catalog
+"Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder",module,Magento_Catalog
+"Mask for Meta Title","Mask for Meta Title",module,Magento_Catalog
+"Mask for Meta Keywords","Mask for Meta Keywords",module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders",module,Magento_Catalog
+"Mask for Meta Description","Mask for Meta Description",module,Magento_Catalog
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders",module,Magento_Catalog
+"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Catalog
+"Lifetime of products in Recently Viewed Widget","Lifetime of products in Recently Viewed Widget",module,Magento_Catalog
+"Lifetime of products in Recently Compared Widget","Lifetime of products in Recently Compared Widget",module,Magento_Catalog
+"Synchronize widget products with backend storage","Synchronize widget products with backend storage",module,Magento_Catalog
+Storefront,Storefront,module,Magento_Catalog
+"List Mode","List Mode",module,Magento_Catalog
+"Products per Page on Grid Allowed Values","Products per Page on Grid Allowed Values",module,Magento_Catalog
+Comma-separated.,Comma-separated.,module,Magento_Catalog
+"Products per Page on Grid Default Value","Products per Page on Grid Default Value",module,Magento_Catalog
+"Must be in the allowed values list","Must be in the allowed values list",module,Magento_Catalog
+"Products per Page on List Allowed Values","Products per Page on List Allowed Values",module,Magento_Catalog
+"Products per Page on List Default Value","Products per Page on List Default Value",module,Magento_Catalog
+"Use Flat Catalog Category","Use Flat Catalog Category",module,Magento_Catalog
+"Use Flat Catalog Product","Use Flat Catalog Product",module,Magento_Catalog
+"Product Listing Sort by","Product Listing Sort by",module,Magento_Catalog
+"Applies to category pages","Applies to category pages",module,Magento_Catalog
+"Allow All Products per Page","Allow All Products per Page",module,Magento_Catalog
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown",module,Magento_Catalog
+"Remember Category Pagination","Remember Category Pagination",module,Magento_Catalog
+"Changing may affect SEO and cache storage consumption.","Changing may affect SEO and cache storage consumption.",module,Magento_Catalog
+"Product Image Placeholders","Product Image Placeholders",module,Magento_Catalog
+"Search Engine Optimization","Search Engine Optimization",module,Magento_Catalog
+"Page Title Separator","Page Title Separator",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Categories","Use Canonical Link Meta Tag For Categories",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Products","Use Canonical Link Meta Tag For Products",module,Magento_Catalog
+"Catalog Price Scope","Catalog Price Scope",module,Magento_Catalog
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").",module,Magento_Catalog
+"Category Top Navigation","Category Top Navigation",module,Magento_Catalog
+"Maximal Depth","Maximal Depth",module,Magento_Catalog
+"Date & Time Custom Options","Date & Time Custom Options",module,Magento_Catalog
+"Use JavaScript Calendar","Use JavaScript Calendar",module,Magento_Catalog
+"Date Fields Order","Date Fields Order",module,Magento_Catalog
+"Time Format","Time Format",module,Magento_Catalog
+"Year Range","Year Range",module,Magento_Catalog
+"Please use a four-digit year format.","Please use a four-digit year format.",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG","Use Static URLs for Media Content in WYSIWYG",module,Magento_Catalog
+"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
+"Top Level Category","Top Level Category",module,Magento_Catalog
+"Default Layouts","Default Layouts",module,Magento_Catalog
+"Default Product Layout","Default Product Layout",module,Magento_Catalog
+"Default Category Layout","Default Category Layout",module,Magento_Catalog
+System,System,module,Magento_Catalog
+"Images Upload Configuration","Images Upload Configuration",module,Magento_Catalog
+Quality,Quality,module,Magento_Catalog
+"Jpeg quality for resized images 1-100%.","Jpeg quality for resized images 1-100%.",module,Magento_Catalog
+"Product Info Column","Product Info Column",module,Magento_Catalog
+"Block after Info Column","Block after Info Column",module,Magento_Catalog
+"Product Flat Data","Product Flat Data",module,Magento_Catalog
+"Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
+"Category Flat Data","Category Flat Data",module,Magento_Catalog
+"Reorganize EAV category structure to flat structure","Reorganize EAV category structure to flat structure",module,Magento_Catalog
+"Category Products","Category Products",module,Magento_Catalog
+"Indexed category/products association","Indexed category/products association",module,Magento_Catalog
+"Product Categories","Product Categories",module,Magento_Catalog
+"Indexed product/categories association","Indexed product/categories association",module,Magento_Catalog
+"Product Price","Product Price",module,Magento_Catalog
+"Index product prices","Index product prices",module,Magento_Catalog
+"Product EAV","Product EAV",module,Magento_Catalog
+"Index product EAV","Index product EAV",module,Magento_Catalog
+"Catalog New Products List","Catalog New Products List",module,Magento_Catalog
+"List of Products that are set as New","List of Products that are set as New",module,Magento_Catalog
+"Display Type","Display Type",module,Magento_Catalog
+"All products - recently added products, New products - products marked as new","All products - recently added products, New products - products marked as new",module,Magento_Catalog
+"All products","All products",module,Magento_Catalog
+"New products","New products",module,Magento_Catalog
+"Display Page Control","Display Page Control",module,Magento_Catalog
+"Number of Products per Page","Number of Products per Page",module,Magento_Catalog
+"Number of Products to Display","Number of Products to Display",module,Magento_Catalog
+Template,Template,module,Magento_Catalog
+"New Products Grid Template","New Products Grid Template",module,Magento_Catalog
+"New Products List Template","New Products List Template",module,Magento_Catalog
+"New Products Images and Names Template","New Products Images and Names Template",module,Magento_Catalog
+"New Products Names Only Template","New Products Names Only Template",module,Magento_Catalog
+"New Products Images Only Template","New Products Images Only Template",module,Magento_Catalog
+"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_Catalog
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ",module,Magento_Catalog
+"Catalog Product Link","Catalog Product Link",module,Magento_Catalog
+"Link to a Specified Product","Link to a Specified Product",module,Magento_Catalog
+"Select Product...","Select Product...",module,Magento_Catalog
+"Anchor Custom Text","Anchor Custom Text",module,Magento_Catalog
+"If empty, we'll use the product name here.","If empty, we'll use the product name here.",module,Magento_Catalog
+"Anchor Custom Title","Anchor Custom Title",module,Magento_Catalog
+"Product Link Block Template","Product Link Block Template",module,Magento_Catalog
+"Product Link Inline Template","Product Link Inline Template",module,Magento_Catalog
+"Catalog Category Link","Catalog Category Link",module,Magento_Catalog
+"Link to a Specified Category","Link to a Specified Category",module,Magento_Catalog
+"Select Category...","Select Category...",module,Magento_Catalog
+"If empty, we'll use the category name here.","If empty, we'll use the category name here.",module,Magento_Catalog
+"Category Link Block Template","Category Link Block Template",module,Magento_Catalog
+"Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
+"Recently Viewed Products","Recently Viewed Products",module,Magento_Catalog
+"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Catalog
+"UI Component","UI Component",module,Magento_Catalog
+"Number of Products to display","Number of Products to display",module,Magento_Catalog
+"Product attributes to show","Product attributes to show",module,Magento_Catalog
+Image,Image,module,Magento_Catalog
+"Learn More Link","Learn More Link",module,Magento_Catalog
+"Buttons to show","Buttons to show",module,Magento_Catalog
+"Add to Wishlist","Add to Wishlist",module,Magento_Catalog
+"Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Catalog
+"Viewed Products List Template","Viewed Products List Template",module,Magento_Catalog
+"Viewed Products Sidebar Template","Viewed Products Sidebar Template",module,Magento_Catalog
+"Recently Compared Products","Recently Compared Products",module,Magento_Catalog
+"List of Products Recently Compared by Visitor","List of Products Recently Compared by Visitor",module,Magento_Catalog
+"Compared Products Grid Template","Compared Products Grid Template",module,Magento_Catalog
+"Compared Products List Template","Compared Products List Template",module,Magento_Catalog
+Set,Set,module,Magento_Catalog
+"Category Information","Category Information",module,Magento_Catalog
+"Enable Category","Enable Category",module,Magento_Catalog
+"Include in Menu","Include in Menu",module,Magento_Catalog
+Content,Content,module,Magento_Catalog
+"Category Image","Category Image",module,Magento_Catalog
+Description,Description,module,Magento_Catalog
+"Add CMS Block","Add CMS Block",module,Magento_Catalog
+"Display Settings","Display Settings",module,Magento_Catalog
+"Display Mode","Display Mode",module,Magento_Catalog
+Anchor,Anchor,module,Magento_Catalog
+"Available Product Listing Sort By","Available Product Listing Sort By",module,Magento_Catalog
+"Use All","Use All",module,Magento_Catalog
+"Default Product Listing Sort By","Default Product Listing Sort By",module,Magento_Catalog
+"Layered Navigation Price Step","Layered Navigation Price Step",module,Magento_Catalog
+"URL Key","URL Key",module,Magento_Catalog
+"Meta Title","Meta Title",module,Magento_Catalog
+"Meta Keywords","Meta Keywords",module,Magento_Catalog
+"Meta Description","Meta Description",module,Magento_Catalog
+"Products in Category","Products in Category",module,Magento_Catalog
+Design,Design,module,Magento_Catalog
+Theme,Theme,module,Magento_Catalog
+Layout,Layout,module,Magento_Catalog
+"Layout Update XML","Layout Update XML",module,Magento_Catalog
+"Apply Design to Products","Apply Design to Products",module,Magento_Catalog
+"Schedule Design Update","Schedule Design Update",module,Magento_Catalog
+AttributeSetText,AttributeSetText,module,Magento_Catalog
+StatusText,StatusText,module,Magento_Catalog
+"Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
+Base,Base,module,Magento_Catalog
+"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Catalog
+"Image Opacity","Image Opacity",module,Magento_Catalog
+"Example format: 200x300.","Example format: 200x300.",module,Magento_Catalog
+"Image Position","Image Position",module,Magento_Catalog
+"Attribute Properties","Attribute Properties",module,Magento_Catalog
+"Attribute Label","Attribute Label",module,Magento_Catalog
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",module,Magento_Catalog
+"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
+Values,Values,module,Magento_Catalog
+"Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid.",module,Magento_Catalog
+"Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
+"All Store Views","All Store Views",module,Magento_Catalog
+"Delete selected items?","Delete selected items?",module,Magento_Catalog
+"Delete items","Delete items",module,Magento_Catalog
+"Change status","Change status",module,Magento_Catalog
+Enable,Enable,module,Magento_Catalog
+Disable,Disable,module,Magento_Catalog
+"Update attributes","Update attributes",module,Magento_Catalog
+Overview,Overview,module,Magento_Catalog
+"Skip to the end of the images gallery","Skip to the end of the images gallery",module,Magento_Catalog
+"Skip to the beginning of the images gallery","Skip to the beginning of the images gallery",module,Magento_Catalog
+Details,Details,module,Magento_Catalog
+"Recently Compared","Recently Compared",module,Magento_Catalog
+"Add To Cart","Add To Cart",module,Magento_Catalog
+"Add To Compare","Add To Compare",module,Magento_Catalog
+"Learn more","Learn more",module,Magento_Catalog
+"Recently Viewed","Recently Viewed",module,Magento_Catalog

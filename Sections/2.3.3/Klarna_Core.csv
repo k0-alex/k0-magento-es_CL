@@ -23,3 +23,11 @@ Discount,Discount,module,Klarna_Core
 "Click here to go to <a href=""%1"">Klarna Configuration</a> and change your settings.","Click here to go to <a href=""%1"">Klarna Configuration</a> and change your settings.",module,Klarna_Core
 "Warning the following countries are configured to require a region","Warning the following countries are configured to require a region",module,Klarna_Core
 "Click Here","Click Here",module,Klarna_Core
+"Smoooth Payments","Smoooth Payments",module,Klarna_Core
+"Klarna API","Klarna API",module,Klarna_Core
+"API Version","API Version",module,Klarna_Core
+"Merchant ID/EID","Merchant ID/EID",module,Klarna_Core
+"Password/Shared secret","Password/Shared secret",module,Klarna_Core
+"Test Mode","Test Mode",module,Klarna_Core
+"Debug Mode","Debug Mode",module,Klarna_Core
+"Should not be enabled in production. Sensitive information is logged.","Should not be enabled in production. Sensitive information is logged.",module,Klarna_Core

@@ -36,3 +36,15 @@ Search,Search,module,Magento_CatalogSearch
 name,name,module,Magento_CatalogSearch
 "Don't see what you're looking for?","Don't see what you're looking for?",module,Magento_CatalogSearch
 "Your search returned no results.","Your search returned no results.",module,Magento_CatalogSearch
+"Catalog Section","Catalog Section",module,Magento_CatalogSearch
+"Catalog Search","Catalog Search",module,Magento_CatalogSearch
+"Popular Search Terms","Popular Search Terms",module,Magento_CatalogSearch
+"Minimal Query Length","Minimal Query Length",module,Magento_CatalogSearch
+"This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.","This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.",module,Magento_CatalogSearch
+"Maximum Query Length","Maximum Query Length",module,Magento_CatalogSearch
+"This value must be compatible with the corresponding setting in the configured search engine.","This value must be compatible with the corresponding setting in the configured search engine.",module,Magento_CatalogSearch
+"Number of top search results to cache","Number of top search results to cache",module,Magento_CatalogSearch
+"Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.",module,Magento_CatalogSearch
+"Autocomplete Limit","Autocomplete Limit",module,Magento_CatalogSearch
+"Enable EAV Indexer","Enable EAV Indexer",module,Magento_CatalogSearch
+"Rebuild Catalog product fulltext search index","Rebuild Catalog product fulltext search index",module,Magento_CatalogSearch

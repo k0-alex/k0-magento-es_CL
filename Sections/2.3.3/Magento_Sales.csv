@@ -683,3 +683,8 @@ Search,Search,module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",module,Magento_Sales
 "Update to your %store_name shipment","Update to your %store_name shipment",module,Magento_Sales
+"Gift Options for ","Gift Options for ",module,Magento_Sales
+"Get available payment methods","Get available payment methods",module,Magento_Sales
+"Add Products","Add Products",module,Magento_Sales
+"You have item changes","You have item changes",module,Magento_Sales
+Ok,Ok,module,Magento_Sales

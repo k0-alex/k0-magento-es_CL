@@ -8,3 +8,28 @@
 "Credit Card Number","Credit Card Number",module,Magento_AuthorizenetAcceptjs
 "Expiration Date","Expiration Date",module,Magento_AuthorizenetAcceptjs
 "Card Verification Number","Card Verification Number",module,Magento_AuthorizenetAcceptjs
+Authorize.Net,Authorize.Net,module,Magento_AuthorizenetAcceptjs
+Enabled,Enabled,module,Magento_AuthorizenetAcceptjs
+"Basic Authorize.Net Settings","Basic Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+Title,Title,module,Magento_AuthorizenetAcceptjs
+Environment,Environment,module,Magento_AuthorizenetAcceptjs
+"Payment Action","Payment Action",module,Magento_AuthorizenetAcceptjs
+"API Login ID","API Login ID",module,Magento_AuthorizenetAcceptjs
+"Transaction Key","Transaction Key",module,Magento_AuthorizenetAcceptjs
+"Public Client Key","Public Client Key",module,Magento_AuthorizenetAcceptjs
+"Signature Key","Signature Key",module,Magento_AuthorizenetAcceptjs
+"Merchant MD5 (deprecated)","Merchant MD5 (deprecated)",module,Magento_AuthorizenetAcceptjs
+"Advanced Authorize.Net Settings","Advanced Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Accepted Currency","Accepted Currency",module,Magento_AuthorizenetAcceptjs
+Debug,Debug,module,Magento_AuthorizenetAcceptjs
+"Email Customer","Email Customer",module,Magento_AuthorizenetAcceptjs
+"Enable Credit Card Verification Field","Enable Credit Card Verification Field",module,Magento_AuthorizenetAcceptjs
+"Credit Card Types","Credit Card Types",module,Magento_AuthorizenetAcceptjs
+"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_AuthorizenetAcceptjs
+"Payment from Specific Countries","Payment from Specific Countries",module,Magento_AuthorizenetAcceptjs
+"Minimum Order Total","Minimum Order Total",module,Magento_AuthorizenetAcceptjs
+"Maximum Order Total","Maximum Order Total",module,Magento_AuthorizenetAcceptjs
+"Sort Order","Sort Order",module,Magento_AuthorizenetAcceptjs
+"Invalid request to gateway.","Invalid request to gateway.",module,Magento_AuthorizenetAcceptjs
+"Invalid gateway credentials.","Invalid gateway credentials.",module,Magento_AuthorizenetAcceptjs
+"Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Magento_AuthorizenetAcceptjs

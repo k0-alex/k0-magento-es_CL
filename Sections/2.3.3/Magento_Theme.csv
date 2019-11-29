@@ -140,3 +140,7 @@ Password:,Password:,module,Magento_Theme
 "Check the status of orders","Check the status of orders",module,Magento_Theme
 "View past orders","View past orders",module,Magento_Theme
 "Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Theme
+"We could not detect a size.","We could not detect a size.",module,Magento_Theme
+"We don't recognize this file extension.","We don't recognize this file extension.",module,Magento_Theme
+Home,Inicio,module,Magento_Theme
+"Go to Home Page","Ir al Inicio",module,Magento_Theme

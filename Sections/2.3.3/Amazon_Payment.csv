@@ -45,3 +45,28 @@ Login,Login,module,Amazon_Payment
 "Forgot Your Password?","Forgot Your Password?",module,Amazon_Payment
 "Place Order","Place Order",module,Amazon_Payment
 "Your Amazon session has expired.  Please sign in again by clicking the Amazon Pay Button.","Your Amazon session has expired.  Please sign in again by clicking the Amazon Pay Button.",module,Amazon_Payment
+"Unfortunately it is not possible to use Amazon Pay for this order, please choose another payment method.","Unfortunately it is not possible to use Amazon Pay for this order, please choose another payment method.",module,Amazon_Payment
+"Processing Failure - unable to authorize transaction.","Processing Failure - unable to authorize transaction.",module,Amazon_Payment
+"Unable to authorize transaction.","Unable to authorize transaction.",module,Amazon_Payment
+"Buyer did not specify valid Amazon Wallet payment method.","Buyer did not specify valid Amazon Wallet payment method.",module,Amazon_Payment
+"Duplicate reference or payment amount already authorized.","Duplicate reference or payment amount already authorized.",module,Amazon_Payment
+"Invalid values passed in request.","Invalid values passed in request.",module,Amazon_Payment
+"You have attempted to create more than the maximum allowed limit of one Order Reference object on a Billing Agreement object that is in the Draft State.","You have attempted to create more than the maximum allowed limit of one Order Reference object on a Billing Agreement object that is in the Draft State.",module,Amazon_Payment
+"Number of authorizations, captures or refunds has exceeded allowed limits.","Number of authorizations, captures or refunds has exceeded allowed limits.",module,Amazon_Payment
+"Invalid operation for sandbox environment.","Invalid operation for sandbox environment.",module,Amazon_Payment
+"Request has an invalid signature.","Request has an invalid signature.",module,Amazon_Payment
+"Order reference ID is invalid.","Order reference ID is invalid.",module,Amazon_Payment
+"Invalid transaction identifier.","Invalid transaction identifier.",module,Amazon_Payment
+"Specified seller account is not authorized to execute this request.","Specified seller account is not authorized to execute this request.",module,Amazon_Payment
+"Order Reference submitted in this request has constraints and cannot be confirmed.","Order Reference submitted in this request has constraints and cannot be confirmed.",module,Amazon_Payment
+"Billing Agreement object cannot be modified.","Billing Agreement object cannot be modified.",module,Amazon_Payment
+"Capture not refundable.","Capture not refundable.",module,Amazon_Payment
+"You have attempted to capture or close an authorization for an Authorization object that is in a state where a capture or close is not allowed.","You have attempted to capture or close an authorization for an Authorization object that is in a state where a capture or close is not allowed.",module,Amazon_Payment
+"Billing Agreement object cannot closed or canceled.","Billing Agreement object cannot closed or canceled.",module,Amazon_Payment
+"You have attempted to call an operation on an Order Reference object that is in a state where that operation is not allowed.","You have attempted to call an operation on an Order Reference object that is in a state where that operation is not allowed.",module,Amazon_Payment
+"There was an unknown error in the service.","There was an unknown error in the service.",module,Amazon_Payment
+"Request rejected because request rate is higher than allocated throttling limits.","Request rejected because request rate is higher than allocated throttling limits.",module,Amazon_Payment
+"The service is temporarily unavailable. Please try again later.","The service is temporarily unavailable. Please try again later.",module,Amazon_Payment
+"Invalid payment method - please select a different payment method.","Invalid payment method - please select a different payment method.",module,Amazon_Payment
+"There has been a problem with the selected payment method on your Amazon account. Please choose another one.","There has been a problem with the selected payment method on your Amazon account. Please choose another one.",module,Amazon_Payment
+"Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.","Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.",module,Amazon_Payment

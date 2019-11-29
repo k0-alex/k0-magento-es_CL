@@ -140,3 +140,16 @@ save,save,module,
 "Please select attribute(s).","Please select attribute(s).",module,Magento_ConfigurableProduct
 "Generate Products","Generate Products",module,Magento_ConfigurableProduct
 "Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct
+"Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
+Select...,Select...,module,Magento_ConfigurableProduct
+ID,ID,module,Magento_ConfigurableProduct
+Thumbnail,Thumbnail,module,Magento_ConfigurableProduct
+"Attribute Code","Attribute Code",module,Magento_ConfigurableProduct
+"Attribute Label","Attribute Label",module,Magento_ConfigurableProduct
+Required,Required,module,Magento_ConfigurableProduct
+System,System,module,Magento_ConfigurableProduct
+Visible,Visible,module,Magento_ConfigurableProduct
+Scope,Scope,module,Magento_ConfigurableProduct
+Searchable,Searchable,module,Magento_ConfigurableProduct
+Comparable,Comparable,module,Magento_ConfigurableProduct
+"As low as: ","As low as: ",module,Magento_ConfigurableProduct

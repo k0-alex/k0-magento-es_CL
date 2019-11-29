@@ -134,3 +134,4 @@ Save,Save,module,Magento_Tax
 "Add New Class","Add New Class",module,Magento_Tax
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
+"Not yet calculated","Not yet calculated",module,Magento_Tax

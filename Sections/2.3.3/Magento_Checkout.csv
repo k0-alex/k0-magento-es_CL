@@ -154,3 +154,35 @@ Shipping,Shipping,module,Magento_Checkout
 Cancel,Cancel,module,Magento_Checkout
 "The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
 "Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
+"Checkout Options","Checkout Options",module,Magento_Checkout
+"Enable Onepage Checkout","Enable Onepage Checkout",module,Magento_Checkout
+"Allow Guest Checkout","Allow Guest Checkout",module,Magento_Checkout
+"Display Billing Address On","Display Billing Address On",module,Magento_Checkout
+"Maximum Number of Items to Display in Order Summary","Maximum Number of Items to Display in Order Summary",module,Magento_Checkout
+"Quote Lifetime (days)","Quote Lifetime (days)",module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart","After Adding a Product Redirect to Shopping Cart",module,Magento_Checkout
+"Number of Items to Display Pager","Number of Items to Display Pager",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"My Cart Link","My Cart Link",module,Magento_Checkout
+"Display Cart Summary","Display Cart Summary",module,Magento_Checkout
+"Shopping Cart Sidebar","Shopping Cart Sidebar",module,Magento_Checkout
+"Display Shopping Cart Sidebar","Display Shopping Cart Sidebar",module,Magento_Checkout
+"Number of Items to Display Scrollbar","Number of Items to Display Scrollbar",module,Magento_Checkout
+"Maximum Number of Items to Display","Maximum Number of Items to Display",module,Magento_Checkout
+"Payment Failed Emails","Payment Failed Emails",module,Magento_Checkout
+"Payment Failed Email Sender","Payment Failed Email Sender",module,Magento_Checkout
+"Payment Failed Email Receiver","Payment Failed Email Receiver",module,Magento_Checkout
+"Payment Failed Template","Payment Failed Template",module,Magento_Checkout
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
+"Separate by "","".","Separate by "","".",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
+Summary,Summary,module,Magento_Checkout
+"Order Total","Order Total",module,Magento_Checkout
+"Shipping Address","Shipping Address",module,Magento_Checkout
+"Ship here","Ship here",module,Magento_Checkout
+"We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_Checkout
+Payment,Payment,module,Magento_Checkout
+"Not yet calculated","Not yet calculated",module,Magento_Checkout
+"We received your order!","We received your order!",module,Magento_Checkout
+"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout

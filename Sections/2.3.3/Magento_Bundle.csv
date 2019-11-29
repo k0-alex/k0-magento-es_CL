@@ -100,3 +100,8 @@ Subtotal,Subtotal,module,Magento_Bundle
 "Qty Shipped","Qty Shipped",module,Magento_Bundle
 "Add Products to New Option","Add Products to New Option",module,Magento_Bundle
 "Add Products to Option ""%1""","Add Products to Option ""%1""",module,Magento_Bundle
+Select...,Select...,module,Magento_Bundle
+Status,Status,module,Magento_Bundle
+Thumbnail,Thumbnail,module,Magento_Bundle
+Type,Type,module,Magento_Bundle
+"Special Price","Special Price",module,Magento_Bundle

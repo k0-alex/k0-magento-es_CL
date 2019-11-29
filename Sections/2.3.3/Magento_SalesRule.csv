@@ -136,3 +136,5 @@ Inactive,Inactive,module,Magento_SalesRule
 "Enter discount code","Enter discount code",module,Magento_SalesRule
 "Apply Discount","Apply Discount",module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
+"Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
+"Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule

@@ -47,3 +47,43 @@ or,or,module,Amazon_Core
 "Amazon Pay","Amazon Pay",module,Amazon_Core
 "Invalid JSON credentials entered, please try again.","Invalid JSON credentials entered, please try again.",module,Amazon_Core
 "Credential fields successfully updated and being saved.","Credential fields successfully updated and being saved.",module,Amazon_Core
+"<div class=""amazon-payment-logo""></div><div class=""amazon-payment-byline"">The convenient, trusted way to pay.<br/>Let your customers check out in just a few clicks or taps using the shipping and payment info already stored in their Amazon account.</div>","<div class=""amazon-payment-logo""></div><div class=""amazon-payment-byline"">The convenient, trusted way to pay.<br/>Let your customers check out in just a few clicks or taps using the shipping and payment info already stored in their Amazon account.</div>",module,Amazon_Core
+Credentials,Credentials,module,Amazon_Core
+"Merchant Id","Merchant Id",module,Amazon_Core
+"Access Key Id","Access Key Id",module,Amazon_Core
+"Secret Access Key","Secret Access Key",module,Amazon_Core
+"Client Id","Client Id",module,Amazon_Core
+"Client Secret","Client Secret",module,Amazon_Core
+"<input type=""checkbox"" name=""amazon_test_creds"" id=""amazon_test_creds"" value=""1""><label for=""amazon_test_creds"">Test Credentials</label>","<input type=""checkbox"" name=""amazon_test_creds"" id=""amazon_test_creds"" value=""1""><label for=""amazon_test_creds"">Test Credentials</label>",module,Amazon_Core
+"Credentials JSON","Credentials JSON",module,Amazon_Core
+"Payment Region","Payment Region",module,Amazon_Core
+Sandbox,Sandbox,module,Amazon_Core
+"Allowed Javascript Origins","Allowed Javascript Origins",module,Amazon_Core
+"Allowed Return URLs","Allowed Return URLs",module,Amazon_Core
+"IPN URL","IPN URL",module,Amazon_Core
+Options,Options,module,Amazon_Core
+"Enable Amazon Pay","Enable Amazon Pay",module,Amazon_Core
+"Enable Login with Amazon","Enable Login with Amazon",module,Amazon_Core
+"Payment Action","Payment Action",module,Amazon_Core
+"Authorization Mode","Authorization Mode",module,Amazon_Core
+"Update Mechanism","Update Mechanism",module,Amazon_Core
+Advanced,Advanced,module,Amazon_Core
+Frontend,Frontend,module,Amazon_Core
+"Button Display Language","Button Display Language",module,Amazon_Core
+"Controls button and widget language. The default is your shop's locale. Available options can be found <a href=""https://payments.amazon.co.uk/developer/documentation/lpwa/201953980#ENTER_LANGUAGE_PARAMETER"">here</a>. Applies only to UK and DE Amazon Merchant Accounts.","Controls button and widget language. The default is your shop's locale. Available options can be found <a href=""https://payments.amazon.co.uk/developer/documentation/lpwa/201953980#ENTER_LANGUAGE_PARAMETER"">here</a>. Applies only to UK and DE Amazon Merchant Accounts.",module,Amazon_Core
+"Button Color","Button Color",module,Amazon_Core
+"Button Size","Button Size",module,Amazon_Core
+"Show Amazon Pay button on product page","Show Amazon Pay button on product page",module,Amazon_Core
+"Show Amazon Pay button in minicart","Show Amazon Pay button in minicart",module,Amazon_Core
+"Show Amazon Pay in payment methods","Show Amazon Pay in payment methods",module,Amazon_Core
+"If enabled, Amazon Pay is presented as an option in the list of available payment methods during the final step of checkout.","If enabled, Amazon Pay is presented as an option in the list of available payment methods during the final step of checkout.",module,Amazon_Core
+"Sales Options","Sales Options",module,Amazon_Core
+"Store Name","Store Name",module,Amazon_Core
+"Use Multi-currency","Use Multi-currency",module,Amazon_Core
+"Developer Options","Developer Options",module,Amazon_Core
+Logging,Logging,module,Amazon_Core
+"Allowed IPs","Allowed IPs",module,Amazon_Core
+"Comma separated. The ""Login with Amazon"" and ""Amazon Pay"" buttons will <em>only</em> be rendered for clients having the above IPs.
+                            If the field is empty, the buttons will be visible to all clients.","Comma separated. The ""Login with Amazon"" and ""Amazon Pay"" buttons will <em>only</em> be rendered for clients having the above IPs.
+                            If the field is empty, the buttons will be visible to all clients.",module,Amazon_Core
+"Developer Logs","Developer Logs",module,Amazon_Core

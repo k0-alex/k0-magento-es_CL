@@ -188,3 +188,368 @@ Copied!,Copied!,module,Dotdigitalgroup_Email
 "Click to copy URL","Click to copy URL",module,Dotdigitalgroup_Email
 "You are about to allow dotdigital to import customers that haven't explicitly opted into your emails. This means Customers and Guests address book will contain contacts that you might not be able to reach out, depending on the applicable regulations. Do you wish to continue?","You are about to allow dotdigital to import customers that haven't explicitly opted into your emails. This means Customers and Guests address book will contain contacts that you might not be able to reach out, depending on the applicable regulations. Do you wish to continue?",module,Dotdigitalgroup_Email
 "You are about to enable this feature for customers that haven't explicitly opted into your emails. Do you wish to continue?","You are about to enable this feature for customers that haven't explicitly opted into your emails. Do you wish to continue?",module,Dotdigitalgroup_Email
+"ENGAGEMENT CLOUD","ENGAGEMENT CLOUD",module,Dotdigitalgroup_Email
+Accounts,Accounts,module,Dotdigitalgroup_Email
+Settings,Settings,module,Dotdigitalgroup_Email
+Enabled,Enabled,module,Dotdigitalgroup_Email
+"API Username","API Username",module,Dotdigitalgroup_Email
+"API Password","API Password",module,Dotdigitalgroup_Email
+"Data Mapping","Data Mapping",module,Dotdigitalgroup_Email
+"Data Fields Mapping","Data Fields Mapping",module,Dotdigitalgroup_Email
+"Customer Information","Customer Information",module,Dotdigitalgroup_Email
+Title,Title,module,Dotdigitalgroup_Email
+"Customer ID","Customer ID",module,Dotdigitalgroup_Email
+Firstname,Firstname,module,Dotdigitalgroup_Email
+Lastname,Lastname,module,Dotdigitalgroup_Email
+D.O.B,D.O.B,module,Dotdigitalgroup_Email
+Gender,Gender,module,Dotdigitalgroup_Email
+"Created At","Created At",module,Dotdigitalgroup_Email
+"Last Logged In Date","Last Logged In Date",module,Dotdigitalgroup_Email
+"Customer Group","Customer Group",module,Dotdigitalgroup_Email
+"Review Count","Review Count",module,Dotdigitalgroup_Email
+"Last Review Date","Last Review Date",module,Dotdigitalgroup_Email
+"Subscriber Status","Subscriber Status",module,Dotdigitalgroup_Email
+Address,Address,module,Dotdigitalgroup_Email
+"Billing Address Line 1","Billing Address Line 1",module,Dotdigitalgroup_Email
+"Billing Address Line 2","Billing Address Line 2",module,Dotdigitalgroup_Email
+"Billing State","Billing State",module,Dotdigitalgroup_Email
+"Billing Country","Billing Country",module,Dotdigitalgroup_Email
+"Billing Postcode","Billing Postcode",module,Dotdigitalgroup_Email
+"Billing Telephone","Billing Telephone",module,Dotdigitalgroup_Email
+"Billing Company","Billing Company",module,Dotdigitalgroup_Email
+"Delivery Address 1","Delivery Address 1",module,Dotdigitalgroup_Email
+"Delivery Address 2","Delivery Address 2",module,Dotdigitalgroup_Email
+"Delivery City","Delivery City",module,Dotdigitalgroup_Email
+"Delivery State","Delivery State",module,Dotdigitalgroup_Email
+"Delivery Country","Delivery Country",module,Dotdigitalgroup_Email
+"Delivery Postcode","Delivery Postcode",module,Dotdigitalgroup_Email
+"Delivery Telephone","Delivery Telephone",module,Dotdigitalgroup_Email
+"Delivery Company","Delivery Company",module,Dotdigitalgroup_Email
+Sales,Sales,module,Dotdigitalgroup_Email
+"Total Number of Orders","Total Number of Orders",module,Dotdigitalgroup_Email
+"Average Order Value","Average Order Value",module,Dotdigitalgroup_Email
+"Total Spend","Total Spend",module,Dotdigitalgroup_Email
+"Last Purchase Date","Last Purchase Date",module,Dotdigitalgroup_Email
+"Last Increment ID","Last Increment ID",module,Dotdigitalgroup_Email
+"Total Refund","Total Refund",module,Dotdigitalgroup_Email
+"Most Purchased Category","Most Purchased Category",module,Dotdigitalgroup_Email
+"Most Purchased Brand","Most Purchased Brand",module,Dotdigitalgroup_Email
+"Most Frequent Day Of Purchase","Most Frequent Day Of Purchase",module,Dotdigitalgroup_Email
+"Most Frequent Month Of Purchase","Most Frequent Month Of Purchase",module,Dotdigitalgroup_Email
+"First Category Purchased","First Category Purchased",module,Dotdigitalgroup_Email
+"Last Category Purchased","Last Category Purchased",module,Dotdigitalgroup_Email
+"First Brand Purchased","First Brand Purchased",module,Dotdigitalgroup_Email
+"Last Brand Purchased","Last Brand Purchased",module,Dotdigitalgroup_Email
+"System Values","System Values",module,Dotdigitalgroup_Email
+"Website Name","Website Name",module,Dotdigitalgroup_Email
+"Store Name","Store Name",module,Dotdigitalgroup_Email
+"Last Order ID","Last Order ID",module,Dotdigitalgroup_Email
+"Last Quote ID","Last Quote ID",module,Dotdigitalgroup_Email
+"Abandoned Product Name","Abandoned Product Name",module,Dotdigitalgroup_Email
+"Custom Attributes","Custom Attributes",module,Dotdigitalgroup_Email
+"Create Data Field","Create Data Field",module,Dotdigitalgroup_Email
+"Data Field Name","Data Field Name",module,Dotdigitalgroup_Email
+"Data Field Type","Data Field Type",module,Dotdigitalgroup_Email
+"When sending a campaign that uses template personalisation, a default value ensures that a value is always displayed even if a data field is blank.","When sending a campaign that uses template personalisation, a default value ensures that a value is always displayed even if a data field is blank.",module,Dotdigitalgroup_Email
+"Default Value","Default Value",module,Dotdigitalgroup_Email
+"Make the field public if you want to allow your contacts to view and amend the data you hold on them in this field.","Make the field public if you want to allow your contacts to view and amend the data you hold on them in this field.",module,Dotdigitalgroup_Email
+Visibility,Visibility,module,Dotdigitalgroup_Email
+"Create New Data Field","Create New Data Field",module,Dotdigitalgroup_Email
+"Sync Settings","Sync Settings",module,Dotdigitalgroup_Email
+"Address Book Mapping","Address Book Mapping",module,Dotdigitalgroup_Email
+"Allow non-subscribed contacts to be imported","Allow non-subscribed contacts to be imported",module,Dotdigitalgroup_Email
+"Add Customers To","Add Customers To",module,Dotdigitalgroup_Email
+"Add Subscribers To","Add Subscribers To",module,Dotdigitalgroup_Email
+"Add Guests To","Add Guests To",module,Dotdigitalgroup_Email
+Sync,Sync,module,Dotdigitalgroup_Email
+"Create Address Book","Create Address Book",module,Dotdigitalgroup_Email
+"Create New Address Book","Create New Address Book",module,Dotdigitalgroup_Email
+"Abandoned Carts","Abandoned Carts",module,Dotdigitalgroup_Email
+"Abandoned Cart Program","Abandoned Cart Program",module,Dotdigitalgroup_Email
+"Enrol abandoned cart to","Enrol abandoned cart to",module,Dotdigitalgroup_Email
+"Enrol abandoned cart after","Enrol abandoned cart after",module,Dotdigitalgroup_Email
+"Customers Email Series","Customers Email Series",module,Dotdigitalgroup_Email
+"Abandoned Cart 1","Abandoned Cart 1",module,Dotdigitalgroup_Email
+"Enabled\Disabled","Enabled\Disabled",module,Dotdigitalgroup_Email
+"Send After (min)","Send After (min)",module,Dotdigitalgroup_Email
+"Campaign to Send","Campaign to Send",module,Dotdigitalgroup_Email
+"Abandoned Cart 2","Abandoned Cart 2",module,Dotdigitalgroup_Email
+"Send After","Send After",module,Dotdigitalgroup_Email
+"Abandoned Cart 3","Abandoned Cart 3",module,Dotdigitalgroup_Email
+"Guests Email Series","Guests Email Series",module,Dotdigitalgroup_Email
+"Visitor action automation enrolment","Visitor action automation enrolment",module,Dotdigitalgroup_Email
+"New Customer","New Customer",module,Dotdigitalgroup_Email
+"New Subscriber","New Subscriber",module,Dotdigitalgroup_Email
+"First Customer Order","First Customer Order",module,Dotdigitalgroup_Email
+"Customer Order","Customer Order",module,Dotdigitalgroup_Email
+"Guest Order","Guest Order",module,Dotdigitalgroup_Email
+"Approved Review","Approved Review",module,Dotdigitalgroup_Email
+"New Wishlist","New Wishlist",module,Dotdigitalgroup_Email
+"Order Status Automation Enrolment","Order Status Automation Enrolment",module,Dotdigitalgroup_Email
+Customer,Customer,module,Dotdigitalgroup_Email
+"Review Settings","Review Settings",module,Dotdigitalgroup_Email
+"Allow review reminder for non-subscribed contacts","Allow review reminder for non-subscribed contacts",module,Dotdigitalgroup_Email
+"The system will send the reminder the selected number of days after order creation, if the order status matches.","The system will send the reminder the selected number of days after order creation, if the order status matches.",module,Dotdigitalgroup_Email
+"Delay Period (Days)","Delay Period (Days)",module,Dotdigitalgroup_Email
+"Campaign to send","Campaign to send",module,Dotdigitalgroup_Email
+"Please provide the anchor used on product pages for reviews e.g. #reviews","Please provide the anchor used on product pages for reviews e.g. #reviews",module,Dotdigitalgroup_Email
+"Reviews Anchor","Reviews Anchor",module,Dotdigitalgroup_Email
+"Feefo Feedback Engine","Feefo Feedback Engine",module,Dotdigitalgroup_Email
+"Feefo Logon","Feefo Logon",module,Dotdigitalgroup_Email
+"Number of reviews to display per product.","Number of reviews to display per product.",module,Dotdigitalgroup_Email
+"Reviews Per Product","Reviews Per Product",module,Dotdigitalgroup_Email
+"Enter name of logo template.","Enter name of logo template.",module,Dotdigitalgroup_Email
+"Logo Template (Optional)","Logo Template (Optional)",module,Dotdigitalgroup_Email
+"Service Score URL","Service Score URL",module,Dotdigitalgroup_Email
+"Enter Feefo logon above before using this URL.","Enter Feefo logon above before using this URL.",module,Dotdigitalgroup_Email
+"Product Reviews URL","Product Reviews URL",module,Dotdigitalgroup_Email
+"Dynamic Content","Dynamic Content",module,Dotdigitalgroup_Email
+"External Dynamic Url","External Dynamic Url",module,Dotdigitalgroup_Email
+"Secure code for dynamic URLs","Secure code for dynamic URLs",module,Dotdigitalgroup_Email
+Passcode,Passcode,module,Dotdigitalgroup_Email
+"Recommended: Set a passcode so that basket contents and coupon codes can only be viewed if the following passcode is sent with the request.","Recommended: Set a passcode so that basket contents and coupon codes can only be viewed if the following passcode is sent with the request.",module,Dotdigitalgroup_Email
+"Cart Content URL","Cart Content URL",module,Dotdigitalgroup_Email
+"Review Contents URL","Review Contents URL",module,Dotdigitalgroup_Email
+"Coupon Codes","Coupon Codes",module,Dotdigitalgroup_Email
+"Coupon Codes URL","Coupon Codes URL",module,Dotdigitalgroup_Email
+"Order Recommendation","Order Recommendation",module,Dotdigitalgroup_Email
+"Related Products URL","Related Products URL",module,Dotdigitalgroup_Email
+"Upsell Products URL","Upsell Products URL",module,Dotdigitalgroup_Email
+"Crosssell Products URL","Crosssell Products URL",module,Dotdigitalgroup_Email
+"Cart Recommendation","Cart Recommendation",module,Dotdigitalgroup_Email
+"Product Recommendation","Product Recommendation",module,Dotdigitalgroup_Email
+"Best Sellers URL","Best Sellers URL",module,Dotdigitalgroup_Email
+"add category_id/@CATEGORY_ID@ at the end of url to filter most viewed by category","add category_id/@CATEGORY_ID@ at the end of url to filter most viewed by category",module,Dotdigitalgroup_Email
+"Most Viewed URL","Most Viewed URL",module,Dotdigitalgroup_Email
+"Product Push URL","Product Push URL",module,Dotdigitalgroup_Email
+"Recently Viewed","Recently Viewed",module,Dotdigitalgroup_Email
+Wishlist,Wishlist,module,Dotdigitalgroup_Email
+"Wishlist Content","Wishlist Content",module,Dotdigitalgroup_Email
+"Wishlist Related URL","Wishlist Related URL",module,Dotdigitalgroup_Email
+"Wishlist Upsell Products URL","Wishlist Upsell Products URL",module,Dotdigitalgroup_Email
+"Wishlist Crosssell Products URL","Wishlist Crosssell Products URL",module,Dotdigitalgroup_Email
+"Dynamic Products","Dynamic Products",module,Dotdigitalgroup_Email
+"Display Type","Display Type",module,Dotdigitalgroup_Email
+"Related Products","Related Products",module,Dotdigitalgroup_Email
+"Items To Display","Items To Display",module,Dotdigitalgroup_Email
+"Upsell Products","Upsell Products",module,Dotdigitalgroup_Email
+"Crosssell Products","Crosssell Products",module,Dotdigitalgroup_Email
+"Best Sellers","Best Sellers",module,Dotdigitalgroup_Email
+"Time Period","Time Period",module,Dotdigitalgroup_Email
+"Most Viewed","Most Viewed",module,Dotdigitalgroup_Email
+"Manual Product Push","Manual Product Push",module,Dotdigitalgroup_Email
+Products,Products,module,Dotdigitalgroup_Email
+"Fallback Products","Fallback Products",module,Dotdigitalgroup_Email
+"Comma Separated Product Id's","Comma Separated Product Id's",module,Dotdigitalgroup_Email
+"Transactional Emails","Transactional Emails",module,Dotdigitalgroup_Email
+"DDG Transactional","DDG Transactional",module,Dotdigitalgroup_Email
+"Send Mode","Send Mode",module,Dotdigitalgroup_Email
+Host,Host,module,Dotdigitalgroup_Email
+Username,Username,module,Dotdigitalgroup_Email
+Password,Password,module,Dotdigitalgroup_Email
+Port,Port,module,Dotdigitalgroup_Email
+Debug,Debug,module,Dotdigitalgroup_Email
+"Email Templates","Email Templates",module,Dotdigitalgroup_Email
+"New Account","New Account",module,Dotdigitalgroup_Email
+"New Account Confirmation Key","New Account Confirmation Key",module,Dotdigitalgroup_Email
+"New Account Confirmation","New Account Confirmation",module,Dotdigitalgroup_Email
+"Forgot Password","Forgot Password",module,Dotdigitalgroup_Email
+"Remind Password","Remind Password",module,Dotdigitalgroup_Email
+"Reset Password","Reset Password",module,Dotdigitalgroup_Email
+"Wish List Sharing","Wish List Sharing",module,Dotdigitalgroup_Email
+"Forgot Admin Password","Forgot Admin Password",module,Dotdigitalgroup_Email
+Newsletter,Newsletter,module,Dotdigitalgroup_Email
+"Success Email Template","Success Email Template",module,Dotdigitalgroup_Email
+"Subscription Confirmation","Subscription Confirmation",module,Dotdigitalgroup_Email
+"Unsubscribe Success","Unsubscribe Success",module,Dotdigitalgroup_Email
+"New Order Confirmation","New Order Confirmation",module,Dotdigitalgroup_Email
+"New Order Confirmation For Guest","New Order Confirmation For Guest",module,Dotdigitalgroup_Email
+"Order Update","Order Update",module,Dotdigitalgroup_Email
+"Order Update For Guest","Order Update For Guest",module,Dotdigitalgroup_Email
+"New Shipment","New Shipment",module,Dotdigitalgroup_Email
+"New Shipment For Guest","New Shipment For Guest",module,Dotdigitalgroup_Email
+"Shipment Update","Shipment Update",module,Dotdigitalgroup_Email
+"New Invoice","New Invoice",module,Dotdigitalgroup_Email
+"New Invoice Guest","New Invoice Guest",module,Dotdigitalgroup_Email
+"Invoice Update","Invoice Update",module,Dotdigitalgroup_Email
+"Invoice Update Guest","Invoice Update Guest",module,Dotdigitalgroup_Email
+"New Credit Credit Memo","New Credit Credit Memo",module,Dotdigitalgroup_Email
+"New Credit Credit Memo Guest","New Credit Credit Memo Guest",module,Dotdigitalgroup_Email
+"Credit Memo Update","Credit Memo Update",module,Dotdigitalgroup_Email
+"Credit Memo Update Guest","Credit Memo Update Guest",module,Dotdigitalgroup_Email
+Contact,Contact,module,Dotdigitalgroup_Email
+"New Contact Form","New Contact Form",module,Dotdigitalgroup_Email
+Email,Email,module,Dotdigitalgroup_Email
+"Send Product To Friend","Send Product To Friend",module,Dotdigitalgroup_Email
+"Product Alerts","Product Alerts",module,Dotdigitalgroup_Email
+"Stock Alert","Stock Alert",module,Dotdigitalgroup_Email
+"Product Price Alert","Product Price Alert",module,Dotdigitalgroup_Email
+Configuration,Configuration,module,Dotdigitalgroup_Email
+"Data Fields","Data Fields",module,Dotdigitalgroup_Email
+"Select multiple statuses by pressing Ctrl button while selecting","Select multiple statuses by pressing Ctrl button while selecting",module,Dotdigitalgroup_Email
+"Data fields calculation with status","Data fields calculation with status",module,Dotdigitalgroup_Email
+"Select your brand attribute. If default attribute 'manufacturer' exist than will be selected automatically.","Select your brand attribute. If default attribute 'manufacturer' exist than will be selected automatically.",module,Dotdigitalgroup_Email
+"Brand Attribute","Brand Attribute",module,Dotdigitalgroup_Email
+Tracking,Tracking,module,Dotdigitalgroup_Email
+"ROI Tracking","ROI Tracking",module,Dotdigitalgroup_Email
+"Page Tracking","Page Tracking",module,Dotdigitalgroup_Email
+"Script version","Script version",module,Dotdigitalgroup_Email
+Consent,Consent,module,Dotdigitalgroup_Email
+"Enable this is you want to import consent insight data when customers subscribe via the newsletter signup form, registration form or during checkout.","Enable this is you want to import consent insight data when customers subscribe via the newsletter signup form, registration form or during checkout.",module,Dotdigitalgroup_Email
+"Import subscribers with their consent information","Import subscribers with their consent information",module,Dotdigitalgroup_Email
+"Please provide the consent text that is currently displayed to your customers when they subscribe to your newsletter (i.e. via the newsletter signup form)","Please provide the consent text that is currently displayed to your customers when they subscribe to your newsletter (i.e. via the newsletter signup form)",module,Dotdigitalgroup_Email
+"Consent text provided to your subscribers above the newsletter signup form","Consent text provided to your subscribers above the newsletter signup form",module,Dotdigitalgroup_Email
+"If different from above, provide the text that is displayed on your registration and checkout form to get consent from your customers and guests. If provided, this text will also be displayed in the customer's newsletter subscription page.","If different from above, provide the text that is displayed on your registration and checkout form to get consent from your customers and guests. If provided, this text will also be displayed in the customer's newsletter subscription page.",module,Dotdigitalgroup_Email
+"Consent text provided on registration, account dashboard and checkout","Consent text provided on registration, account dashboard and checkout",module,Dotdigitalgroup_Email
+"Transactional Data","Transactional Data",module,Dotdigitalgroup_Email
+"Import Order With Status","Import Order With Status",module,Dotdigitalgroup_Email
+"Select custom order attributes that you want to import with your order data. Select multiple by pressing Ctrl button while selecting.","Select custom order attributes that you want to import with your order data. Select multiple by pressing Ctrl button while selecting.",module,Dotdigitalgroup_Email
+"Order Custom Attributes","Order Custom Attributes",module,Dotdigitalgroup_Email
+"Selected product attribute(s) will be imported in order and catalog syncs.","Selected product attribute(s) will be imported in order and catalog syncs.",module,Dotdigitalgroup_Email
+"Product Attributes","Product Attributes",module,Dotdigitalgroup_Email
+"Include Product Custom Options In Order Sync","Include Product Custom Options In Order Sync",module,Dotdigitalgroup_Email
+"Enable this if you have a checkout process that allows the visitor to
+                            enter their email address during the checkout, but it does not update quote table instantly.","Enable this if you have a checkout process that allows the visitor to
+                            enter their email address during the checkout, but it does not update quote table instantly.",module,Dotdigitalgroup_Email
+"Easy Email Capture (Checkout)","Easy Email Capture (Checkout)",module,Dotdigitalgroup_Email
+"Easy Email Capture (Newsletter)","Easy Email Capture (Newsletter)",module,Dotdigitalgroup_Email
+"Allow abandoned cart for non-subscribed contacts","Allow abandoned cart for non-subscribed contacts",module,Dotdigitalgroup_Email
+"Abandoned Cart Limit","Abandoned Cart Limit",module,Dotdigitalgroup_Email
+"Link To Cart Enabled","Link To Cart Enabled",module,Dotdigitalgroup_Email
+"Please provide the link text. If no text provided then default text ""Take Me To My Basket"" will be used.","Please provide the link text. If no text provided then default text ""Take Me To My Basket"" will be used.",module,Dotdigitalgroup_Email
+"Link Text","Link Text",module,Dotdigitalgroup_Email
+"Please provide the cart url. If no url provided then default cart url checkout/cart will be used. Only enter the url after base url. For example for http://www.localhost.com/checkout/cart only enter checkout/cart","Please provide the cart url. If no url provided then default cart url checkout/cart will be used. Only enter the url after base url. For example for http://www.localhost.com/checkout/cart only enter checkout/cart",module,Dotdigitalgroup_Email
+"Cart URL","Cart URL",module,Dotdigitalgroup_Email
+"Please provide the customer login url. If no url provided then default login url customer/account/login will be used. Only enter the url after base url. For example for http://www.localhost.com/customer/account/login only enter customer/account/login","Please provide the customer login url. If no url provided then default login url customer/account/login will be used. Only enter the url after base url. For example for http://www.localhost.com/customer/account/login only enter customer/account/login",module,Dotdigitalgroup_Email
+"Customer Login URL","Customer Login URL",module,Dotdigitalgroup_Email
+"The number of hours to wait before expiring an abandoned cart when a contact is pending opt in","The number of hours to wait before expiring an abandoned cart when a contact is pending opt in",module,Dotdigitalgroup_Email
+"Expire Time","Expire Time",module,Dotdigitalgroup_Email
+"Dynamic Content Styling","Dynamic Content Styling",module,Dotdigitalgroup_Email
+"Styling entered here will apply to all dynamic content areas pulled from Magento. Classes References Used : 'product-table', 'product-name', 'product-price', 'product-url', 'other-text'","Styling entered here will apply to all dynamic content areas pulled from Magento. Classes References Used : 'product-table', 'product-name', 'product-price', 'product-url', 'other-text'",module,Dotdigitalgroup_Email
+"Dynamic Styling","Dynamic Styling",module,Dotdigitalgroup_Email
+"Font Color","Font Color",module,Dotdigitalgroup_Email
+"Font Size","Font Size",module,Dotdigitalgroup_Email
+Style,Style,module,Dotdigitalgroup_Email
+"Product Price","Product Price",module,Dotdigitalgroup_Email
+"Price Color","Price Color",module,Dotdigitalgroup_Email
+"Font Style","Font Style",module,Dotdigitalgroup_Email
+"Product Link","Product Link",module,Dotdigitalgroup_Email
+"Applies To Whole Document","Applies To Whole Document",module,Dotdigitalgroup_Email
+Font,Font,module,Dotdigitalgroup_Email
+"Backgroung Color","Backgroung Color",module,Dotdigitalgroup_Email
+"Other Text (Will Apply To Other Remaining Text)","Other Text (Will Apply To Other Remaining Text)",module,Dotdigitalgroup_Email
+"Coupon Code","Coupon Code",module,Dotdigitalgroup_Email
+"Background Color","Background Color",module,Dotdigitalgroup_Email
+"Please provide the link text. If no text provided then default text will be used.","Please provide the link text. If no text provided then default text will be used.",module,Dotdigitalgroup_Email
+"Product Link Text","Product Link Text",module,Dotdigitalgroup_Email
+Admin,Admin,module,Dotdigitalgroup_Email
+"Disable Newsletter Success","Disable Newsletter Success",module,Dotdigitalgroup_Email
+"Disable Customer Success","Disable Customer Success",module,Dotdigitalgroup_Email
+"Catalog Sync Settings","Catalog Sync Settings",module,Dotdigitalgroup_Email
+"Catalog Values","Catalog Values",module,Dotdigitalgroup_Email
+"Catalog Visibility","Catalog Visibility",module,Dotdigitalgroup_Email
+"Catalog Type","Catalog Type",module,Dotdigitalgroup_Email
+"Customer Preference","Customer Preference",module,Dotdigitalgroup_Email
+"Show Preferences to Customer","Show Preferences to Customer",module,Dotdigitalgroup_Email
+"Show Addressbooks to Customer","Show Addressbooks to Customer",module,Dotdigitalgroup_Email
+"Choose additional address books to show in addition to the Magento General Subscription list.","Choose additional address books to show in addition to the Magento General Subscription list.",module,Dotdigitalgroup_Email
+"Addressbooks to Show","Addressbooks to Show",module,Dotdigitalgroup_Email
+"Show Data Fields To Customer?","Show Data Fields To Customer?",module,Dotdigitalgroup_Email
+"Only data fields with visibility public can be shown to customers. You can create more data fields within the Data Mapping section.","Only data fields with visibility public can be shown to customers. You can create more data fields within the Data Mapping section.",module,Dotdigitalgroup_Email
+"Data Fields To Show","Data Fields To Show",module,Dotdigitalgroup_Email
+Developer,Developer,module,Dotdigitalgroup_Email
+"Import Settings","Import Settings",module,Dotdigitalgroup_Email
+"Contact Sync Size","Contact Sync Size",module,Dotdigitalgroup_Email
+"Transactional Data Sync Size","Transactional Data Sync Size",module,Dotdigitalgroup_Email
+"Admin Task","Admin Task",module,Dotdigitalgroup_Email
+"Create Data Fields In Connector And Map Them. Including Customer, Address And Sales Information.","Create Data Fields In Connector And Map Them. Including Customer, Address And Sales Information.",module,Dotdigitalgroup_Email
+"Automap Data Fields","Automap Data Fields",module,Dotdigitalgroup_Email
+"Delete All Contact Ids","Delete All Contact Ids",module,Dotdigitalgroup_Email
+"Manually Run Sync","Manually Run Sync",module,Dotdigitalgroup_Email
+"Contact Sync","Contact Sync",module,Dotdigitalgroup_Email
+"Subscriber Sync","Subscriber Sync",module,Dotdigitalgroup_Email
+"Order Sync","Order Sync",module,Dotdigitalgroup_Email
+"Wishlist Sync","Wishlist Sync",module,Dotdigitalgroup_Email
+"Review Sync","Review Sync",module,Dotdigitalgroup_Email
+"Catalog Sync","Catalog Sync",module,Dotdigitalgroup_Email
+"Importer Sync","Importer Sync",module,Dotdigitalgroup_Email
+"Template Sync","Template Sync",module,Dotdigitalgroup_Email
+"Reset Sync Options","Reset Sync Options",module,Dotdigitalgroup_Email
+"Reset Customers","Reset Customers",module,Dotdigitalgroup_Email
+"Reset Subscribers","Reset Subscribers",module,Dotdigitalgroup_Email
+"Date Range","Date Range",module,Dotdigitalgroup_Email
+"Reset Order Data","Reset Order Data",module,Dotdigitalgroup_Email
+"Reset Review Data","Reset Review Data",module,Dotdigitalgroup_Email
+"Reset Wishlist Data","Reset Wishlist Data",module,Dotdigitalgroup_Email
+"Reset Catalog Data","Reset Catalog Data",module,Dotdigitalgroup_Email
+"Debug Mode","Debug Mode",module,Dotdigitalgroup_Email
+"Set the number in seconds that api calls greater will be logged.","Set the number in seconds that api calls greater will be logged.",module,Dotdigitalgroup_Email
+"Debug Api Calls Time","Debug Api Calls Time",module,Dotdigitalgroup_Email
+"OAUTH Credentials","OAUTH Credentials",module,Dotdigitalgroup_Email
+"Client Id","Client Id",module,Dotdigitalgroup_Email
+"Client Secret Key","Client Secret Key",module,Dotdigitalgroup_Email
+Connection,Connection,module,Dotdigitalgroup_Email
+"Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/",module,Dotdigitalgroup_Email
+"Custom OAUTH Domain","Custom OAUTH Domain",module,Dotdigitalgroup_Email
+"Custom Authorization URI","Custom Authorization URI",module,Dotdigitalgroup_Email
+"Dynamic Pages IP Restriction","Dynamic Pages IP Restriction",module,Dotdigitalgroup_Email
+"Manage Cron Timings","Manage Cron Timings",module,Dotdigitalgroup_Email
+Order,Order,module,Dotdigitalgroup_Email
+"Review And Wishlist","Review And Wishlist",module,Dotdigitalgroup_Email
+"All Websites","All Websites",module,Dotdigitalgroup_Email
+Delete,Delete,module,Dotdigitalgroup_Email
+"Delete items","Delete items",module,Dotdigitalgroup_Email
+"Are you sure to delete?","Are you sure to delete?",module,Dotdigitalgroup_Email
+Id,Id,module,Dotdigitalgroup_Email
+"Quote Id","Quote Id",module,Dotdigitalgroup_Email
+"Customer Id","Customer Id",module,Dotdigitalgroup_Email
+"Contact Status","Contact Status",module,Dotdigitalgroup_Email
+"Is Active","Is Active",module,Dotdigitalgroup_Email
+"Quote Updated At","Quote Updated At",module,Dotdigitalgroup_Email
+"Abandoned Cart Number","Abandoned Cart Number",module,Dotdigitalgroup_Email
+"Item Count","Item Count",module,Dotdigitalgroup_Email
+"Item Ids","Item Ids",module,Dotdigitalgroup_Email
+Store,Store,module,Dotdigitalgroup_Email
+"Updated At","Updated At",module,Dotdigitalgroup_Email
+"Program Id","Program Id",module,Dotdigitalgroup_Email
+"Automation Type","Automation Type",module,Dotdigitalgroup_Email
+"Enrolment Status","Enrolment Status",module,Dotdigitalgroup_Email
+Message,Message,module,Dotdigitalgroup_Email
+Website,Website,module,Dotdigitalgroup_Email
+"Campaign Id","Campaign Id",module,Dotdigitalgroup_Email
+"Order Increment Id","Order Increment Id",module,Dotdigitalgroup_Email
+"Event Name","Event Name",module,Dotdigitalgroup_Email
+"Checkout Method","Checkout Method",module,Dotdigitalgroup_Email
+"Send At","Send At",module,Dotdigitalgroup_Email
+"Send Id","Send Id",module,Dotdigitalgroup_Email
+"Send Status","Send Status",module,Dotdigitalgroup_Email
+"Store Id","Store Id",module,Dotdigitalgroup_Email
+"Product ID","Product ID",module,Dotdigitalgroup_Email
+Modified,Modified,module,Dotdigitalgroup_Email
+"Created Date","Created Date",module,Dotdigitalgroup_Email
+"Contact Id","Contact Id",module,Dotdigitalgroup_Email
+Subscriber,Subscriber,module,Dotdigitalgroup_Email
+Guest,Guest,module,Dotdigitalgroup_Email
+"Subscriber Imported","Subscriber Imported",module,Dotdigitalgroup_Email
+Suppressed,Suppressed,module,Dotdigitalgroup_Email
+ID,ID,module,Dotdigitalgroup_Email
+"Job Code","Job Code",module,Dotdigitalgroup_Email
+Messages,Messages,module,Dotdigitalgroup_Email
+"Scheduled At","Scheduled At",module,Dotdigitalgroup_Email
+"Executed At","Executed At",module,Dotdigitalgroup_Email
+"Finished At","Finished At",module,Dotdigitalgroup_Email
+"Import Id","Import Id",module,Dotdigitalgroup_Email
+"Import Type","Import Type",module,Dotdigitalgroup_Email
+"Import Mode","Import Mode",module,Dotdigitalgroup_Email
+"Import Status","Import Status",module,Dotdigitalgroup_Email
+"Started At","Started At",module,Dotdigitalgroup_Email
+"Updated Date","Updated Date",module,Dotdigitalgroup_Email
+"Order Id","Order Id",module,Dotdigitalgroup_Email
+"Email Imported","Email Imported",module,Dotdigitalgroup_Email
+"Email Modified","Email Modified",module,Dotdigitalgroup_Email
+"Review Imported","Review Imported",module,Dotdigitalgroup_Email
+"Add New Rule","Add New Rule",module,Dotdigitalgroup_Email
+"Wishlist Id","Wishlist Id",module,Dotdigitalgroup_Email
+Items,Items,module,Dotdigitalgroup_Email
+"Wishlist Imported","Wishlist Imported",module,Dotdigitalgroup_Email
+"Newsletter Subscriptions","Newsletter Subscriptions",module,Dotdigitalgroup_Email

@@ -33,3 +33,4 @@ Category,Category,module,Magento_Rule
 "Invalid field","Invalid field",module,Magento_Rule
 "Unknown condition operator","Unknown condition operator",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","There is no information about associated entity type ""%1"".",module,Magento_Rule
+"This won't take long . . .","This won't take long . . .",module,Magento_Rule

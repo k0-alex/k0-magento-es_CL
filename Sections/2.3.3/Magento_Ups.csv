@@ -78,3 +78,5 @@ None,None,module,Magento_Ups
 label,label,module,Magento_Ups
 "United Parcel Service","United Parcel Service",module,Magento_Ups
 "United Parcel Service XML","United Parcel Service XML",module,Magento_Ups
+"Field ","Field ",module,Magento_Ups
+" is required."," is required.",module,Magento_Ups

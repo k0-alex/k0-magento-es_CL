@@ -62,3 +62,19 @@ FTP,FTP,module,Magento_Backup
 "FTP Password","FTP Password",module,Magento_Backup
 "Magento root directory","Magento root directory",module,Magento_Backup
 "Create Backup","Create Backup",module,Magento_Backup
+Rollback,Rollback,module,Magento_Backup
+"Backup Settings","Backup Settings",module,Magento_Backup
+"Enable Backup","Enable Backup",module,Magento_Backup
+"Enable Scheduled Backup","Enable Scheduled Backup",module,Magento_Backup
+"Scheduled Backup Type","Scheduled Backup Type",module,Magento_Backup
+"Start Time","Start Time",module,Magento_Backup
+Frequency,Frequency,module,Magento_Backup
+"Maintenance Mode","Maintenance Mode",module,Magento_Backup
+Delete,Delete,module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?",module,Magento_Backup
+Time,Time,module,Magento_Backup
+Name,Name,module,Magento_Backup
+Size(bytes),Size(bytes),module,Magento_Backup
+Type,Type,module,Magento_Backup
+Download,Download,module,Magento_Backup
+Action,Action,module,Magento_Backup

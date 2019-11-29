@@ -1,0 +1,16 @@
+"Admin Usage","Admin Usage",module,Magento_AdminAnalytics
+"Enable Admin Usage Tracking","Enable Admin Usage Tracking",module,Magento_AdminAnalytics
+"Allow Magento to track admin usage in order to improve the quality and user experience.","Allow Magento to track admin usage in order to improve the quality and user experience.",module,Magento_AdminAnalytics
+"Admin Usage Notification","Admin Usage Notification",module,Magento_AdminAnalytics
+"Allow admin usage data collection","Allow admin usage data collection",module,Magento_AdminAnalytics
+"Don't Allow","Don't Allow",module,Magento_AdminAnalytics
+Allow,Allow,module,Magento_AdminAnalytics
+"
+                        <p>Help us improve Magento Admin by allowing us to collect usage data.</p>
+                        <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin and related products and services.</p>
+                        <p>You can learn more and opt out at any time by following the instructions in <a href=""https://docs.magento.com/m2/ce/user_guide/stores/admin.html"" target=""_blank"">merchant documentation</a>.</p>
+","
+                        <p>Help us improve Magento Admin by allowing us to collect usage data.</p>
+                        <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin and related products and services.</p>
+                        <p>You can learn more and opt out at any time by following the instructions in <a href=""https://docs.magento.com/m2/ce/user_guide/stores/admin.html"" target=""_blank"">merchant documentation</a>.</p>
+",module,Magento_AdminAnalytics
