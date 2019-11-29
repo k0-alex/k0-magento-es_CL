@@ -1,31 +1,31 @@
-"Read Details","Read Details",module,Magento_AdminNotification
-"Mark as Read","Mark as Read",module,Magento_AdminNotification
-"Are you sure?","Are you sure?",module,Magento_AdminNotification
-Remove,Remove,module,Magento_AdminNotification
-"Messages Inbox","Messages Inbox",module,Magento_AdminNotification
-"You have %1 new system messages","You have %1 new system messages",module,Magento_AdminNotification
-"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
-"Incoming Message","Incoming Message",module,Magento_AdminNotification
-close,close,module,Magento_AdminNotification
-Notifications,Notifications,module,Magento_AdminNotification
-"The message has been marked as Read.","The message has been marked as Read.",module,Magento_AdminNotification
-"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error.",module,Magento_AdminNotification
-"Please select messages.","Please select messages.",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
-"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.",module,Magento_AdminNotification
-"1 Hour","1 Hour",module,Magento_AdminNotification
-"2 Hours","2 Hours",module,Magento_AdminNotification
-"6 Hours","6 Hours",module,Magento_AdminNotification
-"12 Hours","12 Hours",module,Magento_AdminNotification
-"24 Hours","24 Hours",module,Magento_AdminNotification
-critical,critical,module,Magento_AdminNotification
-major,major,module,Magento_AdminNotification
-minor,minor,module,Magento_AdminNotification
-notice,notice,module,Magento_AdminNotification
-"Wrong message type","Wrong message type",module,Magento_AdminNotification
+"Read Details","Leer Detalles",module,Magento_AdminNotification
+"Mark as Read","Marcar como Leído",module,Magento_AdminNotification
+"Are you sure?","¿Estás seguro?",module,Magento_AdminNotification
+Remove,Quitar,module,Magento_AdminNotification
+"Messages Inbox","Bandeja de Entrada",module,Magento_AdminNotification
+"You have %1 new system messages","Tienes %1 nuevos mensajes del sistema",module,Magento_AdminNotification
+"You have %1 new system message","Tienes %1 nuevo mensaje del sistema",module,Magento_AdminNotification
+"Incoming Message","Mensaje Entrante",module,Magento_AdminNotification
+close,cerrar,module,Magento_AdminNotification
+Notifications,Notificaciones,module,Magento_AdminNotification
+"The message has been marked as Read.","El mensaje ha sido marcado como Leído.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","No pudimos marcar la notificación como Leída debido a un error.",module,Magento_AdminNotification
+"Please select messages.","Seleccione mensajes.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Un total de %1 registro(s) se han marcado como Leídos.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Un total de %1 registro(s) eliminado(s).",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","No pudimos eliminar los mensajes debido a un error.",module,Magento_AdminNotification
+"The message has been removed.","El mensaje ha sido eliminado.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Ha visto y resuelto todos los avisos recientes del sistema. Actualice la página web para borrar la alerta de aviso.",module,Magento_AdminNotification
+"1 Hour","1 Hora",module,Magento_AdminNotification
+"2 Hours","2 Horas",module,Magento_AdminNotification
+"6 Hours","6 Horas",module,Magento_AdminNotification
+"12 Hours","12 Horas",module,Magento_AdminNotification
+"24 Hours","24 Horas",module,Magento_AdminNotification
+critical,critico,module,Magento_AdminNotification
+major,mayor,module,Magento_AdminNotification
+minor,menor,module,Magento_AdminNotification
+notice,noticia,module,Magento_AdminNotification
+"Wrong message type","Tipo de mensaje incorrecto",module,Magento_AdminNotification
 "Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. ",module,Magento_AdminNotification
