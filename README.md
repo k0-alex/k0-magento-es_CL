@@ -16,7 +16,7 @@ Traduction de Magento 2 Spanish Chile.
 In progress ...
 
 Extract command as root :
-su -m apache -c "php bin/magento i18n:collect-phrases -o /tmp/Temp_Version.csv -m" 
+su -m apache -c "php bin/magento i18n:collect-phrases -o /tmp/Temp_233.csv -m" 
 
 Update command as root :
 su -m apache -c "php bin/magento i18n:pack -m merge -d /tmp/es_CL.csv es_CL"
