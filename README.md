@@ -1,13 +1,14 @@
 # k0-magento-es_CL
-# Magento 2.3.3 Spanish Language Pack Chile version 0.1.2
+# Magento 2.4.x Spanish Language Pack Chile version 0.1.3
 
 Spanish translation for Magento 2. Translation es_CL (Spanish Chile).
 
-Traduction de Magento 2 Spanish Chile.
+Traduction of Magento 2 to Spanish Chile.
 
 ## Supported versions
 * Magento v2.3.0 branch 2.3.0
 * Magento v2.3.3 branch 2.3.3
+* Magento v2.4.x branch 2.4.x
 
 ## Links
 * Github: https://github.com/k0derz-alex/k0-magento-es_CL
