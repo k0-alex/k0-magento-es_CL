@@ -22,10 +22,8 @@ su -m apache -c "php bin/magento i18n:pack -m merge -d /tmp/es_CL.csv es_CL"
 
 Always in the directory of Magento Site
 
-
 ## Process to Translate
 In progress ...
 
 Production file is "es_CL.csv"
-
 ## End
