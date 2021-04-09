@@ -1,4 +1,0 @@
-"Could not find specified product.","Could not find specified product.",module,Magento_ConfigurableProductGraphQl
-"Required parameter ""cart_id"" is missing","Required parameter ""cart_id"" is missing",module,Magento_ConfigurableProductGraphQl
-"Required parameter ""cart_items"" is missing","Required parameter ""cart_items"" is missing",module,Magento_ConfigurableProductGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_ConfigurableProductGraphQl

@@ -1,13 +1,11 @@
 # k0-magento-es_CL
-# Magento 2.4.x Spanish Language Pack Chile version 0.1.3
+# Magento 2.4.x Spanish Language Pack Chile version 0.1.4
 
 Spanish translation for Magento 2. Translation es_CL (Spanish Chile).
 
 Traduction of Magento 2 to Spanish Chile.
 
 ## Supported versions
-* Magento v2.3.0 branch 2.3.0
-* Magento v2.3.3 branch 2.3.3
 * Magento v2.4.x branch 2.4.x
 
 ## Links
@@ -17,12 +15,12 @@ Traduction of Magento 2 to Spanish Chile.
 In progress ...
 
 Extract command as root :
-su -m apache -c "php bin/magento i18n:collect-phrases -o /tmp/Temp_233.csv -m" 
+su -m apache -c "php bin/magento i18n:collect-phrases -o /tmp/Temp_24x.csv -m" 
 
 Update command as root :
 su -m apache -c "php bin/magento i18n:pack -m merge -d /tmp/es_CL.csv es_CL"
 
-Always in the directory of Magento
+Always in the directory of Magento Site
 
 
 ## Process to Translate

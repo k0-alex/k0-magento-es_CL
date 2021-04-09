@@ -1,9 +1,0 @@
-"Create Permanent Redirect for old URL","Create Permanent Redirect for old URL",module,Magento_CatalogUrlRewrite
-"Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.",module,Magento_CatalogUrlRewrite
-"Invalid URL key","Invalid URL key",module,Magento_CatalogUrlRewrite
-"Category URL Suffix","Category URL Suffix",module,Magento_CatalogUrlRewrite
-"You need to refresh the cache.","You need to refresh the cache.",module,Magento_CatalogUrlRewrite
-"Product URL Suffix","Product URL Suffix",module,Magento_CatalogUrlRewrite
-"Use Categories Path for Product URLs","Use Categories Path for Product URLs",module,Magento_CatalogUrlRewrite
-"Create Permanent Redirect for URLs if URL Key Changed","Create Permanent Redirect for URLs if URL Key Changed",module,Magento_CatalogUrlRewrite
-"Generate ""category/product"" URL Rewrites","Generate ""category/product"" URL Rewrites",module,Magento_CatalogUrlRewrite

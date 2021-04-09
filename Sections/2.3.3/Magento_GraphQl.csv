@@ -1,4 +1,0 @@
-"Request content type must be application/json","Request content type must be application/json",module,Magento_GraphQl
-"Mutation requests allowed only for POST requests","Mutation requests allowed only for POST requests",module,Magento_GraphQl
-"Entity code %1 does not exist.","Entity code %1 does not exist.",module,Magento_GraphQl
-"ContextParametersProcessors must implement %1","ContextParametersProcessors must implement %1",module,Magento_GraphQl
