@@ -1,9 +1,9 @@
 # k0-magento-es_CL
 # Magento 2.4.x Spanish Language Pack Chile version 0.1.4
 
-Spanish translation for Magento 2. Translation es_CL (Spanish Chile).
+Spanish translation for Magento 2.4 - es_CL (Spanish Chile).
 
-Traduction of Magento 2 to Spanish Chile.
+Traduction of Magento 2.4 to Spanish Chile.
 
 ## Supported versions
 * Magento v2.4.x branch 2.4.x
