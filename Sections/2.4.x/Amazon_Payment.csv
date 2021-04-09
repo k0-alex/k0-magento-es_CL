@@ -1,0 +1,35 @@
+"Your transaction with Amazon Pay is currently being validated. Please be aware that we will inform you shortly as needed.","Your transaction with Amazon Pay is currently being validated. Please be aware that we will inform you shortly as needed.",module,Amazon_Payment
+"Amazon Pay was unable to authenticate the payment instrument.  Please try again, or use a different payment method.","Amazon Pay was unable to authenticate the payment instrument.  Please try again, or use a different payment method.",module,Amazon_Payment
+"The SCA challenge was not completed successfully.  Please try again, or use a different payment method.","The SCA challenge was not completed successfully.  Please try again, or use a different payment method.",module,Amazon_Payment
+"Failed to retrieve quote from checkoutSession","Failed to retrieve quote from checkoutSession",module,Amazon_Payment
+"IPN not enabled.","IPN not enabled.",module,Amazon_Payment
+"The selected payment method is not available for this transaction. Please select another one or add a new payment method to the wallet widget.","The selected payment method is not available for this transaction. Please select another one or add a new payment method to the wallet widget.",module,Amazon_Payment
+"No payment instrument has been selected for this order, please try to refresh the page or add a new payment instrument in the wallet widget.","No payment instrument has been selected for this order, please try to refresh the page or add a new payment instrument in the wallet widget.",module,Amazon_Payment
+"The order failed due to a technical error, please select another payment method or contact our support.","The order failed due to a technical error, please select another payment method or contact our support.",module,Amazon_Payment
+"Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Amazon_Payment
+"Something went wrong during Gateway request.","Something went wrong during Gateway request.",module,Amazon_Payment
+"VoidClient - Unable to Close/Cancel order - bad status response.","VoidClient - Unable to Close/Cancel order - bad status response.",module,Amazon_Payment
+"The refund amount or the Amazon Order ID is incorrect.","The refund amount or the Amazon Order ID is incorrect.",module,Amazon_Payment
+"Amazon Pay refund successful.","Amazon Pay refund successful.",module,Amazon_Payment
+"Unable to cancel the order or the Amazon Order ID is incorrect.","Unable to cancel the order or the Amazon Order ID is incorrect.",module,Amazon_Payment
+"Successfully cancelled Amazon Pay.","Successfully cancelled Amazon Pay.",module,Amazon_Payment
+"No constraints detected.","No constraints detected.",module,Amazon_Payment
+"Unable to confirm order reference.","Unable to confirm order reference.",module,Amazon_Payment
+"AmazonPaymentAdapter: Bad status - no capture details available.","AmazonPaymentAdapter: Bad status - no capture details available.",module,Amazon_Payment
+"There has been a problem with the selected payment method on your Amazon account. Please choose another one.","There has been a problem with the selected payment method on your Amazon account. Please choose another one.",module,Amazon_Payment
+"Amazon could not process your request.","Amazon could not process your request.",module,Amazon_Payment
+"the country for your address is not allowed for this store","the country for your address is not allowed for this store",module,Amazon_Payment
+"Your address may be updated in your Amazon account.","Your address may be updated in your Amazon account.",module,Amazon_Payment
+"Your session has expired, please reload the page and try again.","Your session has expired, please reload the page and try again.",module,Amazon_Payment
+"The currency selected is not supported by Amazon Pay","The currency selected is not supported by Amazon Pay",module,Amazon_Payment
+"Capture declined","Capture declined",module,Amazon_Payment
+"Capture declined for Order #%1","Capture declined for Order #%1",module,Amazon_Payment
+"Captured amount of %1 online","Captured amount of %1 online",module,Amazon_Payment
+"Authorized amount of %1","Authorized amount of %1",module,Amazon_Payment
+"Declined amount of %1 online","Declined amount of %1 online",module,Amazon_Payment
+"Could not find the ""multiline_count"" config of the ""street"" Customer address attribute.","Could not find the ""multiline_count"" config of the ""street"" Customer address attribute.",module,Amazon_Payment
+or,or,module,Amazon_Payment
+"Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.","Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.",module,Amazon_Payment
+"Checkout now","Checkout now",module,Amazon_Payment
+"If you created this account using Amazon Pay, you might not know your site password.","If you created this account using Amazon Pay, you might not know your site password.",module,Amazon_Payment
+"In order to reset your password, please <a href=""%1"">Sign Out</a> and click on “Forgot Your Password?” from the Sign In page","In order to reset your password, please <a href=""%1"">Sign Out</a> and click on “Forgot Your Password?” from the Sign In page",module,Amazon_Payment
