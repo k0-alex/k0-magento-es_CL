@@ -1,0 +1,7 @@
+"Cannot retrieve the field %1. It's not available in Adobe Stock SDK","Cannot retrieve the field %1. It's not available in Adobe Stock SDK",module,Magento_AdobeStockClient
+"Files ids can not be empty.","Files ids can not be empty.",module,Magento_AdobeStockClient
+"Could not retrieve files information.","Could not retrieve files information.",module,Magento_AdobeStockClient
+"Adobe API Key is invalid!","Adobe API Key is invalid!",module,Magento_AdobeStockClient
+"Adobe API login has expired!","Adobe API login has expired!",module,Magento_AdobeStockClient
+". ': %error_message'",". ': %error_message'",module,Magento_AdobeStockClient
+"Create attributes process failed: %error_message","Create attributes process failed: %error_message",module,Magento_AdobeStockClient

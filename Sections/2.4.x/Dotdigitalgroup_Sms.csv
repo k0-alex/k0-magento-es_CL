@@ -1,0 +1,25 @@
+"Edit SMS settings","Edit SMS settings",module,Dotdigitalgroup_Sms
+Reports,Reports,module,Dotdigitalgroup_Sms
+"SMS Sends Report","SMS Sends Report",module,Dotdigitalgroup_Sms
+Pending,Pending,module,Dotdigitalgroup_Sms
+"In progress","In progress",module,Dotdigitalgroup_Sms
+Delivered,Delivered,module,Dotdigitalgroup_Sms
+Failed,Failed,module,Dotdigitalgroup_Sms
+Expired,Expired,module,Dotdigitalgroup_Sms
+Unknown,Unknown,module,Dotdigitalgroup_Sms
+"New Order","New Order",module,Dotdigitalgroup_Sms
+"Order Update","Order Update",module,Dotdigitalgroup_Sms
+"New Shipment","New Shipment",module,Dotdigitalgroup_Sms
+"Shipment Update","Shipment Update",module,Dotdigitalgroup_Sms
+"New Credit Memo","New Credit Memo",module,Dotdigitalgroup_Sms
+"Phone Number","Phone Number",module,Dotdigitalgroup_Sms
+"The queued message that was requested doesn't exist.","The queued message that was requested doesn't exist.",module,Dotdigitalgroup_Sms
+"Transactional SMS (powered by dotdigital Engagement Cloud) requires SMS pay-as-you-go to be enabled on your account.","Transactional SMS (powered by dotdigital Engagement Cloud) requires SMS pay-as-you-go to be enabled on your account.",module,Dotdigitalgroup_Sms
+"Learn how to activate SMS pay-as-you-go","Learn how to activate SMS pay-as-you-go",module,Dotdigitalgroup_Sms
+" characters ("," characters (",module,Dotdigitalgroup_Sms
+"minimum ","minimum ",module,Dotdigitalgroup_Sms
+" SMS)"," SMS)",module,Dotdigitalgroup_Sms
+"One or more of your templates contain unicode characters.
+    Consider replacing them if you would like to reduce your character count.","One or more of your templates contain unicode characters.
+    Consider replacing them if you would like to reduce your character count.",module,Dotdigitalgroup_Sms
+"Read more about SMS message length and Unicode","Read more about SMS message length and Unicode",module,Dotdigitalgroup_Sms

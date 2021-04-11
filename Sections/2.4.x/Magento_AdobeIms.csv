@@ -1,0 +1,10 @@
+"Authorization was successful","Authorization was successful",module,Magento_AdobeIms
+"Login failed. Please check if <a href=""%url"">the Secret Key</a> is set correctly and try again.","Login failed. Please check if <a href=""%url"">the Secret Key</a> is set correctly and try again.",module,Magento_AdobeIms
+"Something went wrong.","Something went wrong.",module,Magento_AdobeIms
+"An error occurred during the callback request from the Adobe service: %error","An error occurred during the callback request from the Adobe service: %error",module,Magento_AdobeIms
+"An error occurred during get user data. Contact support.","An error occurred during get user data. Contact support.",module,Magento_AdobeIms
+"Could not login to Adobe IMS.","Could not login to Adobe IMS.",module,Magento_AdobeIms
+"An error occurred during logout operation.","An error occurred during logout operation.",module,Magento_AdobeIms
+"Could not save user profile.","Could not save user profile.",module,Magento_AdobeIms
+"Could not find user profile id: %id.","Could not find user profile id: %id.",module,Magento_AdobeIms
+"The user profile wasn't found.","The user profile wasn't found.",module,Magento_AdobeIms
