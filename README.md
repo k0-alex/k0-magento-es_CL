@@ -9,16 +9,20 @@ Traduction of Magento 2.4 to Spanish Chile.
 * Magento v2.4.x branch 2.4.x
 
 ## Links
-* Github: https://github.com/k0derz-alex/k0-magento-es_CL
+* Github: https://github.com/k0-alex/k0-magento-es_CL
 
 ## Installation
 In progress ...
 
 Extract command as root :
+```
 su -m apache -c "php bin/magento i18n:collect-phrases -o /tmp/Temp_24x.csv -m" 
+```
 
 Update command as root :
+```
 su -m apache -c "php bin/magento i18n:pack -m merge -d /tmp/es_CL.csv es_CL"
+```
 
 Always in the directory of Magento Site
 
