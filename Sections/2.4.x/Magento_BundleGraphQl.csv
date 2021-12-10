@@ -1,0 +1,7 @@
+"""option_id"" and ""parent_id"" values should be specified","""option_id"" and ""parent_id"" values should be specified",module,Magento_BundleGraphQl
+"Value must contain ""model"" property.","Value must contain ""model"" property.",module,Magento_BundleGraphQl
+"""option_id"" value should be specified.","""option_id"" value should be specified.",module,Magento_BundleGraphQl
+"""selection_id"" value should be specified.","""selection_id"" value should be specified.",module,Magento_BundleGraphQl
+"""sku"" value should be specified","""sku"" value should be specified",module,Magento_BundleGraphQl
+"""model"" value should be specified","""model"" value should be specified",module,Magento_BundleGraphQl
+"""itemModel"" should be a ""%instance"" instance","""itemModel"" should be a ""%instance"" instance",module,Magento_BundleGraphQl

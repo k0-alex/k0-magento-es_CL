@@ -1,0 +1,4 @@
+"""itemModel"" should be a ""%instance"" instance","""itemModel"" should be a ""%instance"" instance",module,Magento_DownloadableGraphQl
+"""model"" value should be specified","""model"" value should be specified",module,Magento_DownloadableGraphQl
+"Wrong product type. Links are available for Downloadable and Virtual product types","Wrong product type. Links are available for Downloadable and Virtual product types",module,Magento_DownloadableGraphQl
+"""id"" value should be specified.","""id"" value should be specified.",module,Magento_DownloadableGraphQl

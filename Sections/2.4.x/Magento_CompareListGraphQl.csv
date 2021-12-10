@@ -1,0 +1,12 @@
+"""uid"" value must be specified.","""uid"" value must be specified.",module,Magento_CompareListGraphQl
+"""products"" value must be specified.","""products"" value must be specified.",module,Magento_CompareListGraphQl
+"""uid"" value does not exist","""uid"" value does not exist",module,Magento_CompareListGraphQl
+"""uid"" value must be specified","""uid"" value must be specified",module,Magento_CompareListGraphQl
+"Customer must be logged","Customer must be logged",module,Magento_CompareListGraphQl
+"Something was wrong during assigning customer.","Something was wrong during assigning customer.",module,Magento_CompareListGraphQl
+"Something was wrong during creating compare list","Something was wrong during creating compare list",module,Magento_CompareListGraphQl
+"Something was wrong during removing compare list","Something was wrong during removing compare list",module,Magento_CompareListGraphQl
+"Something was wrong during removing products from compare list","Something was wrong during removing products from compare list",module,Magento_CompareListGraphQl
+"Customer with id ""%customer_id"" does not exist.","Customer with id ""%customer_id"" does not exist.",module,Magento_CompareListGraphQl
+"The account is locked.","The account is locked.",module,Magento_CompareListGraphQl
+"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_CompareListGraphQl

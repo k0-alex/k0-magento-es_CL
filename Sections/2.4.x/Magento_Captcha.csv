@@ -1,0 +1,10 @@
+Always,Always,module,Magento_Captcha
+"After number of attempts to login","After number of attempts to login",module,Magento_Captcha
+"Provided form does not exist","Provided form does not exist",module,Magento_Captcha
+"Incorrect CAPTCHA","Incorrect CAPTCHA",module,Magento_Captcha
+"Incorrect CAPTCHA.","Incorrect CAPTCHA.",module,Magento_Captcha
+"The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1.",module,Magento_Captcha
+"Please enter the letters and numbers from the image","Please enter the letters and numbers from the image",module,Magento_Captcha
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Captcha
+"Reload captcha","Reload captcha",module,Magento_Captcha
+"Please type the letters and numbers below","Please type the letters and numbers below",module,Magento_Captcha

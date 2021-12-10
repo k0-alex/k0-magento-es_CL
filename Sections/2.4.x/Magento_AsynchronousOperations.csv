@@ -1,0 +1,23 @@
+Back,Back,module,Magento_AsynchronousOperations
+Done,Done,module,Magento_AsynchronousOperations
+Retry,Retry,module,Magento_AsynchronousOperations
+"'Action Details - #' .","'Action Details - #' .",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
+"Bulk Actions Log","Bulk Actions Log",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
+"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"%1 item(s) are currently being updated.","%1 item(s) are currently being updated.",module,Magento_AsynchronousOperations
+"Task ""%1"": ","Task ""%1"": ",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.","%1 item(s) have been scheduled for update.",module,Magento_AsynchronousOperations
+"%1 item(s) have been successfully updated.","%1 item(s) have been successfully updated.",module,Magento_AsynchronousOperations
+"%1 item(s) failed to update","%1 item(s) failed to update",module,Magento_AsynchronousOperations
+Details,Details,module,Magento_AsynchronousOperations
+"View Details","View Details",module,Magento_AsynchronousOperations
+Dismiss,Dismiss,module,Magento_AsynchronousOperations
+"Pending, in queue...","Pending, in queue...",module,Magento_AsynchronousOperations
+"%1 items selected for mass update","%1 items selected for mass update",module,Magento_AsynchronousOperations
+", %1 successfully updated",", %1 successfully updated",module,Magento_AsynchronousOperations
+", %1 failed to update",", %1 failed to update",module,Magento_AsynchronousOperations
