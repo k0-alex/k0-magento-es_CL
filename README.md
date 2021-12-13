@@ -19,6 +19,9 @@ Extract command as root :
 su -m apache -c "php bin/magento i18n:collect-phrases -o /tmp/Temp_24x.csv -m" 
 ```
 
+Split the files to translate :
+php -f Script.php Temp_24x.csv 
+
 Update command as root :
 ```
 su -m apache -c "php bin/magento i18n:pack -m merge -d /tmp/es_CL.csv es_CL"
