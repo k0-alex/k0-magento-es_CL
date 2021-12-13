@@ -163,12 +163,12 @@ Frontend,Frontend,module,Amazon_Core
 "Show Amazon Pay button in minicart","Show Amazon Pay button in minicart",module,Amazon_Core
 "Show Amazon Pay in payment methods","Show Amazon Pay in payment methods",module,Amazon_Core
 "If enabled, Amazon Pay is presented as an option in the list of available payment methods during the final step of checkout.","If enabled, Amazon Pay is presented as an option in the list of available payment methods during the final step of checkout.",module,Amazon_Core
-"Sales Options","Sales Options",module,Amazon_Core
-"Store Name","Store Name",module,Amazon_Core
-"Use Multi-currency","Use Multi-currency",module,Amazon_Core
+"Sales Options","Opciones de Venta",module,Amazon_Core
+"Store Name","Nombre de la Tienda",module,Amazon_Core
+"Use Multi-currency","Usar Multi-Moneda",module,Amazon_Core
 "Developer Options","Developer Options",module,Amazon_Core
-Logging,Logging,module,Amazon_Core
-"Allowed IPs","Allowed IPs",module,Amazon_Core
+Logging,Registrando,module,Amazon_Core
+"Allowed IPs","IPs Permitidas",module,Amazon_Core
 "Comma separated. The ""Login with Amazon"" and ""Amazon Pay"" buttons will <em>only</em> be rendered for clients having the above IPs.
                             If the field is empty, the buttons will be visible to all clients.","Comma separated. The ""Login with Amazon"" and ""Amazon Pay"" buttons will <em>only</em> be rendered for clients having the above IPs.
                             If the field is empty, the buttons will be visible to all clients.",module,Amazon_Core
