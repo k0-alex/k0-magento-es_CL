@@ -1,0 +1,29 @@
+"Your order number is: %1.","Your order number is: %1.",module,Magento_InventoryInStorePickupFrontend
+"Your order # is: <span>%1</span>.","Your order # is: <span>%1</span>.",module,Magento_InventoryInStorePickupFrontend
+"We'll email you an order and pick-up confirmation with details.","We'll email you an order and pick-up confirmation with details.",module,Magento_InventoryInStorePickupFrontend
+"We'll email you an order confirmation with details and tracking info.","We'll email you an order confirmation with details and tracking info.",module,Magento_InventoryInStorePickupFrontend
+"Continue Shopping","Continue Shopping",module,Magento_InventoryInStorePickupFrontend
+Shipping,Shipping,module,Magento_InventoryInStorePickupFrontend
+"Pick in Store","Pick in Store",module,Magento_InventoryInStorePickupFrontend
+"Email Address","Email Address",module,Magento_InventoryInStorePickupFrontend
+"Forgot Your Password?","Forgot Your Password?",module,Magento_InventoryInStorePickupFrontend
+"You can create an account after checkout.","You can create an account after checkout.",module,Magento_InventoryInStorePickupFrontend
+Password,Password,module,Magento_InventoryInStorePickupFrontend
+"You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_InventoryInStorePickupFrontend
+Login,Login,module,Magento_InventoryInStorePickupFrontend
+"Ship To:","Ship To:",module,Magento_InventoryInStorePickupFrontend
+edit,edit,module,Magento_InventoryInStorePickupFrontend
+"Shipping Method:","Shipping Method:",module,Magento_InventoryInStorePickupFrontend
+Store,Store,module,Magento_InventoryInStorePickupFrontend
+"Select Other","Select Other",module,Magento_InventoryInStorePickupFrontend
+"Select Store","Select Store",module,Magento_InventoryInStorePickupFrontend
+Next,Next,module,Magento_InventoryInStorePickupFrontend
+"Ship Here","Ship Here",module,Magento_InventoryInStorePickupFrontend
+Selected,Selected,module,Magento_InventoryInStorePickupFrontend
+Search,Search,module,Magento_InventoryInStorePickupFrontend
+"We were unable to find nearby locations for provided search query.","We were unable to find nearby locations for provided search query.",module,Magento_InventoryInStorePickupFrontend
+"Please provide postcode or city name to find nearest pickup locations.","Please provide postcode or city name to find nearest pickup locations.",module,Magento_InventoryInStorePickupFrontend
+"Location Details","Location Details",module,Magento_InventoryInStorePickupFrontend
+Action,Action,module,Magento_InventoryInStorePickupFrontend
+"We could not preselect pickup location based on available information, please select it manually.","We could not preselect pickup location based on available information, please select it manually.",module,Magento_InventoryInStorePickupFrontend
+"We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_InventoryInStorePickupFrontend

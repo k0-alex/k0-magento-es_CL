@@ -1,0 +1,8 @@
+"Table %table already exits","Table %table already exits",module,Magento_InventoryIndexer
+"Index Strategy not found, please check system settings.","Index Strategy not found, please check system settings.",module,Magento_InventoryIndexer
+"SelectBuilder must implement SelectBuilderInterface.","SelectBuilder must implement SelectBuilderInterface.",module,Magento_InventoryIndexer
+Synchronous,Synchronous,module,Magento_InventoryIndexer
+Asynchronous,Asynchronous,module,Magento_InventoryIndexer
+"Could not receive Stock Item data","Could not receive Stock Item data",module,Magento_InventoryIndexer
+Inventory,Inventory,module,Magento_InventoryIndexer
+"Inventory index (MSI)","Inventory index (MSI)",module,Magento_InventoryIndexer

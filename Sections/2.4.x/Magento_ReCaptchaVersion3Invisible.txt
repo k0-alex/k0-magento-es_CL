@@ -1,0 +1,20 @@
+"reCAPTCHA v3 Invisible","reCAPTCHA v3 Invisible",module,Magento_ReCaptchaVersion3Invisible
+"Google API Website Key","Google API Website Key",module,Magento_ReCaptchaVersion3Invisible
+"Google API Secret Key","Google API Secret Key",module,Magento_ReCaptchaVersion3Invisible
+"Minimum Score Threshold","Minimum Score Threshold",module,Magento_ReCaptchaVersion3Invisible
+"From 0.0 to 1.0, where 1.0 is very likely a good interaction, and 0.0 is very likely a bot.<br />
+                        For more details, see the official documentation
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score"">Interpreting the score</a>.","From 0.0 to 1.0, where 1.0 is very likely a good interaction, and 0.0 is very likely a bot.<br />
+                        For more details, see the official documentation
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score"">Interpreting the score</a>.",module,Magento_ReCaptchaVersion3Invisible
+"Invisible Badge Position","Invisible Badge Position",module,Magento_ReCaptchaVersion3Invisible
+Theme,Theme,module,Magento_ReCaptchaVersion3Invisible
+"Language Code","Language Code",module,Magento_ReCaptchaVersion3Invisible
+"Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.","Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.",module,Magento_ReCaptchaVersion3Invisible
+Inline,Inline,module,Magento_ReCaptchaVersion3Invisible
+"Bottom Right","Bottom Right",module,Magento_ReCaptchaVersion3Invisible
+"Bottom Left","Bottom Left",module,Magento_ReCaptchaVersion3Invisible
+"Light Theme","Light Theme",module,Magento_ReCaptchaVersion3Invisible
+"Dark Theme","Dark Theme",module,Magento_ReCaptchaVersion3Invisible

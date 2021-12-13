@@ -1,0 +1,14 @@
+"reCAPTCHA v2 Invisible","reCAPTCHA v2 Invisible",module,Magento_ReCaptchaVersion2Invisible
+"Google API Website Key","Google API Website Key",module,Magento_ReCaptchaVersion2Invisible
+"Google API Secret Key","Google API Secret Key",module,Magento_ReCaptchaVersion2Invisible
+"Invisible Badge Position","Invisible Badge Position",module,Magento_ReCaptchaVersion2Invisible
+Theme,Theme,module,Magento_ReCaptchaVersion2Invisible
+"Language Code","Language Code",module,Magento_ReCaptchaVersion2Invisible
+"Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.","Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.",module,Magento_ReCaptchaVersion2Invisible
+Inline,Inline,module,Magento_ReCaptchaVersion2Invisible
+"Bottom Right","Bottom Right",module,Magento_ReCaptchaVersion2Invisible
+"Bottom Left","Bottom Left",module,Magento_ReCaptchaVersion2Invisible
+"Light Theme","Light Theme",module,Magento_ReCaptchaVersion2Invisible
+"Dark Theme","Dark Theme",module,Magento_ReCaptchaVersion2Invisible

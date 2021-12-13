@@ -1,0 +1,4 @@
+"Predis client is not installed","Predis client is not installed",module,Magento_RemoteStorage
+"Cache adapter %1 is not supported","Cache adapter %1 is not supported",module,Magento_RemoteStorage
+"Driver ""%1"" does not exist","Driver ""%1"" does not exist",module,Magento_RemoteStorage
+"Remote driver is not available.","Remote driver is not available.",module,Magento_RemoteStorage

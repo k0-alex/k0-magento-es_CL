@@ -1,0 +1,174 @@
+"Field ID","Field ID",module,Vertex_Tax
+"Data Source","Data Source",module,Vertex_Tax
+Country,Country,module,Vertex_Tax
+"Delivery Term","Delivery Term",module,Vertex_Tax
+Add,Add,module,Vertex_Tax
+N/A,N/A,module,Vertex_Tax
+"Learn more","Learn more",module,Vertex_Tax
+"Could not successfully delete record(s)","Could not successfully delete record(s)",module,Vertex_Tax
+"Could not convert object to array","Could not convert object to array",module,Vertex_Tax
+"Unable to calculate taxes. This could be caused by an invalid address provided in checkout.","Unable to calculate taxes. This could be caused by an invalid address provided in checkout.",module,Vertex_Tax
+"Sales and Use","Sales and Use",module,Vertex_Tax
+"Gift Options","Gift Options",module,Vertex_Tax
+Shipping,Shipping,module,Vertex_Tax
+"Failed to write crontab expression.","Failed to write crontab expression.",module,Vertex_Tax
+"Vertex Tax Calculation has been automatically disabled. Display prices in Catalog must be set to ""Excluding Tax"" to use Vertex.","Vertex Tax Calculation has been automatically disabled. Display prices in Catalog must be set to ""Excluding Tax"" to use Vertex.",module,Vertex_Tax
+"Stores affected: ","Stores affected: ",module,Vertex_Tax
+"Store affected: ","Store affected: ",module,Vertex_Tax
+"Click here to go to <a href=""%1"">Price Display Settings</a> and change your settings.","Click here to go to <a href=""%1"">Price Display Settings</a> and change your settings.",module,Vertex_Tax
+"Please Select.","Please Select.",module,Vertex_Tax
+"--Please Select--","--Please Select--",module,Vertex_Tax
+"%1 - Cost and Freight","%1 - Cost and Freight",module,Vertex_Tax
+"%1 - Cost Insurance and Freight","%1 - Cost Insurance and Freight",module,Vertex_Tax
+"%1 - Carriage Insurance Paid To","%1 - Carriage Insurance Paid To",module,Vertex_Tax
+"%1 - Carriage Paid To","%1 - Carriage Paid To",module,Vertex_Tax
+"%1 - Customer Ships","%1 - Customer Ships",module,Vertex_Tax
+"%1 - Delivered at Frontier","%1 - Delivered at Frontier",module,Vertex_Tax
+"%1 - Delivered at Place","%1 - Delivered at Place",module,Vertex_Tax
+"%1 - Delivered at Terminal","%1 - Delivered at Terminal",module,Vertex_Tax
+"%1 - Delivery Duty Paid","%1 - Delivery Duty Paid",module,Vertex_Tax
+"%1 - Delivery Duty Unpaid","%1 - Delivery Duty Unpaid",module,Vertex_Tax
+"%1 - Delivered Ex Quay Duty Unpaid","%1 - Delivered Ex Quay Duty Unpaid",module,Vertex_Tax
+"%1 - Ex Works","%1 - Ex Works",module,Vertex_Tax
+"%1 - Free Along Side Ship","%1 - Free Along Side Ship",module,Vertex_Tax
+"%1 - Free Carrier","%1 - Free Carrier",module,Vertex_Tax
+"%1 - Free Onboard Vessel","%1 - Free Onboard Vessel",module,Vertex_Tax
+"%1 - Supplier Ships","%1 - Supplier Ships",module,Vertex_Tax
+"Export to file and delete","Export to file and delete",module,Vertex_Tax
+Delete,Delete,module,Vertex_Tax
+"Product and Shipping","Product and Shipping",module,Vertex_Tax
+Jurisdiction,Jurisdiction,module,Vertex_Tax
+"Invoice Created","Invoice Created",module,Vertex_Tax
+"Order Status Is Changed","Order Status Is Changed",module,Vertex_Tax
+". ' Field #%1'",". ' Field #%1'",module,Vertex_Tax
+"Provided class name %1 was not located","Provided class name %1 was not located",module,Vertex_Tax
+"First Name","First Name",module,Vertex_Tax
+"Last Name","Last Name",module,Vertex_Tax
+"Middle Name","Middle Name",module,Vertex_Tax
+Email,Email,module,Vertex_Tax
+Customer,Customer,module,Vertex_Tax
+Birthdate,Birthdate,module,Vertex_Tax
+"Attribute code %1 is not available or the attributes array from its processor is not properly indexed by attribute code","Attribute code %1 is not available or the attributes array from its processor is not properly indexed by attribute code",module,Vertex_Tax
+"Processor for attribute code %1 not found","Processor for attribute code %1 not found",module,Vertex_Tax
+"Attribute code %1 not found ","Attribute code %1 not found ",module,Vertex_Tax
+"Product Type","Product Type",module,Vertex_Tax
+Price,Price,module,Vertex_Tax
+Product,Product,module,Vertex_Tax
+"Store ID","Store ID",module,Vertex_Tax
+"Cannot write log entry because no export file is open.","Cannot write log entry because no export file is open.",module,Vertex_Tax
+"Tax/VAT number provided but no Country was specified.","Tax/VAT number provided but no Country was specified.",module,Vertex_Tax
+"Vertex Customer Code","Vertex Customer Code",module,Vertex_Tax
+"VAT Registration Country","VAT Registration Country",module,Vertex_Tax
+"Unable to delete Commodity Code","Unable to delete Commodity Code",module,Vertex_Tax
+"Unable to save Commodity Code","Unable to save Commodity Code",module,Vertex_Tax
+"Could not save Custom Option Flexible Field Mapping","Could not save Custom Option Flexible Field Mapping",module,Vertex_Tax
+"Could not delete Custom Option Flexible Field Mapping","Could not delete Custom Option Flexible Field Mapping",module,Vertex_Tax
+"Unable to save Customer Code","Unable to save Customer Code",module,Vertex_Tax
+"Unable to delete Customer Code","Unable to delete Customer Code",module,Vertex_Tax
+"Unable to delete Customer Country","Unable to delete Customer Country",module,Vertex_Tax
+"Unable to save Customer Country","Unable to save Customer Country",module,Vertex_Tax
+"Unable to save Invoice Sent status","Unable to save Invoice Sent status",module,Vertex_Tax
+"Unable to delete Invoice Sent status","Unable to delete Invoice Sent status",module,Vertex_Tax
+"Could not save Log Entry","Could not save Log Entry",module,Vertex_Tax
+"Could not delete log entry","Could not delete log entry",module,Vertex_Tax
+"Could not delete log entries","Could not delete log entries",module,Vertex_Tax
+"Unable to save Order Invoice Sent status","Unable to save Order Invoice Sent status",module,Vertex_Tax
+"Unable to delete Order Invoice Sent status","Unable to delete Order Invoice Sent status",module,Vertex_Tax
+"Unable to delete Vat Country Code","Unable to delete Vat Country Code",module,Vertex_Tax
+"Unable to save Vat Country Code","Unable to save Vat Country Code",module,Vertex_Tax
+"%1 could not delete log entries","%1 could not delete log entries",module,Vertex_Tax
+"Could not submit invoice to Vertex.","Could not submit invoice to Vertex.",module,Vertex_Tax
+"Could not submit refund to Vertex.","Could not submit refund to Vertex.",module,Vertex_Tax
+"Could not save Vertex invoice refund comment","Could not save Vertex invoice refund comment",module,Vertex_Tax
+"%1 Please verify your configured Company Code and Trusted ID are correct.","%1 Please verify your configured Company Code and Trusted ID are correct.",module,Vertex_Tax
+"%1 Vertex could not be reached. Please verify your configuration.","%1 Vertex could not be reached. Please verify your configuration.",module,Vertex_Tax
+"%1 Error has been logged.","%1 Error has been logged.",module,Vertex_Tax
+"The Vertex invoice has been refunded.","The Vertex invoice has been refunded.",module,Vertex_Tax
+"The Vertex invoice has been sent.","The Vertex invoice has been sent.",module,Vertex_Tax
+test,test,module,Vertex_Tax
+"No Such Entity","No Such Entity",module,Vertex_Tax
+"Commodity Code","Commodity Code",module,Vertex_Tax
+Code,Code,module,Vertex_Tax
+Type,Type,module,Vertex_Tax
+"Custom Options may only be mapped to Vertex Flexible Fields configured with a source of ""Custom Options""","Custom Options may only be mapped to Vertex Flexible Fields configured with a source of ""Custom Options""",module,Vertex_Tax
+"Vertex Flexible Field","Vertex Flexible Field",module,Vertex_Tax
+Unmapped,Unmapped,module,Vertex_Tax
+"Please select a Country.","Please select a Country.",module,Vertex_Tax
+"Vertex Settings","Vertex Settings",module,Vertex_Tax
+"Streamline, automate and standardize taxability and calculation on every sales and purchase transaction","Streamline, automate and standardize taxability and calculation on every sales and purchase transaction",module,Vertex_Tax
+"Connection Settings","Connection Settings",module,Vertex_Tax
+"Vertex Tax Links","Vertex Tax Links",module,Vertex_Tax
+"API Status","API Status",module,Vertex_Tax
+"Calculation API URL","Calculation API URL",module,Vertex_Tax
+"Address Validation API URL","Address Validation API URL",module,Vertex_Tax
+"Trusted ID","Trusted ID",module,Vertex_Tax
+"Integration Settings","Integration Settings",module,Vertex_Tax
+"Vertex Tax Calculation","Vertex Tax Calculation",module,Vertex_Tax
+"Commit To Tax Journal When","Commit To Tax Journal When",module,Vertex_Tax
+"Invoice When Order Status Is","Invoice When Order Status Is",module,Vertex_Tax
+"Allowed Countries","Allowed Countries",module,Vertex_Tax
+"Countries from which orders should be processed through Vertex. Use the shipping country, or if none the billing country.","Countries from which orders should be processed through Vertex. Use the shipping country, or if none the billing country.",module,Vertex_Tax
+"Summarize Tax By","Summarize Tax By",module,Vertex_Tax
+"Please select how Tax should be summarized","Please select how Tax should be summarized",module,Vertex_Tax
+"Flexible Fields","Flexible Fields",module,Vertex_Tax
+"Use optional Flexible Fields to identify taxability decisions based on Magento information beyond the standard customer and product taxability drivers defined by Vertex.","Use optional Flexible Fields to identify taxability decisions based on Magento information beyond the standard customer and product taxability drivers defined by Vertex.",module,Vertex_Tax
+"Code Fields","Code Fields",module,Vertex_Tax
+"Numeric Fields","Numeric Fields",module,Vertex_Tax
+"Date Fields","Date Fields",module,Vertex_Tax
+"Delivery Terms","Delivery Terms",module,Vertex_Tax
+"Global Delivery Term","Global Delivery Term",module,Vertex_Tax
+"Delivery Term Override","Delivery Term Override",module,Vertex_Tax
+"Override the Global Delivery Term based on the country being shipped to","Override the Global Delivery Term based on the country being shipped to",module,Vertex_Tax
+"Seller Details","Seller Details",module,Vertex_Tax
+"Company Code","Company Code",module,Vertex_Tax
+"The Vertex TaxCentral user interface is used to set up any taxability rules that apply at this level.
+                    This should be a parameter that is configurable to data from the host system based on an individual company's legal and tax requirements.","The Vertex TaxCentral user interface is used to set up any taxability rules that apply at this level.
+                    This should be a parameter that is configurable to data from the host system based on an individual company's legal and tax requirements.",module,Vertex_Tax
+"Location Code","Location Code",module,Vertex_Tax
+"The locationCode attribute on the line item represents the store location code that is used for returns filing","The locationCode attribute on the line item represents the store location code that is used for returns filing",module,Vertex_Tax
+"Use Shipping Origin as Source","Use Shipping Origin as Source",module,Vertex_Tax
+"Use the address information defined in Sales &gt; Shipping &gt; Origin.  Selecting No allows you to configure the Vertex Seller address separately from the shipping origin.","Use the address information defined in Sales &gt; Shipping &gt; Origin.  Selecting No allows you to configure the Vertex Seller address separately from the shipping origin.",module,Vertex_Tax
+"Street Address","Street Address",module,Vertex_Tax
+"The first line of the street address.","The first line of the street address.",module,Vertex_Tax
+"Street Address 2","Street Address 2",module,Vertex_Tax
+"The first second of the street address.","The first second of the street address.",module,Vertex_Tax
+City,City,module,Vertex_Tax
+"The proper name of the city used to determine Tax Jurisdiction(s)","The proper name of the city used to determine Tax Jurisdiction(s)",module,Vertex_Tax
+"The country used to determine the Tax Jurisdiction(s)","The country used to determine the Tax Jurisdiction(s)",module,Vertex_Tax
+State,State,module,Vertex_Tax
+"The proper name or the postal abbreviation of the state, province, or territory used to determine Tax Jurisdiction(s)","The proper name or the postal abbreviation of the state, province, or territory used to determine Tax Jurisdiction(s)",module,Vertex_Tax
+"Postal Code","Postal Code",module,Vertex_Tax
+"The postal code used to determine Tax Jurisdiction(s)","The postal code used to determine Tax Jurisdiction(s)",module,Vertex_Tax
+Logging,Logging,module,Vertex_Tax
+"Vertex Request Logging","Vertex Request Logging",module,Vertex_Tax
+"When enabled, all API requests are tracked.","When enabled, all API requests are tracked.",module,Vertex_Tax
+"Log Rotation","Log Rotation",module,Vertex_Tax
+"Perform an action on logs over a certain age at a regular interval","Perform an action on logs over a certain age at a regular interval",module,Vertex_Tax
+"Rotation Action","Rotation Action",module,Vertex_Tax
+"When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>","When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>",module,Vertex_Tax
+"Log Entry Lifetime (days)","Log Entry Lifetime (days)",module,Vertex_Tax
+"How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible","How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible",module,Vertex_Tax
+"Rotation Frequency","Rotation Frequency",module,Vertex_Tax
+"How often the Rotation Action should be applied to the logs","How often the Rotation Action should be applied to the logs",module,Vertex_Tax
+"Rotation Time","Rotation Time",module,Vertex_Tax
+"Developer &amp; Support Information","Developer &amp; Support Information",module,Vertex_Tax
+"Connector Version","Connector Version",module,Vertex_Tax
+"Shipping Product Codes","Shipping Product Codes",module,Vertex_Tax
+"Default Customer Code","Default Customer Code",module,Vertex_Tax
+"Refund Adjustments Class","Refund Adjustments Class",module,Vertex_Tax
+"Adjustment Fee Code","Adjustment Fee Code",module,Vertex_Tax
+"Adjustment Refund Code","Adjustment Refund Code",module,Vertex_Tax
+"Gift Wrap For Order Class","Gift Wrap For Order Class",module,Vertex_Tax
+"Gift Wrap For Order Code","Gift Wrap For Order Code",module,Vertex_Tax
+"Gift Wrap Class For Single Product","Gift Wrap Class For Single Product",module,Vertex_Tax
+"Gift Wrap Code Prefix For Single Product","Gift Wrap Code Prefix For Single Product",module,Vertex_Tax
+"Item Line Class For Printed Gift Card","Item Line Class For Printed Gift Card",module,Vertex_Tax
+"Item Line Code For Printed Gift Card","Item Line Code For Printed Gift Card",module,Vertex_Tax
+"Class For Reward Points Discount Line Item","Class For Reward Points Discount Line Item",module,Vertex_Tax
+"Product Code For Reward Points Discount Line Item","Product Code For Reward Points Discount Line Item",module,Vertex_Tax
+"Vertex FPT Invoice Code Prefix","Vertex FPT Invoice Code Prefix",module,Vertex_Tax
+"Vertex Custom FPT Tax Class","Vertex Custom FPT Tax Class",module,Vertex_Tax
+"Vertex Tax Class for FPT","Vertex Tax Class for FPT",module,Vertex_Tax
+Vertex,Vertex,module,Vertex_Tax
+"Vertex tax calculation data","Vertex tax calculation data",module,Vertex_Tax
+"Vertex Messages","Vertex Messages",module,Vertex_Tax

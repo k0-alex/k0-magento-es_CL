@@ -1,0 +1,29 @@
+"Place Order","Place Order",module,Klarna_Kp
+"An unknown error occurred. Please try another payment method","An unknown error occurred. Please try another payment method",module,Klarna_Kp
+"Klarna Payments","Klarna Payments",module,Klarna_Kp
+Enable,Enable,module,Klarna_Kp
+"Allowed Countries","Allowed Countries",module,Klarna_Kp
+"If set to specific, guest customers will not have a billing country and may not be able to checkout.","If set to specific, guest customers will not have a billing country and may not be able to checkout.",module,Klarna_Kp
+"Payment from Specific countries","Payment from Specific countries",module,Klarna_Kp
+"Enable B2B","Enable B2B",module,Klarna_Kp
+"Allow B2B payments (Not available in all markets. Must be setup in your contract with Klarna)","Allow B2B payments (Not available in all markets. Must be setup in your contract with Klarna)",module,Klarna_Kp
+"Enable Data sharing","Enable Data sharing",module,Klarna_Kp
+"Allow customer data to be shared with Klarna before customer places the order. (Enabling this option has an effect in the US only)","Allow customer data to be shared with Klarna before customer places the order. (Enabling this option has an effect in the US only)",module,Klarna_Kp
+"Enable Data sharing on load","Enable Data sharing on load",module,Klarna_Kp
+"If this is disabled, it will mean that Klarna will not receive the consumers billing and shipping
+                            addresses until ""authorize"" is called. If there are any errors with the address, the authorization will fail and the user
+                            will be instructed to return to a previous step to fix the issue.","If this is disabled, it will mean that Klarna will not receive the consumers billing and shipping
+                            addresses until ""authorize"" is called. If there are any errors with the address, the authorization will fail and the user
+                            will be instructed to return to a previous step to fix the issue.",module,Klarna_Kp
+"Sort Order","Sort Order",module,Klarna_Kp
+Design,Design,module,Klarna_Kp
+"Details color","Details color",module,Klarna_Kp
+"Example: #0072CC","Example: #0072CC",module,Klarna_Kp
+"Border color","Border color",module,Klarna_Kp
+"Selected border color","Selected border color",module,Klarna_Kp
+"Text color","Text color",module,Klarna_Kp
+"Border Radius","Border Radius",module,Klarna_Kp
+"Example: 5px","Example: 5px",module,Klarna_Kp
+"Klarna Payments (North America)","Klarna Payments (North America)",module,Klarna_Kp
+"Klarna Payments (Europe)","Klarna Payments (Europe)",module,Klarna_Kp
+"Klarna Payments (Oceania)","Klarna Payments (Oceania)",module,Klarna_Kp

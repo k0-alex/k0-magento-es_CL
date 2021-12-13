@@ -1,0 +1,6 @@
+"Invalid Url.","Invalid Url.",module,Magento_PaypalGraphQl
+"The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_PaypalGraphQl
+"Could not find payment information for cart.","Could not find payment information for cart.",module,Magento_PaypalGraphQl
+"Required parameter ""cart_id"" is missing.","Required parameter ""cart_id"" is missing.",module,Magento_PaypalGraphQl
+"Required parameter ""paypal_payload"" is missing.","Required parameter ""paypal_payload"" is missing.",module,Magento_PaypalGraphQl
+"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_PaypalGraphQl

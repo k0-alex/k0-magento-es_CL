@@ -1,0 +1,35 @@
+"Admin is a required field in each row","Admin is a required field in each row",module,Magento_Swatches
+"Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
+"Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
+"Use Product Image for Swatch if Possible","Use Product Image for Swatch if Possible",module,Magento_Swatches
+"Allows use fallback logic for replacing swatch image with product swatch or base image","Allows use fallback logic for replacing swatch image with product swatch or base image",module,Magento_Swatches
+"Visual Swatch","Visual Swatch",module,Magento_Swatches
+"Text Swatch","Text Swatch",module,Magento_Swatches
+"Manage Swatch (Values of Your Attribute)","Manage Swatch (Values of Your Attribute)",module,Magento_Swatches
+"Is Default","Is Default",module,Magento_Swatches
+"Add Swatch","Add Swatch",module,Magento_Swatches
+"Sort Option","Sort Option",module,Magento_Swatches
+Swatch,Swatch,module,Magento_Swatches
+Description,Description,module,Magento_Swatches
+Delete,Delete,module,Magento_Swatches
+"The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Swatches
+"Choose a color","Choose a color",module,Magento_Swatches
+"Upload a file","Upload a file",module,Magento_Swatches
+Clear,Clear,module,Magento_Swatches
+"Step 2: Attribute Values","Step 2: Attribute Values",module,Magento_Swatches
+"Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.","Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.",module,Magento_Swatches
+"Sort Variations","Sort Variations",module,Magento_Swatches
+Options,Options,module,Magento_Swatches
+"Select All","Select All",module,Magento_Swatches
+"Deselect All","Deselect All",module,Magento_Swatches
+"Remove Attribute","Remove Attribute",module,Magento_Swatches
+"Save Option","Save Option",module,Magento_Swatches
+"Remove Option","Remove Option",module,Magento_Swatches
+"Create New Value","Create New Value",module,Magento_Swatches
+More,More,module,Magento_Swatches
+Swatches,Swatches,module,Magento_Swatches
+"Swatches per Product","Swatches per Product",module,Magento_Swatches
+"Show Swatches in Product List","Show Swatches in Product List",module,Magento_Swatches
+"Show Swatch Tooltip","Show Swatch Tooltip",module,Magento_Swatches
+"Default Store View","Default Store View",module,Magento_Swatches
+Admin,Admin,module,Magento_Swatches

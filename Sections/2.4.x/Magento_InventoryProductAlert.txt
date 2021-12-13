@@ -1,0 +1,2 @@
+Website,Website,module,Magento_InventoryProductAlert
+Stock,Stock,module,Magento_InventoryProductAlert

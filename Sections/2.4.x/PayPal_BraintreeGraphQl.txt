@@ -1,0 +1,5 @@
+"Required parameter ""braintree"" for ""payment_method"" is missing.","Required parameter ""braintree"" for ""payment_method"" is missing.",module,PayPal_BraintreeGraphQl
+"Required parameter ""braintree_cc_vault"" for ""payment_method"" is missing.","Required parameter ""braintree_cc_vault"" for ""payment_method"" is missing.",module,PayPal_BraintreeGraphQl
+"Required parameter ""public_hash"" for ""braintree_cc_vault"" is missing.","Required parameter ""public_hash"" for ""braintree_cc_vault"" is missing.",module,PayPal_BraintreeGraphQl
+"The Braintree payment method is not active.","The Braintree payment method is not active.",module,PayPal_BraintreeGraphQl
+"Sorry, but something went wrong","Sorry, but something went wrong",module,PayPal_BraintreeGraphQl

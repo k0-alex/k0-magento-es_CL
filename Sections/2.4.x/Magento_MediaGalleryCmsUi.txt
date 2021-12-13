@@ -1,0 +1,7 @@
+"Page Title","Page Title",module,Magento_MediaGalleryCmsUi
+"Start typing to find pages","Start typing to find pages",module,Magento_MediaGalleryCmsUi
+1000,1000,module,Magento_MediaGalleryCmsUi
+"Used in Pages","Used in Pages",module,Magento_MediaGalleryCmsUi
+"Block Title","Block Title",module,Magento_MediaGalleryCmsUi
+"Start typing to find blocks","Start typing to find blocks",module,Magento_MediaGalleryCmsUi
+"Used in Blocks","Used in Blocks",module,Magento_MediaGalleryCmsUi

@@ -1,0 +1,22 @@
+"Could not delete media assets by path %path: %error","Could not delete media assets by path %path: %error",module,Magento_MediaGallery
+"Cannot remove assets, the directory path does not exist","Cannot remove assets, the directory path does not exist",module,Magento_MediaGallery
+"Could not delete media asset with path %path: %error","Could not delete media asset with path %path: %error",module,Magento_MediaGallery
+"En error occurred during get media asset data by id %id: %error","En error occurred during get media asset data by id %id: %error",module,Magento_MediaGallery
+"There is no such media asset with id %id","There is no such media asset with id %id",module,Magento_MediaGallery
+"En error occurred during initialize media asset with id %id: %error","En error occurred during initialize media asset with id %id: %error",module,Magento_MediaGallery
+"There is no such media asset with path ""%1""","There is no such media asset with path ""%1""",module,Magento_MediaGallery
+"An error occurred during get media asset list: %1","An error occurred during get media asset list: %1",module,Magento_MediaGallery
+"An error occurred during media asset save: %1","An error occurred during media asset save: %1",module,Magento_MediaGallery
+"Could not create directories: %paths","Could not create directories: %paths",module,Magento_MediaGallery
+"Could not delete directories: %paths","Could not delete directories: %paths",module,Magento_MediaGallery
+"An error occurred during get asset keywords: %1","An error occurred during get asset keywords: %1",module,Magento_MediaGallery
+"An error occurred during save asset keyword: %1","An error occurred during save asset keyword: %1",module,Magento_MediaGallery
+"Could not delete media assets by paths: %paths","Could not delete media assets by paths: %paths",module,Magento_MediaGallery
+"Could not retrieve media assets","Could not retrieve media assets",module,Magento_MediaGallery
+"Could not get media assets for paths: %paths","Could not get media assets for paths: %paths",module,Magento_MediaGallery
+"Could not retrieve asset keywords.","Could not retrieve asset keywords.",module,Magento_MediaGallery
+"Could not save asset keyword links","Could not save asset keyword links",module,Magento_MediaGallery
+"Could not delete obsolete asset keyword links","Could not delete obsolete asset keyword links",module,Magento_MediaGallery
+"Could not update assets modified date","Could not update assets modified date",module,Magento_MediaGallery
+"Could not save keywords for asset ids: %ids","Could not save keywords for asset ids: %ids",module,Magento_MediaGallery
+"Could not save the media assets: %assets","Could not save the media assets: %assets",module,Magento_MediaGallery

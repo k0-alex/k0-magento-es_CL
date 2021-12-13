@@ -1,0 +1,6 @@
+"Adobe Stock WebAPI","Adobe Stock WebAPI",module,Magento_AdobeStockAsset
+"WebAPI Actions","WebAPI Actions",module,Magento_AdobeStockAsset
+Delete,Delete,module,Magento_AdobeStockAsset
+Save,Save,module,Magento_AdobeStockAsset
+View,View,module,Magento_AdobeStockAsset
+Get,Get,module,Magento_AdobeStockAsset

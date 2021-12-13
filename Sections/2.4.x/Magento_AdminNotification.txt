@@ -1,0 +1,10 @@
+"System Messages","System Messages",module,Magento_AdminNotification
+"Show Toolbar","Show Toolbar",module,Magento_AdminNotification
+"Show List","Show List",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","Use HTTPS to Get Feed",module,Magento_AdminNotification
+"Update Frequency","Update Frequency",module,Magento_AdminNotification
+"Last Update","Last Update",module,Magento_AdminNotification
+Severity,Severity,module,Magento_AdminNotification
+"Date Added","Date Added",module,Magento_AdminNotification
+Message,Message,module,Magento_AdminNotification
+Actions,Actions,module,Magento_AdminNotification

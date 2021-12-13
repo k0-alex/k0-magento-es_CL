@@ -1,0 +1,2 @@
+"Disable Page Cache For Admin User","Disable Page Cache For Admin User",module,Magento_LoginAsCustomerPageCache
+"If set to ""Yes"", page caching is disabled when the Admin user is logged in as a customer.","If set to ""Yes"", page caching is disabled when the Admin user is logged in as a customer.",module,Magento_LoginAsCustomerPageCache

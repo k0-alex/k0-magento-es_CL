@@ -1,0 +1,10 @@
+"Page not found.","Page not found.",module,Magento_Rss
+"Any message","Any message",module,Magento_Rss
+Feed,Feed,module,Magento_Rss
+"Miscellaneous Feeds","Miscellaneous Feeds",module,Magento_Rss
+"Get Feed","Get Feed",module,Magento_Rss
+"RSS Feeds Section","RSS Feeds Section",module,Magento_Rss
+"RSS Feeds","RSS Feeds",module,Magento_Rss
+"Rss Config","Rss Config",module,Magento_Rss
+"Enable RSS","Enable RSS",module,Magento_Rss
+RSS,RSS,module,Magento_Rss

@@ -1,0 +1,9 @@
+"All unassigned sales channels will be assigned to the Default Stock","All unassigned sales channels will be assigned to the Default Stock",module,Magento_InventorySalesAdminUi
+"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_InventorySalesAdminUi
+"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_InventorySalesAdminUi
+"No manage stock","No manage stock",module,Magento_InventorySalesAdminUi
+"Sales Channels","Sales Channels",module,Magento_InventorySalesAdminUi
+Websites,Websites,module,Magento_InventorySalesAdminUi
+"Aggregated inventory available to purchase for a stock. The amount aggregates assigned source's Quantity subtracting the Out-of-Stock Threshold (or MinQty).","Aggregated inventory available to purchase for a stock. The amount aggregates assigned source's Quantity subtracting the Out-of-Stock Threshold (or MinQty).",module,Magento_InventorySalesAdminUi
+"Product Salable Quantity","Product Salable Quantity",module,Magento_InventorySalesAdminUi
+"Salable Quantity","Salable Quantity",module,Magento_InventorySalesAdminUi

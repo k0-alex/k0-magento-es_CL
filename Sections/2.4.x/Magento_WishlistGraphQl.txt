@@ -1,0 +1,8 @@
+"The wishlist configuration is currently disabled.","The wishlist configuration is currently disabled.",module,Magento_WishlistGraphQl
+"The current user cannot perform operations on wishlist","The current user cannot perform operations on wishlist",module,Magento_WishlistGraphQl
+"The wishlist was not found.","The wishlist was not found.",module,Magento_WishlistGraphQl
+"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist Item value data","Missing key ""model"" in Wishlist Item value data",module,Magento_WishlistGraphQl
+"""model"" should be a ""%instance"" instance","""model"" should be a ""%instance"" instance",module,Magento_WishlistGraphQl
+"Product ""%product_type"" type is not supported","Product ""%product_type"" type is not supported",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist value data","Missing key ""model"" in Wishlist value data",module,Magento_WishlistGraphQl

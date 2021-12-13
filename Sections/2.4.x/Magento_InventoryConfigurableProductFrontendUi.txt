@@ -1,0 +1,2 @@
+Qty,Qty,module,Magento_InventoryConfigurableProductFrontendUi
+"Only %1 left","Only %1 left",module,Magento_InventoryConfigurableProductFrontendUi

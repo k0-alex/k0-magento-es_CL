@@ -1,0 +1,2 @@
+"The field argument is invalid.","The field argument is invalid.",module,Magento_MediaContentApi
+"GetContent items must implement %1.","GetContent items must implement %1.",module,Magento_MediaContentApi

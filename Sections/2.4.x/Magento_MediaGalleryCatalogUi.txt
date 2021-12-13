@@ -1,0 +1,24 @@
+Categories,Categories,module,Magento_MediaGalleryCatalogUi
+Edit,Edit,module,Magento_MediaGalleryCatalogUi
+"Asset Title","Asset Title",module,Magento_MediaGalleryCatalogUi
+"Start typing to find assets","Start typing to find assets",module,Magento_MediaGalleryCatalogUi
+1000,1000,module,Magento_MediaGalleryCatalogUi
+notifyWhenChangesStop,notifyWhenChangesStop,module,Magento_MediaGalleryCatalogUi
+"– Please Select assets –","– Please Select assets –",module,Magento_MediaGalleryCatalogUi
+Asset,Asset,module,Magento_MediaGalleryCatalogUi
+ID,ID,module,Magento_MediaGalleryCatalogUi
+Select,Select,module,Magento_MediaGalleryCatalogUi
+"Display Mode","Display Mode",module,Magento_MediaGalleryCatalogUi
+"In Menu","In Menu",module,Magento_MediaGalleryCatalogUi
+Enabled,Enabled,module,Magento_MediaGalleryCatalogUi
+Image,Image,module,Magento_MediaGalleryCatalogUi
+Name,Name,module,Magento_MediaGalleryCatalogUi
+Path,Path,module,Magento_MediaGalleryCatalogUi
+Products,Products,module,Magento_MediaGalleryCatalogUi
+"Product Name or SKU","Product Name or SKU",module,Magento_MediaGalleryCatalogUi
+"Start typing to find products","Start typing to find products",module,Magento_MediaGalleryCatalogUi
+"Product with ID: %s doesn't exist","Product with ID: %s doesn't exist",module,Magento_MediaGalleryCatalogUi
+"Used in Products","Used in Products",module,Magento_MediaGalleryCatalogUi
+"Category Name","Category Name",module,Magento_MediaGalleryCatalogUi
+"Start typing to find categories","Start typing to find categories",module,Magento_MediaGalleryCatalogUi
+"Used in Categories","Used in Categories",module,Magento_MediaGalleryCatalogUi

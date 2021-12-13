@@ -1,0 +1,11 @@
+"The config value for %path is not saved to database.","The config value for %path is not saved to database.",module,Magento_MediaGalleryRenditions
+"Cannot create rendition for media asset paths: %paths","Cannot create rendition for media asset paths: %paths",module,Magento_MediaGalleryRenditions
+"Media asset file %path does not exist!","Media asset file %path does not exist!",module,Magento_MediaGalleryRenditions
+"Could not create rendition for image, path is restricted: %path","Could not create rendition for image, path is restricted: %path",module,Magento_MediaGalleryRenditions
+"Could not create rendition for image, unsupported file type: %path.","Could not create rendition for image, unsupported file type: %path.",module,Magento_MediaGalleryRenditions
+"Cannot create directory for rendition %path","Cannot create directory for rendition %path",module,Magento_MediaGalleryRenditions
+"Incorrect rendition path provided for update: %path","Incorrect rendition path provided for update: %path",module,Magento_MediaGalleryRenditions
+"Media Gallery Image Optimization","Media Gallery Image Optimization",module,Magento_MediaGalleryRenditions
+"Enable Image Optimization","Enable Image Optimization",module,Magento_MediaGalleryRenditions
+"Maximum Width","Maximum Width",module,Magento_MediaGalleryRenditions
+"Maximum Height","Maximum Height",module,Magento_MediaGalleryRenditions

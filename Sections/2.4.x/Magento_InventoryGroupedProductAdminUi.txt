@@ -1,0 +1,3 @@
+"Quantity per Source","Quantity per Source",module,Magento_InventoryGroupedProductAdminUi
+"Quantity Per Source","Quantity Per Source",module,Magento_InventoryGroupedProductAdminUi
+"Show more...","Show more...",module,Magento_InventoryGroupedProductAdminUi

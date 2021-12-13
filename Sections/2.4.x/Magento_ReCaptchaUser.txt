@@ -1,0 +1,4 @@
+"reCAPTCHA '%1' form error: %2","reCAPTCHA '%1' form error: %2",module,Magento_ReCaptchaUser
+"Password Reset Confirmation for %1","Password Reset Confirmation for %1",module,Magento_ReCaptchaUser
+"Enable for Login","Enable for Login",module,Magento_ReCaptchaUser
+"Enable for Forgot Password","Enable for Forgot Password",module,Magento_ReCaptchaUser

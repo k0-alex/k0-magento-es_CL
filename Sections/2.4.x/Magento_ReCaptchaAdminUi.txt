@@ -1,0 +1,13 @@
+Important:,Important:,module,Magento_ReCaptchaAdminUi
+"Please note, for reCAPTCHA to be enabled,
+        the valid ""Google API Website Key"" and ""Google API Secret Key"" fields are required.","Please note, for reCAPTCHA to be enabled,
+        the valid ""Google API Website Key"" and ""Google API Secret Key"" fields are required.",module,Magento_ReCaptchaAdminUi
+Security,Security,module,Magento_ReCaptchaAdminUi
+"Google reCAPTCHA Admin Panel","Google reCAPTCHA Admin Panel",module,Magento_ReCaptchaAdminUi
+"Admin Panel","Admin Panel",module,Magento_ReCaptchaAdminUi
+"reCAPTCHA Failure Messages","reCAPTCHA Failure Messages",module,Magento_ReCaptchaAdminUi
+"reCAPTCHA Validation Failure Message","reCAPTCHA Validation Failure Message",module,Magento_ReCaptchaAdminUi
+"reCAPTCHA Technical Failure Message","reCAPTCHA Technical Failure Message",module,Magento_ReCaptchaAdminUi
+"Google reCAPTCHA Storefront","Google reCAPTCHA Storefront",module,Magento_ReCaptchaAdminUi
+Storefront,Storefront,module,Magento_ReCaptchaAdminUi
+No,No,module,Magento_ReCaptchaAdminUi

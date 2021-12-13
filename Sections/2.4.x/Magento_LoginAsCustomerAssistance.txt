@@ -1,0 +1,8 @@
+"Login as Customer not enabled","Login as Customer not enabled",module,Magento_LoginAsCustomerAssistance
+"The user has not enabled the ""Allow remote shopping assistance"" functionality. Contact the customer to discuss this user configuration.","The user has not enabled the ""Allow remote shopping assistance"" functionality. Contact the customer to discuss this user configuration.",module,Magento_LoginAsCustomerAssistance
+"Login as Customer assistance is disabled for this Customer.","Login as Customer assistance is disabled for this Customer.",module,Magento_LoginAsCustomerAssistance
+"You have no permission to change Opt-In preference.","You have no permission to change Opt-In preference.",module,Magento_LoginAsCustomerAssistance
+Close,Close,module,Magento_LoginAsCustomerAssistance
+"Title for Login as Customer opt-in checkbox","Title for Login as Customer opt-in checkbox",module,Magento_LoginAsCustomerAssistance
+"Login as Customer checkbox tooltip","Login as Customer checkbox tooltip",module,Magento_LoginAsCustomerAssistance
+"Allow remote shopping assistance","Allow remote shopping assistance",module,Magento_LoginAsCustomerAssistance

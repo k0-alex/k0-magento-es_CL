@@ -1,0 +1,10 @@
+Discount,Discount,module,Magento_SalesGraphQl
+"""model"" value should be specified","""model"" value should be specified",module,Magento_SalesGraphQl
+"""order"" value should be specified","""order"" value should be specified",module,Magento_SalesGraphQl
+"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_SalesGraphQl
+"currentPage value must be greater than 0.","currentPage value must be greater than 0.",module,Magento_SalesGraphQl
+"pageSize value must be greater than 0.","pageSize value must be greater than 0.",module,Magento_SalesGraphQl
+"Invalid match filter","Invalid match filter",module,Magento_SalesGraphQl
+"Unable to find associated order item.","Unable to find associated order item.",module,Magento_SalesGraphQl
+"Order number ""%1"" doesn't belong to the current customer","Order number ""%1"" doesn't belong to the current customer",module,Magento_SalesGraphQl
+"Missing key %1 in sales item data","Missing key %1 in sales item data",module,Magento_SalesGraphQl

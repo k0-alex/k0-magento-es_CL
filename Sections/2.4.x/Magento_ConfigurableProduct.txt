@@ -1,0 +1,156 @@
+"Add configurable attributes to the current Attribute Set (""%1"")","Add configurable attributes to the current Attribute Set (""%1"")",module,Magento_ConfigurableProduct
+"Add configurable attributes to the new Attribute Set based on current","Add configurable attributes to the new Attribute Set based on current",module,Magento_ConfigurableProduct
+"New attribute set name","New attribute set name",module,Magento_ConfigurableProduct
+"Add configurable attributes to the existing Attribute Set","Add configurable attributes to the existing Attribute Set",module,Magento_ConfigurableProduct
+"Choose existing Attribute Set","Choose existing Attribute Set",module,Magento_ConfigurableProduct
+Save,Save,module,Magento_ConfigurableProduct
+"Save & New","Save & New",module,Magento_ConfigurableProduct
+"Save & Duplicate","Save & Duplicate",module,Magento_ConfigurableProduct
+"Save & Close","Save & Close",module,Magento_ConfigurableProduct
+Configurations,Configurations,module,Magento_ConfigurableProduct
+"Attribute Values","Attribute Values",module,Magento_ConfigurableProduct
+"Bulk Images &amp; Price","Bulk Images &amp; Price",module,Magento_ConfigurableProduct
+"Create New Attribute","Create New Attribute",module,Magento_ConfigurableProduct
+"Select Attributes","Select Attributes",module,Magento_ConfigurableProduct
+Summary,Summary,module,Magento_ConfigurableProduct
+"Choose an Option...","Choose an Option...",module,Magento_ConfigurableProduct
+"The value of attribute """"%1"""" must be unique","The value of attribute """"%1"""" must be unique",module,Magento_ConfigurableProduct
+"This attribute is used in configurable products.","This attribute is used in configurable products.",module,Magento_ConfigurableProduct
+"The product is already attached.","The product is already attached.",module,Magento_ConfigurableProduct
+"The parent product doesn't have configurable product options.","The parent product doesn't have configurable product options.",module,Magento_ConfigurableProduct
+"The child product doesn't have the ""%1"" attribute value. Verify the value and try again.","The child product doesn't have the ""%1"" attribute value. Verify the value and try again.",module,Magento_ConfigurableProduct
+"The product with the ""%1"" SKU isn't a configurable product.","The product with the ""%1"" SKU isn't a configurable product.",module,Magento_ConfigurableProduct
+"The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again.",module,Magento_ConfigurableProduct
+"The ""%1"" entity that was requested doesn't exist. Verify the entity and try again.","The ""%1"" entity that was requested doesn't exist. Verify the entity and try again.",module,Magento_ConfigurableProduct
+"The variations from the ""%1"" product can't be deleted.","The variations from the ""%1"" product can't be deleted.",module,Magento_ConfigurableProduct
+"The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted.",module,Magento_ConfigurableProduct
+"Option with id ""%1"" not found","Option with id ""%1"" not found",module,Magento_ConfigurableProduct
+"An error occurred while saving the option. Please try to save again.","An error occurred while saving the option. Please try to save again.",module,Magento_ConfigurableProduct
+"This is implemented for the ""%1"" configurable product only.","This is implemented for the ""%1"" configurable product only.",module,Magento_ConfigurableProduct
+"Option attribute ID is not specified.","Option attribute ID is not specified.",module,Magento_ConfigurableProduct
+"Option label is not specified.","Option label is not specified.",module,Magento_ConfigurableProduct
+"Option values are not specified.","Option values are not specified.",module,Magento_ConfigurableProduct
+"Value index is not specified for an option.","Value index is not specified for an option.",module,Magento_ConfigurableProduct
+"Product with id ""%1"" does not contain required attribute ""%2"".","Product with id ""%1"" does not contain required attribute ""%2"".",module,Magento_ConfigurableProduct
+"Products ""%1"" and ""%2"" have the same set of attribute values.","Products ""%1"" and ""%2"" have the same set of attribute values.",module,Magento_ConfigurableProduct
+"You can't add the item to shopping cart.","You can't add the item to shopping cart.",module,Magento_ConfigurableProduct
+"You need to choose options for your item.","You need to choose options for your item.",module,Magento_ConfigurableProduct
+"Some product variations fields are not valid.","Some product variations fields are not valid.",module,Magento_ConfigurableProduct
+"Contribution must have attributes specified. Enter attributes and try again.","Contribution must have attributes specified. Enter attributes and try again.",module,Magento_ConfigurableProduct
+"Type %1 is not an instance of %2","Type %1 is not an instance of %2",module,Magento_ConfigurableProduct
+"Choose Affected Attribute Set","Choose Affected Attribute Set",module,Magento_ConfigurableProduct
+"Add configurable attributes to the current Attribute Set","Add configurable attributes to the current Attribute Set",module,Magento_ConfigurableProduct
+Confirm,Confirm,module,Magento_ConfigurableProduct
+"New Attribute Set Name","New Attribute Set Name",module,Magento_ConfigurableProduct
+"Select Associated Product","Select Associated Product",module,Magento_ConfigurableProduct
+Done,Done,module,Magento_ConfigurableProduct
+"Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
+"For better results, add attributes and attribute values to your products.","For better results, add attributes and attribute values to your products.",module,Magento_ConfigurableProduct
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
+"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",module,Magento_ConfigurableProduct
+"Add Products Manually","Add Products Manually",module,Magento_ConfigurableProduct
+"Create Configurations","Create Configurations",module,Magento_ConfigurableProduct
+"Current Variations","Current Variations",module,Magento_ConfigurableProduct
+Image,Image,module,Magento_ConfigurableProduct
+Name,Name,module,Magento_ConfigurableProduct
+SKU,SKU,module,Magento_ConfigurableProduct
+Price,Price,module,Magento_ConfigurableProduct
+Quantity,Quantity,module,Magento_ConfigurableProduct
+Weight,Weight,module,Magento_ConfigurableProduct
+Status,Status,module,Magento_ConfigurableProduct
+Attributes,Attributes,module,Magento_ConfigurableProduct
+Actions,Actions,module,Magento_ConfigurableProduct
+"Custom options with price type ""percent"" is not available for configurable product.","Custom options with price type ""percent"" is not available for configurable product.",module,Magento_ConfigurableProduct
+"This group contains attributes used in configurable products. Please move these attributes to another group and try again.","This group contains attributes used in configurable products. Please move these attributes to another group and try again.",module,Magento_ConfigurableProduct
+"This attribute is used in configurable products. You cannot remove it from the attribute set.","This attribute is used in configurable products. You cannot remove it from the attribute set.",module,Magento_ConfigurableProduct
+"Associated Products","Associated Products",module,Magento_ConfigurableProduct
+"Step 2: Attribute Values","Step 2: Attribute Values",module,Magento_ConfigurableProduct
+"Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.",module,Magento_ConfigurableProduct
+"Sort Variations","Sort Variations",module,Magento_ConfigurableProduct
+Options,Options,module,Magento_ConfigurableProduct
+"Select All","Select All",module,Magento_ConfigurableProduct
+"Deselect All","Deselect All",module,Magento_ConfigurableProduct
+"Remove Attribute","Remove Attribute",module,Magento_ConfigurableProduct
+"Save Option","Save Option",module,Magento_ConfigurableProduct
+"Remove Option","Remove Option",module,Magento_ConfigurableProduct
+"Create New Value","Create New Value",module,Magento_ConfigurableProduct
+"Step 3: Bulk Images, Price and Quantity","Step 3: Bulk Images, Price and Quantity",module,Magento_ConfigurableProduct
+"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.","Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.",module,Magento_ConfigurableProduct
+Images,Images,module,Magento_ConfigurableProduct
+"Apply single set of images to all SKUs","Apply single set of images to all SKUs",module,Magento_ConfigurableProduct
+"Apply unique images by attribute to each SKU","Apply unique images by attribute to each SKU",module,Magento_ConfigurableProduct
+"Skip image uploading at this time","Skip image uploading at this time",module,Magento_ConfigurableProduct
+"Browse Files...","Browse Files...",module,Magento_ConfigurableProduct
+"Browse to find or drag image here","Browse to find or drag image here",module,Magento_ConfigurableProduct
+"Remove image","Remove image",module,Magento_ConfigurableProduct
+Hidden,Hidden,module,Magento_ConfigurableProduct
+"Alt Text","Alt Text",module,Magento_ConfigurableProduct
+Role,Role,module,Magento_ConfigurableProduct
+"Image Size","Image Size",module,Magento_ConfigurableProduct
+{size},{size},module,Magento_ConfigurableProduct
+"Image Resolution","Image Resolution",module,Magento_ConfigurableProduct
+"{width}^{height} px","{width}^{height} px",module,Magento_ConfigurableProduct
+"Hide from Product Page","Hide from Product Page",module,Magento_ConfigurableProduct
+"Select attribute","Select attribute",module,Magento_ConfigurableProduct
+Select,Select,module,Magento_ConfigurableProduct
+"Apply single price to all SKUs","Apply single price to all SKUs",module,Magento_ConfigurableProduct
+"Apply unique prices by attribute to each SKU","Apply unique prices by attribute to each SKU",module,Magento_ConfigurableProduct
+"Skip price at this time","Skip price at this time",module,Magento_ConfigurableProduct
+"Apply single quantity to each SKUs","Apply single quantity to each SKUs",module,Magento_ConfigurableProduct
+"Apply unique quantity by attribute to each SKU","Apply unique quantity by attribute to each SKU",module,Magento_ConfigurableProduct
+"Skip quantity at this time","Skip quantity at this time",module,Magento_ConfigurableProduct
+"Step 1: Select Attributes","Step 1: Select Attributes",module,Magento_ConfigurableProduct
+"Selected Attributes:","Selected Attributes:",module,Magento_ConfigurableProduct
+"Step 4: Summary","Step 4: Summary",module,Magento_ConfigurableProduct
+"Configurable products allow customers to choose options (Ex: shirt color).
+            You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color).
+            You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
+"Edit Configurations","Edit Configurations",module,Magento_ConfigurableProduct
+"Upload Image","Upload Image",module,Magento_ConfigurableProduct
+"Upload image","Upload image",module,Magento_ConfigurableProduct
+"No Image","No Image",module,Magento_ConfigurableProduct
+"Choose a different Product","Choose a different Product",module,Magento_ConfigurableProduct
+"Remove Product","Remove Product",module,Magento_ConfigurableProduct
+"Create Product Configurations","Create Product Configurations",module,Magento_ConfigurableProduct
+Cancel,Cancel,module,Magento_ConfigurableProduct
+"As low as","As low as",module,Magento_ConfigurableProduct
+"Regular Price","Regular Price",module,Magento_ConfigurableProduct
+"Excl. Tax","Excl. Tax",module,Magento_ConfigurableProduct
+"Buy %1 for %2 each and","Buy %1 for %2 each and",module,Magento_ConfigurableProduct
+save,save,module,Magento_ConfigurableProduct
+"New Product Review","New Product Review",module,Magento_ConfigurableProduct
+"Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
+"You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
+"Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
+"These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
+"Disable Product","Disable Product",module,Magento_ConfigurableProduct
+"Enable Product","Enable Product",module,Magento_ConfigurableProduct
+"Incl. Tax","Incl. Tax",module,Magento_ConfigurableProduct
+"Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
+"An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
+"Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
+"Choose this option to delete and replace extension data for all past configurations.","Choose this option to delete and replace extension data for all past configurations.",module,Magento_ConfigurableProduct
+"Please select attribute for {section} section.","Please select attribute for {section} section.",module,Magento_ConfigurableProduct
+"Please fill in the values for {section} section.","Please fill in the values for {section} section.",module,Magento_ConfigurableProduct
+"Please fill-in correct values.","Please fill-in correct values.",module,Magento_ConfigurableProduct
+"Please select image(s) for your attribute.","Please select image(s) for your attribute.",module,Magento_ConfigurableProduct
+"Please choose image(s).","Please choose image(s).",module,Magento_ConfigurableProduct
+"We could not detect a size.","We could not detect a size.",module,Magento_ConfigurableProduct
+"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_ConfigurableProduct
+"When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.","When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.",module,Magento_ConfigurableProduct
+"Please select attribute(s).","Please select attribute(s).",module,Magento_ConfigurableProduct
+"Generate Products","Generate Products",module,Magento_ConfigurableProduct
+"Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct
+"Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
+Select...,Select...,module,Magento_ConfigurableProduct
+ID,ID,module,Magento_ConfigurableProduct
+Thumbnail,Thumbnail,module,Magento_ConfigurableProduct
+"Attribute Code","Attribute Code",module,Magento_ConfigurableProduct
+"Attribute Label","Attribute Label",module,Magento_ConfigurableProduct
+Required,Required,module,Magento_ConfigurableProduct
+System,System,module,Magento_ConfigurableProduct
+Visible,Visible,module,Magento_ConfigurableProduct
+Scope,Scope,module,Magento_ConfigurableProduct
+Searchable,Searchable,module,Magento_ConfigurableProduct
+Comparable,Comparable,module,Magento_ConfigurableProduct
+"As low as: ","As low as: ",module,Magento_ConfigurableProduct

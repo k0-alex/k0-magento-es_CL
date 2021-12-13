@@ -1,0 +1,156 @@
+"Attribute Properties","Attribute Properties",module,Magento_Eav
+"Default Label","Default Label",module,Magento_Eav
+"Default label","Default label",module,Magento_Eav
+"Attribute Code","Attribute Code",module,Magento_Eav
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Eav
+"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Eav
+"Values Required","Values Required",module,Magento_Eav
+"Default Value","Default Value",module,Magento_Eav
+"Unique Value","Unique Value",module,Magento_Eav
+"Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Eav
+"Not shared with other products.","Not shared with other products.",module,Magento_Eav
+"Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Eav
+Required,Required,module,Magento_Eav
+Yes,Yes,module,Magento_Eav
+No,No,module,Magento_Eav
+System,System,module,Magento_Eav
+None,None,module,Magento_Eav
+"Decimal Number","Decimal Number",module,Magento_Eav
+"Integer Number","Integer Number",module,Magento_Eav
+Email,Email,module,Magento_Eav
+URL,URL,module,Magento_Eav
+Letters,Letters,module,Magento_Eav
+"Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)",module,Magento_Eav
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",module,Magento_Eav
+"Input type ""%value%"" not found in the input types list.","Input type ""%value%"" not found in the input types list.",module,Magento_Eav
+"Attribute object is undefined","Attribute object is undefined",module,Magento_Eav
+"Entity object is undefined","Entity object is undefined",module,Magento_Eav
+"""%1"" invalid type entered.","""%1"" invalid type entered.",module,Magento_Eav
+"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" contains non-alphabetic or non-numeric characters.",module,Magento_Eav
+"""%1"" is an empty string.","""%1"" is an empty string.",module,Magento_Eav
+"""%1"" contains non-numeric characters.","""%1"" contains non-numeric characters.",module,Magento_Eav
+"""%1"" contains non-alphabetic characters.","""%1"" contains non-alphabetic characters.",module,Magento_Eav
+"""%1"" is not a valid email address.","""%1"" is not a valid email address.",module,Magento_Eav
+"""%1"" is not a valid hostname.","""%1"" is not a valid hostname.",module,Magento_Eav
+"""%1"" uses too many characters.","""%1"" uses too many characters.",module,Magento_Eav
+"'%value%' looks like an IP address, which is not an acceptable format.","'%value%' looks like an IP address, which is not an acceptable format.",module,Magento_Eav
+"'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' looks like a DNS hostname but contains a dash in an invalid position.",module,Magento_Eav
+"'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.",module,Magento_Eav
+"'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' looks like a DNS hostname but cannot extract TLD part.",module,Magento_Eav
+"'%value%' does not look like a valid local network name.","'%value%' does not look like a valid local network name.",module,Magento_Eav
+"'%value%' looks like a local network name, which is not an acceptable format.","'%value%' looks like a local network name, which is not an acceptable format.",module,Magento_Eav
+"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.",module,Magento_Eav
+"""%1"" is not a valid URL.","""%1"" is not a valid URL.",module,Magento_Eav
+"""%1"" is not a valid date.","""%1"" is not a valid date.",module,Magento_Eav
+"""%1"" does not fit the entered date format.","""%1"" does not fit the entered date format.",module,Magento_Eav
+"""%1"" is a required value.","""%1"" is a required value.",module,Magento_Eav
+"Please enter a valid date between %1 and %2 at %3.","Please enter a valid date between %1 and %2 at %3.",module,Magento_Eav
+"Please enter a valid date equal to or greater than %1 at %2.","Please enter a valid date equal to or greater than %1 at %2.",module,Magento_Eav
+"Please enter a valid date less than or equal to %1 at %2.","Please enter a valid date less than or equal to %1 at %2.",module,Magento_Eav
+"""%1"" is not a valid file extension.","""%1"" is not a valid file extension.",module,Magento_Eav
+"""%1"" is not a valid file.","""%1"" is not a valid file.",module,Magento_Eav
+"""%1"" exceeds the allowed file size.","""%1"" exceeds the allowed file size.",module,Magento_Eav
+"""%1"" is not a valid image format","""%1"" is not a valid image format",module,Magento_Eav
+"""%1"" width exceeds allowed value of %2 px.","""%1"" width exceeds allowed value of %2 px.",module,Magento_Eav
+"""%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px.",module,Magento_Eav
+"""%1"" cannot contain more than %2 lines.","""%1"" cannot contain more than %2 lines.",module,Magento_Eav
+"""%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters.",module,Magento_Eav
+"""%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters.",module,Magento_Eav
+"The attribute group doesn't belong to the provided attribute set.","The attribute group doesn't belong to the provided attribute set.",module,Magento_Eav
+"The attributeGroup can't be saved.","The attributeGroup can't be saved.",module,Magento_Eav
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","The group with the ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Eav
+"The attribute group with id ""%1"" can't be deleted.","The attribute group with id ""%1"" can't be deleted.",module,Magento_Eav
+"The AttributeSet with a ""%1"" ID doesn't exist. Verify the attributeSet and try again.","The AttributeSet with a ""%1"" ID doesn't exist. Verify the attributeSet and try again.",module,Magento_Eav
+"The attribute set ID is incorrect. Verify the ID and try again.","The attribute set ID is incorrect. Verify the ID and try again.",module,Magento_Eav
+"The attribute group doesn't belong to the attribute set.","The attribute group doesn't belong to the attribute set.",module,Magento_Eav
+"The ""%1"" attribute set wasn't found. Verify and try again.","The ""%1"" attribute set wasn't found. Verify and try again.",module,Magento_Eav
+"The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.","The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.",module,Magento_Eav
+"The system attribute can't be deleted.","The system attribute can't be deleted.",module,Magento_Eav
+"The attribute can't be saved.","The attribute can't be saved.",module,Magento_Eav
+"The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.","The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.",module,Magento_Eav
+"The attribute can't be deleted.","The attribute can't be deleted.",module,Magento_Eav
+"The attribute with a ""%1"" ID doesn't exist. Verify the attribute and try again.","The attribute with a ""%1"" ID doesn't exist. Verify the attribute and try again.",module,Magento_Eav
+"The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Eav
+"The default attribute set can't be deleted.","The default attribute set can't be deleted.",module,Magento_Eav
+"The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.","The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.",module,Magento_Eav
+"Invalid entity_type specified: %1","Invalid entity_type specified: %1",module,Magento_Eav
+"Entity is not initialized","Entity is not initialized",module,Magento_Eav
+"This parameter is unknown. Verify and try again.","This parameter is unknown. Verify and try again.",module,Magento_Eav
+"Unique constraint violation found","Unique constraint violation found",module,Magento_Eav
+"The attribute code '%1' is reserved by system. Please try another attribute code","The attribute code '%1' is reserved by system. Please try another attribute code",module,Magento_Eav
+"The default decimal value is invalid. Verify the value and try again.","The default decimal value is invalid. Verify the value and try again.",module,Magento_Eav
+"The default date is invalid. Verify the date and try again.","The default date is invalid. Verify the date and try again.",module,Magento_Eav
+"Do not change entity type.","Do not change entity type.",module,Magento_Eav
+"The entity supplied is invalid. Verify the entity and try again.","The entity supplied is invalid. Verify the entity and try again.",module,Magento_Eav
+"The ""%1"" backend model is invalid. Verify the backend model and try again.","The ""%1"" backend model is invalid. Verify the backend model and try again.",module,Magento_Eav
+"Source model ""%1"" not found for attribute ""%2""","Source model ""%1"" not found for attribute ""%2""",module,Magento_Eav
+"The ""%1"" attribute value is empty. Set the attribute and try again.","The ""%1"" attribute value is empty. Set the attribute and try again.",module,Magento_Eav
+"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","The value of the ""%1"" attribute isn't unique. Set a unique value and try again.",module,Magento_Eav
+"Invalid date","Invalid date",module,Magento_Eav
+"The attribute option label is empty. Enter the value and try again.","The attribute option label is empty. Enter the value and try again.",module,Magento_Eav
+"Admin store attribute option label ""%1"" is already exists.","Admin store attribute option label ""%1"" is already exists.",module,Magento_Eav
+"The option id is empty. Enter the value and try again.","The option id is empty. Enter the value and try again.",module,Magento_Eav
+"The '%1' attribute doesn't include an option id '%2'.","The '%1' attribute doesn't include an option id '%2'.",module,Magento_Eav
+"Admin store attribute option label '%1' is already exists.","Admin store attribute option label '%1' is already exists.",module,Magento_Eav
+"The ""%1"" attribute can't be saved.","The ""%1"" attribute can't be saved.",module,Magento_Eav
+"The attribute code is empty. Enter the code and try again.","The attribute code is empty. Enter the code and try again.",module,Magento_Eav
+"The options for ""%1"" attribute can't be loaded.","The options for ""%1"" attribute can't be loaded.",module,Magento_Eav
+"The ""%1"" attribute doesn't include an option with ""%2"" ID.","The ""%1"" attribute doesn't include an option with ""%2"" ID.",module,Magento_Eav
+"The ""%1"" attribute doesn't work with options.","The ""%1"" attribute doesn't work with options.",module,Magento_Eav
+"The entity attribute with the ""%1"" ID isn't found. Reset the attribute and try again.","The entity attribute with the ""%1"" ID isn't found. Reset the attribute and try again.",module,Magento_Eav
+"The attribute set name is empty. Enter the name and try again.","The attribute set name is empty. Enter the name and try again.",module,Magento_Eav
+"A ""%1"" attribute set name already exists. Create a new name and try again.","A ""%1"" attribute set name already exists. Create a new name and try again.",module,Magento_Eav
+"No options found.","No options found.",module,Magento_Eav
+label,label,module,Magento_Eav
+"The entity supplied to collection is invalid. Verify the entity and try again.","The entity supplied to collection is invalid. Verify the entity and try again.",module,Magento_Eav
+"The object wasn't added because it's invalid. To continue, enter a valid object and try again.","The object wasn't added because it's invalid. To continue, enter a valid object and try again.",module,Magento_Eav
+"Invalid attribute identifier for filter (%1)","Invalid attribute identifier for filter (%1)",module,Magento_Eav
+"The ""%1"" attribute requested is invalid. Verify the attribute and try again.","The ""%1"" attribute requested is invalid. Verify the attribute and try again.",module,Magento_Eav
+"Joint field or attribute expression with this alias is already declared","Joint field or attribute expression with this alias is already declared",module,Magento_Eav
+"Invalid alias, already exists in joint attributes","Invalid alias, already exists in joint attributes",module,Magento_Eav
+"The foreign key is invalid. Verify the foreign key and try again.","The foreign key is invalid. Verify the foreign key and try again.",module,Magento_Eav
+"The entity type is invalid. Verify the entity type and try again.","The entity type is invalid. Verify the entity type and try again.",module,Magento_Eav
+"The attribute type is invalid. Verify the attribute type and try again.","The attribute type is invalid. Verify the attribute type and try again.",module,Magento_Eav
+"A joined field with this alias is already declared.","A joined field with this alias is already declared.",module,Magento_Eav
+"Invalid joint fields","Invalid joint fields",module,Magento_Eav
+"A joint field with a ""%1"" alias is already declared.","A joint field with a ""%1"" alias is already declared.",module,Magento_Eav
+"A header row is missing for an attribute. Verify the header row and try again.","A header row is missing for an attribute. Verify the header row and try again.",module,Magento_Eav
+"The ""%1"" attribute name is invalid. Reset the name and try again.","The ""%1"" attribute name is invalid. Reset the name and try again.",module,Magento_Eav
+"Invalid character encountered in increment ID: %1","Invalid character encountered in increment ID: %1",module,Magento_Eav
+"The current module pathname is undefined.","The current module pathname is undefined.",module,Magento_Eav
+"The current module EAV entity is undefined.","The current module EAV entity is undefined.",module,Magento_Eav
+"The form code is not defined.","The form code is not defined.",module,Magento_Eav
+"The entity instance is not defined.","The entity instance is not defined.",module,Magento_Eav
+"The form type is invalid. Reset the type and try again.","The form type is invalid. Reset the type and try again.",module,Magento_Eav
+"The EAV attribute is invalid. Verify the attribute and try again.","The EAV attribute is invalid. Verify the attribute and try again.",module,Magento_Eav
+"Attribute with the same code","Attribute with the same code",module,Magento_Eav
+"The default option isn't defined. Set the option and try again.","The default option isn't defined. Set the option and try again.",module,Magento_Eav
+"The storefront label is not defined.","The storefront label is not defined.",module,Magento_Eav
+"Attribute group with same code already exist. Please rename ""%1"" group","Attribute group with same code already exist. Please rename ""%1"" group",module,Magento_Eav
+"Form Element with the same attribute","Form Element with the same attribute",module,Magento_Eav
+"Form Fieldset with the same code","Form Fieldset with the same code",module,Magento_Eav
+"Form Type with the same code","Form Type with the same code",module,Magento_Eav
+"The value of attribute ""%1"" is invalid.","The value of attribute ""%1"" is invalid.",module,Magento_Eav
+"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Eav
+"An attribute code must not be less than %1 and more than %2 characters.","An attribute code must not be less than %1 and more than %2 characters.",module,Magento_Eav
+"""%1"" prefix is reserved by the system and cannot be used in attribute code names.","""%1"" prefix is reserved by the system and cannot be used in attribute code names.",module,Magento_Eav
+"The entity ID is incorrect. Verify the ID and try again.","The entity ID is incorrect. Verify the ID and try again.",module,Magento_Eav
+"The attribute group ID is incorrect. Verify the ID and try again.","The attribute group ID is incorrect. Verify the ID and try again.",module,Magento_Eav
+"Attribute with ID: ""%1"" does not exist","Attribute with ID: ""%1"" does not exist",module,Magento_Eav
+"AttributeSet does not exist.","AttributeSet does not exist.",module,Magento_Eav
+hello,hello,module,Magento_Eav
+"Some internal exception message.","Some internal exception message.",module,Magento_Eav
+"The value of attribute not valid","The value of attribute not valid",module,Magento_Eav
+"These changes affect all related products.","These changes affect all related products.",module,Magento_Eav
+"Text Field","Text Field",module,Magento_Eav
+"Text Area","Text Area",module,Magento_Eav
+"Text Editor","Text Editor",module,Magento_Eav
+Date,Date,module,Magento_Eav
+Yes/No,Yes/No,module,Magento_Eav
+"Multiple Select","Multiple Select",module,Magento_Eav
+Dropdown,Dropdown,module,Magento_Eav
+"Caching Settings","Caching Settings",module,Magento_Eav
+"Cache User Defined Attributes","Cache User Defined Attributes",module,Magento_Eav
+"By default only system EAV attributes are cached.","By default only system EAV attributes are cached.",module,Magento_Eav
+"EAV types and attributes","EAV types and attributes",module,Magento_Eav
+"Entity types declaration cache","Entity types declaration cache",module,Magento_Eav

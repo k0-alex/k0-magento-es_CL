@@ -1,0 +1,63 @@
+"Emails Sent","Emails Sent",module,Yotpo_Yotpo
+"Avg. Star Rating","Avg. Star Rating",module,Yotpo_Yotpo
+"Collected Reviews","Collected Reviews",module,Yotpo_Yotpo
+"Collected Photos","Collected Photos",module,Yotpo_Yotpo
+"Published Reviews","Published Reviews",module,Yotpo_Yotpo
+"Engagement Rate","Engagement Rate",module,Yotpo_Yotpo
+"Get Started","Get Started",module,Yotpo_Yotpo
+"Launch Yotpo","Launch Yotpo",module,Yotpo_Yotpo
+"Yotpo Reviews","Yotpo Reviews",module,Yotpo_Yotpo
+"Please make sure the APP KEY and SECRET you've entered are correct","Please make sure the APP KEY and SECRET you've entered are correct",module,Yotpo_Yotpo
+"""Request to API failed! "" .","""Request to API failed! "" .",module,Yotpo_Yotpo
+"The APP KEY you've entered is already in use by another store on this system. Note that Yotpo requires a unique set of APP KEY & SECRET for each store.","The APP KEY you've entered is already in use by another store on this system. Note that Yotpo requires a unique set of APP KEY & SECRET for each store.",module,Yotpo_Yotpo
+"No Data Found","No Data Found",module,Yotpo_Yotpo
+"Collect and leverage customer reviews, ratings, and Q&A","Collect and leverage customer reviews, ratings, and Q&A",module,Yotpo_Yotpo
+"with Yotpo's AI-powered tools and on-site widgets.","with Yotpo's AI-powered tools and on-site widgets.",module,Yotpo_Yotpo
+"Already have an account?","Already have an account?",module,Yotpo_Yotpo
+"Connect Yotpo","Connect Yotpo",module,Yotpo_Yotpo
+"Time Period","Time Period",module,Yotpo_Yotpo
+"Yotpo at a glance","Yotpo at a glance",module,Yotpo_Yotpo
+"User-generated content metrics gathered from your Yotpo dashboards.","User-generated content metrics gathered from your Yotpo dashboards.",module,Yotpo_Yotpo
+"Yotpo Settings","Yotpo Settings",module,Yotpo_Yotpo
+"Great brands are built<br>on happy customers","Great brands are built<br>on happy customers",module,Yotpo_Yotpo
+"Yotpo is already installed in your Magento store!<br>Connect your Yotpo account to your store to accelerate growth<br>with a full suite of solutions for customer reviews and visual marketing.","Yotpo is already installed in your Magento store!<br>Connect your Yotpo account to your store to accelerate growth<br>with a full suite of solutions for customer reviews and visual marketing.",module,Yotpo_Yotpo
+"Reviews & Ratings","Reviews & Ratings",module,Yotpo_Yotpo
+"Turn customer content into sales by collecting and leveraging reviews, ratings, and Q&A with Yotpo’s AI-powered solutions.","Turn customer content into sales by collecting and leveraging reviews, ratings, and Q&A with Yotpo’s AI-powered solutions.",module,Yotpo_Yotpo
+"Visual Marketing","Visual Marketing",module,Yotpo_Yotpo
+"Collect, curate, and showcase customer photos and videos in fully customizable shoppable galleries across your site.","Collect, curate, and showcase customer photos and videos in fully customizable shoppable galleries across your site.",module,Yotpo_Yotpo
+"Consumer Insights","Consumer Insights",module,Yotpo_Yotpo
+"Understand what customers are saying about your brand and products and make data-driven business decisions with actionable insights.","Understand what customers are saying about your brand and products and make data-driven business decisions with actionable insights.",module,Yotpo_Yotpo
+"Yotpo can only be connected, enabled, or disabled via the Store View menu.","Yotpo can only be connected, enabled, or disabled via the Store View menu.",module,Yotpo_Yotpo
+"To connect your App Key and API secret, first select the relevant Store View.","To connect your App Key and API secret, first select the relevant Store View.",module,Yotpo_Yotpo
+"Need help?","Need help?",module,Yotpo_Yotpo
+"Setup Guide","Setup Guide",module,Yotpo_Yotpo
+"Sync progress: %1","Sync progress: %1",module,Yotpo_Yotpo
+"Last sync date: %1","Last sync date: %1",module,Yotpo_Yotpo
+"Total orders synced with Yotpo: %1","Total orders synced with Yotpo: %1",module,Yotpo_Yotpo
+Yotpo,Yotpo,module,Yotpo_Yotpo
+"Product Reviews Settings","Product Reviews Settings",module,Yotpo_Yotpo
+"Yotpo Analytics","Yotpo Analytics",module,Yotpo_Yotpo
+"Reviews and Visual Marketing","Reviews and Visual Marketing",module,Yotpo_Yotpo
+Setup,Setup,module,Yotpo_Yotpo
+"Enable Yotpo","Enable Yotpo",module,Yotpo_Yotpo
+"To connect Yotpo to your store, enter your <a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" title=""App Key and API Secret"" target=""_blank"" style=""color:#2b7dbd"">App Key and API Secret</a> in the fields below and save your configuration.","To connect Yotpo to your store, enter your <a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" title=""App Key and API Secret"" target=""_blank"" style=""color:#2b7dbd"">App Key and API Secret</a> in the fields below and save your configuration.",module,Yotpo_Yotpo
+"App Key","App Key",module,Yotpo_Yotpo
+"Note: Additional stores must be connected to their own App Key via Store View settings.","Note: Additional stores must be connected to their own App Key via Store View settings.",module,Yotpo_Yotpo
+"API Secret","API Secret",module,Yotpo_Yotpo
+"<a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" target=""_blank"" title=""I can't find my API Secret"" style=""color:#2b7dbd"">I can't find my API Secret</a>","<a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" target=""_blank"" title=""I can't find my API Secret"" style=""color:#2b7dbd"">I can't find my API Secret</a>",module,Yotpo_Yotpo
+"Module Version","Module Version",module,Yotpo_Yotpo
+"Widget Settings","Widget Settings",module,Yotpo_Yotpo
+"Show Reviews Widget","Show Reviews Widget",module,Yotpo_Yotpo
+"Show star rating on category pages","Show star rating on category pages",module,Yotpo_Yotpo
+"Show star rating on product pages","Show star rating on product pages",module,Yotpo_Yotpo
+"Show Q&A Bottom-line","Show Q&A Bottom-line",module,Yotpo_Yotpo
+"Hide Magento Reviews","Hide Magento Reviews",module,Yotpo_Yotpo
+"Enable Debug Mode","Enable Debug Mode",module,Yotpo_Yotpo
+"Enable in order to log all Yotpo processes when Magento debug mode enabled.","Enable in order to log all Yotpo processes when Magento debug mode enabled.",module,Yotpo_Yotpo
+"Sync Settings","Sync Settings",module,Yotpo_Yotpo
+"Sync Status","Sync Status",module,Yotpo_Yotpo
+"Orders Sync From Date","Orders Sync From Date",module,Yotpo_Yotpo
+"Orders Sync Limit","Orders Sync Limit",module,Yotpo_Yotpo
+"Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).","Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).",module,Yotpo_Yotpo
+"Orders Sync Statuses","Orders Sync Statuses",module,Yotpo_Yotpo
+"Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.","Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.",module,Yotpo_Yotpo

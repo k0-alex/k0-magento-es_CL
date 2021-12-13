@@ -1,0 +1,66 @@
+"Could not create products collection.","Could not create products collection.",module,Magento_InventoryCatalogAdminUi
+"Selected products are not assigned to any source.","Selected products are not assigned to any source.",module,Magento_InventoryCatalogAdminUi
+"Bulk Inventory Transfer","Bulk Inventory Transfer",module,Magento_InventoryCatalogAdminUi
+"Bulk operation was successful: %count inventory transfers.","Bulk operation was successful: %count inventory transfers.",module,Magento_InventoryCatalogAdminUi
+"Your request was successfully queued for asynchronous execution","Your request was successfully queued for asynchronous execution",module,Magento_InventoryCatalogAdminUi
+"Bulk source assignment","Bulk source assignment",module,Magento_InventoryCatalogAdminUi
+"Bulk operation was successful: %count assignments.","Bulk operation was successful: %count assignments.",module,Magento_InventoryCatalogAdminUi
+"Something went wrong during the operation.","Something went wrong during the operation.",module,Magento_InventoryCatalogAdminUi
+"Bulk source unassignment","Bulk source unassignment",module,Magento_InventoryCatalogAdminUi
+"Bulk operation was successful: %count unassignments.","Bulk operation was successful: %count unassignments.",module,Magento_InventoryCatalogAdminUi
+"In Stock","In Stock",module,Magento_InventoryCatalogAdminUi
+"Out of Stock","Out of Stock",module,Magento_InventoryCatalogAdminUi
+"<strong>NOTE</strong>: Assign sources is disabled for default stock","<strong>NOTE</strong>: Assign sources is disabled for default stock",module,Magento_InventoryCatalogAdminUi
+"Disabled for default stock","Disabled for default stock",module,Magento_InventoryCatalogAdminUi
+"Quantity per Source","Quantity per Source",module,Magento_InventoryCatalogAdminUi
+"Products will be added to new sources with 0 quantity.","Products will be added to new sources with 0 quantity.",module,Magento_InventoryCatalogAdminUi
+"Advanced Inventory","Advanced Inventory",module,Magento_InventoryCatalogAdminUi
+"Manage Stock","Manage Stock",module,Magento_InventoryCatalogAdminUi
+Yes,Yes,module,Magento_InventoryCatalogAdminUi
+No,No,module,Magento_InventoryCatalogAdminUi
+"Use Config Settings","Use Config Settings",module,Magento_InventoryCatalogAdminUi
+Change,Change,module,Magento_InventoryCatalogAdminUi
+[GLOBAL],[GLOBAL],module,Magento_InventoryCatalogAdminUi
+Qty,Qty,module,Magento_InventoryCatalogAdminUi
+"Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_InventoryCatalogAdminUi
+"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_InventoryCatalogAdminUi
+"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_InventoryCatalogAdminUi
+"Qty Uses Decimals","Qty Uses Decimals",module,Magento_InventoryCatalogAdminUi
+Backorders,Backorders,module,Magento_InventoryCatalogAdminUi
+"Notify for Quantity Below","Notify for Quantity Below",module,Magento_InventoryCatalogAdminUi
+"Enable Qty Increments","Enable Qty Increments",module,Magento_InventoryCatalogAdminUi
+"Qty Increments","Qty Increments",module,Magento_InventoryCatalogAdminUi
+"Stock Availability","Stock Availability",module,Magento_InventoryCatalogAdminUi
+Back,Back,module,Magento_InventoryCatalogAdminUi
+"Bulk operation","Bulk operation",module,Magento_InventoryCatalogAdminUi
+"Select the origin and destination sources to transfer product inventory quantities and additional settings. This transfers all existing quantities, setting a 0 quantity on the origin source. You have an option to unassign the origin source from the products you selected.","Select the origin and destination sources to transfer product inventory quantities and additional settings. This transfers all existing quantities, setting a 0 quantity on the origin source. You have an option to unassign the origin source from the products you selected.",module,Magento_InventoryCatalogAdminUi
+"You selected <strong>%count</strong> products for this bulk operation.","You selected <strong>%count</strong> products for this bulk operation.",module,Magento_InventoryCatalogAdminUi
+"Transfer Inventory","Transfer Inventory",module,Magento_InventoryCatalogAdminUi
+"Transfer from the origin source","Transfer from the origin source",module,Magento_InventoryCatalogAdminUi
+"to the destination source","to the destination source",module,Magento_InventoryCatalogAdminUi
+"Unassign the origin source from selected products after transfer.","Unassign the origin source from selected products after transfer.",module,Magento_InventoryCatalogAdminUi
+"Select one or more sources","Select one or more sources",module,Magento_InventoryCatalogAdminUi
+WARNING:,WARNING:,module,Magento_InventoryCatalogAdminUi
+"Products quantity will be permanently removed from selected sources.","Products quantity will be permanently removed from selected sources.",module,Magento_InventoryCatalogAdminUi
+"Quantity per Source:","Quantity per Source:",module,Magento_InventoryCatalogAdminUi
+"Synchronize with Catalog","Synchronize with Catalog",module,Magento_InventoryCatalogAdminUi
+"Admin bulk operations","Admin bulk operations",module,Magento_InventoryCatalogAdminUi
+"Run asynchronously","Run asynchronously",module,Magento_InventoryCatalogAdminUi
+"Asynchronous batch size","Asynchronous batch size",module,Magento_InventoryCatalogAdminUi
+"Inventory Indexer Settings","Inventory Indexer Settings",module,Magento_InventoryCatalogAdminUi
+"Stock/Source reindex strategy","Stock/Source reindex strategy",module,Magento_InventoryCatalogAdminUi
+"The Default Source must be enabled. A default source is required for single source merchants and product migration.","The Default Source must be enabled. A default source is required for single source merchants and product migration.",module,Magento_InventoryCatalogAdminUi
+Sources,Sources,module,Magento_InventoryCatalogAdminUi
+"Assign Sources","Assign Sources",module,Magento_InventoryCatalogAdminUi
+Name,Name,module,Magento_InventoryCatalogAdminUi
+"Source Status","Source Status",module,Magento_InventoryCatalogAdminUi
+"Source Item Status","Source Item Status",module,Magento_InventoryCatalogAdminUi
+Actions,Actions,module,Magento_InventoryCatalogAdminUi
+Done,Done,module,Magento_InventoryCatalogAdminUi
+"Mass source assignment","Mass source assignment",module,Magento_InventoryCatalogAdminUi
+"Are you sure you want to assign selected items to inventory sources?","Are you sure you want to assign selected items to inventory sources?",module,Magento_InventoryCatalogAdminUi
+"Assign Inventory Source","Assign Inventory Source",module,Magento_InventoryCatalogAdminUi
+"Unassign Inventory Source","Unassign Inventory Source",module,Magento_InventoryCatalogAdminUi
+"Are you sure you want to unassign one or more sources from the selected items?","Are you sure you want to unassign one or more sources from the selected items?",module,Magento_InventoryCatalogAdminUi
+"Transfer Inventory To Source","Transfer Inventory To Source",module,Magento_InventoryCatalogAdminUi
+"Transfer all inventory quantities and additional settings from one source to another for products you selected. Do you want to continue?","Transfer all inventory quantities and additional settings from one source to another for products you selected. Do you want to continue?",module,Magento_InventoryCatalogAdminUi

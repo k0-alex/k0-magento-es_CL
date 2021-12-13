@@ -1,0 +1,7 @@
+"Customer email provided does not exist","Customer email provided does not exist",module,Magento_LoginAsCustomerGraphQl
+"Unable to generate tokens. Please wait and try again later.","Unable to generate tokens. Please wait and try again later.",module,Magento_LoginAsCustomerGraphQl
+"Check input params.","Check input params.",module,Magento_LoginAsCustomerGraphQl
+"Specify the ""customer email"" value.","Specify the ""customer email"" value.",module,Magento_LoginAsCustomerGraphQl
+"Login as Customer is disabled.","Login as Customer is disabled.",module,Magento_LoginAsCustomerGraphQl
+"Allow remote shopping assistance is disabled.","Allow remote shopping assistance is disabled.",module,Magento_LoginAsCustomerGraphQl
+"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_LoginAsCustomerGraphQl

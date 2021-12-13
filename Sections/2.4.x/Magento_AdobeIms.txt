@@ -1,0 +1,4 @@
+"Adobe IMS","Adobe IMS",module,Magento_AdobeIms
+Actions,Actions,module,Magento_AdobeIms
+Login,Login,module,Magento_AdobeIms
+Logout,Logout,module,Magento_AdobeIms

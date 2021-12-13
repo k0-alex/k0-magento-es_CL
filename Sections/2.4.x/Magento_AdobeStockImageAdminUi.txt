@@ -1,0 +1,91 @@
+"Adobe id is required.","Adobe id is required.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to retrieve asset information.","An error occurred on attempt to retrieve asset information.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to retrieve image licensing information.","An error occurred on attempt to retrieve image licensing information.",module,Magento_AdobeStockImageAdminUi
+"Retrieving license information for images failed.","Retrieving license information for images failed.",module,Magento_AdobeStockImageAdminUi
+"The image was licensed and saved successfully.","The image was licensed and saved successfully.",module,Magento_AdobeStockImageAdminUi
+"Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%url"">Configuration → System → Adobe Stock Integration.</a>","Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%url"">Configuration → System → Adobe Stock Integration.</a>",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to license and save the image.","An error occurred on attempt to license and save the image.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to retrieve user quota.","An error occurred on attempt to retrieve user quota.",module,Magento_AdobeStockImageAdminUi
+"You have successfully downloaded the licensed image.","You have successfully downloaded the licensed image.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to save image.","An error occurred on attempt to save image.",module,Magento_AdobeStockImageAdminUi
+"You have successfully downloaded the image.","You have successfully downloaded the image.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to save the image.","An error occurred on attempt to save the image.",module,Magento_AdobeStockImageAdminUi
+"Get related images finished successfully","Get related images finished successfully",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to fetch related images.","An error occurred on attempt to fetch related images.",module,Magento_AdobeStockImageAdminUi
+"Media Gallery asset with adobe id %id does not exist.","Media Gallery asset with adobe id %id does not exist.",module,Magento_AdobeStockImageAdminUi
+ID,ID,module,Magento_AdobeStockImageAdminUi
+Status,Status,module,Magento_AdobeStockImageAdminUi
+Licensed,Licensed,module,Magento_AdobeStockImageAdminUi
+Unlicensed,Unlicensed,module,Magento_AdobeStockImageAdminUi
+Category,Category,module,Magento_AdobeStockImageAdminUi
+None,None,module,Magento_AdobeStockImageAdminUi
+Author,Author,module,Magento_AdobeStockImageAdminUi
+"Adobe Stock","Adobe Stock",module,Magento_AdobeStockImageAdminUi
+"Search Adobe Stock","Search Adobe Stock",module,Magento_AdobeStockImageAdminUi
+"Requested image doesn't exists.","Requested image doesn't exists.",module,Magento_AdobeStockImageAdminUi
+Error,Error,module,Magento_AdobeStockImageAdminUi
+"Localized error","Localized error",module,Magento_AdobeStockImageAdminUi
+"Adobe API Key is invalid!","Adobe API Key is invalid!",module,Magento_AdobeStockImageAdminUi
+"Adobe API login has expired!","Adobe API login has expired!",module,Magento_AdobeStockImageAdminUi
+label,label,module,Magento_AdobeStockImageAdminUi
+Yes,Yes,module,Magento_AdobeStockImageAdminUi
+All,All,module,Magento_AdobeStockImageAdminUi
+Horizontal,Horizontal,module,Magento_AdobeStockImageAdminUi
+Vertical,Vertical,module,Magento_AdobeStockImageAdminUi
+Square,Square,module,Magento_AdobeStockImageAdminUi
+Panoramic,Panoramic,module,Magento_AdobeStockImageAdminUi
+Standard,Standard,module,Magento_AdobeStockImageAdminUi
+Premium,Premium,module,Magento_AdobeStockImageAdminUi
+Previous,Previous,module,Magento_AdobeStockImageAdminUi
+Next,Next,module,Magento_AdobeStockImageAdminUi
+Close,Close,module,Magento_AdobeStockImageAdminUi
+By,By,module,Magento_AdobeStockImageAdminUi
+"Save Preview","Save Preview",module,Magento_AdobeStockImageAdminUi
+"Open in Media Gallery","Open in Media Gallery",module,Magento_AdobeStockImageAdminUi
+"Save Licensed","Save Licensed",module,Magento_AdobeStockImageAdminUi
+"Similar Keywords","Similar Keywords",module,Magento_AdobeStockImageAdminUi
+"View all","View all",module,Magento_AdobeStockImageAdminUi
+"More from this series","More from this series",module,Magento_AdobeStockImageAdminUi
+"More from this model","More from this model",module,Magento_AdobeStockImageAdminUi
+"Active filters\\:","Active filters\\:",module,Magento_AdobeStockImageAdminUi
+Remove,Remove,module,Magento_AdobeStockImageAdminUi
+"Clear all","Clear all",module,Magento_AdobeStockImageAdminUi
+"Sort by","Sort by",module,Magento_AdobeStockImageAdminUi
+"Could not fetch licensing information.","Could not fetch licensing information.",module,Magento_AdobeStockImageAdminUi
+"Your admin role does not have permissions to license an image","Your admin role does not have permissions to license an image",module,Magento_AdobeStockImageAdminUi
+License,License,module,Magento_AdobeStockImageAdminUi
+"License and Save","License and Save",module,Magento_AdobeStockImageAdminUi
+"License ""","License """,module,Magento_AdobeStockImageAdminUi
+"License Adobe Stock Images?","License Adobe Stock Images?",module,Magento_AdobeStockImageAdminUi
+Cancel,Cancel,module,Magento_AdobeStockImageAdminUi
+"Buy Credits","Buy Credits",module,Magento_AdobeStockImageAdminUi
+"File Name","File Name",module,Magento_AdobeStockImageAdminUi
+Confirm,Confirm,module,Magento_AdobeStockImageAdminUi
+Save,Save,module,Magento_AdobeStockImageAdminUi
+"The image cannot be located","The image cannot be located",module,Magento_AdobeStockImageAdminUi
+"We cannot find this image in the media gallery.","We cannot find this image in the media gallery.",module,Magento_AdobeStockImageAdminUi
+Ok,Ok,module,Magento_AdobeStockImageAdminUi
+"The image has been licensed.","The image has been licensed.",module,Magento_AdobeStockImageAdminUi
+"Couldn't log you in","Couldn't log you in",module,Magento_AdobeStockImageAdminUi
+"Please name the file using only letters, numbers, underscores and dashes","Please name the file using only letters, numbers, underscores and dashes",module,Magento_AdobeStockImageAdminUi
+"Save Preview Image","Save Preview Image",module,Magento_AdobeStockImageAdminUi
+"License images","License images",module,Magento_AdobeStockImageAdminUi
+Subcategory,Subcategory,module,Magento_AdobeStockImageAdminUi
+Orientation,Orientation,module,Magento_AdobeStockImageAdminUi
+Color,Color,module,Magento_AdobeStockImageAdminUi
+Price,Price,module,Magento_AdobeStockImageAdminUi
+Disabled,Disabled,module,Magento_AdobeStockImageAdminUi
+"Safe search","Safe search",module,Magento_AdobeStockImageAdminUi
+"Isolated Only","Isolated Only",module,Magento_AdobeStockImageAdminUi
+"Isolated Assets","Isolated Assets",module,Magento_AdobeStockImageAdminUi
+"Serie Id","Serie Id",module,Magento_AdobeStockImageAdminUi
+"Model Id","Model Id",module,Magento_AdobeStockImageAdminUi
+Overlay,Overlay,module,Magento_AdobeStockImageAdminUi
+"Thumbnail Image","Thumbnail Image",module,Magento_AdobeStockImageAdminUi
+"Image Preview","Image Preview",module,Magento_AdobeStockImageAdminUi
+Relevance,Relevance,module,Magento_AdobeStockImageAdminUi
+"Most Recent","Most Recent",module,Magento_AdobeStockImageAdminUi
+Popularity,Popularity,module,Magento_AdobeStockImageAdminUi
+Downloads,Downloads,module,Magento_AdobeStockImageAdminUi
+Undiscovered,Undiscovered,module,Magento_AdobeStockImageAdminUi
+"License Status","License Status",module,Magento_AdobeStockImageAdminUi

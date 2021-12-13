@@ -1,0 +1,3 @@
+"Could not fetch data from %tableName","Could not fetch data from %tableName",module,Magento_MediaGallerySynchronization
+"Failed to execute the following synchronizers: %synchronizers","Failed to execute the following synchronizers: %synchronizers",module,Magento_MediaGallerySynchronization
+"Could not import media assets for files: %files","Could not import media assets for files: %files",module,Magento_MediaGallerySynchronization

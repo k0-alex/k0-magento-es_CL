@@ -1,0 +1,6 @@
+"Can not resolve reCAPTCHA response.","Can not resolve reCAPTCHA response.",module,Magento_ReCaptchaCustomer
+"reCAPTCHA '%1' form error: %2","reCAPTCHA '%1' form error: %2",module,Magento_ReCaptchaCustomer
+"Enable for Customer Login","Enable for Customer Login",module,Magento_ReCaptchaCustomer
+"Enable for Forgot Password","Enable for Forgot Password",module,Magento_ReCaptchaCustomer
+"Enable for Create New Customer Account","Enable for Create New Customer Account",module,Magento_ReCaptchaCustomer
+"Enable for Edit Customer Account","Enable for Edit Customer Account",module,Magento_ReCaptchaCustomer
