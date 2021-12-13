@@ -1,4 +1,4 @@
-# Powered by Eduardo Cabrera ak Lalo!
+/* Powered by Eduardo Cabrera ak Lalo! */
 
 <?php
 $f=file("Temp_24x.csv");
