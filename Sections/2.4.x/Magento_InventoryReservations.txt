@@ -1,0 +1,7 @@
+"Input data is empty","Input data is empty",module,Magento_InventoryReservations
+"Cannot update Reservation %reservation","Cannot update Reservation %reservation",module,Magento_InventoryReservations
+"Could not append Reservation","Could not append Reservation",module,Magento_InventoryReservations
+"Validation error","Validation error",module,Magento_InventoryReservations
+"""%field"" is expected to be a number.","""%field"" is expected to be a number.",module,Magento_InventoryReservations
+"""%field"" can not be empty.","""%field"" can not be empty.",module,Magento_InventoryReservations
+"""%field"" can not be null.","""%field"" can not be null.",module,Magento_InventoryReservations

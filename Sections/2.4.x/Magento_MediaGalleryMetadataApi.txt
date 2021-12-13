@@ -1,0 +1,1 @@
+". ' must implement ' .",". ' must implement ' .",module,Magento_MediaGalleryMetadataApi

@@ -1,0 +1,10 @@
+"currentPage value %1 specified is greater than the number of pages available.","currentPage value %1 specified is greater than the number of pages available.",module,Magento_ReviewGraphQl
+"Creating product reviews are not currently available.","Creating product reviews are not currently available.",module,Magento_ReviewGraphQl
+"Guest customers aren't allowed to add product reviews.","Guest customers aren't allowed to add product reviews.",module,Magento_ReviewGraphQl
+"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_ReviewGraphQl
+"currentPage value must be greater than 0.","currentPage value must be greater than 0.",module,Magento_ReviewGraphQl
+"pageSize value must be greater than 0.","pageSize value must be greater than 0.",module,Magento_ReviewGraphQl
+"Value must contain ""model"" property.","Value must contain ""model"" property.",module,Magento_ReviewGraphQl
+"Couldn't get the product rating summary.","Couldn't get the product rating summary.",module,Magento_ReviewGraphQl
+"Value must contain ""values"" property.","Value must contain ""values"" property.",module,Magento_ReviewGraphQl
+"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku""",module,Magento_ReviewGraphQl

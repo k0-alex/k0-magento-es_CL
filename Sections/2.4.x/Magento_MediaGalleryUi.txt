@@ -1,0 +1,108 @@
+Cancel,Cancel,module,Magento_MediaGalleryUi
+"Delete Image","Delete Image",module,Magento_MediaGalleryUi
+"Edit Details","Edit Details",module,Magento_MediaGalleryUi
+"Add Image","Add Image",module,Magento_MediaGalleryUi
+"An error occurred on attempt to get image details.","An error occurred on attempt to get image details.",module,Magento_MediaGalleryUi
+"Folder paths parameter is required.","Folder paths parameter is required.",module,Magento_MediaGalleryUi
+"You have successfully created the folder.","You have successfully created the folder.",module,Magento_MediaGalleryUi
+"An error occurred on attempt to create folder.","An error occurred on attempt to create folder.",module,Magento_MediaGalleryUi
+"Folder path parameter is required.","Folder path parameter is required.",module,Magento_MediaGalleryUi
+"You have successfully removed the folder.","You have successfully removed the folder.",module,Magento_MediaGalleryUi
+"An error occurred on attempt to remove folder.","An error occurred on attempt to remove folder.",module,Magento_MediaGalleryUi
+"Retrieving directories list failed.","Retrieving directories list failed.",module,Magento_MediaGalleryUi
+"Image Ids are required and must be of type array.","Image Ids are required and must be of type array.",module,Magento_MediaGalleryUi
+"The asset ""%title"" has been successfully deleted.","The asset ""%title"" has been successfully deleted.",module,Magento_MediaGalleryUi
+"%count assets have been successfully deleted.","%count assets have been successfully deleted.",module,Magento_MediaGalleryUi
+"An error occurred on attempt to delete image.","An error occurred on attempt to delete image.",module,Magento_MediaGalleryUi
+"Assets Ids is required, and must be of type array.","Assets Ids is required, and must be of type array.",module,Magento_MediaGalleryUi
+"Image ID is required.","Image ID is required.",module,Magento_MediaGalleryUi
+"You have successfully saved the image ""%image""","You have successfully saved the image ""%image""",module,Magento_MediaGalleryUi
+"An error occurred on attempt to save image.","An error occurred on attempt to save image.",module,Magento_MediaGalleryUi
+"The target_folder parameter is required.","The target_folder parameter is required.",module,Magento_MediaGalleryUi
+"The image was uploaded successfully.","The image was uploaded successfully.",module,Magento_MediaGalleryUi
+"Could not upload image.","Could not upload image.",module,Magento_MediaGalleryUi
+Media,Media,module,Magento_MediaGalleryUi
+"Media Gallery","Media Gallery",module,Magento_MediaGalleryUi
+"Manage Gallery","Manage Gallery",module,Magento_MediaGalleryUi
+Yes,Yes,module,Magento_MediaGalleryUi
+No,No,module,Magento_MediaGalleryUi
+"Could not delete ""%image"": destination directory is restricted.","Could not delete ""%image"": destination directory is restricted.",module,Magento_MediaGalleryUi
+Type,Type,module,Magento_MediaGalleryUi
+Image,Image,module,Magento_MediaGalleryUi
+Created,Created,module,Magento_MediaGalleryUi
+Modified,Modified,module,Magento_MediaGalleryUi
+Width,Width,module,Magento_MediaGalleryUi
+Height,Height,module,Magento_MediaGalleryUi
+Size,Size,module,Magento_MediaGalleryUi
+"Used In","Used In",module,Magento_MediaGalleryUi
+"Could not retrieve the asset.","Could not retrieve the asset.",module,Magento_MediaGalleryUi
+"Directory %1 does not exist in media directory.","Directory %1 does not exist in media directory.",module,Magento_MediaGalleryUi
+"Create Folder","Create Folder",module,Magento_MediaGalleryUi
+"Delete Images...","Delete Images...",module,Magento_MediaGalleryUi
+"Delete Folder","Delete Folder",module,Magento_MediaGalleryUi
+"Add Selected","Add Selected",module,Magento_MediaGalleryUi
+"Upload Image","Upload Image",module,Magento_MediaGalleryUi
+"Uploaded Locally","Uploaded Locally",module,Magento_MediaGalleryUi
+Enabled,Enabled,module,Magento_MediaGalleryUi
+Disabled,Disabled,module,Magento_MediaGalleryUi
+"All Store Views","All Store Views",module,Magento_MediaGalleryUi
+Local,Local,module,Magento_MediaGalleryUi
+"Image Details","Image Details",module,Magento_MediaGalleryUi
+"Edit Image","Edit Image",module,Magento_MediaGalleryUi
+Save,Save,module,Magento_MediaGalleryUi
+Close,Close,module,Magento_MediaGalleryUi
+"Delete Selected","Delete Selected",module,Magento_MediaGalleryUi
+Filename,Filename,module,Magento_MediaGalleryUi
+Details,Details,module,Magento_MediaGalleryUi
+Description,Description,module,Magento_MediaGalleryUi
+Tags,Tags,module,Magento_MediaGalleryUi
+"Show More","Show More",module,Magento_MediaGalleryUi
+Title,Title,module,Magento_MediaGalleryUi
+"Add New Tag","Add New Tag",module,Magento_MediaGalleryUi
+"%1Are you sure you want to delete ""%2"" image(s)?","%1Are you sure you want to delete ""%2"" image(s)?",module,Magento_MediaGalleryUi
+"The selected assets are used in the content of the following entities: ","The selected assets are used in the content of the following entities: ",module,Magento_MediaGalleryUi
+"Delete assets","Delete assets",module,Magento_MediaGalleryUi
+Delete,Delete,module,Magento_MediaGalleryUi
+"There was an error on attempt to delete the images.","There was an error on attempt to delete the images.",module,Magento_MediaGalleryUi
+"You have successfully removed the images.","You have successfully removed the images.",module,Magento_MediaGalleryUi
+"There was an error on attempt to delete the image.","There was an error on attempt to delete the image.",module,Magento_MediaGalleryUi
+"Could not retrieve image details.","Could not retrieve image details.",module,Magento_MediaGalleryUi
+"Could not save image details.","Could not save image details.",module,Magento_MediaGalleryUi
+"Could not create the directory.","Could not create the directory.",module,Magento_MediaGalleryUi
+"Could not delete the directory.","Could not delete the directory.",module,Magento_MediaGalleryUi
+"New Folder Name:","New Folder Name:",module,Magento_MediaGalleryUi
+Confirm,Confirm,module,Magento_MediaGalleryUi
+"Are you sure you want to delete this folder?","Are you sure you want to delete this folder?",module,Magento_MediaGalleryUi
+"The following folder is going to be deleted: %1","The following folder is going to be deleted: %1",module,Magento_MediaGalleryUi
+"View Details","View Details",module,Magento_MediaGalleryUi
+Edit,Edit,module,Magento_MediaGalleryUi
+"Target element not found for content update","Target element not found for content update",module,Magento_MediaGalleryUi
+"Select Images to Delete","Select Images to Delete",module,Magento_MediaGalleryUi
+"You need to select at least one image","You need to select at least one image",module,Magento_MediaGalleryUi
+"Cannot upload ""%1"". File exceeds maximum file size limit.","Cannot upload ""%1"". File exceeds maximum file size limit.",module,Magento_MediaGalleryUi
+"Cannot upload ""%1"". Filename is too long, must be 90 characters or less.","Cannot upload ""%1"". Filename is too long, must be 90 characters or less.",module,Magento_MediaGalleryUi
+"Could not upload the asset.","Could not upload the asset.",module,Magento_MediaGalleryUi
+"Assets have been successfully uploaded!","Assets have been successfully uploaded!",module,Magento_MediaGalleryUi
+"Enable Old Media Gallery","Enable Old Media Gallery",module,Magento_MediaGalleryUi
+"Asset Title","Asset Title",module,Magento_MediaGalleryUi
+"Start typing to find assets","Start typing to find assets",module,Magento_MediaGalleryUi
+1000,1000,module,Magento_MediaGalleryUi
+notifyWhenChangesStop,notifyWhenChangesStop,module,Magento_MediaGalleryUi
+"– Please Select assets –","– Please Select assets –",module,Magento_MediaGalleryUi
+Asset,Asset,module,Magento_MediaGalleryUi
+Directory,Directory,module,Magento_MediaGalleryUi
+"Uploaded Date","Uploaded Date",module,Magento_MediaGalleryUi
+"Modification Date","Modification Date",module,Magento_MediaGalleryUi
+All,All,module,Magento_MediaGalleryUi
+"Show Images Used In","Show Images Used In",module,Magento_MediaGalleryUi
+Source,Source,module,Magento_MediaGalleryUi
+"Content Status","Content Status",module,Magento_MediaGalleryUi
+"Store View","Store View",module,Magento_MediaGalleryUi
+"Show duplicates","Show duplicates",module,Magento_MediaGalleryUi
+"Thumbnail Image","Thumbnail Image",module,Magento_MediaGalleryUi
+"Newest first","Newest first",module,Magento_MediaGalleryUi
+"Oldest first","Oldest first",module,Magento_MediaGalleryUi
+"Directory: Descending","Directory: Descending",module,Magento_MediaGalleryUi
+"Directory: Ascending","Directory: Ascending",module,Magento_MediaGalleryUi
+"Name: A to Z","Name: A to Z",module,Magento_MediaGalleryUi
+"Name: Z to A","Name: Z to A",module,Magento_MediaGalleryUi

@@ -1,0 +1,97 @@
+"Are you sure you want to disable all currently active providers?","Are you sure you want to disable all currently active providers?",module,Magento_TwoFactorAuth
+Username,Username,module,Magento_TwoFactorAuth
+Secret,Secret,module,Magento_TwoFactorAuth
+"Unknown user %1","Unknown user %1",module,Magento_TwoFactorAuth
+"Google OTP secret has been set","Google OTP secret has been set",module,Magento_TwoFactorAuth
+"Provider code","Provider code",module,Magento_TwoFactorAuth
+"Provider %1 has been reset for user %2","Provider %1 has been reset for user %2",module,Magento_TwoFactorAuth
+"At least one two-factor authentication provider must be configured.","At least one two-factor authentication provider must be configured.",module,Magento_TwoFactorAuth
+"Two-Factory Authorization providers have been successfully configured","Two-Factory Authorization providers have been successfully configured",module,Magento_TwoFactorAuth
+"Please select valid providers.","Please select valid providers.",module,Magento_TwoFactorAuth
+"Internal error accessing 2FA index page","Internal error accessing 2FA index page",module,Magento_TwoFactorAuth
+"2FA is already configured for the user.","2FA is already configured for the user.",module,Magento_TwoFactorAuth
+"Invalid user","Invalid user",module,Magento_TwoFactorAuth
+"Unknown provider","Unknown provider",module,Magento_TwoFactorAuth
+"Configuration has been reset for this user","Configuration has been reset for this user",module,Magento_TwoFactorAuth
+"Please ask an administrator with sufficient access to configure 2FA first","Please ask an administrator with sufficient access to configure 2FA first",module,Magento_TwoFactorAuth
+"Failed to send the message. Please contact the administrator","Failed to send the message. Please contact the administrator",module,Magento_TwoFactorAuth
+"Invalid API hostname.","Invalid API hostname.",module,Magento_TwoFactorAuth
+"You have to select at least one Two-Factor Authorization provider","You have to select at least one Two-Factor Authorization provider",module,Magento_TwoFactorAuth
+"Missing phone information","Missing phone information",module,Magento_TwoFactorAuth
+"Onetouch prompt was denied or timed out.","Onetouch prompt was denied or timed out.",module,Magento_TwoFactorAuth
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_TwoFactorAuth
+"Missing user information","Missing user information",module,Magento_TwoFactorAuth
+"No approval requests for this user","No approval requests for this user",module,Magento_TwoFactorAuth
+"Invalid approval code","Invalid approval code",module,Magento_TwoFactorAuth
+"Unsupported via method","Unsupported via method",module,Magento_TwoFactorAuth
+"Invalid code format","Invalid code format",module,Magento_TwoFactorAuth
+"Missing verify request information","Missing verify request information",module,Magento_TwoFactorAuth
+"Invalid response","Invalid response",module,Magento_TwoFactorAuth
+"Secret for user with ID#%1 was not found","Secret for user with ID#%1 was not found",module,Magento_TwoFactorAuth
+"Invalid code.","Invalid code.",module,Magento_TwoFactorAuth
+"Missing registration data","Missing registration data",module,Magento_TwoFactorAuth
+"U2f authentication prompt not sent.","U2f authentication prompt not sent.",module,Magento_TwoFactorAuth
+"Could not determine domain name.","Could not determine domain name.",module,Magento_TwoFactorAuth
+"U2f key registration was not started.","U2f key registration was not started.",module,Magento_TwoFactorAuth
+"Invalid U2F key.","Invalid U2F key.",module,Magento_TwoFactorAuth
+"There was an error during the U2F key process.","There was an error during the U2F key process.",module,Magento_TwoFactorAuth
+"Invalid U2F key data","Invalid U2F key data",module,Magento_TwoFactorAuth
+"Unknown provider %1","Unknown provider %1",module,Magento_TwoFactorAuth
+"No such Country","No such Country",module,Magento_TwoFactorAuth
+"No such UserConfig","No such UserConfig",module,Magento_TwoFactorAuth
+"Unknown or not enabled provider %1 for this user","Unknown or not enabled provider %1 for this user",module,Magento_TwoFactorAuth
+"Invalid token.","Invalid token.",module,Magento_TwoFactorAuth
+"Invalid two-factor authorization token","Invalid two-factor authorization token",module,Magento_TwoFactorAuth
+"Provider is not allowed.","Provider is not allowed.",module,Magento_TwoFactorAuth
+"Provider is already configured.","Provider is already configured.",module,Magento_TwoFactorAuth
+"Provider is not configured.","Provider is not configured.",module,Magento_TwoFactorAuth
+"User is not authorized to edit 2FA configuration","User is not authorized to edit 2FA configuration",module,Magento_TwoFactorAuth
+2FA,2FA,module,Magento_TwoFactorAuth
+"Reset %1","Reset %1",module,Magento_TwoFactorAuth
+"All currently active providers will not be available","All currently active providers will not be available",module,Magento_TwoFactorAuth
+"which means all admin users will be required to configure an available method before they can login.","which means all admin users will be required to configure an available method before they can login.",module,Magento_TwoFactorAuth
+"Please select one or more Two-Factor Authorization providers to be used to authorize admin users","Please select one or more Two-Factor Authorization providers to be used to authorize admin users",module,Magento_TwoFactorAuth
+"No providers are available to select, please configure required 2FA provider settings on the server via CLI","No providers are available to select, please configure required 2FA provider settings on the server via CLI",module,Magento_TwoFactorAuth
+Apply,Apply,module,Magento_TwoFactorAuth
+"Skip this configuration until next login.","Skip this configuration until next login.",module,Magento_TwoFactorAuth
+"You need to configure Two-Factor Authorization in order to proceed to your store's admin area","You need to configure Two-Factor Authorization in order to proceed to your store's admin area",module,Magento_TwoFactorAuth
+"An E-mail was sent to you with further instructions","An E-mail was sent to you with further instructions",module,Magento_TwoFactorAuth
+"2FA configuration required for %name","2FA configuration required for %name",module,Magento_TwoFactorAuth
+"You are required to configure website-wide and personal Two-Factor Authorization in order to login to %store","You are required to configure website-wide and personal Two-Factor Authorization in order to login to %store",module,Magento_TwoFactorAuth
+"To do that please <a href=""%url"">Click here</a>","To do that please <a href=""%url"">Click here</a>",module,Magento_TwoFactorAuth
+"Thank you,","Thank you,",module,Magento_TwoFactorAuth
+"You are required to configure personal Two-Factor Authorization in order to login to %store","You are required to configure personal Two-Factor Authorization in order to login to %store",module,Magento_TwoFactorAuth
+"Thank you, %store","Thank you, %store",module,Magento_TwoFactorAuth
+"2FA - Duo Security","2FA - Duo Security",module,Magento_TwoFactorAuth
+"2FA - U2F key verification","2FA - U2F key verification",module,Magento_TwoFactorAuth
+"Plug in your U2F key and follow instructions","Plug in your U2F key and follow instructions",module,Magento_TwoFactorAuth
+"Try again","Try again",module,Magento_TwoFactorAuth
+"Redirecting to Magento Admin Panel...","Redirecting to Magento Admin Panel...",module,Magento_TwoFactorAuth
+Loading...,Loading...,module,Magento_TwoFactorAuth
+"2FA - U2F key device registration","2FA - U2F key device registration",module,Magento_TwoFactorAuth
+"Your request has been expired","Your request has been expired",module,Magento_TwoFactorAuth
+"Your request has been rejected","Your request has been rejected",module,Magento_TwoFactorAuth
+Error,Error,module,Magento_TwoFactorAuth
+Cancel,Cancel,module,Magento_TwoFactorAuth
+Confirm,Confirm,module,Magento_TwoFactorAuth
+"Invalid key or key is not registered.","Invalid key or key is not registered.",module,Magento_TwoFactorAuth
+"Unable to register your device","Unable to register your device",module,Magento_TwoFactorAuth
+"There was an error processing your key.","There was an error processing your key.",module,Magento_TwoFactorAuth
+"Two Factor Auth","Two Factor Auth",module,Magento_TwoFactorAuth
+Security,Security,module,Magento_TwoFactorAuth
+General,General,module,Magento_TwoFactorAuth
+"Providers to use","Providers to use",module,Magento_TwoFactorAuth
+"Configuration Email URL for Web API","Configuration Email URL for Web API",module,Magento_TwoFactorAuth
+Google,Google,module,Magento_TwoFactorAuth
+"OTP Window","OTP Window",module,Magento_TwoFactorAuth
+"This determines how long the one-time-passwords are valid for. An OTP Window of 1 will result in the current OTP value plus 1 code in the past and 1 code in the future to be valid at any given point in time.","This determines how long the one-time-passwords are valid for. An OTP Window of 1 will result in the current OTP value plus 1 code in the past and 1 code in the future to be valid at any given point in time.",module,Magento_TwoFactorAuth
+"Duo Security","Duo Security",module,Magento_TwoFactorAuth
+"Integration key","Integration key",module,Magento_TwoFactorAuth
+"Secret key","Secret key",module,Magento_TwoFactorAuth
+"API hostname","API hostname",module,Magento_TwoFactorAuth
+Authy,Authy,module,Magento_TwoFactorAuth
+"API key","API key",module,Magento_TwoFactorAuth
+"OneTouch Message","OneTouch Message",module,Magento_TwoFactorAuth
+"U2F Key","U2F Key",module,Magento_TwoFactorAuth
+"WebApi Challenge Domain","WebApi Challenge Domain",module,Magento_TwoFactorAuth
+"Configuration reset","Configuration reset",module,Magento_TwoFactorAuth

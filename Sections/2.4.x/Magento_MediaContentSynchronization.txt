@@ -1,0 +1,2 @@
+"Could not fetch media content links data","Could not fetch media content links data",module,Magento_MediaContentSynchronization
+"Failed to execute the following content synchronizers: %synchronizers","Failed to execute the following content synchronizers: %synchronizers",module,Magento_MediaContentSynchronization

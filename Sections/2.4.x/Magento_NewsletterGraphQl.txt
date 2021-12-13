@@ -1,0 +1,6 @@
+"You must specify an email address to subscribe to a newsletter.","You must specify an email address to subscribe to a newsletter.",module,Magento_NewsletterGraphQl
+"Cannot create a newsletter subscription.","Cannot create a newsletter subscription.",module,Magento_NewsletterGraphQl
+"Enter a valid email address.","Enter a valid email address.",module,Magento_NewsletterGraphQl
+"This email address is already assigned to another user.","This email address is already assigned to another user.",module,Magento_NewsletterGraphQl
+"Guests can not subscribe to the newsletter. You must create an account to subscribe.","Guests can not subscribe to the newsletter. You must create an account to subscribe.",module,Magento_NewsletterGraphQl
+"This email address is already subscribed.","This email address is already subscribed.",module,Magento_NewsletterGraphQl

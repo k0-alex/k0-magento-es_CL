@@ -1,0 +1,5 @@
+"currentPage value must be greater than 0.","currentPage value must be greater than 0.",module,Magento_InventoryInStorePickupGraphQl
+"pageSize value must be greater than 0.","pageSize value must be greater than 0.",module,Magento_InventoryInStorePickupGraphQl
+"Region or city or postcode must be specified for the filter by distance.","Region or city or postcode must be specified for the filter by distance.",module,Magento_InventoryInStorePickupGraphQl
+"currentPage value %1 specified is greater than the %2 page(s) available.","currentPage value %1 specified is greater than the %2 page(s) available.",module,Magento_InventoryInStorePickupGraphQl
+"PickupLocation type not defined in schema.","PickupLocation type not defined in schema.",module,Magento_InventoryInStorePickupGraphQl

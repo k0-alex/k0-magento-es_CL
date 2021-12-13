@@ -1,0 +1,1 @@
+"In-Store Pickup","In-Store Pickup",module,Magento_InventoryInStorePickupApi

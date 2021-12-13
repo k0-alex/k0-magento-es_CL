@@ -1,0 +1,15 @@
+"Invalid JSON received.","Invalid JSON received.",module,Magento_ReCaptchaValidationApi
+"Could not connect to service.","Could not connect to service.",module,Magento_ReCaptchaValidationApi
+"Did not receive a 200 from the service.","Did not receive a 200 from the service.",module,Magento_ReCaptchaValidationApi
+"Not a success, but no error codes received!","Not a success, but no error codes received!",module,Magento_ReCaptchaValidationApi
+"ReCAPTCHA response not provided.","ReCAPTCHA response not provided.",module,Magento_ReCaptchaValidationApi
+"Expected hostname did not match.","Expected hostname did not match.",module,Magento_ReCaptchaValidationApi
+"Expected APK package name did not match.","Expected APK package name did not match.",module,Magento_ReCaptchaValidationApi
+"Expected action did not match.","Expected action did not match.",module,Magento_ReCaptchaValidationApi
+"Challenge timeout.","Challenge timeout.",module,Magento_ReCaptchaValidationApi
+"The secret parameter is missing.","The secret parameter is missing.",module,Magento_ReCaptchaValidationApi
+"The secret parameter is invalid or malformed.","The secret parameter is invalid or malformed.",module,Magento_ReCaptchaValidationApi
+"The response parameter is invalid or malformed.","The response parameter is invalid or malformed.",module,Magento_ReCaptchaValidationApi
+"The request is invalid or malformed.","The request is invalid or malformed.",module,Magento_ReCaptchaValidationApi
+"The response is no longer valid: either is too old or has been used previously.","The response is no longer valid: either is too old or has been used previously.",module,Magento_ReCaptchaValidationApi
+"Score threshold not met.","Score threshold not met.",module,Magento_ReCaptchaValidationApi

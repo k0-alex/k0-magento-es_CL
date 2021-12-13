@@ -1,0 +1,4 @@
+"Currency not allowed for store %1","Currency not allowed for store %1",module,Magento_DirectoryGraphQl
+"Please correct the target currency","Please correct the target currency",module,Magento_DirectoryGraphQl
+"Requested store is not found","Requested store is not found",module,Magento_DirectoryGraphQl
+"Country ""id"" value should be specified","Country ""id"" value should be specified",module,Magento_DirectoryGraphQl

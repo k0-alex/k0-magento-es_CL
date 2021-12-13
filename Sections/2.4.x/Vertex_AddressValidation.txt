@@ -1,0 +1,36 @@
+"Validate address","Validate address",module,Vertex_AddressValidation
+"Update address","Update address",module,Vertex_AddressValidation
+"Request does not match any route.","Request does not match any route.",module,Vertex_AddressValidation
+"Address Cleanser is not configured properly.  Could not lookup address","Address Cleanser is not configured properly.  Could not lookup address",module,Vertex_AddressValidation
+"'Invalid request. ' .","'Invalid request. ' .",module,Vertex_AddressValidation
+"Quote not found","Quote not found",module,Vertex_AddressValidation
+"The address is valid","The address is valid",module,Vertex_AddressValidation
+"Validate &amp; Save","Validate &amp; Save",module,Vertex_AddressValidation
+"Save As Is","Save As Is",module,Vertex_AddressValidation
+"Update &amp; Save","Update &amp; Save",module,Vertex_AddressValidation
+"Your session has expired. Please reload the page and try again.","Your session has expired. Please reload the page and try again.",module,Vertex_AddressValidation
+"There was an error cleansing the address. Please try again.","There was an error cleansing the address. Please try again.",module,Vertex_AddressValidation
+"Street Address","Street Address",module,Vertex_AddressValidation
+City,City,module,Vertex_AddressValidation
+State/Province,State/Province,module,Vertex_AddressValidation
+"Zip/Postal Code","Zip/Postal Code",module,Vertex_AddressValidation
+Country,Country,module,Vertex_AddressValidation
+"We did not find a valid address","We did not find a valid address",module,Vertex_AddressValidation
+"The address is not valid","The address is not valid",module,Vertex_AddressValidation
+"The intended address could be:","The intended address could be:",module,Vertex_AddressValidation
+"The address was updated","The address was updated",module,Vertex_AddressValidation
+"Warning: Updating the address will replace all street address fields.","Warning: Updating the address will replace all street address fields.",module,Vertex_AddressValidation
+"Address Cleansing","Address Cleansing",module,Vertex_AddressValidation
+"Integrated Address Cleansing","Integrated Address Cleansing",module,Vertex_AddressValidation
+"<p>Ensure every transaction has the proper tax jurisdiction assignment to trigger the accurate tax calculation rules. Each new address entered is automatically cleansed for errors and the full 9-digit zip code assigned.</p>","<p>Ensure every transaction has the proper tax jurisdiction assignment to trigger the accurate tax calculation rules. Each new address entered is automatically cleansed for errors and the full 9-digit zip code assigned.</p>",module,Vertex_AddressValidation
+"Connection Settings","Connection Settings",module,Vertex_AddressValidation
+"Vertex Address Cleansing","Vertex Address Cleansing",module,Vertex_AddressValidation
+"Cleanse US addresses entered by customers","Cleanse US addresses entered by customers",module,Vertex_AddressValidation
+"Address Validation API URL","Address Validation API URL",module,Vertex_AddressValidation
+"This configuration value is shared with Vertex Tax settings.","This configuration value is shared with Vertex Tax settings.",module,Vertex_AddressValidation
+"Trusted ID","Trusted ID",module,Vertex_AddressValidation
+"Display Settings","Display Settings",module,Vertex_AddressValidation
+"Confirmation Message When No Action Is Needed","Confirmation Message When No Action Is Needed",module,Vertex_AddressValidation
+"Integration Settings","Integration Settings",module,Vertex_AddressValidation
+"Legacy WebAPI","Legacy WebAPI",module,Vertex_AddressValidation
+"Allow use of the /V1/vertex-address-validation endpoint.  <strong>Note:</strong> This endpoint is not closed off to outside use and can theoretically be used to run calls through the Vertex Address Cleansing API that you have not authorized.  Only enable this setting if you have a custom integration that uses the API and need it temporarily during transition.","Allow use of the /V1/vertex-address-validation endpoint.  <strong>Note:</strong> This endpoint is not closed off to outside use and can theoretically be used to run calls through the Vertex Address Cleansing API that you have not authorized.  Only enable this setting if you have a custom integration that uses the API and need it temporarily during transition.",module,Vertex_AddressValidation

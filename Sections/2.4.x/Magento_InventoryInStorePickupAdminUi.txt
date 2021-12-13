@@ -1,0 +1,8 @@
+"Use as Pickup Location","Use as Pickup Location",module,Magento_InventoryInStorePickupAdminUi
+"The Default Source can not be used for In-Store Pickup Delivery.","The Default Source can not be used for In-Store Pickup Delivery.",module,Magento_InventoryInStorePickupAdminUi
+"Pickup Location","Pickup Location",module,Magento_InventoryInStorePickupAdminUi
+"Frontend Name","Frontend Name",module,Magento_InventoryInStorePickupAdminUi
+"Pickup Location Name visible for the customer on checkout.","Pickup Location Name visible for the customer on checkout.",module,Magento_InventoryInStorePickupAdminUi
+"Frontend Description","Frontend Description",module,Magento_InventoryInStorePickupAdminUi
+Active,Active,module,Magento_InventoryInStorePickupAdminUi
+Disabled,Disabled,module,Magento_InventoryInStorePickupAdminUi

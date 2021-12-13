@@ -1,0 +1,2 @@
+"reCAPTCHA '%1' form error: %2","reCAPTCHA '%1' form error: %2",module,Magento_ReCaptchaPaypal
+"Enable for PayPal PayflowPro payment form","Enable for PayPal PayflowPro payment form",module,Magento_ReCaptchaPaypal

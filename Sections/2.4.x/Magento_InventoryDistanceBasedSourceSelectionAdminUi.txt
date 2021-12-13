@@ -1,0 +1,11 @@
+Driving,Driving,module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+Walking,Walking,module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+Bicycling,Bicycling,module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+Distance,Distance,module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+"Time to destination","Time to destination",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+"Distance Provider for Distance Based SSA","Distance Provider for Distance Based SSA",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+Provider,Provider,module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+"Google Distance Provider","Google Distance Provider",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+"Google API key","Google API key",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+"Computation mode","Computation mode",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+Value,Value,module,Magento_InventoryDistanceBasedSourceSelectionAdminUi

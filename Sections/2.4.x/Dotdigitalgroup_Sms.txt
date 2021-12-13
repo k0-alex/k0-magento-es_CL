@@ -1,0 +1,21 @@
+"Transactional SMS","Transactional SMS",module,Dotdigitalgroup_Sms
+"Transactional SMS Settings","Transactional SMS Settings",module,Dotdigitalgroup_Sms
+Enabled,Enabled,module,Dotdigitalgroup_Sms
+"Manage account","Manage account",module,Dotdigitalgroup_Sms
+"Enable phone number validation","Enable phone number validation",module,Dotdigitalgroup_Sms
+"SMS Templates","SMS Templates",module,Dotdigitalgroup_Sms
+"New Order Confirmation","New Order Confirmation",module,Dotdigitalgroup_Sms
+Message,Message,module,Dotdigitalgroup_Sms
+Delete,Delete,module,Dotdigitalgroup_Sms
+"Delete items","Delete items",module,Dotdigitalgroup_Sms
+"Are you sure?","Are you sure?",module,Dotdigitalgroup_Sms
+Type,Type,module,Dotdigitalgroup_Sms
+"Order ID","Order ID",module,Dotdigitalgroup_Sms
+Store,Store,module,Dotdigitalgroup_Sms
+Website,Website,module,Dotdigitalgroup_Sms
+Phone,Phone,module,Dotdigitalgroup_Sms
+"Customer Email","Customer Email",module,Dotdigitalgroup_Sms
+Content,Content,module,Dotdigitalgroup_Sms
+Status,Status,module,Dotdigitalgroup_Sms
+"Created At","Created At",module,Dotdigitalgroup_Sms
+"Sent At","Sent At",module,Dotdigitalgroup_Sms

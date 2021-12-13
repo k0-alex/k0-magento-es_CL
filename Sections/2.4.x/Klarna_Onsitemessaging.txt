@@ -1,0 +1,10 @@
+"Klarna On-Site Messaging","Klarna On-Site Messaging",module,Klarna_Onsitemessaging
+Enable,Enable,module,Klarna_Onsitemessaging
+"Data client ID","Data client ID",module,Klarna_Onsitemessaging
+"Design theme","Design theme",module,Klarna_Onsitemessaging
+"Enable on product","Enable on product",module,Klarna_Onsitemessaging
+"Product placement","Product placement",module,Klarna_Onsitemessaging
+"Product placement ID","Product placement ID",module,Klarna_Onsitemessaging
+"Enable on cart","Enable on cart",module,Klarna_Onsitemessaging
+"Cart placement","Cart placement",module,Klarna_Onsitemessaging
+"Cart placement ID","Cart placement ID",module,Klarna_Onsitemessaging

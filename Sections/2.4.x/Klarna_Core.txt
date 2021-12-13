@@ -1,0 +1,7 @@
+"API Configuration","API Configuration",module,Klarna_Core
+Endpoint,Endpoint,module,Klarna_Core
+"Klarna API username","Klarna API username",module,Klarna_Core
+"Klarna API password","Klarna API password",module,Klarna_Core
+Mode,Mode,module,Klarna_Core
+Logging,Logging,module,Klarna_Core
+"Should not be enabled in production. Sensitive information is logged.","Should not be enabled in production. Sensitive information is logged.",module,Klarna_Core

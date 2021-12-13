@@ -1,0 +1,306 @@
+"Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
+Previous,Previous,theme,frontend/Magento/luma
+Remove,Remove,theme,frontend/Magento/luma
+"Remove This Item","Remove This Item",theme,frontend/Magento/luma
+"Shop By","Shop By",theme,frontend/Magento/luma
+"Clear All","Clear All",theme,frontend/Magento/luma
+"Shopping Options","Shopping Options",theme,frontend/Magento/luma
+Country,Country,module,PayPal_Braintree
+"Allowed Credit Card Types","Allowed Credit Card Types",module,PayPal_Braintree
+"Add Rule","Add Rule",module,PayPal_Braintree
+"Validate Credentials","Validate Credentials",module,PayPal_Braintree
+Amount,Amount,module,PayPal_Braintree
+"Card Number","Card Number",module,PayPal_Braintree
+"Expiration Date","Expiration Date",module,PayPal_Braintree
+"Card Verification Number","Card Verification Number",module,PayPal_Braintree
+"Take Payment","Take Payment",module,PayPal_Braintree
+"Braintree Settlement Report","Braintree Settlement Report",module,PayPal_Braintree
+"Braintree Virtual Terminal","Braintree Virtual Terminal",module,PayPal_Braintree
+"A payment has been made on the %s card ending %s for %s %s (Braintree Transaction ID: %s)","A payment has been made on the %s card ending %s for %s %s (Braintree Transaction ID: %s)",module,PayPal_Braintree
+"The response from the Braintree server was incorrect. Please try again.","The response from the Braintree server was incorrect. Please try again.",module,PayPal_Braintree
+"We can't initialize checkout.","We can't initialize checkout.",module,PayPal_Braintree
+"Invalid ENS XML","Invalid ENS XML",module,PayPal_Braintree
+"Invalid Merchant ID","Invalid Merchant ID",module,PayPal_Braintree
+"Sorry, but something went wrong","Sorry, but something went wrong",module,PayPal_Braintree
+"No Credit Options available","No Credit Options available",module,PayPal_Braintree
+"Malformed request data. This may be caused by special characters. Please try again","Malformed request data. This may be caused by special characters. Please try again",module,PayPal_Braintree
+"Your payment could not be taken. Please try again or use a different payment method.","Your payment could not be taken. Please try again or use a different payment method.",module,PayPal_Braintree
+"Your payment could not be taken. Please try again or use a different payment method. %1","Your payment could not be taken. Please try again or use a different payment method. %1",module,PayPal_Braintree
+"No available payment tokens","No available payment tokens",module,PayPal_Braintree
+"Failed to create payment token.","Failed to create payment token.",module,PayPal_Braintree
+"No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,PayPal_Braintree
+"Braintree error response.","Braintree error response.",module,PayPal_Braintree
+"Payment method nonce can't be retrieved.","Payment method nonce can't be retrieved.",module,PayPal_Braintree
+"Wrong transaction status","Wrong transaction status",module,PayPal_Braintree
+"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons",module,PayPal_Braintree
+"Elektronisches Lastschriftverfahren – German ELV","Elektronisches Lastschriftverfahren – German ELV",module,PayPal_Braintree
+Bancontact,Bancontact,module,PayPal_Braintree
+EPS,EPS,module,PayPal_Braintree
+giropay,giropay,module,PayPal_Braintree
+iDeal,iDeal,module,PayPal_Braintree
+"Klarna Pay Now / SOFORT","Klarna Pay Now / SOFORT",module,PayPal_Braintree
+MyBank,MyBank,module,PayPal_Braintree
+P24,P24,module,PayPal_Braintree
+"SEPA/ELV Direct Debit","SEPA/ELV Direct Debit",module,PayPal_Braintree
+Authorize,Authorize,module,PayPal_Braintree
+"Intent Sale","Intent Sale",module,PayPal_Braintree
+"--Please Select--","--Please Select--",module,PayPal_Braintree
+Blue,Blue,module,PayPal_Braintree
+Black,Black,module,PayPal_Braintree
+Gold,Gold,module,PayPal_Braintree
+Silver,Silver,module,PayPal_Braintree
+Pill,Pill,module,PayPal_Braintree
+Rectangle,Rectangle,module,PayPal_Braintree
+Medium,Medium,module,PayPal_Braintree
+Large,Large,module,PayPal_Braintree
+Responsive,Responsive,module,PayPal_Braintree
+"Credit Card","Credit Card",module,PayPal_Braintree
+ending,ending,module,PayPal_Braintree
+expires,expires,module,PayPal_Braintree
+PayPal,PayPal,module,PayPal_Braintree
+"Order declined through Kount, order voided in Magento.","Order declined through Kount, order voided in Magento.",module,PayPal_Braintree
+"No token returned","No token returned",module,PayPal_Braintree
+"'Unable to retrieve PayPal API token. ' .","'Unable to retrieve PayPal API token. ' .",module,PayPal_Braintree
+"No financing options available from API","No financing options available from API",module,PayPal_Braintree
+"No qualifying financing options available","No qualifying financing options available",module,PayPal_Braintree
+"'No response from request to ' .","'No response from request to ' .",module,PayPal_Braintree
+"'Error returned with request to ' . . '. Error: ' .","'Error returned with request to ' . . '. Error: ' .",module,PayPal_Braintree
+"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,PayPal_Braintree
+"PayPal Credit","PayPal Credit",module,PayPal_Braintree
+"PayPal PayLater","PayPal PayLater",module,PayPal_Braintree
+"Credit Card Number","Credit Card Number",module,PayPal_Braintree
+"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,PayPal_Braintree
+"Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,PayPal_Braintree
+"Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,PayPal_Braintree
+"Transaction Amount","Transaction Amount",module,PayPal_Braintree
+"Shipping Method","Shipping Method",module,PayPal_Braintree
+"Please select a shipping method...","Please select a shipping method...",module,PayPal_Braintree
+"Update Shipping Method","Update Shipping Method",module,PayPal_Braintree
+"Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,PayPal_Braintree
+"Shipping Address","Shipping Address",module,PayPal_Braintree
+Edit,Edit,module,PayPal_Braintree
+"Payment Method","Payment Method",module,PayPal_Braintree
+"Buy now with Google Pay","Buy now with Google Pay",module,PayPal_Braintree
+"Items in Your Shopping Cart","Items in Your Shopping Cart",module,PayPal_Braintree
+"Edit Shopping Cart","Edit Shopping Cart",module,PayPal_Braintree
+"Place Order","Place Order",module,PayPal_Braintree
+"Submitting order information...","Submitting order information...",module,PayPal_Braintree
+"PayPal Account","PayPal Account",module,PayPal_Braintree
+"PayPal Logo","PayPal Logo",module,PayPal_Braintree
+Actions,Actions,module,PayPal_Braintree
+Delete,Delete,module,PayPal_Braintree
+"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Magento/luma
+Email:,Email:,theme,frontend/Magento/luma
+Password:,Password:,theme,frontend/Magento/luma
+"Password you set when creating account","Password you set when creating account",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
+"Quick Checkout","Quick Checkout",theme,frontend/Magento/luma
+"Proceed through checkout faster","Proceed through checkout faster",theme,frontend/Magento/luma
+"Order Status","Order Status",theme,frontend/Magento/luma
+"Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
+"Manage Addresses","Manage Addresses",theme,frontend/Magento/luma
+"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
+"Order History","Order History",theme,frontend/Magento/luma
+"View past orders","View past orders",theme,frontend/Magento/luma
+Footer,Footer,theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
+"Billing Info","Billing Info",theme,frontend/Magento/luma
+"Payment Method","Payment Method",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"From only","From only",module,PayPal_Braintree
+"per month","per month",module,PayPal_Braintree
+Months,Months,module,PayPal_Braintree
+"Monthly Payment:","Monthly Payment:",module,PayPal_Braintree
+"Instalment Rate:","Instalment Rate:",module,PayPal_Braintree
+"Cost of purchase:","Cost of purchase:",module,PayPal_Braintree
+"Total inc. interest:","Total inc. interest:",module,PayPal_Braintree
+"If you are approved for a credit limit with PayPal Credit and use it for future purchases, the APR for those purchases won’t be more than 19.9% and may be even lower.","If you are approved for a credit limit with PayPal Credit and use it for future purchases, the APR for those purchases won’t be more than 19.9% and may be even lower.",module,PayPal_Braintree
+"Representative Example:","Representative Example:",module,PayPal_Braintree
+"Purchase Rate: 19.9% p.a. (variable)","Purchase Rate: 19.9% p.a. (variable)",module,PayPal_Braintree
+"Representative: 19.9% APR (variable)","Representative: 19.9% APR (variable)",module,PayPal_Braintree
+"Assumed Credit Limit: £1,200","Assumed Credit Limit: £1,200",module,PayPal_Braintree
+"Subject to status. Terms and Conditions apply.","Subject to status. Terms and Conditions apply.",module,PayPal_Braintree
+"Routing Number","Routing Number",module,PayPal_Braintree
+"Account Number","Account Number",module,PayPal_Braintree
+"Account Type","Account Type",module,PayPal_Braintree
+"Ownership Type","Ownership Type",module,PayPal_Braintree
+"First Name","First Name",module,PayPal_Braintree
+"Last Name","Last Name",module,PayPal_Braintree
+"Business Name","Business Name",module,PayPal_Braintree
+"Proof of Authorization","Proof of Authorization",module,PayPal_Braintree
+"Pay with ACH","Pay with ACH",module,PayPal_Braintree
+"Credit Card Information","Credit Card Information",module,PayPal_Braintree
+"What is this?","What is this?",module,PayPal_Braintree
+"Save for later use.","Save for later use.",module,PayPal_Braintree
+"We store you payment information securely on Braintree servers via SSL.","We store you payment information securely on Braintree servers via SSL.",module,PayPal_Braintree
+"There are currently no available payment methods. Please update your Billing Address.","There are currently no available payment methods. Please update your Billing Address.",module,PayPal_Braintree
+"Pay with Venmo","Pay with Venmo",module,PayPal_Braintree
+"This payment is not available","This payment is not available",module,PayPal_Braintree
+"4111 1111 1111 1111","4111 1111 1111 1111",module,PayPal_Braintree
+MM,MM,module,PayPal_Braintree
+YY,YY,module,PayPal_Braintree
+123,123,module,PayPal_Braintree
+"Please enter a card number, expiration date and CVV","Please enter a card number, expiration date and CVV",module,PayPal_Braintree
+"Please correct the problems with the Credit Card fields.","Please correct the problems with the Credit Card fields.",module,PayPal_Braintree
+"The payment method used, already exists in the user's vault. Please use the vault option instead.","The payment method used, already exists in the user's vault. Please use the vault option instead.",module,PayPal_Braintree
+"CVV did not pass verification","CVV did not pass verification",module,PayPal_Braintree
+"There was an issue tokenizing the card. Please check the card is valid.","There was an issue tokenizing the card. Please check the card is valid.",module,PayPal_Braintree
+"There was an error connecting to Braintree. Please try again.","There was an error connecting to Braintree. Please try again.",module,PayPal_Braintree
+"There was an issue processing the payment. Please try again.","There was an issue processing the payment. Please try again.",module,PayPal_Braintree
+"Please select an Environment","Please select an Environment",module,PayPal_Braintree
+"Please enter a Merchant ID","Please enter a Merchant ID",module,PayPal_Braintree
+"Please enter a Public Key","Please enter a Public Key",module,PayPal_Braintree
+"Please enter a Private Key","Please enter a Private Key",module,PayPal_Braintree
+"Braintree Credential Validation Failed","Braintree Credential Validation Failed",module,PayPal_Braintree
+"We're validating your credentials...","We're validating your credentials...",module,PayPal_Braintree
+"Your credentials are valid.","Your credentials are valid.",module,PayPal_Braintree
+"Your Braintree Credentials could not be validated. Please ensure you have selected the correct environment and entered a valid Merchant ID, Public Key and Private Key.","Your Braintree Credentials could not be validated. Please ensure you have selected the correct environment and entered a valid Merchant ID, Public Key and Private Key.",module,PayPal_Braintree
+"Please configure your Braintree Payments account in order to use the virtual terminal.","Please configure your Braintree Payments account in order to use the virtual terminal.",module,PayPal_Braintree
+Shipping,Shipping,module,PayPal_Braintree
+"There are no shipping methods available for you right now. Please try again or use an alternative payment method.","There are no shipping methods available for you right now. Please try again or use an alternative payment method.",module,PayPal_Braintree
+"We're unable to fetch the cart totals for you. Please try an alternative payment method.","We're unable to fetch the cart totals for you. Please try an alternative payment method.",module,PayPal_Braintree
+"We're unable to find any shipping methods for you. Please try an alternative payment method.","We're unable to find any shipping methods for you. Please try an alternative payment method.",module,PayPal_Braintree
+"We're unable to take your payment through Apple Pay. Please try an again or use an alternative payment method.","We're unable to take your payment through Apple Pay. Please try an again or use an alternative payment method.",module,PayPal_Braintree
+"Pay with Apple Pay","Pay with Apple Pay",module,PayPal_Braintree
+"We're unable to take payments through Apple Pay at the moment. Please try an alternative payment method.","We're unable to take payments through Apple Pay at the moment. Please try an alternative payment method.",module,PayPal_Braintree
+Store,Store,module,PayPal_Braintree
+"Buy with Google Pay","Buy with Google Pay",module,PayPal_Braintree
+"To check out, please sign in with your email address.","To check out, please sign in with your email address.",module,PayPal_Braintree
+"Please try again with another form of payment.","Please try again with another form of payment.",module,PayPal_Braintree
+"Sorry, but something went wrong.","Sorry, but something went wrong.",module,PayPal_Braintree
+"Braintree hosted fields could not be initialized. Please contact the store owner.","Braintree hosted fields could not be initialized. Please contact the store owner.",module,PayPal_Braintree
+"There was an error with the provided bank details. Please check and try again.","There was an error with the provided bank details. Please check and try again.",module,PayPal_Braintree
+"Unable to initialize Braintree Client.","Unable to initialize Braintree Client.",module,PayPal_Braintree
+"Error initializing ACH: %1","Error initializing ACH: %1",module,PayPal_Braintree
+"Payment ","Payment ",module,PayPal_Braintree
+MM/YYYY,MM/YYYY,module,PayPal_Braintree
+"Local Payment popup was closed unexpectedly.","Local Payment popup was closed unexpectedly.",module,PayPal_Braintree
+"Local Payment popup failed to open.","Local Payment popup failed to open.",module,PayPal_Braintree
+"Local Payment popup was closed. Payment cancelled.","Local Payment popup was closed. Payment cancelled.",module,PayPal_Braintree
+"PayPal Checkout could not be initialized. Please contact the store owner.","PayPal Checkout could not be initialized. Please contact the store owner.",module,PayPal_Braintree
+"Venmo not initialized, please try reloading.","Venmo not initialized, please try reloading.",module,PayPal_Braintree
+"Venmo app is not available or the payment flow was cancelled.","Venmo app is not available or the payment flow was cancelled.",module,PayPal_Braintree
+"Venmo payment flow cancelled.","Venmo payment flow cancelled.",module,PayPal_Braintree
+"Error initializing Venmo: %1","Error initializing Venmo: %1",module,PayPal_Braintree
+"My Account","My Account",theme,frontend/Magento/blank
+"Braintree Payments (by <a href=""https://www.gene.co.uk/braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>)","Braintree Payments (by <a href=""https://www.gene.co.uk/braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>)",module,PayPal_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br />No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br />No setup or monthly fees and your customers never leave your store to complete the purchase.",module,PayPal_Braintree
+"Enable Card Payments","Enable Card Payments",module,PayPal_Braintree
+"Enable PayPal through Braintree","Enable PayPal through Braintree",module,PayPal_Braintree
+"Enable PayPal Credit through Braintree","Enable PayPal Credit through Braintree",module,PayPal_Braintree
+"Enable PayPal Pay Later through Braintree","Enable PayPal Pay Later through Braintree",module,PayPal_Braintree
+"Enable Vault for Card Payments","Enable Vault for Card Payments",module,PayPal_Braintree
+"Enable Vault CVV Re-verification","Enable Vault CVV Re-verification",module,PayPal_Braintree
+"Basic Braintree Settings","Basic Braintree Settings",module,PayPal_Braintree
+Title,Title,module,PayPal_Braintree
+Environment,Environment,module,PayPal_Braintree
+"Payment Action","Payment Action",module,PayPal_Braintree
+"Merchant ID","Merchant ID",module,PayPal_Braintree
+"Public Key","Public Key",module,PayPal_Braintree
+"Private Key","Private Key",module,PayPal_Braintree
+"Sandbox Merchant ID","Sandbox Merchant ID",module,PayPal_Braintree
+"Sandbox Public Key","Sandbox Public Key",module,PayPal_Braintree
+"Sandbox Private Key","Sandbox Private Key",module,PayPal_Braintree
+"Advanced Braintree Settings","Advanced Braintree Settings",module,PayPal_Braintree
+"Vault Title","Vault Title",module,PayPal_Braintree
+"Merchant Account ID","Merchant Account ID",module,PayPal_Braintree
+"Advanced Fraud Protection","Advanced Fraud Protection",module,PayPal_Braintree
+"Kount Settings","Kount Settings",module,PayPal_Braintree
+"ENS URL","ENS URL",module,PayPal_Braintree
+"Skip Fraud Checks on Admin Orders","Skip Fraud Checks on Admin Orders",module,PayPal_Braintree
+"ENS Allowed IPs","ENS Allowed IPs",module,PayPal_Braintree
+"Bypass Fraud Protection Threshold","Bypass Fraud Protection Threshold",module,PayPal_Braintree
+Debug,Debug,module,PayPal_Braintree
+"CVV Verification","CVV Verification",module,PayPal_Braintree
+"Credit Card Types","Credit Card Types",module,PayPal_Braintree
+"Sort Order","Sort Order",module,PayPal_Braintree
+"Country Specific Settings","Country Specific Settings",module,PayPal_Braintree
+"Payment from Applicable Countries","Payment from Applicable Countries",module,PayPal_Braintree
+"Payment from Specific Countries","Payment from Specific Countries",module,PayPal_Braintree
+"Country Specific Credit Card Types","Country Specific Credit Card Types",module,PayPal_Braintree
+"ACH through Braintree","ACH through Braintree",module,PayPal_Braintree
+"Enable ACH Direct Debit","Enable ACH Direct Debit",module,PayPal_Braintree
+"Apple Pay through Braintree","Apple Pay through Braintree",module,PayPal_Braintree
+"Enable ApplePay through Braintree","Enable ApplePay through Braintree",module,PayPal_Braintree
+"Merchant Name","Merchant Name",module,PayPal_Braintree
+"Local Payment Methods","Local Payment Methods",module,PayPal_Braintree
+"Enable Local Payment Methods","Enable Local Payment Methods",module,PayPal_Braintree
+"Allowed Payment Methods","Allowed Payment Methods",module,PayPal_Braintree
+"GooglePay through Braintree","GooglePay through Braintree",module,PayPal_Braintree
+"Enable GooglePay through Braintree","Enable GooglePay through Braintree",module,PayPal_Braintree
+"Accepted Cards","Accepted Cards",module,PayPal_Braintree
+"Button Color","Button Color",module,PayPal_Braintree
+"Venmo through Braintree","Venmo through Braintree",module,PayPal_Braintree
+"Enable Venmo through Braintree","Enable Venmo through Braintree",module,PayPal_Braintree
+"PayPal through Braintree","PayPal through Braintree",module,PayPal_Braintree
+"Vault Enabled","Vault Enabled",module,PayPal_Braintree
+"Override Merchant Name","Override Merchant Name",module,PayPal_Braintree
+"Require Customer's Billing Address","Require Customer's Billing Address",module,PayPal_Braintree
+"Display on Shopping Cart","Display on Shopping Cart",module,PayPal_Braintree
+"Mini-Cart and Cart Page","Mini-Cart and Cart Page",module,PayPal_Braintree
+"Enable PayPal Pay Later button on the cart page and mini-cart","Enable PayPal Pay Later button on the cart page and mini-cart",module,PayPal_Braintree
+"Enable PayPal Pay Later message on the cart page and mini-cart","Enable PayPal Pay Later message on the cart page and mini-cart",module,PayPal_Braintree
+"Disable Funding Options","Disable Funding Options",module,PayPal_Braintree
+"Customise Button","Customise Button",module,PayPal_Braintree
+Shape,Shape,module,PayPal_Braintree
+Size,Size,module,PayPal_Braintree
+Color,Color,module,PayPal_Braintree
+"Checkout Page","Checkout Page",module,PayPal_Braintree
+"Enable PayPal PayLater button on the product page","Enable PayPal PayLater button on the product page",module,PayPal_Braintree
+"Enable PayPal Pay Later message on the product page","Enable PayPal Pay Later message on the product page",module,PayPal_Braintree
+"Product Page","Product Page",module,PayPal_Braintree
+"Enable PayPal Buy Now button on the product page","Enable PayPal Buy Now button on the product page",module,PayPal_Braintree
+"PayPal Credit through Braintree","PayPal Credit through Braintree",module,PayPal_Braintree
+"PayPal REST Client ID","PayPal REST Client ID",module,PayPal_Braintree
+"PayPal REST Secret","PayPal REST Secret",module,PayPal_Braintree
+"Activation Code","Activation Code",module,PayPal_Braintree
+"Merchant Name on the FCA Register","Merchant Name on the FCA Register",module,PayPal_Braintree
+"3D Secure Verification Settings","3D Secure Verification Settings",module,PayPal_Braintree
+"3D Secure Verification","3D Secure Verification",module,PayPal_Braintree
+"Threshold Amount","Threshold Amount",module,PayPal_Braintree
+"Verify for Applicable Countries","Verify for Applicable Countries",module,PayPal_Braintree
+"Verify for Specific Countries","Verify for Specific Countries",module,PayPal_Braintree
+"Dynamic Descriptors","Dynamic Descriptors",module,PayPal_Braintree
+Name,Name,module,PayPal_Braintree
+Phone,Phone,module,PayPal_Braintree
+URL,URL,module,PayPal_Braintree
+"Enable for Braintree payment form","Enable for Braintree payment form",module,PayPal_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,PayPal_Braintree
+Select...,Select...,module,PayPal_Braintree
+Status,Status,module,PayPal_Braintree
+"Transaction Type","Transaction Type",module,PayPal_Braintree
+"Payment Type","Payment Type",module,PayPal_Braintree
+"PayPal Payment ID","PayPal Payment ID",module,PayPal_Braintree
+"Created At","Created At",module,PayPal_Braintree
+"Transaction ID","Transaction ID",module,PayPal_Braintree
+"Order ID","Order ID",module,PayPal_Braintree
+Type,Type,module,PayPal_Braintree
+"Settlement Code","Settlement Code",module,PayPal_Braintree
+"Settlement Response Text","Settlement Response Text",module,PayPal_Braintree
+"Refund Ids","Refund Ids",module,PayPal_Braintree
+"Settlement Batch ID","Settlement Batch ID",module,PayPal_Braintree
+Currency,Currency,module,PayPal_Braintree
+"Braintree Transaction Source","Braintree Transaction Source",module,PayPal_Braintree

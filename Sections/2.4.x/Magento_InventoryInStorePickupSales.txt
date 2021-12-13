@@ -1,0 +1,10 @@
+"Order notified for pickup at: %1","Order notified for pickup at: %1",module,Magento_InventoryInStorePickupSales
+"The order is not ready for pickup","The order is not ready for pickup",module,Magento_InventoryInStorePickupSales
+"Not able to create shipment with 'In Store Pick-Up' delivery method. Order should be notified as 'Ready For Pick-Up' instead.","Not able to create shipment with 'In Store Pick-Up' delivery method. Order should be notified as 'Ready For Pick-Up' instead.",module,Magento_InventoryInStorePickupSales
+"Your %store_name order is ready for pickup","Your %store_name order is ready for pickup",module,Magento_InventoryInStorePickupSales
+"%customer_name,","%customer_name,",module,Magento_InventoryInStorePickupSales
+"Your order placed from %store_name is ready for pickup.","Your order placed from %store_name is ready for pickup.",module,Magento_InventoryInStorePickupSales
+"Your Order <span class=""no-link"">#%increment_id</span> is complete","Your Order <span class=""no-link"">#%increment_id</span> is complete",module,Magento_InventoryInStorePickupSales
+"Please feel free to pickup your order now.","Please feel free to pickup your order now.",module,Magento_InventoryInStorePickupSales
+"Shipping Info","Shipping Info",module,Magento_InventoryInStorePickupSales
+"Shipping Method","Shipping Method",module,Magento_InventoryInStorePickupSales

@@ -1,0 +1,9 @@
+"Delivery Methods","Delivery Methods",module,Magento_InventoryInStorePickupShippingAdminUi
+"In-Store Delivery","In-Store Delivery",module,Magento_InventoryInStorePickupShippingAdminUi
+Enabled,Enabled,module,Magento_InventoryInStorePickupShippingAdminUi
+"Method Name","Method Name",module,Magento_InventoryInStorePickupShippingAdminUi
+Title,Title,module,Magento_InventoryInStorePickupShippingAdminUi
+Price,Price,module,Magento_InventoryInStorePickupShippingAdminUi
+"Search Radius","Search Radius",module,Magento_InventoryInStorePickupShippingAdminUi
+"Radius in kilometers for store pick-up search on storefront checkout.","Radius in kilometers for store pick-up search on storefront checkout.",module,Magento_InventoryInStorePickupShippingAdminUi
+"Displayed Error Message","Displayed Error Message",module,Magento_InventoryInStorePickupShippingAdminUi

@@ -1,0 +1,4 @@
+"Error in writing Auth file %1. Please check permissions for writing.","Error in writing Auth file %1. Please check permissions for writing.",module,Magento_SampleData
+"Failed to set ini option display_errors to value 1. %1","Failed to set ini option display_errors to value 1. %1",module,Magento_SampleData
+"Failed to set ini option memory_limit to 756M. %1","Failed to set ini option memory_limit to 756M. %1",module,Magento_SampleData
+"File not found","File not found",module,Magento_SampleData

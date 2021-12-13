@@ -1,0 +1,8 @@
+"Login as Customer Log","Login as Customer Log",module,Magento_LoginAsCustomerLog
+List,List,module,Magento_LoginAsCustomerLog
+ID,ID,module,Magento_LoginAsCustomerLog
+"Customer ID","Customer ID",module,Magento_LoginAsCustomerLog
+"Customer Email","Customer Email",module,Magento_LoginAsCustomerLog
+"Admin ID","Admin ID",module,Magento_LoginAsCustomerLog
+"Admin Name","Admin Name",module,Magento_LoginAsCustomerLog
+"Logged In","Logged In",module,Magento_LoginAsCustomerLog

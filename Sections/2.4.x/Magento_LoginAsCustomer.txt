@@ -1,0 +1,3 @@
+"Login was not successful.","Login was not successful.",module,Magento_LoginAsCustomer
+"Fail to get authentication data.","Fail to get authentication data.",module,Magento_LoginAsCustomer
+"Login as Customer is disabled.","Login as Customer is disabled.",module,Magento_LoginAsCustomer

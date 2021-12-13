@@ -1,0 +1,3 @@
+"reCAPTCHA Failure Messages","reCAPTCHA Failure Messages",module,Magento_ReCaptchaFrontendUi
+"reCAPTCHA Validation Failure Message","reCAPTCHA Validation Failure Message",module,Magento_ReCaptchaFrontendUi
+"reCAPTCHA Technical Failure Message","reCAPTCHA Technical Failure Message",module,Magento_ReCaptchaFrontendUi

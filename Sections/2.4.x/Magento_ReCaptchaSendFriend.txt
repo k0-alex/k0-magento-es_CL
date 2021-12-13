@@ -1,0 +1,2 @@
+"Welcome, Recipient","Welcome, Recipient",module,Magento_ReCaptchaSendFriend
+"Enable for Send To Friend","Enable for Send To Friend",module,Magento_ReCaptchaSendFriend

@@ -1,0 +1,3 @@
+"Show Login with Amazon in authentication popup","Show Login with Amazon in authentication popup",module,Amazon_Login
+"Displays Login with Amazon Pay option in Magento's account login popup.","Displays Login with Amazon Pay option in Magento's account login popup.",module,Amazon_Login
+"Securely login into our website using your existing Amazon details.","Securely login into our website using your existing Amazon details.",module,Amazon_Login

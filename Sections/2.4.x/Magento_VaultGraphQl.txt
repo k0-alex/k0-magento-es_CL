@@ -1,0 +1,2 @@
+"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_VaultGraphQl
+"Could not find a token using public hash: %1","Could not find a token using public hash: %1",module,Magento_VaultGraphQl

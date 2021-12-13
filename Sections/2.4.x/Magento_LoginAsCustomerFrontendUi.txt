@@ -1,0 +1,7 @@
+"You are logged in as customer: %1","You are logged in as customer: %1",module,Magento_LoginAsCustomerFrontendUi
+"You are logged in","You are logged in",module,Magento_LoginAsCustomerFrontendUi
+"Cannot login to account.","Cannot login to account.",module,Magento_LoginAsCustomerFrontendUi
+"Close Session","Close Session",module,Magento_LoginAsCustomerFrontendUi
+Loading...,Loading...,module,Magento_LoginAsCustomerFrontendUi
+"You are connected as <strong>%1</strong> on %2","You are connected as <strong>%1</strong> on %2",module,Magento_LoginAsCustomerFrontendUi
+"You are logged in.","You are logged in.",module,Magento_LoginAsCustomerFrontendUi

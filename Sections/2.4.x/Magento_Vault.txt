@@ -1,0 +1,17 @@
+"No token found.","No token found.",module,Magento_Vault
+"Wrong request.","Wrong request.",module,Magento_Vault
+"Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
+"Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
+"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment.",module,Magento_Vault
+"Card Number","Card Number",module,Magento_Vault
+"Expiration Date","Expiration Date",module,Magento_Vault
+Type,Type,module,Magento_Vault
+"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+ending,ending,module,Magento_Vault
+Actions,Actions,module,Magento_Vault
+Delete,Delete,module,Magento_Vault
+"PayPal Account","PayPal Account",module,Magento_Vault
+expires,expires,module,Magento_Vault
+"Place Order","Place Order",module,Magento_Vault
+Cancel,Cancel,module,Magento_Vault

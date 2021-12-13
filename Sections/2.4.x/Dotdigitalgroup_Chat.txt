@@ -1,0 +1,4 @@
+"Chat Settings","Chat Settings",module,Dotdigitalgroup_Chat
+Enabled,Enabled,module,Dotdigitalgroup_Chat
+"Configure Chat Widget","Configure Chat Widget",module,Dotdigitalgroup_Chat
+"Configure Chat Teams","Configure Chat Teams",module,Dotdigitalgroup_Chat

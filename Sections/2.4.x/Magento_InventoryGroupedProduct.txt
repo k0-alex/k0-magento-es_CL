@@ -1,0 +1,1 @@
+"Something went wrong while updating the product(s) stock status.","Something went wrong while updating the product(s) stock status.",module,Magento_InventoryGroupedProduct

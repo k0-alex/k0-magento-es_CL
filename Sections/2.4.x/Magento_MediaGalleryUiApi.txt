@@ -1,0 +1,7 @@
+"Media Gallery","Media Gallery",module,Magento_MediaGalleryUiApi
+"Insert assets into the content","Insert assets into the content",module,Magento_MediaGalleryUiApi
+"Upload assets","Upload assets",module,Magento_MediaGalleryUiApi
+"Edit asset details","Edit asset details",module,Magento_MediaGalleryUiApi
+"Delete assets","Delete assets",module,Magento_MediaGalleryUiApi
+"Create folder","Create folder",module,Magento_MediaGalleryUiApi
+"Delete folder","Delete folder",module,Magento_MediaGalleryUiApi

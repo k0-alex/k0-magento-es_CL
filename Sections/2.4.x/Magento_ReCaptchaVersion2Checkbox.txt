@@ -1,0 +1,13 @@
+"reCAPTCHA v2 (""I am not a robot"")","reCAPTCHA v2 (""I am not a robot"")",module,Magento_ReCaptchaVersion2Checkbox
+"Google API Website Key","Google API Website Key",module,Magento_ReCaptchaVersion2Checkbox
+"Google API Secret Key","Google API Secret Key",module,Magento_ReCaptchaVersion2Checkbox
+Size,Size,module,Magento_ReCaptchaVersion2Checkbox
+Theme,Theme,module,Magento_ReCaptchaVersion2Checkbox
+"Language Code","Language Code",module,Magento_ReCaptchaVersion2Checkbox
+"Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.","Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.",module,Magento_ReCaptchaVersion2Checkbox
+Normal,Normal,module,Magento_ReCaptchaVersion2Checkbox
+Compact,Compact,module,Magento_ReCaptchaVersion2Checkbox
+"Light Theme","Light Theme",module,Magento_ReCaptchaVersion2Checkbox
+"Dark Theme","Dark Theme",module,Magento_ReCaptchaVersion2Checkbox

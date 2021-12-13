@@ -1,0 +1,74 @@
+"Edit Source","Edit Source",module,Magento_InventoryAdminUi
+"Edit Source: %name","Edit Source: %name",module,Magento_InventoryAdminUi
+"Source with source code ""%value"" does not exist.","Source with source code ""%value"" does not exist.",module,Magento_InventoryAdminUi
+Sources,Sources,module,Magento_InventoryAdminUi
+List,List,module,Magento_InventoryAdminUi
+"Manage Sources","Manage Sources",module,Magento_InventoryAdminUi
+"[ID: %value] The Source does not exist.","[ID: %value] The Source does not exist.",module,Magento_InventoryAdminUi
+"[ID: %value] %message","[ID: %value] %message",module,Magento_InventoryAdminUi
+"Please correct the sent data.","Please correct the sent data.",module,Magento_InventoryAdminUi
+"Wrong request.","Wrong request.",module,Magento_InventoryAdminUi
+"Default Source can not be disabled.","Default Source can not be disabled.",module,Magento_InventoryAdminUi
+"A total of %1 source(s) have been disabled.","A total of %1 source(s) have been disabled.",module,Magento_InventoryAdminUi
+"A total of %1 source(s) already disabled.","A total of %1 source(s) already disabled.",module,Magento_InventoryAdminUi
+"A total of %1 source(s) have been enabled.","A total of %1 source(s) have been enabled.",module,Magento_InventoryAdminUi
+"A total of %1 source(s) already enabled.","A total of %1 source(s) already enabled.",module,Magento_InventoryAdminUi
+"New Source","New Source",module,Magento_InventoryAdminUi
+"The Source has been saved.","The Source has been saved.",module,Magento_InventoryAdminUi
+"Could not save Source.","Could not save Source.",module,Magento_InventoryAdminUi
+"The Stock has been deleted.","The Stock has been deleted.",module,Magento_InventoryAdminUi
+"Edit Stock","Edit Stock",module,Magento_InventoryAdminUi
+"Edit Stock: %name","Edit Stock: %name",module,Magento_InventoryAdminUi
+"Stock with id ""%value"" does not exist.","Stock with id ""%value"" does not exist.",module,Magento_InventoryAdminUi
+"Manage Stock","Manage Stock",module,Magento_InventoryAdminUi
+"[ID: %value] The Stock does not exist.","[ID: %value] The Stock does not exist.",module,Magento_InventoryAdminUi
+"[ID: %1] ","[ID: %1] ",module,Magento_InventoryAdminUi
+"You deleted %1 Stock(s).","You deleted %1 Stock(s).",module,Magento_InventoryAdminUi
+"New Stock","New Stock",module,Magento_InventoryAdminUi
+"The Stock has been saved.","The Stock has been saved.",module,Magento_InventoryAdminUi
+"The Stock does not exist.","The Stock does not exist.",module,Magento_InventoryAdminUi
+"Could not save Stock.","Could not save Stock.",module,Magento_InventoryAdminUi
+"It is not allowed to change sources","It is not allowed to change sources",module,Magento_InventoryAdminUi
+"Add New Stock","Add New Stock",module,Magento_InventoryAdminUi
+"Assigned Sources:","Assigned Sources:",module,Magento_InventoryAdminUi
+"Are you sure you want to delete this stock?","Are you sure you want to delete this stock?",module,Magento_InventoryAdminUi
+Inventory,Inventory,module,Magento_InventoryAdminUi
+Stocks,Stocks,module,Magento_InventoryAdminUi
+"Source Information","Source Information",module,Magento_InventoryAdminUi
+Back,Back,module,Magento_InventoryAdminUi
+Reset,Reset,module,Magento_InventoryAdminUi
+General,General,module,Magento_InventoryAdminUi
+Code,Code,module,Magento_InventoryAdminUi
+Name,Name,module,Magento_InventoryAdminUi
+"Is Enabled","Is Enabled",module,Magento_InventoryAdminUi
+Description,Description,module,Magento_InventoryAdminUi
+Latitude,Latitude,module,Magento_InventoryAdminUi
+Longitude,Longitude,module,Magento_InventoryAdminUi
+"Contact Info","Contact Info",module,Magento_InventoryAdminUi
+"Contact Name","Contact Name",module,Magento_InventoryAdminUi
+Email,Email,module,Magento_InventoryAdminUi
+Phone,Phone,module,Magento_InventoryAdminUi
+Fax,Fax,module,Magento_InventoryAdminUi
+"Address Data","Address Data",module,Magento_InventoryAdminUi
+Country,Country,module,Magento_InventoryAdminUi
+State/Province,State/Province,module,Magento_InventoryAdminUi
+City,City,module,Magento_InventoryAdminUi
+Street,Street,module,Magento_InventoryAdminUi
+Postcode,Postcode,module,Magento_InventoryAdminUi
+"Add New Source","Add New Source",module,Magento_InventoryAdminUi
+"Enable selected sources ?","Enable selected sources ?",module,Magento_InventoryAdminUi
+Enable,Enable,module,Magento_InventoryAdminUi
+"Disable selected sources ?","Disable selected sources ?",module,Magento_InventoryAdminUi
+Disable,Disable,module,Magento_InventoryAdminUi
+Enabled,Enabled,module,Magento_InventoryAdminUi
+Disabled,Disabled,module,Magento_InventoryAdminUi
+"Stock Information","Stock Information",module,Magento_InventoryAdminUi
+"Assign Sources","Assign Sources",module,Magento_InventoryAdminUi
+"Assigned Sources","Assigned Sources",module,Magento_InventoryAdminUi
+Priority,Priority,module,Magento_InventoryAdminUi
+Unassign,Unassign,module,Magento_InventoryAdminUi
+Done,Done,module,Magento_InventoryAdminUi
+"Delete selected items?","Delete selected items?",module,Magento_InventoryAdminUi
+"Delete items","Delete items",module,Magento_InventoryAdminUi
+Delete,Delete,module,Magento_InventoryAdminUi
+ID,ID,module,Magento_InventoryAdminUi

@@ -1,0 +1,5 @@
+"""model"" value must be specified","""model"" value must be specified",module,Magento_GiftMessageGraphQl
+"Can't load cart.","Can't load cart.",module,Magento_GiftMessageGraphQl
+"Can't load cart item","Can't load cart item",module,Magento_GiftMessageGraphQl
+"""id"" value should be specified","""id"" value should be specified",module,Magento_GiftMessageGraphQl
+"Can't load gift message for order","Can't load gift message for order",module,Magento_GiftMessageGraphQl

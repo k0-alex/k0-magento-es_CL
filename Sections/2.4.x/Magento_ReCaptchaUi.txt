@@ -1,0 +1,7 @@
+"Can not resolve reCAPTCHA parameter.","Can not resolve reCAPTCHA parameter.",module,Magento_ReCaptchaUi
+"reCAPTCHA '%1' form error: %2","reCAPTCHA '%1' form error: %2",module,Magento_ReCaptchaUi
+"UI config provider must implement %1","UI config provider must implement %1",module,Magento_ReCaptchaUi
+"UI config provider for ""%type"" is not configured.","UI config provider for ""%type"" is not configured.",module,Magento_ReCaptchaUi
+"Validation config provider must implement %1.","Validation config provider must implement %1.",module,Magento_ReCaptchaUi
+"Validation config provider for ""%type"" is not configured.","Validation config provider for ""%type"" is not configured.",module,Magento_ReCaptchaUi
+reCAPTCHA,reCAPTCHA,module,Magento_ReCaptchaUi

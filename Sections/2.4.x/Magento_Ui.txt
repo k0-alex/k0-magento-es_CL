@@ -1,0 +1,232 @@
+"Condition type ""%1"" is not allowed","Condition type ""%1"" is not allowed",module,Magento_Ui
+"Insert Images...","Insert Images...",module,Magento_Ui
+"The ""formElement"" configuration parameter is required for the ""%1"" field.","The ""formElement"" configuration parameter is required for the ""%1"" field.",module,Magento_Ui
+"Remove %1","Remove %1",module,Magento_Ui
+"Add New %1","Add New %1",module,Magento_Ui
+"New %1","New %1",module,Magento_Ui
+"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Ui
+"'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""",module,Magento_Ui
+"'The XML in file ""%1"" is invalid.' . ""\n%2\nVerify the XML and try again.""","'The XML in file ""%1"" is invalid.' . ""\n%2\nVerify the XML and try again.""",module,Magento_Ui
+.,.,module,Magento_Ui
+"Unsupported bookmark action.","Unsupported bookmark action.",module,Magento_Ui
+"UI component could not be rendered because of system exception","UI component could not be rendered because of system exception",module,Magento_Ui
+"The parameter ""class"" is missing. Set the ""class"" and try again.","The parameter ""class"" is missing. Set the ""class"" and try again.",module,Magento_Ui
+"The parameter ""sortOrder"" is missing. Set the ""sortOrder"" and try again.","The parameter ""sortOrder"" is missing. Set the ""sortOrder"" and try again.",module,Magento_Ui
+"The ""%1"" UI component element name is invalid. Verify the name and try again.","The ""%1"" UI component element name is invalid. Verify the name and try again.",module,Magento_Ui
+"The bookmark with ""%1"" ID doesn't exist. Verify your information and try again.","The bookmark with ""%1"" ID doesn't exist. Verify your information and try again.",module,Magento_Ui
+URL,URL,module,Magento_Ui
+"The """" UI component element name is invalid. Verify the name and try again.","The """" UI component element name is invalid. Verify the name and try again.",module,Magento_Ui
+Select,Select,module,Magento_Ui
+Cancel,Cancel,module,Magento_Ui
+Back,Back,module,Magento_Ui
+Next,Next,module,Magento_Ui
+Delete,Delete,module,Magento_Ui
+"This element contains invalid data. Please resolve this before saving.","This element contains invalid data. Please resolve this before saving.",module,Magento_Ui
+"Use Default Value","Use Default Value",module,Magento_Ui
+Upload,Upload,module,Magento_Ui
+"Select from Gallery","Select from Gallery",module,Magento_Ui
+"Maximum file size","Maximum file size",module,Magento_Ui
+"Allowed file types","Allowed file types",module,Magento_Ui
+"Browse to find or drag image here","Browse to find or drag image here",module,Magento_Ui
+"Delete image","Delete image",module,Magento_Ui
+"Click here or drag and drop to add files.","Click here or drag and drop to add files.",module,Magento_Ui
+"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Ui
+"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
+Actions,Actions,module,Magento_Ui
+"Show more","Show more",module,Magento_Ui
+Previous,Previous,module,Magento_Ui
+Close,Close,module,Magento_Ui
+Options,Options,module,Magento_Ui
+Assign,Assign,module,Magento_Ui
+"Save View As...","Save View As...",module,Magento_Ui
+Submit,Submit,module,Magento_Ui
+Edit,Edit,module,Magento_Ui
+Columns,Columns,module,Magento_Ui
+Reset,Reset,module,Magento_Ui
+Apply,Apply,module,Magento_Ui
+"All in Column","All in Column",module,Magento_Ui
+"Please make corrections to the errors in the table below and re-submit.","Please make corrections to the errors in the table below and re-submit.",module,Magento_Ui
+"Save Edits","Save Edits",module,Magento_Ui
+Save,Save,module,Magento_Ui
+"Record contains unsaved changes.","Record contains unsaved changes.",module,Magento_Ui
+Export,Export,module,Magento_Ui
+"Active filters\\:","Active filters\\:",module,Magento_Ui
+Remove,Remove,module,Magento_Ui
+"Clear all","Clear all",module,Magento_Ui
+Filters,Filters,module,Magento_Ui
+"Advanced filter","Advanced filter",module,Magento_Ui
+"Apply Filters","Apply Filters",module,Magento_Ui
+"We couldn't find any records.","We couldn't find any records.",module,Magento_Ui
+"records found","records found",module,Magento_Ui
+selected,selected,module,Magento_Ui
+of,of,module,Magento_Ui
+Custom,Custom,module,Magento_Ui
+"per page","per page",module,Magento_Ui
+Search,Search,module,Magento_Ui
+"Sort by","Sort by",module,Magento_Ui
+"To Start","To Start",module,Magento_Ui
+"To End","To End",module,Magento_Ui
+Past,Past,module,Magento_Ui
+Tooltip,Tooltip,module,Magento_Ui
+Add,Add,module,Magento_Ui
+"Something went wrong.","Something went wrong.",module,Magento_Ui
+"The file upload field is disabled.","The file upload field is disabled.",module,Magento_Ui
+"was not uploaded","was not uploaded",module,Magento_Ui
+Yes,Yes,module,Magento_Ui
+No,No,module,Magento_Ui
+Done,Done,module,Magento_Ui
+options,options,module,Magento_Ui
+Select...,Select...,module,Magento_Ui
+Selected,Selected,module,Magento_Ui
+"Entity with ID: %s doesn't exist","Entity with ID: %s doesn't exist",module,Magento_Ui
+"Open in new tab","Open in new tab",module,Magento_Ui
+"Select All","Select All",module,Magento_Ui
+"Deselect All","Deselect All",module,Magento_Ui
+"Select All on This Page","Select All on This Page",module,Magento_Ui
+"Deselect All on This Page","Deselect All on This Page",module,Magento_Ui
+On,On,module,Magento_Ui
+Off,Off,module,Magento_Ui
+"Go to Details Page","Go to Details Page",module,Magento_Ui
+"New View","New View",module,Magento_Ui
+"Default View","Default View",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
+"You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
+"There are {placeholder} messages requires your attention.","There are {placeholder} messages requires your attention.",module,Magento_Ui
+from,from,module,Magento_Ui
+to,to,module,Magento_Ui
+"You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
+"Search by keyword","Search by keyword",module,Magento_Ui
+Keyword,Keyword,module,Magento_Ui
+"Select Date","Select Date",module,Magento_Ui
+"Please enter more or equal than {0} symbols.","Please enter more or equal than {0} symbols.",module,Magento_Ui
+"Please enter less or equal than {0} symbols.","Please enter less or equal than {0} symbols.",module,Magento_Ui
+"Please enter {0} words or less.","Please enter {0} words or less.",module,Magento_Ui
+"Please enter at least {0} words.","Please enter at least {0} words.",module,Magento_Ui
+"Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",module,Magento_Ui
+"Letters or punctuation only please","Letters or punctuation only please",module,Magento_Ui
+"Letters, numbers, spaces or underscores only please","Letters, numbers, spaces or underscores only please",module,Magento_Ui
+"Letters only please","Letters only please",module,Magento_Ui
+"No white space please","No white space please",module,Magento_Ui
+"No marginal white space please","No marginal white space please",module,Magento_Ui
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx",module,Magento_Ui
+"A positive or negative non-decimal number please","A positive or negative non-decimal number please",module,Magento_Ui
+"The specified vehicle identification number (VIN) is invalid.","The specified vehicle identification number (VIN) is invalid.",module,Magento_Ui
+"Please enter a correct date","Please enter a correct date",module,Magento_Ui
+"Vul hier een geldige datum in.","Vul hier een geldige datum in.",module,Magento_Ui
+"Please enter a valid time, between 00:00 and 23:59","Please enter a valid time, between 00:00 and 23:59",module,Magento_Ui
+"Please enter a valid time, between 00:00 am and 12:00 pm","Please enter a valid time, between 00:00 am and 12:00 pm",module,Magento_Ui
+"Please specify a valid phone number","Please specify a valid phone number",module,Magento_Ui
+"Please specify a valid mobile number","Please specify a valid mobile number",module,Magento_Ui
+"Please enter at least {0} characters","Please enter at least {0} characters",module,Magento_Ui
+"Please enter a valid credit card number.","Please enter a valid credit card number.",module,Magento_Ui
+"Please enter a valid IP v4 address.","Please enter a valid IP v4 address.",module,Magento_Ui
+"Please enter a valid IP v6 address.","Please enter a valid IP v6 address.",module,Magento_Ui
+"Invalid format.","Invalid format.",module,Magento_Ui
+"HTML tags are not allowed.","HTML tags are not allowed.",module,Magento_Ui
+"Please select an option.","Please select an option.",module,Magento_Ui
+"Empty Value.","Empty Value.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.",module,Magento_Ui
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.",module,Magento_Ui
+"Please enter a valid fax number (Ex: 123-456-7890).","Please enter a valid fax number (Ex: 123-456-7890).",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","Please enter a valid email address (Ex: johndoe@domain.com).",module,Magento_Ui
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",module,Magento_Ui
+"Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic.",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Ui
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://).",module,Magento_Ui
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",module,Magento_Ui
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",module,Magento_Ui
+"Please enter a valid social security number (Ex: 123-45-6789).","Please enter a valid social security number (Ex: 123-45-6789).",module,Magento_Ui
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Please enter a valid zip code (Ex: 90602 or 90602-1234).",module,Magento_Ui
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",module,Magento_Ui
+"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00.",module,Magento_Ui
+"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",module,Magento_Ui
+"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field.",module,Magento_Ui
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).",module,Magento_Ui
+"Please enter a valid number in this field.","Please enter a valid number in this field.",module,Magento_Ui
+"Please enter a valid integer in this field.","Please enter a valid integer in this field.",module,Magento_Ui
+"The value is not within the specified range.","The value is not within the specified range.",module,Magento_Ui
+"Please enter a valid percentage discount value greater than 0.","Please enter a valid percentage discount value greater than 0.",module,Magento_Ui
+"Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field.",module,Magento_Ui
+"Please use only lowercase letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only lowercase letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.",module,Magento_Ui
+"First character must be letter.","First character must be letter.",module,Magento_Ui
+"Please enter a valid date.","Please enter a valid date.",module,Magento_Ui
+"Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",module,Magento_Ui
+"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",module,Magento_Ui
+"Please enter a valid zip code.","Please enter a valid zip code.",module,Magento_Ui
+"Please select State/Province.","Please select State/Province.",module,Magento_Ui
+"Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}.",module,Magento_Ui
+"Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",module,Magento_Ui
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.",module,Magento_Ui
+"Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",module,Magento_Ui
+"This is a required field.","This is a required field.",module,Magento_Ui
+"Please enter positive number in this field.","Please enter positive number in this field.",module,Magento_Ui
+"Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30",module,Magento_Ui
+"Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",module,Magento_Ui
+"The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_Ui
+"The maximum you may purchase is %1.","The maximum you may purchase is %1.",module,Magento_Ui
+"You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_Ui
+"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Ui
+"File you are trying to upload exceeds maximum file size limit.","File you are trying to upload exceeds maximum file size limit.",module,Magento_Ui
+"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.",module,Magento_Ui
+"The date is not within the specified range.","The date is not within the specified range.",module,Magento_Ui
+"Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.","Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.",module,Magento_Ui
+"This link is not allowed.","This link is not allowed.",module,Magento_Ui
+"The Date of Birth should not be greater than today.","The Date of Birth should not be greater than today.",module,Magento_Ui
+Attention,Attention,module,Magento_Ui
+OK,OK,module,Magento_Ui
+Ok,Ok,module,Magento_Ui
+"Label Button 2","Label Button 2",module,Magento_Ui
+"Label Actions One","Label Actions One",module,Magento_Ui
+"Label Actions Two","Label Actions Two",module,Magento_Ui
+"Some Dynamic Actions","Some Dynamic Actions",module,Magento_Ui
+"Log JS Errors to Session Storage","Log JS Errors to Session Storage",module,Magento_Ui
+"If enabled, can be used by functional tests for extended reporting","If enabled, can be used by functional tests for extended reporting",module,Magento_Ui
+"Log JS Errors to Session Storage Key","Log JS Errors to Session Storage Key",module,Magento_Ui
+"Use this key to retrieve collected js errors","Use this key to retrieve collected js errors",module,Magento_Ui
+settings/label,settings/label,module,Magento_Ui
+settings/confirm/title,settings/confirm/title,module,Magento_Ui
+settings/confirm/message,settings/confirm/message,module,Magento_Ui
+settings/callback/provider,settings/callback/provider,module,Magento_Ui
+settings/callback/target,settings/callback/target,module,Magento_Ui
+settings/newViewLabel,settings/newViewLabel,module,Magento_Ui
+settings/title,settings/title,module,Magento_Ui
+settings/description,settings/description,module,Magento_Ui
+settings/addButtonLabel,settings/addButtonLabel,module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    ",module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    ",module,Magento_Ui
+"
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ",module,Magento_Ui
+settings/settingLabel,settings/settingLabel,module,Magento_Ui
+settings/typeSelectorTemplate,settings/typeSelectorTemplate,module,Magento_Ui
+settings/settingTemplate,settings/settingTemplate,module,Magento_Ui
+settings/openDialogTitle,settings/openDialogTitle,module,Magento_Ui
+settings/placeholder,settings/placeholder,module,Magento_Ui
+settings/caption,settings/caption,module,Magento_Ui
+settings/subTitle,settings/subTitle,module,Magento_Ui
+settings/visible,settings/visible,module,Magento_Ui
+settings/showLabel,settings/showLabel,module,Magento_Ui
+settings/breakLine,settings/breakLine,module,Magento_Ui
+settings/required,settings/required,module,Magento_Ui
+settings/size,settings/size,module,Magento_Ui
+settings/notice,settings/notice,module,Magento_Ui
+settings/tooltip/description,settings/tooltip/description,module,Magento_Ui
+settings/addBefore,settings/addBefore,module,Magento_Ui
+settings/addAfter,settings/addAfter,module,Magento_Ui
+Action,Action,module,Magento_Ui
+CSV,CSV,module,Magento_Ui
+"Excel XML","Excel XML",module,Magento_Ui
