@@ -1,3 +1,555 @@
+"click here to display the categories","click here to display the categories",module,Amazon_Core
+"No logs are currently available.","No logs are currently available.",module,Amazon_Core
+--,--,module,Amazon_Core
+"Module version","Module version",module,Amazon_Core
+"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page.",module,Amazon_Core
+"Address country handler %1 must be of type %2","Address country handler %1 must be of type %2",module,Amazon_Core
+"Amazon could not process your request.","Amazon could not process your request.",module,Amazon_Core
+"No Simulation","No Simulation",module,Amazon_Core
+"Authorization soft decline","Authorization soft decline",module,Amazon_Core
+"Authorization hard decline","Authorization hard decline",module,Amazon_Core
+"Authorization timed out","Authorization timed out",module,Amazon_Core
+"Unable to import Amazon keys. Please verify your JSON format and values.","Unable to import Amazon keys. Please verify your JSON format and values.",module,Amazon_Core
+"If you're experiencing consistent errors with transferring keys, click <a href=""%1"" target=""_blank"">Manual Transfer Instructions</a> to learn more.","If you're experiencing consistent errors with transferring keys, click <a href=""%1"" target=""_blank"">Manual Transfer Instructions</a> to learn more.",module,Amazon_Core
+"Login and Pay with Amazon is now enabled.","Login and Pay with Amazon is now enabled.",module,Amazon_Core
+Immediate,Immediate,module,Amazon_Core
+Automatic,Automatic,module,Amazon_Core
+Gold,Gold,module,Amazon_Core
+"Light Gray","Light Gray",module,Amazon_Core
+"Dark Gray","Dark Gray",module,Amazon_Core
+Small,Small,module,Amazon_Core
+Medium,Medium,module,Amazon_Core
+Large,Large,module,Amazon_Core
+"Extra Large","Extra Large",module,Amazon_Core
+"Login with Amazon / Amazon Pay","Login with Amazon / Amazon Pay",module,Amazon_Core
+"Login / Pay","Login / Pay",module,Amazon_Core
+"Amazon Pay Logo","Amazon Pay Logo",module,Amazon_Core
+"Charge on Shipment","Charge on Shipment",module,Amazon_Core
+"Charge on Order","Charge on Order",module,Amazon_Core
+"-- Please Select --","-- Please Select --",module,Amazon_Core
+"Euro Region","Euro Region",module,Amazon_Core
+"United Kingdom","United Kingdom",module,Amazon_Core
+"United States","United States",module,Amazon_Core
+Japan,Japan,module,Amazon_Core
+"Data Polling via Cron Job","Data Polling via Cron Job",module,Amazon_Core
+"Instant Payment Notifications","Instant Payment Notifications",module,Amazon_Core
+"An unsupported currency is currently selected. Please review our configuration guide.","An unsupported currency is currently selected. Please review our configuration guide.",module,Amazon_Core
+"More Information","More Information",module,Amazon_Core
+"You will be registering for a %1 account based on the base currency of your shop (%2).","You will be registering for a %1 account based on the base currency of your shop (%2).",module,Amazon_Core
+"Get started with account registration","Get started with account registration",module,Amazon_Core
+or,or,module,Amazon_Core
+"I've already setup Amazon Pay, I want to edit my settings","I've already setup Amazon Pay, I want to edit my settings",module,Amazon_Core
+"""In order to enable automatic account configuration using Amazon's secure key "" . 'exchange, please turn on secure admin pages in General > Web > Use secure URLs in Admin.'","""In order to enable automatic account configuration using Amazon's secure key "" . 'exchange, please turn on secure admin pages in General > Web > Use secure URLs in Admin.'",module,Amazon_Core
+"Updating your config with new keys, please wait...","Updating your config with new keys, please wait...",module,Amazon_Core
+"Paste JSON credentials here","Paste JSON credentials here",module,Amazon_Core
+"Save Credentials","Save Credentials",module,Amazon_Core
+"Back to register or connect an account","Back to register or connect an account",module,Amazon_Core
+"Amazon Pay","Amazon Pay",module,Amazon_Core
+"Your transaction with Amazon Pay is currently being validated. Please be aware that we will inform you shortly as needed.","Your transaction with Amazon Pay is currently being validated. Please be aware that we will inform you shortly as needed.",module,Amazon_Payment
+"Amazon Pay was unable to authenticate the payment instrument.  Please try again, or use a different payment method.","Amazon Pay was unable to authenticate the payment instrument.  Please try again, or use a different payment method.",module,Amazon_Payment
+"The SCA challenge was not completed successfully.  Please try again, or use a different payment method.","The SCA challenge was not completed successfully.  Please try again, or use a different payment method.",module,Amazon_Payment
+"Failed to retrieve quote from checkoutSession","Failed to retrieve quote from checkoutSession",module,Amazon_Payment
+"IPN not enabled.","IPN not enabled.",module,Amazon_Payment
+"The selected payment method is not available for this transaction. Please select another one or add a new payment method to the wallet widget.","The selected payment method is not available for this transaction. Please select another one or add a new payment method to the wallet widget.",module,Amazon_Payment
+"No payment instrument has been selected for this order, please try to refresh the page or add a new payment instrument in the wallet widget.","No payment instrument has been selected for this order, please try to refresh the page or add a new payment instrument in the wallet widget.",module,Amazon_Payment
+"The order failed due to a technical error, please select another payment method or contact our support.","The order failed due to a technical error, please select another payment method or contact our support.",module,Amazon_Payment
+"Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Amazon_Payment
+"Something went wrong during Gateway request.","Something went wrong during Gateway request.",module,Amazon_Payment
+"VoidClient - Unable to Close/Cancel order - bad status response.","VoidClient - Unable to Close/Cancel order - bad status response.",module,Amazon_Payment
+"The refund amount or the Amazon Order ID is incorrect.","The refund amount or the Amazon Order ID is incorrect.",module,Amazon_Payment
+"Amazon Pay refund successful.","Amazon Pay refund successful.",module,Amazon_Payment
+"Unable to cancel the order or the Amazon Order ID is incorrect.","Unable to cancel the order or the Amazon Order ID is incorrect.",module,Amazon_Payment
+"Successfully cancelled Amazon Pay.","Successfully cancelled Amazon Pay.",module,Amazon_Payment
+"No constraints detected.","No constraints detected.",module,Amazon_Payment
+"Unable to confirm order reference.","Unable to confirm order reference.",module,Amazon_Payment
+"AmazonPaymentAdapter: Bad status - no capture details available.","AmazonPaymentAdapter: Bad status - no capture details available.",module,Amazon_Payment
+"There has been a problem with the selected payment method on your Amazon account. Please choose another one.","There has been a problem with the selected payment method on your Amazon account. Please choose another one.",module,Amazon_Payment
+"Amazon could not process your request.","Amazon could not process your request.",module,Amazon_Payment
+"the country for your address is not allowed for this store","the country for your address is not allowed for this store",module,Amazon_Payment
+"Your address may be updated in your Amazon account.","Your address may be updated in your Amazon account.",module,Amazon_Payment
+"Your session has expired, please reload the page and try again.","Your session has expired, please reload the page and try again.",module,Amazon_Payment
+"The currency selected is not supported by Amazon Pay","The currency selected is not supported by Amazon Pay",module,Amazon_Payment
+"Capture declined","Capture declined",module,Amazon_Payment
+"Capture declined for Order #%1","Capture declined for Order #%1",module,Amazon_Payment
+"Captured amount of %1 online","Captured amount of %1 online",module,Amazon_Payment
+"Authorized amount of %1","Authorized amount of %1",module,Amazon_Payment
+"Declined amount of %1 online","Declined amount of %1 online",module,Amazon_Payment
+"Could not find the ""multiline_count"" config of the ""street"" Customer address attribute.","Could not find the ""multiline_count"" config of the ""street"" Customer address attribute.",module,Amazon_Payment
+or,or,module,Amazon_Payment
+"Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.","Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.",module,Amazon_Payment
+"Checkout now","Checkout now",module,Amazon_Payment
+"If you created this account using Amazon Pay, you might not know your site password.","If you created this account using Amazon Pay, you might not know your site password.",module,Amazon_Payment
+"In order to reset your password, please <a href=""%1"">Sign Out</a> and click on “Forgot Your Password?” from the Sign In page","In order to reset your password, please <a href=""%1"">Sign Out</a> and click on “Forgot Your Password?” from the Sign In page",module,Amazon_Payment
+"Error processing Amazon Login","Error processing Amazon Login",module,Amazon_Login
+"Action is not available","Action is not available",module,Amazon_Login
+"the email address for your Amazon account is invalid","the email address for your Amazon account is invalid",module,Amazon_Login
+"Could not save Amazon customer link: %1","Could not save Amazon customer link: %1",module,Amazon_Login
+"Welcome back!","Welcome back!",module,Amazon_Login
+"A shop account for this email address already exists. Please enter your shop accounts password to log in without leaving the shop.","A shop account for this email address already exists. Please enter your shop accounts password to log in without leaving the shop.",module,Amazon_Login
+"* Required Fields","* Required Fields",module,Amazon_Login
+Password,Password,module,Amazon_Login
+Ok,Ok,module,Amazon_Login
+"Continue as Guest","Continue as Guest",module,Amazon_Login
+"Forgot Your Password?","Forgot Your Password?",module,Amazon_Login
+"Login with Amazon","Login with Amazon",module,Amazon_Login
+"With Amazon Pay and Login with Amazon, you can easily sign-in and use the shipping and payment information stored in your Amazon account to place an order on this shop. ","With Amazon Pay and Login with Amazon, you can easily sign-in and use the shipping and payment information stored in your Amazon account to place an order on this shop. ",module,Amazon_Login
+"Securely login into our website using your existing Amazon details.","Securely login into our website using your existing Amazon details.",module,Amazon_Login
+"You will be redirected shortly...","You will be redirected shortly...",module,Amazon_Login
+"If you are not redirected automatically, try refreshing the page, or return to your cart and use another payment method.","If you are not redirected automatically, try refreshing the page, or return to your cart and use another payment method.",module,Amazon_Login
+"A profile id must be supplied.","A profile id must be supplied.",module,Dotdigitalgroup_ChatGraphQl
+Configure,Configure,module,Dotdigitalgroup_Chat
+"""Error refreshing chat API token. Message: "" .","""Error refreshing chat API token. Message: "" .",module,Dotdigitalgroup_Chat
+"Error fetching customer or scope data for Chat","Error fetching customer or scope data for Chat",module,Dotdigitalgroup_Chat
+"There was a problem creating your chat account","There was a problem creating your chat account",module,Dotdigitalgroup_Chat
+"Required parameter ""orderId"" is missing","Required parameter ""orderId"" is missing",module,Dotdigitalgroup_EmailGraphQl
+"You must supply an email address to update the quote table.","You must supply an email address to update the quote table.",module,Dotdigitalgroup_EmailGraphQl
+"Invalid email address supplied.","Invalid email address supplied.",module,Dotdigitalgroup_EmailGraphQl
+"Could not find a cart with ID ""%masked_cart_id""","Could not find a cart with ID ""%masked_cart_id""",module,Dotdigitalgroup_EmailGraphQl
+"Edit SMS settings","Edit SMS settings",module,Dotdigitalgroup_Sms
+Reports,Reports,module,Dotdigitalgroup_Sms
+"SMS Sends Report","SMS Sends Report",module,Dotdigitalgroup_Sms
+"Acceptable alpha numeric characters are: a-z, A-Z, 0-9, "" "" (space), ""."", ""_"", ""-"", ""!"", ""&"", ""#""","Acceptable alpha numeric characters are: a-z, A-Z, 0-9, "" "" (space), ""."", ""_"", ""-"", ""!"", ""&"", ""#""",module,Dotdigitalgroup_Sms
+"From name must be at least 3 characters long and cannot be longer than 11 characters long","From name must be at least 3 characters long and cannot be longer than 11 characters long",module,Dotdigitalgroup_Sms
+"From name cannot contain only digits","From name cannot contain only digits",module,Dotdigitalgroup_Sms
+Pending,Pending,module,Dotdigitalgroup_Sms
+"In progress","In progress",module,Dotdigitalgroup_Sms
+Delivered,Delivered,module,Dotdigitalgroup_Sms
+Failed,Failed,module,Dotdigitalgroup_Sms
+Expired,Expired,module,Dotdigitalgroup_Sms
+Unknown,Unknown,module,Dotdigitalgroup_Sms
+"New Order","New Order",module,Dotdigitalgroup_Sms
+"Order Update","Order Update",module,Dotdigitalgroup_Sms
+"New Shipment","New Shipment",module,Dotdigitalgroup_Sms
+"Shipment Update","Shipment Update",module,Dotdigitalgroup_Sms
+"New Credit Memo","New Credit Memo",module,Dotdigitalgroup_Sms
+"Phone Number","Phone Number",module,Dotdigitalgroup_Sms
+"The queued message that was requested doesn't exist.","The queued message that was requested doesn't exist.",module,Dotdigitalgroup_Sms
+"Transactional SMS (powered by dotdigital Engagement Cloud) requires SMS pay-as-you-go to be enabled on your account.","Transactional SMS (powered by dotdigital Engagement Cloud) requires SMS pay-as-you-go to be enabled on your account.",module,Dotdigitalgroup_Sms
+"Learn how to activate SMS pay-as-you-go","Learn how to activate SMS pay-as-you-go",module,Dotdigitalgroup_Sms
+" characters ("," characters (",module,Dotdigitalgroup_Sms
+"minimum ","minimum ",module,Dotdigitalgroup_Sms
+" SMS)"," SMS)",module,Dotdigitalgroup_Sms
+"One or more of your templates contain unicode characters.
+    Consider replacing them if you would like to reduce your character count.","One or more of your templates contain unicode characters.
+    Consider replacing them if you would like to reduce your character count.",module,Dotdigitalgroup_Sms
+"Read more about SMS message length and Unicode","Read more about SMS message length and Unicode",module,Dotdigitalgroup_Sms
+label,label,module,Dotdigitalgroup_Email
+"Run Now","Run Now",module,Dotdigitalgroup_Email
+Disconnect,Disconnect,module,Dotdigitalgroup_Email
+Connect,Connect,module,Dotdigitalgroup_Email
+"Add New Condition","Add New Condition",module,Dotdigitalgroup_Email
+Attribute,Attribute,module,Dotdigitalgroup_Email
+Condition,Condition,module,Dotdigitalgroup_Email
+Value,Value,module,Dotdigitalgroup_Email
+Dashboard,Dashboard,module,Dotdigitalgroup_Email
+"Run Contact Sync","Run Contact Sync",module,Dotdigitalgroup_Email
+"Run Importer Sync","Run Importer Sync",module,Dotdigitalgroup_Email
+"dotmailer Configuration","dotmailer Configuration",module,Dotdigitalgroup_Email
+"v. %1","v. %1",module,Dotdigitalgroup_Email
+"ver. %1","ver. %1",module,Dotdigitalgroup_Email
+"%1 hour","%1 hour",module,Dotdigitalgroup_Email
+"No limit","No limit",module,Dotdigitalgroup_Email
+Locked,Locked,module,Dotdigitalgroup_Email
+"Not locked","Not locked",module,Dotdigitalgroup_Email
+"None found","None found",module,Dotdigitalgroup_Email
+"Log Viewer","Log Viewer",module,Dotdigitalgroup_Email
+"Edit Rule %1","Edit Rule %1",module,Dotdigitalgroup_Email
+"New Rule","New Rule",module,Dotdigitalgroup_Email
+Conditions,Conditions,module,Dotdigitalgroup_Email
+"Exclusion Rule Conditions","Exclusion Rule Conditions",module,Dotdigitalgroup_Email
+"Conditions Combination Match","Conditions Combination Match",module,Dotdigitalgroup_Email
+ALL,ALL,module,Dotdigitalgroup_Email
+ANY,ANY,module,Dotdigitalgroup_Email
+"dotdigital Coupon URL Builder","dotdigital Coupon URL Builder",module,Dotdigitalgroup_Email
+"Code Format","Code Format",module,Dotdigitalgroup_Email
+"Code Prefix","Code Prefix",module,Dotdigitalgroup_Email
+"Code Suffix","Code Suffix",module,Dotdigitalgroup_Email
+"Expires After (days)","Expires After (days)",module,Dotdigitalgroup_Email
+"Allow Resend","Allow Resend",module,Dotdigitalgroup_Email
+"This allows a previously generated coupon code to be resent to the same customer. If set to no, a new coupon will be generated.","This allows a previously generated coupon code to be resent to the same customer. If set to no, a new coupon will be generated.",module,Dotdigitalgroup_Email
+"Cancel Send If Used","Cancel Send If Used",module,Dotdigitalgroup_Email
+"Enable this to ensure the send will be cancelled (if the coupon has been used) or regenerated (if the coupon has expired). If set to no, the latest generated coupon will be displayed.","Enable this to ensure the send will be cancelled (if the coupon has been used) or regenerated (if the coupon has expired). If set to no, the latest generated coupon will be displayed.",module,Dotdigitalgroup_Email
+"PLEASE SET A PASSCODE","PLEASE SET A PASSCODE",module,Dotdigitalgroup_Email
+"Coupon Codes URL","Coupon Codes URL",module,Dotdigitalgroup_Email
+Yes,Yes,module,Dotdigitalgroup_Email
+No,No,module,Dotdigitalgroup_Email
+"Rule Information","Rule Information",module,Dotdigitalgroup_Email
+"Rule Name","Rule Name",module,Dotdigitalgroup_Email
+"Rule Type","Rule Type",module,Dotdigitalgroup_Email
+Status,Status,module,Dotdigitalgroup_Email
+Active,Active,module,Dotdigitalgroup_Email
+Inactive,Inactive,module,Dotdigitalgroup_Email
+Websites,Websites,module,Dotdigitalgroup_Email
+"Exclusion Rule","Exclusion Rule",module,Dotdigitalgroup_Email
+Edit,Edit,module,Dotdigitalgroup_Email
+"Auto-map data fields","Auto-map data fields",module,Dotdigitalgroup_Email
+"Auto-mapping data fields","Auto-mapping data fields",module,Dotdigitalgroup_Email
+"There was a problem mapping data fields. Please check the connector log.","There was a problem mapping data fields. Please check the connector log.",module,Dotdigitalgroup_Email
+"Data fields have been mapped.","Data fields have been mapped.",module,Dotdigitalgroup_Email
+"Add Dotdigital API credentials and enable the connector","Add Dotdigital API credentials and enable the connector",module,Dotdigitalgroup_Email
+"API username","API username",module,Dotdigitalgroup_Email
+"API password","API password",module,Dotdigitalgroup_Email
+"Automap data fields","Automap data fields",module,Dotdigitalgroup_Email
+"Enable syncs","Enable syncs",module,Dotdigitalgroup_Email
+"Remove IP restriction","Remove IP restriction",module,Dotdigitalgroup_Email
+"Enable email capture","Enable email capture",module,Dotdigitalgroup_Email
+"You must specify your API username and password","You must specify your API username and password",module,Dotdigitalgroup_Email
+"Saving your API credentials","Saving your API credentials",module,Dotdigitalgroup_Email
+"'There was a problem connecting to the API: ' .","'There was a problem connecting to the API: ' .",module,Dotdigitalgroup_Email
+"Enabled syncs","Enabled syncs",module,Dotdigitalgroup_Email
+"Removed IP restriction","Removed IP restriction",module,Dotdigitalgroup_Email
+"Enabled email capture","Enabled email capture",module,Dotdigitalgroup_Email
+"Dotdigital connector has been enabled","Dotdigital connector has been enabled",module,Dotdigitalgroup_Email
+"Starting data import","Starting data import",module,Dotdigitalgroup_Email
+"Run syncs to populate email_ tables before importing to Engagement Cloud","Run syncs to populate email_ tables before importing to Engagement Cloud",module,Dotdigitalgroup_Email
+"The name of the sync to run","The name of the sync to run",module,Dotdigitalgroup_Email
+"Specify a date/time (parsable by \DateTime) to run a sync from (if supported)","Specify a date/time (parsable by \DateTime) to run a sync from (if supported)",module,Dotdigitalgroup_Email
+"Requested sync was not recognised","Requested sync was not recognised",module,Dotdigitalgroup_Email
+"Started running sync","Started running sync",module,Dotdigitalgroup_Email
+"Complete in","Complete in",module,Dotdigitalgroup_Email
+"Please select an Engagement Cloud sync to run","Please select an Engagement Cloud sync to run",module,Dotdigitalgroup_Email
+"Please select a sync","Please select a sync",module,Dotdigitalgroup_Email
+"Run dotdigital module tasks on demand","Run dotdigital module tasks on demand",module,Dotdigitalgroup_Email
+"The name of the task to run","The name of the task to run",module,Dotdigitalgroup_Email
+"Requested task was not recognised","Requested task was not recognised",module,Dotdigitalgroup_Email
+"Started task","Started task",module,Dotdigitalgroup_Email
+"Please select a dotdigital CLI task to run","Please select a dotdigital CLI task to run",module,Dotdigitalgroup_Email
+"Please select a task","Please select a task",module,Dotdigitalgroup_Email
+Abandoned,Abandoned,module,Dotdigitalgroup_Email
+Reports,Reports,module,Dotdigitalgroup_Email
+"Abandoned Cart Report","Abandoned Cart Report",module,Dotdigitalgroup_Email
+Automation,Automation,module,Dotdigitalgroup_Email
+"Automation Report","Automation Report",module,Dotdigitalgroup_Email
+Campaign,Campaign,module,Dotdigitalgroup_Email
+"Campaign ","Campaign ",module,Dotdigitalgroup_Email
+"Campaign Report","Campaign Report",module,Dotdigitalgroup_Email
+Catalog,Catalog,module,Dotdigitalgroup_Email
+"Catalog ","Catalog ",module,Dotdigitalgroup_Email
+"Catalog Report","Catalog Report",module,Dotdigitalgroup_Email
+Contacts,Contacts,module,Dotdigitalgroup_Email
+"Contacts ","Contacts ",module,Dotdigitalgroup_Email
+"Contact Report","Contact Report",module,Dotdigitalgroup_Email
+"Cron Tasks","Cron Tasks",module,Dotdigitalgroup_Email
+Report,Report,module,Dotdigitalgroup_Email
+Cron,Cron,module,Dotdigitalgroup_Email
+"Dashboard ","Dashboard ",module,Dotdigitalgroup_Email
+"dotdigital Engagement Cloud Dashboard","dotdigital Engagement Cloud Dashboard",module,Dotdigitalgroup_Email
+"Please select cron.","Please select cron.",module,Dotdigitalgroup_Email
+"Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Dotdigitalgroup_Email
+"Please limit Data Field Name to 20 characters.","Please limit Data Field Name to 20 characters.",module,Dotdigitalgroup_Email
+"Data field successfully created.","Data field successfully created.",module,Dotdigitalgroup_Email
+"Import Report","Import Report",module,Dotdigitalgroup_Email
+Importer,Importer,module,Dotdigitalgroup_Email
+"Please select importer.","Please select importer.",module,Dotdigitalgroup_Email
+"Total of %1 record(s) were reset.","Total of %1 record(s) were reset.",module,Dotdigitalgroup_Email
+"Log Viewer ","Log Viewer ",module,Dotdigitalgroup_Email
+"dotdigital Log Viewer","dotdigital Log Viewer",module,Dotdigitalgroup_Email
+Orders,Orders,module,Dotdigitalgroup_Email
+"Order Report","Order Report",module,Dotdigitalgroup_Email
+Reviews,Reviews,module,Dotdigitalgroup_Email
+"Review Report","Review Report",module,Dotdigitalgroup_Email
+"The rule has been deleted.","The rule has been deleted.",module,Dotdigitalgroup_Email
+"An error occurred while deleting the rule. Please review the log and try again.","An error occurred while deleting the rule. Please review the log and try again.",module,Dotdigitalgroup_Email
+"Unable to find a rule to delete.","Unable to find a rule to delete.",module,Dotdigitalgroup_Email
+"Edit Rule","Edit Rule",module,Dotdigitalgroup_Email
+"This rule no longer exists.","This rule no longer exists.",module,Dotdigitalgroup_Email
+Rules,Rules,module,Dotdigitalgroup_Email
+"Rules ","Rules ",module,Dotdigitalgroup_Email
+"Exclusion Rules","Exclusion Rules",module,Dotdigitalgroup_Email
+"Rule already exist for website ' . . '. You can only have one rule per website.","Rule already exist for website ' . . '. You can only have one rule per website.",module,Dotdigitalgroup_Email
+"The rule has been saved.","The rule has been saved.",module,Dotdigitalgroup_Email
+Done.,Done.,module,Dotdigitalgroup_Email
+"Engagement Cloud","Engagement Cloud",module,Dotdigitalgroup_Email
+Wishlists,Wishlists,module,Dotdigitalgroup_Email
+"Wishlist Report","Wishlist Report",module,Dotdigitalgroup_Email
+"Newsletter Subscription","Newsletter Subscription",module,Dotdigitalgroup_Email
+"An error occurred while saving your subscription preferences.","An error occurred while saving your subscription preferences.",module,Dotdigitalgroup_Email
+"Your subscription preferences have been saved.","Your subscription preferences have been saved.",module,Dotdigitalgroup_Email
+"Something went wrong while saving your subscription.","Something went wrong while saving your subscription.",module,Dotdigitalgroup_Email
+"We have saved your subscription.","We have saved your subscription.",module,Dotdigitalgroup_Email
+"A confirmation request has been sent.","A confirmation request has been sent.",module,Dotdigitalgroup_Email
+"We have removed your newsletter subscription.","We have removed your newsletter subscription.",module,Dotdigitalgroup_Email
+"We have updated your subscription.","We have updated your subscription.",module,Dotdigitalgroup_Email
+"Page not found.","Page not found.",module,Dotdigitalgroup_Email
+"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Dotdigitalgroup_Email
+"Dotdigital smtp host region is not defined","Dotdigital smtp host region is not defined",module,Dotdigitalgroup_Email
+"Not Imported","Not Imported",module,Dotdigitalgroup_Email
+Importing,Importing,module,Dotdigitalgroup_Email
+Imported,Imported,module,Dotdigitalgroup_Email
+Failed,Failed,module,Dotdigitalgroup_Email
+is,is,module,Dotdigitalgroup_Email
+"is not","is not",module,Dotdigitalgroup_Email
+"is empty","is empty",module,Dotdigitalgroup_Email
+"equal to or greater than","equal to or greater than",module,Dotdigitalgroup_Email
+"equal to or less than","equal to or less than",module,Dotdigitalgroup_Email
+"greater than","greater than",module,Dotdigitalgroup_Email
+"less than","less than",module,Dotdigitalgroup_Email
+contains,contains,module,Dotdigitalgroup_Email
+"does not contain","does not contain",module,Dotdigitalgroup_Email
+"Abandoned Cart Exclusion Rule","Abandoned Cart Exclusion Rule",module,Dotdigitalgroup_Email
+"Review Email Exclusion Rule","Review Email Exclusion Rule",module,Dotdigitalgroup_Email
+"Connector API endpoint cannot be empty.","Connector API endpoint cannot be empty.",module,Dotdigitalgroup_Email
+"The endpoint ' . . ' is not permitted.","The endpoint ' . . ' is not permitted.",module,Dotdigitalgroup_Email
+" (Deactivated)"," (Deactivated)",module,Dotdigitalgroup_Email
+" (Draft)"," (Draft)",module,Dotdigitalgroup_Email
+"Please provide a secure custom OAUTH domain.","Please provide a secure custom OAUTH domain.",module,Dotdigitalgroup_Email
+"---- Default Option ----","---- Default Option ----",module,Dotdigitalgroup_Email
+"-- Disabled --","-- Disabled --",module,Dotdigitalgroup_Email
+" Hour"," Hour",module,Dotdigitalgroup_Email
+" Hours"," Hours",module,Dotdigitalgroup_Email
+"15 Minutes","15 Minutes",module,Dotdigitalgroup_Email
+"30 Minutes","30 Minutes",module,Dotdigitalgroup_Email
+"1 Hour","1 Hour",module,Dotdigitalgroup_Email
+"6 Hours","6 Hours",module,Dotdigitalgroup_Email
+"12 Hours","12 Hours",module,Dotdigitalgroup_Email
+"20 Minutes","20 Minutes",module,Dotdigitalgroup_Email
+"25 Minutes","25 Minutes",module,Dotdigitalgroup_Email
+"40 Minutes","40 Minutes",module,Dotdigitalgroup_Email
+"50 Minutes","50 Minutes",module,Dotdigitalgroup_Email
+"60 Minutes","60 Minutes",module,Dotdigitalgroup_Email
+String,String,module,Dotdigitalgroup_Email
+Numeric,Numeric,module,Dotdigitalgroup_Email
+Date,Date,module,Dotdigitalgroup_Email
+Yes/No,Yes/No,module,Dotdigitalgroup_Email
+Private,Private,module,Dotdigitalgroup_Email
+Public,Public,module,Dotdigitalgroup_Email
+"Unable to find coupon attribute with ID ""%1""","Unable to find coupon attribute with ID ""%1""",module,Dotdigitalgroup_Email
+"'Rule validation error: attribute attribute must be of type ' .","'Rule validation error: attribute attribute must be of type ' .",module,Dotdigitalgroup_Email
+"Not available","Not available",module,Dotdigitalgroup_Email
+"CSV file does not exist in email or archive folder.","CSV file does not exist in email or archive folder.",module,Dotdigitalgroup_Email
+"One or more of your dotdigital automation enrolment tasks have errors: %1. ","One or more of your dotdigital automation enrolment tasks have errors: %1. ",module,Dotdigitalgroup_Email
+"Please go to the <a href=""%1"">Automation Report</a> to review.","Please go to the <a href=""%1"">Automation Report</a> to review.",module,Dotdigitalgroup_Email
+"One or more of your dotdigital campaign tasks have errors: %1. ","One or more of your dotdigital campaign tasks have errors: %1. ",module,Dotdigitalgroup_Email
+"Please go to the <a href=""%1"">Campaign Report</a> to review.","Please go to the <a href=""%1"">Campaign Report</a> to review.",module,Dotdigitalgroup_Email
+"One or more of your dotdigital cron tasks have errors: %1. ","One or more of your dotdigital cron tasks have errors: %1. ",module,Dotdigitalgroup_Email
+"Please go to <a href=""%1"">Cron Tasks</a> to review.","Please go to <a href=""%1"">Cron Tasks</a> to review.",module,Dotdigitalgroup_Email
+"One or more of your dotdigital importer tasks have errors: %1. ","One or more of your dotdigital importer tasks have errors: %1. ",module,Dotdigitalgroup_Email
+"Please go to the <a href=""%1"">Import Report</a> to review.","Please go to the <a href=""%1"">Import Report</a> to review.",module,Dotdigitalgroup_Email
+"Recent dotdigital SMTP mail sends have failed due to an authentication issue.
+                    Please <a href=""%1"">verify your SMTP credentials</a>.","Recent dotdigital SMTP mail sends have failed due to an authentication issue.
+                    Please <a href=""%1"">verify your SMTP credentials</a>.",module,Dotdigitalgroup_Email
+"One or more recent dotdigital SMTP mail sends have failed. Please
+                     <a href=""%1"">check your logs</a> for more detail.","One or more recent dotdigital SMTP mail sends have failed. Please
+                     <a href=""%1"">check your logs</a> for more detail.",module,Dotdigitalgroup_Email
+"API Credentials Valid.","API Credentials Valid.",module,Dotdigitalgroup_Email
+"Authorization has been denied for this request.","Authorization has been denied for this request.",module,Dotdigitalgroup_Email
+"Please select a host.","Please select a host.",module,Dotdigitalgroup_Email
+"Generated by dotdigital","Generated by dotdigital",module,Dotdigitalgroup_Email
+Email,Email,module,Dotdigitalgroup_Email
+"Expires At","Expires At",module,Dotdigitalgroup_Email
+Alphanumeric,Alphanumeric,module,Dotdigitalgroup_Email
+Alphabetical,Alphabetical,module,Dotdigitalgroup_Email
+"API valid","API valid",module,Dotdigitalgroup_Email
+"Cron last execution","Cron last execution",module,Dotdigitalgroup_Email
+"Dynamic content passcode","Dynamic content passcode",module,Dotdigitalgroup_Email
+"Abandoned cart limit time","Abandoned cart limit time",module,Dotdigitalgroup_Email
+Auth,Auth,module,Dotdigitalgroup_Email
+"Last failed auth","Last failed auth",module,Dotdigitalgroup_Email
+"PHP version","PHP version",module,Dotdigitalgroup_Email
+"PHP max execution time","PHP max execution time",module,Dotdigitalgroup_Email
+Mode,Mode,module,Dotdigitalgroup_Email
+"Magento version","Magento version",module,Dotdigitalgroup_Email
+name,name,module,Dotdigitalgroup_Email
+"System Alert Notifications - Automation Errors","System Alert Notifications - Automation Errors",module,Dotdigitalgroup_Email
+Id,Id,module,Dotdigitalgroup_Email
+"Automation Type","Automation Type",module,Dotdigitalgroup_Email
+"Enrolment Status","Enrolment Status",module,Dotdigitalgroup_Email
+Message,Message,module,Dotdigitalgroup_Email
+"Created at","Created at",module,Dotdigitalgroup_Email
+"Note that automations with pending status older than 1 hour will be flagged here.
+                Please go to the Automation Enrolment Tasks report to review.","Note that automations with pending status older than 1 hour will be flagged here.
+                Please go to the Automation Enrolment Tasks report to review.",module,Dotdigitalgroup_Email
+"System Alert Notifications - Campaign Errors","System Alert Notifications - Campaign Errors",module,Dotdigitalgroup_Email
+"Event Name","Event Name",module,Dotdigitalgroup_Email
+"Send Status","Send Status",module,Dotdigitalgroup_Email
+"Please go to the Campaign Sends report to review.","Please go to the Campaign Sends report to review.",module,Dotdigitalgroup_Email
+"System Alert Notifications - Cron Errors","System Alert Notifications - Cron Errors",module,Dotdigitalgroup_Email
+"Job code","Job code",module,Dotdigitalgroup_Email
+"Scheduled at","Scheduled at",module,Dotdigitalgroup_Email
+"Please go to the Cron Tasks report to review.","Please go to the Cron Tasks report to review.",module,Dotdigitalgroup_Email
+"System Alert Notifications - Importer Errors","System Alert Notifications - Importer Errors",module,Dotdigitalgroup_Email
+"Website Id","Website Id",module,Dotdigitalgroup_Email
+"Import type","Import type",module,Dotdigitalgroup_Email
+"Import mode","Import mode",module,Dotdigitalgroup_Email
+"Please go to the Import Report to review.","Please go to the Import Report to review.",module,Dotdigitalgroup_Email
+"System Alert Notifications - SMTP Errors","System Alert Notifications - SMTP Errors",module,Dotdigitalgroup_Email
+"Select Log File:","Select Log File:",module,Dotdigitalgroup_Email
+"Marketing Automation Log","Marketing Automation Log",module,Dotdigitalgroup_Email
+"Magento System Log","Magento System Log",module,Dotdigitalgroup_Email
+"Magento Exception Log","Magento Exception Log",module,Dotdigitalgroup_Email
+"Magento Debug Log","Magento Debug Log",module,Dotdigitalgroup_Email
+Reload,Reload,module,Dotdigitalgroup_Email
+"Websites View:","Websites View:",module,Dotdigitalgroup_Email
+"Stores Configuration","Stores Configuration",module,Dotdigitalgroup_Email
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost.",module,Dotdigitalgroup_Email
+"Click here for status","Click here for status",module,Dotdigitalgroup_Email
+"PRODUCT STYLING PREVIEW","PRODUCT STYLING PREVIEW",module,Dotdigitalgroup_Email
+"Product Name","Product Name",module,Dotdigitalgroup_Email
+"COUPON STYLING PREVIEW","COUPON STYLING PREVIEW",module,Dotdigitalgroup_Email
+DOT-XXX-XXX-XXX,DOT-XXX-XXX-XXX,module,Dotdigitalgroup_Email
+Image,Image,module,Dotdigitalgroup_Email
+Description,Description,module,Dotdigitalgroup_Email
+Quantity,Quantity,module,Dotdigitalgroup_Email
+Total,Total,module,Dotdigitalgroup_Email
+"Take Me To My Basket","Take Me To My Basket",module,Dotdigitalgroup_Email
+"General Subscription","General Subscription",module,Dotdigitalgroup_Email
+Preferences,Preferences,module,Dotdigitalgroup_Email
+Subscriptions,Subscriptions,module,Dotdigitalgroup_Email
+Information,Information,module,Dotdigitalgroup_Email
+"Leave a review","Leave a review",module,Dotdigitalgroup_Email
+"View Now","View Now",module,Dotdigitalgroup_Email
+"Feefo Feedback","Feefo Feedback",module,Dotdigitalgroup_Email
+Rating,Rating,module,Dotdigitalgroup_Email
+Comment,Comment,module,Dotdigitalgroup_Email
+"See what our customers say about us","See what our customers say about us",module,Dotdigitalgroup_Email
+Send,Send,module,Klarna_Core
+Configure,Configure,module,Klarna_Core
+Close,Close,module,Klarna_Core
+Back,Back,module,Klarna_Core
+"Merchant Portal","Merchant Portal",module,Klarna_Core
+"Order ID","Order ID",module,Klarna_Core
+Error,Error,module,Klarna_Core
+Reference,Reference,module,Klarna_Core
+Reservation,Reservation,module,Klarna_Core
+"Invoice ID (#%1)","Invoice ID (#%1)",module,Klarna_Core
+"Klarna Logs","Klarna Logs",module,Klarna_Core
+"Thank you for your support request. We will come back to you as soon as possible.","Thank you for your support request. We will come back to you as soon as possible.",module,Klarna_Core
+"'Invalid Api Version: ' .","'Invalid Api Version: ' .",module,Klarna_Core
+"Invalid API version selected!","Invalid API version selected!",module,Klarna_Core
+"Unknown template type","Unknown template type",module,Klarna_Core
+"%1 class doesn't implement \Klarna\Core\Api\BuilderInterface","%1 class doesn't implement \Klarna\Core\Api\BuilderInterface",module,Klarna_Core
+"Gift Wrapping","Gift Wrapping",module,Klarna_Core
+"%1 class doesn't implement \Klarna\Core\Api\OrderLineInterface","%1 class doesn't implement \Klarna\Core\Api\OrderLineInterface",module,Klarna_Core
+"Shipping & Handling","Shipping & Handling",module,Klarna_Core
+"Sales Tax","Sales Tax",module,Klarna_Core
+"The log with the ""%1"" ID doesn't exist.","The log with the ""%1"" ID doesn't exist.",module,Klarna_Core
+"Requested order doesn't exist","Requested order doesn't exist",module,Klarna_Core
+"Order with id ""%1"" does not exist.","Order with id ""%1"" does not exist.",module,Klarna_Core
+"Order with Reservation ID ""%1"" does not exist.","Order with Reservation ID ""%1"" does not exist.",module,Klarna_Core
+"Order with session_id ""%1"" does not exist.","Order with session_id ""%1"" does not exist.",module,Klarna_Core
+Playground,Playground,module,Klarna_Core
+Production,Production,module,Klarna_Core
+"Warning store address has not been set under Store Information.","Warning store address has not been set under Store Information.",module,Klarna_Core
+"Store(s) affected: ","Store(s) affected: ",module,Klarna_Core
+"Click here to go to <a href=""%1"">General Configuration</a> and change your settings.","Click here to go to <a href=""%1"">General Configuration</a> and change your settings.",module,Klarna_Core
+"Warning debug mode should only be enabled when test mode is active","Warning debug mode should only be enabled when test mode is active",module,Klarna_Core
+"Click here to go to <a href=""%1"">Klarna Configuration</a> and change your settings.","Click here to go to <a href=""%1"">Klarna Configuration</a> and change your settings.",module,Klarna_Core
+"Warning the following countries are configured to require a region","Warning the following countries are configured to require a region",module,Klarna_Core
+"Some error has occurred.","Some error has occurred.",module,Klarna_Core
+View,View,module,Klarna_Core
+"Click Here","Click Here",module,Klarna_Core
+"No authorization token provided!","No authorization token provided!",module,Klarna_KpGraphQl
+"Required parameter '%1' is missing","Required parameter '%1' is missing",module,Klarna_KpGraphQl
+"Klarna Payments method is not active","Klarna Payments method is not active",module,Klarna_KpGraphQl
+link,link,module,Klarna_Kp
+"Click on this %1 to visit the Klarna Merchant Onboarding Page and request credentials.","Click on this %1 to visit the Klarna Merchant Onboarding Page and request credentials.",module,Klarna_Kp
+"Unable to release authorization for the token %1","Unable to release authorization for the token %1",module,Klarna_Kp
+"Unable to authorize payment for this order.","Unable to authorize payment for this order.",module,Klarna_Kp
+"Klarna API Credentials are required","Klarna API Credentials are required",module,Klarna_Kp
+"Missing required attribute(s) on %1: ""%2"".","Missing required attribute(s) on %1: ""%2"".",module,Klarna_Kp
+"Order line totals do not total order_amount - %1 != %2","Order line totals do not total order_amount - %1 != %2",module,Klarna_Kp
+"Klarna Payments is not enabled","Klarna Payments is not enabled",module,Klarna_Kp
+"Please check credentials","Please check credentials",module,Klarna_Kp
+"Unable to initialize Klarna payments session","Unable to initialize Klarna payments session",module,Klarna_Kp
+"Credit Promotion - Standard","Credit Promotion - Standard",module,Klarna_Onsitemessaging
+"Credit Promotion - Small","Credit Promotion - Small",module,Klarna_Onsitemessaging
+"Credit Promotion - Badge","Credit Promotion - Badge",module,Klarna_Onsitemessaging
+"Sidebar Promotion - Auto-Size","Sidebar Promotion - Auto-Size",module,Klarna_Onsitemessaging
+"Top Strip Promotion - Standard","Top Strip Promotion - Standard",module,Klarna_Onsitemessaging
+"Homepage Promotion - Tall","Homepage Promotion - Tall",module,Klarna_Onsitemessaging
+"Homepage Promotion - Box","Homepage Promotion - Box",module,Klarna_Onsitemessaging
+"Homepage Promotion - Wide","Homepage Promotion - Wide",module,Klarna_Onsitemessaging
+Other,Other,module,Klarna_Onsitemessaging
+"Klarna order not found","Klarna order not found",module,Klarna_Ordermanagement
+"Magento order not found","Magento order not found",module,Klarna_Ordermanagement
+"Suspected Fraud: DO NOT SHIP. If already shipped,
+                    please attempt to stop the carrier from delivering.","Suspected Fraud: DO NOT SHIP. If already shipped,
+                    please attempt to stop the carrier from delivering.",module,Klarna_Ordermanagement
+"Order processed by Klarna.","Order processed by Klarna.",module,Klarna_Ordermanagement
+"Notification doesn't appear to be from Klarna","Notification doesn't appear to be from Klarna",module,Klarna_Ordermanagement
+"%1 Klarna %2 api error messages: %3","%1 Klarna %2 api error messages: %3",module,Klarna_Ordermanagement
+"Unable to cancel payment for this order.","Unable to cancel payment for this order.",module,Klarna_Ordermanagement
+"Order cancellation failed, please try again.","Order cancellation failed, please try again.",module,Klarna_Ordermanagement
+"Unable to capture payment for this order.","Unable to capture payment for this order.",module,Klarna_Ordermanagement
+"Payment capture failed, please try again.","Payment capture failed, please try again.",module,Klarna_Ordermanagement
+"Payment capture not allowed.","Payment capture not allowed.",module,Klarna_Ordermanagement
+"Unable to refund payment for this order.","Unable to refund payment for this order.",module,Klarna_Ordermanagement
+"Payment refund failed, please try again.","Payment refund failed, please try again.",module,Klarna_Ordermanagement
+"%1 class doesn't implement \Klarna\Ordermanagement\Api\ApiInterface","%1 class doesn't implement \Klarna\Ordermanagement\Api\ApiInterface",module,Klarna_Ordermanagement
+"Read Details","Read Details",module,Magento_AdminNotification
+"Mark as Read","Mark as Read",module,Magento_AdminNotification
+"Are you sure?","Are you sure?",module,Magento_AdminNotification
+Remove,Remove,module,Magento_AdminNotification
+"Messages Inbox","Messages Inbox",module,Magento_AdminNotification
+"You have %1 new system messages","You have %1 new system messages",module,Magento_AdminNotification
+"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
+"Incoming Message","Incoming Message",module,Magento_AdminNotification
+close,close,module,Magento_AdminNotification
+Notifications,Notifications,module,Magento_AdminNotification
+"The message has been marked as Read.","The message has been marked as Read.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error.",module,Magento_AdminNotification
+"Please select messages.","Please select messages.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
+"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.",module,Magento_AdminNotification
+"1 Hour","1 Hour",module,Magento_AdminNotification
+"2 Hours","2 Hours",module,Magento_AdminNotification
+"6 Hours","6 Hours",module,Magento_AdminNotification
+"12 Hours","12 Hours",module,Magento_AdminNotification
+"24 Hours","24 Hours",module,Magento_AdminNotification
+critical,critical,module,Magento_AdminNotification
+major,major,module,Magento_AdminNotification
+minor,minor,module,Magento_AdminNotification
+notice,notice,module,Magento_AdminNotification
+"Wrong message type","Wrong message type",module,Magento_AdminNotification
+"Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","Synchronization of media storages has been completed.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
+"System Messages:","System Messages:",module,Magento_AdminNotification
+"Critical System Messages","Critical System Messages",module,Magento_AdminNotification
+"Major System Messages","Major System Messages",module,Magento_AdminNotification
+"System messages","System messages",module,Magento_AdminNotification
+Close,Close,module,Magento_AdminNotification
+"See All (","See All (",module,Magento_AdminNotification
+" unread)"," unread)",module,Magento_AdminNotification
+"Authorization was successful","Authorization was successful",module,Magento_AdobeIms
+"Login failed. Please check if <a href=""%url"">the Secret Key</a> is set correctly and try again.","Login failed. Please check if <a href=""%url"">the Secret Key</a> is set correctly and try again.",module,Magento_AdobeIms
+"Something went wrong.","Something went wrong.",module,Magento_AdobeIms
+"An error occurred during the callback request from the Adobe service: %error","An error occurred during the callback request from the Adobe service: %error",module,Magento_AdobeIms
+"An error occurred during get user data. Contact support.","An error occurred during get user data. Contact support.",module,Magento_AdobeIms
+"Could not login to Adobe IMS.","Could not login to Adobe IMS.",module,Magento_AdobeIms
+"An error occurred during logout operation.","An error occurred during logout operation.",module,Magento_AdobeIms
+"Could not save user profile.","Could not save user profile.",module,Magento_AdobeIms
+"Could not find user profile id: %id.","Could not find user profile id: %id.",module,Magento_AdobeIms
+"The user profile wasn't found.","The user profile wasn't found.",module,Magento_AdobeIms
+button_label,button_label,module,Magento_AdobeStockAdminUi
+"Connection Successful!","Connection Successful!",module,Magento_AdobeStockAdminUi
+"Connection Failed!","Connection Failed!",module,Magento_AdobeStockAdminUi
+"An error occurred during test Adobe Stock API connection","An error occurred during test Adobe Stock API connection",module,Magento_AdobeStockAdminUi
+"Could not retrieve assets.","Could not retrieve assets.",module,Magento_AdobeStockAsset
+"Adobe Stock asset with id %id does not exist.","Adobe Stock asset with id %id does not exist.",module,Magento_AdobeStockAsset
+"Requested asset does not exist.","Requested asset does not exist.",module,Magento_AdobeStockAsset
+"Cannot retrieve assets from Adobe Stock.","Cannot retrieve assets from Adobe Stock.",module,Magento_AdobeStockAsset
+"Could not delete Adobe Stock asset with id %id","Could not delete Adobe Stock asset with id %id",module,Magento_AdobeStockAsset
+"An error occurred during adobe stock asset save.","An error occurred during adobe stock asset save.",module,Magento_AdobeStockAsset
+"Could not delete Adobe Stock asset category with id %id","Could not delete Adobe Stock asset category with id %id",module,Magento_AdobeStockAsset
+"Adobe Stock asset category with id ""%1"" does not exist.","Adobe Stock asset category with id ""%1"" does not exist.",module,Magento_AdobeStockAsset
+"Could not delete Adobe Stock asset creator with id %id","Could not delete Adobe Stock asset creator with id %id",module,Magento_AdobeStockAsset
+"Adobe Stock asset creator with id ""%1"" does not exist.","Adobe Stock asset creator with id ""%1"" does not exist.",module,Magento_AdobeStockAsset
+"Cannot retrieve the field %1. It's not available in Adobe Stock SDK","Cannot retrieve the field %1. It's not available in Adobe Stock SDK",module,Magento_AdobeStockClient
+"Files ids can not be empty.","Files ids can not be empty.",module,Magento_AdobeStockClient
+"Could not retrieve files information.","Could not retrieve files information.",module,Magento_AdobeStockClient
+"Adobe API Key is invalid!","Adobe API Key is invalid!",module,Magento_AdobeStockClient
+"Adobe Api Key is required!","Adobe Api Key is required!",module,Magento_AdobeStockClient
+"Adobe API login has expired!","Adobe API login has expired!",module,Magento_AdobeStockClient
+". ': %error_message'",". ': %error_message'",module,Magento_AdobeStockClient
+"Create attributes process failed: %error_message","Create attributes process failed: %error_message",module,Magento_AdobeStockClient
 "Adobe id is required.","Adobe id is required.",module,Magento_AdobeStockImageAdminUi
 "An error occurred on attempt to retrieve asset information.","An error occurred on attempt to retrieve asset information.",module,Magento_AdobeStockImageAdminUi
 "An error occurred on attempt to retrieve image licensing information.","An error occurred on attempt to retrieve image licensing information.",module,Magento_AdobeStockImageAdminUi
@@ -104,7 +656,6 @@ Dismiss,Dismiss,module,Magento_AsynchronousOperations
 "The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",module,Magento_Authorization
 "Cannot gather stats! %1","Cannot gather stats! %1",module,Magento_AwsS3
-"Cannot gather meta info! %1","Cannot gather meta info! %1",module,Magento_AwsS3
 "File cannot be read %1","File cannot be read %1",module,Magento_AwsS3
 "The ""%1"" CSV handle is incorrect. Verify the handle and try again.","The ""%1"" CSV handle is incorrect. Verify the handle and try again.",module,Magento_AwsS3
 "An error occurred during ""%1"" execution.","An error occurred during ""%1"" execution.",module,Magento_AwsS3
@@ -313,6 +864,7 @@ System,System,module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","Before modifying the store view code please make sure it is not used in index.php.",module,Magento_Backend
 "New ","New ",module,Magento_Backend
 "All Stores","All Stores",module,Magento_Backend
+"Please enable your Store View before using this Web Site as Default","Please enable your Store View before using this Web Site as Default",module,Magento_Backend
 "You saved the website.","You saved the website.",module,Magento_Backend
 "The default store cannot be disabled","The default store cannot be disabled",module,Magento_Backend
 "You saved the store view.","You saved the store view.",module,Magento_Backend
@@ -331,6 +883,7 @@ YTD,YTD,module,Magento_Backend
 2YTD,2YTD,module,Magento_Backend
 Order,Order,module,Magento_Backend
 "Order #%1","Order #%1",module,Magento_Backend
+"URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key.","URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key.",module,Magento_Backend
 "Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
 "Save &amp; Close","Save &amp; Close",module,Magento_Backend
 "Save &amp; New","Save &amp; New",module,Magento_Backend
@@ -382,7 +935,6 @@ Minute,Minute,module,Magento_Backend
 "Report an Issue","Report an Issue",module,Magento_Backend
 Scope:,Scope:,module,Magento_Backend
 "Stores Configuration","Stores Configuration",module,Magento_Backend
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost.",module,Magento_Backend
 "Additional Cache Management","Additional Cache Management",module,Magento_Backend
 "Flush Catalog Images Cache","Flush Catalog Images Cache",module,Magento_Backend
 "Pregenerated product images files","Pregenerated product images files",module,Magento_Backend
@@ -525,6 +1077,7 @@ Separately,Separately,module,Magento_Bundle
 "Please select all required options.","Please select all required options.",module,Magento_Bundle
 "Option type (%types) should have only one element.","Option type (%types) should have only one element.",module,Magento_Bundle
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Bundle
+"Product relations processor must implement %1.","Product relations processor must implement %1.",module,Magento_Bundle
 N/A,N/A,module,Magento_Bundle
 Percent,Percent,module,Magento_Bundle
 "We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Bundle
@@ -682,9 +1235,10 @@ Always,Always,module,Magento_Captcha
 "The ""%1"" value is invalid for stock item ID. Use the stock item ID's assigned ""%2"" value and try again.","The ""%1"" value is invalid for stock item ID. Use the stock item ID's assigned ""%2"" value and try again.",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Not all of your products are available in the requested quantity.",module,Magento_CatalogInventory
 "The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist.",module,Magento_CatalogInventory
-"The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Please correct the quantity for some products.",module,Magento_CatalogInventory
-"The most you may purchase is %1.","The most you may purchase is %1.",module,Magento_CatalogInventory
+"The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_CatalogInventory
+"The requested qty exceeds the maximum qty allowed in shopping cart","The requested qty exceeds the maximum qty allowed in shopping cart",module,Magento_CatalogInventory
+"You cannot use decimal quantity for this product.","You cannot use decimal quantity for this product.",module,Magento_CatalogInventory
 "The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.",module,Magento_CatalogInventory
@@ -796,12 +1350,13 @@ Search,Search,module,Magento_CatalogSearch
 name,name,module,Magento_CatalogSearch
 "Don't see what you're looking for?","Don't see what you're looking for?",module,Magento_CatalogSearch
 "Your search returned no results.","Your search returned no results.",module,Magento_CatalogSearch
+"Category doesn't exist","Category doesn't exist",module,Magento_CatalogUrlRewriteGraphQl
 "Create Permanent Redirect for old URL","Create Permanent Redirect for old URL",module,Magento_CatalogUrlRewrite
+"URL key for specified store already exists.","URL key for specified store already exists.",module,Magento_CatalogUrlRewrite
 "Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.",module,Magento_CatalogUrlRewrite
 "Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues.","Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues.",module,Magento_CatalogUrlRewrite
 "Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues.","Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues.",module,Magento_CatalogUrlRewrite
 "Invalid URL key","Invalid URL key",module,Magento_CatalogUrlRewrite
-"URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key.","URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key.",module,Magento_CatalogUrlRewrite
 "Conditions Combination","Conditions Combination",module,Magento_CatalogWidget
 "Product Attribute","Product Attribute",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
@@ -1208,10 +1763,6 @@ px.,px.,module,Magento_Catalog
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
 "Could not save Prices.","Could not save Prices.",module,Magento_Catalog
 "Could not delete Prices","Could not delete Prices",module,Magento_Catalog
-"The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
-"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
-"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
-"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
 "Could not save Tier Prices","Could not save Tier Prices",module,Magento_Catalog
 "Could not replace Tier Prices","Could not replace Tier Prices",module,Magento_Catalog
 "Could not delete Tier Prices","Could not delete Tier Prices",module,Magento_Catalog
@@ -1271,6 +1822,10 @@ Message,Message,module,Magento_Catalog
 "HTML is invalid","HTML is invalid",module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 message,message,module,Magento_Catalog
+"The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
 "Lock wait timeout","Lock wait timeout",module,Magento_Catalog
 123,123,module,Magento_Catalog
 Select...,Select...,module,Magento_Catalog
@@ -1683,6 +2238,7 @@ Pages,Pages,module,Magento_Cms
 "You are not allowed to change CMS pages design settings","You are not allowed to change CMS pages design settings",module,Magento_Cms
 "Invalid Custom Layout Update selected","Invalid Custom Layout Update selected",module,Magento_Cms
 "Page ""%id"" doesn't have custom layout assigned","Page ""%id"" doesn't have custom layout assigned",module,Magento_Cms
+"Custom layout update text cannot be changed, only removed","Custom layout update text cannot be changed, only removed",module,Magento_Cms
 "Could not save the page: %1","Could not save the page: %1",module,Magento_Cms
 "Could not delete the page: %1","Could not delete the page: %1",module,Magento_Cms
 "The value specified in the URL Key field would generate a URL that already exists.","The value specified in the URL Key field would generate a URL that already exists.",module,Magento_Cms
@@ -1693,10 +2249,13 @@ Pages,Pages,module,Magento_Cms
 "The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.","The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.",module,Magento_Cms
 "The page URL key can't use only numbers. Add letters or words and try again.","The page URL key can't use only numbers. Add letters or words and try again.",module,Magento_Cms
 "Please rename the folder using only Latin letters, numbers, underscores and dashes.","Please rename the folder using only Latin letters, numbers, underscores and dashes.",module,Magento_Cms
+"We cannot create the folder under the selected directory.","We cannot create the folder under the selected directory.",module,Magento_Cms
 "We found a directory with the same name. Please try another folder name.","We found a directory with the same name. Please try another folder name.",module,Magento_Cms
 "We cannot create a new directory.","We cannot create a new directory.",module,Magento_Cms
+"We cannot delete the selected directory.","We cannot delete the selected directory.",module,Magento_Cms
 "We cannot delete directory %1.","We cannot delete directory %1.",module,Magento_Cms
-"We can't upload the file to current folder right now. Please try another folder.","We can't upload the file to current folder right now. Please try another folder.",module,Magento_Cms
+"We can't delete the file right now.","We can't delete the file right now.",module,Magento_Cms
+"We can't upload the file to the current folder right now. Please try another folder.","We can't upload the file to the current folder right now. Please try another folder.",module,Magento_Cms
 "File validation failed.","File validation failed.",module,Magento_Cms
 "We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
@@ -1838,6 +2397,7 @@ Stores,Stores,module,Magento_Config
 """model"" value should be specified","""model"" value should be specified",module,Magento_ConfigurableProductGraphQl
 "Could not find specified product.","Could not find specified product.",module,Magento_ConfigurableProductGraphQl
 "The product with SKU %sku is out of stock.","The product with SKU %sku is out of stock.",module,Magento_ConfigurableProductGraphQl
+"configurableOptionValueUids values are incorrect","configurableOptionValueUids values are incorrect",module,Magento_ConfigurableProductGraphQl
 "Required parameter ""cart_id"" is missing","Required parameter ""cart_id"" is missing",module,Magento_ConfigurableProductGraphQl
 "Required parameter ""cart_items"" is missing","Required parameter ""cart_items"" is missing",module,Magento_ConfigurableProductGraphQl
 """attribute_id"" value should be specified.","""attribute_id"" value should be specified.",module,Magento_ConfigurableProductGraphQl
@@ -2159,6 +2719,8 @@ Subscribed,Subscribed,module,Magento_Customer
 "Group Name","Group Name",module,Magento_Customer
 "Maximum length must be less then %1 characters.","Maximum length must be less then %1 characters.",module,Magento_Customer
 "Tax Class","Tax Class",module,Magento_Customer
+"Excluded Website(s)","Excluded Website(s)",module,Magento_Customer
+"Select websites you want to exclude from this customer group.","Select websites you want to exclude from this customer group.",module,Magento_Customer
 "The customer is now assigned to Customer Group %s.","The customer is now assigned to Customer Group %s.",module,Magento_Customer
 "Would you like to change the Customer Group for this order?","Would you like to change the Customer Group for this order?",module,Magento_Customer
 "The VAT ID is valid.","The VAT ID is valid.",module,Magento_Customer
@@ -2190,7 +2752,6 @@ Today,Today,module,Magento_Customer
 "Please make sure your passwords match.","Please make sure your passwords match.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
-"Account Information","Account Information",module,Magento_Customer
 "You saved the account information.","You saved the account information.",module,Magento_Customer
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
@@ -2224,6 +2785,7 @@ Today,Today,module,Magento_Customer
 "New customer address has been added.","New customer address has been added.",module,Magento_Customer
 "There is no customer with such id.","There is no customer with such id.",module,Magento_Customer
 "We can't change customer address right now.","We can't change customer address right now.",module,Magento_Customer
+"Page not found.","Page not found.",module,Magento_Customer
 "The customer ID isn't defined.","The customer ID isn't defined.",module,Magento_Customer
 "The quote items are incorrect. Verify the quote items and try again.","The quote items are incorrect. Verify the quote items and try again.",module,Magento_Customer
 "You have revoked the customer's tokens.","You have revoked the customer's tokens.",module,Magento_Customer
@@ -2250,7 +2812,6 @@ Customers,Customers,module,Magento_Customer
 "The Store View selected for sending Welcome email from is not related to the customer's associated website.","The Store View selected for sending Welcome email from is not related to the customer's associated website.",module,Magento_Customer
 "You saved the customer.","You saved the customer.",module,Magento_Customer
 "Something went wrong while saving the customer.","Something went wrong while saving the customer.",module,Magento_Customer
-"Page not found.","Page not found.",module,Magento_Customer
 "Customer has been unlocked successfully.","Customer has been unlocked successfully.",module,Magento_Customer
 "Online Customers","Online Customers",module,Magento_Customer
 "Customers Now Online","Customers Now Online",module,Magento_Customer
@@ -2327,14 +2888,22 @@ Admin,Admin,module,Magento_Customer
 """%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px.",module,Magento_Customer
 """%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters.",module,Magento_Customer
 """%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters.",module,Magento_Customer
+"Could not delete customer group website with ID: %1","Could not delete customer group website with ID: %1",module,Magento_Customer
+"Could not save customer group website to exclude with ID: %1","Could not save customer group website to exclude with ID: %1",module,Magento_Customer
 label,label,module,Magento_Customer
 "The customer email is missing. Enter and try again.","The customer email is missing. Enter and try again.",module,Magento_Customer
 "A customer website ID wasn't specified. The ID must be specified to use the website scope.","A customer website ID wasn't specified. The ID must be specified to use the website scope.",module,Magento_Customer
 "The specified customer group id does not exist.","The specified customer group id does not exist.",module,Magento_Customer
 "Customer Group","Customer Group",module,Magento_Customer
 "You can't delete group ""%1"".","You can't delete group ""%1"".",module,Magento_Customer
+"Could not save customer group website to exclude from customer group: ""%1""","Could not save customer group website to exclude from customer group: ""%1""",module,Magento_Customer
+"Could not retrieve excluded customer group websites by customer group: ""%1""","Could not retrieve excluded customer group websites by customer group: ""%1""",module,Magento_Customer
+"Could not retrieve all excluded customer group websites.","Could not retrieve all excluded customer group websites.",module,Magento_Customer
+"Could not delete customer group with its excluded websites.","Could not delete customer group with its excluded websites.",module,Magento_Customer
+"Could not delete customer group excluded website by id.","Could not delete customer group excluded website by id.",module,Magento_Customer
 "Customer Group already exists.","Customer Group already exists.",module,Magento_Customer
 "Cannot delete group.","Cannot delete group.",module,Magento_Customer
+"The session has expired, please login again.","The session has expired, please login again.",module,Magento_Customer
 "Something went wrong.","Something went wrong.",module,Magento_Customer
 "Error during VAT Number verification.","Error during VAT Number verification.",module,Magento_Customer
 "PHP SOAP extension is required.","PHP SOAP extension is required.",module,Magento_Customer
@@ -2346,6 +2915,7 @@ label,label,module,Magento_Customer
 "The VAT ID entered (%1) is not a valid VAT ID.","The VAT ID entered (%1) is not a valid VAT ID.",module,Magento_Customer
 "Your Tax ID cannot be validated.","Your Tax ID cannot be validated.",module,Magento_Customer
 "If you believe this is an error, please contact us at %1","If you believe this is an error, please contact us at %1",module,Magento_Customer
+"This website is excluded from customer's group.","This website is excluded from customer's group.",module,Magento_Customer
 "No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Customer
 Male,Male,module,Magento_Customer
 Female,Female,module,Magento_Customer
@@ -2406,6 +2976,7 @@ Store,Store,module,Magento_Customer
 Change,Change,module,Magento_Customer
 "Manage Addresses","Manage Addresses",module,Magento_Customer
 "Default Shipping Address","Default Shipping Address",module,Magento_Customer
+"Account Information","Account Information",module,Magento_Customer
 "Contact Information","Contact Information",module,Magento_Customer
 "Change Password","Change Password",module,Magento_Customer
 Newsletters,Newsletters,module,Magento_Customer
@@ -2861,6 +3432,7 @@ hello,hello,module,Magento_Eav
 "Some internal exception message.","Some internal exception message.",module,Magento_Eav
 "The value of attribute not valid","The value of attribute not valid",module,Magento_Eav
 "The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration.",module,Magento_Elasticsearch6
+"Mapper %1 should implement %2","Mapper %1 should implement %2",module,Magento_Elasticsearch7
 "The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration.",module,Magento_Elasticsearch7
 "The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration.",module,Magento_Elasticsearch
 "There is no such data mapper ""%1"" for interface %2","There is no such data mapper ""%1"" for interface %2",module,Magento_Elasticsearch
@@ -2920,6 +3492,7 @@ Unknown,Unknown,module,Magento_Email
 "Error filtering template: %s","Error filtering template: %s",module,Magento_Email
 "We're sorry, an error has occurred while generating this content.","We're sorry, an error has occurred while generating this content.",module,Magento_Email
 "Invalid sender data","Invalid sender data",module,Magento_Email
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later.",module,Magento_Email
 Title,Title,module,Magento_Email
 expectedResult,expectedResult,module,Magento_Email
 "Load Default Template","Load Default Template",module,Magento_Email
@@ -3044,6 +3617,7 @@ Constant,Constant,module,Magento_GoogleAdwords
 "Grouped Products","Grouped Products",module,Magento_GroupedProduct
 "Please specify the quantity of product(s).","Please specify the quantity of product(s).",module,Magento_GroupedProduct
 "Cannot process the item.","Cannot process the item.",module,Magento_GroupedProduct
+"Please specify id and qty for grouped options.","Please specify id and qty for grouped options.",module,Magento_GroupedProduct
 "Add Products to Group","Add Products to Group",module,Magento_GroupedProduct
 Cancel,Cancel,module,Magento_GroupedProduct
 "Add Selected Products","Add Selected Products",module,Magento_GroupedProduct
@@ -3219,7 +3793,6 @@ Ready,Ready,module,Magento_Indexer
 Processing,Processing,module,Magento_Indexer
 Never,Never,module,Magento_Indexer
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time",module,Magento_Indexer
-"exception: %message","exception: %message",module,Magento_Indexer
 "%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
 "Index Management","Index Management",module,Magento_Indexer
 "Please select indexers.","Please select indexers.",module,Magento_Indexer
@@ -3229,6 +3802,7 @@ Never,Never,module,Magento_Indexer
 "We couldn't invalidate indexer(s) because of an error.","We couldn't invalidate indexer(s) because of an error.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indexer(s) are in ""Update on Save"" mode.",module,Magento_Indexer
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.",module,Magento_Indexer
+"Child process failed with message: %1","Child process failed with message: %1",module,Magento_Indexer
 "State for the same indexer","State for the same indexer",module,Magento_Indexer
 "State for the same view","State for the same view",module,Magento_Indexer
 "Field '%1' not found","Field '%1' not found",module,Magento_Indexer
@@ -3363,8 +3937,8 @@ List,List,module,Magento_InventoryAdminUi
 "A total of %1 source(s) have been enabled.","A total of %1 source(s) have been enabled.",module,Magento_InventoryAdminUi
 "A total of %1 source(s) already enabled.","A total of %1 source(s) already enabled.",module,Magento_InventoryAdminUi
 "New Source","New Source",module,Magento_InventoryAdminUi
-"The Source has been saved.","The Source has been saved.",module,Magento_InventoryAdminUi
 "Could not save Source.","Could not save Source.",module,Magento_InventoryAdminUi
+"The Source has been saved.","The Source has been saved.",module,Magento_InventoryAdminUi
 "The Stock has been deleted.","The Stock has been deleted.",module,Magento_InventoryAdminUi
 "Edit Stock","Edit Stock",module,Magento_InventoryAdminUi
 "Edit Stock: %name","Edit Stock: %name",module,Magento_InventoryAdminUi
@@ -3399,7 +3973,7 @@ List,List,module,Magento_InventoryAdminUi
 "Bulk operation was successful: %count unassignments.","Bulk operation was successful: %count unassignments.",module,Magento_InventoryCatalogAdminUi
 "In Stock","In Stock",module,Magento_InventoryCatalogAdminUi
 "Out of Stock","Out of Stock",module,Magento_InventoryCatalogAdminUi
-"<strong>NOTE</strong>: Assign sources is disabled for default stock","<strong>NOTE</strong>: Assign sources is disabled for default stock",module,Magento_InventoryCatalogAdminUi
+"Assign sources is disabled for default stock","Assign sources is disabled for default stock",module,Magento_InventoryCatalogAdminUi
 "Disabled for default stock","Disabled for default stock",module,Magento_InventoryCatalogAdminUi
 "Quantity per Source","Quantity per Source",module,Magento_InventoryCatalogAdminUi
 "Products will be added to new sources with 0 quantity.","Products will be added to new sources with 0 quantity.",module,Magento_InventoryCatalogAdminUi
@@ -3585,7 +4159,7 @@ Stock,Stock,module,Magento_InventoryProductAlert
 "Condition has to implement IsProductSalableInterface.","Condition has to implement IsProductSalableInterface.",module,Magento_InventorySales
 "Backorders are disabled","Backorders are disabled",module,Magento_InventorySales
 "There are no source items with the in stock status","There are no source items with the in stock status",module,Magento_InventorySales
-"The fewest you may purchase is %1","The fewest you may purchase is %1",module,Magento_InventorySales
+"The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_InventorySales
 "The requested qty exceeds the maximum qty allowed in shopping cart","The requested qty exceeds the maximum qty allowed in shopping cart",module,Magento_InventorySales
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_InventorySales
 "You cannot use decimal quantity for this product.","You cannot use decimal quantity for this product.",module,Magento_InventorySales
@@ -3623,9 +4197,9 @@ Source:,Source:,module,Magento_InventoryShippingAdminUi
 "Could not load Sources for Stock","Could not load Sources for Stock",module,Magento_Inventory
 "Validation Failed","Validation Failed",module,Magento_Inventory
 "Could not save Source","Could not save Source",module,Magento_Inventory
+"Could not save Source Item","Could not save Source Item",module,Magento_Inventory
 "Input data is empty","Input data is empty",module,Magento_Inventory
 "'Validation Failed: ' .","'Validation Failed: ' .",module,Magento_Inventory
-"Could not save Source Item","Could not save Source Item",module,Magento_Inventory
 "Could not delete Source Items","Could not delete Source Items",module,Magento_Inventory
 """%field"" should a known status.","""%field"" should a known status.",module,Magento_Inventory
 "There is no stock with ""%fieldValue"" for ""%fieldName"". Verify and try again.","There is no stock with ""%fieldValue"" for ""%fieldName"". Verify and try again.",module,Magento_Inventory
@@ -3824,7 +4398,7 @@ Synchronizing...,Synchronizing...,module,Magento_MediaStorage
 "The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again.",module,Magento_MediaStorage
 "File %1 is not readable","File %1 is not readable",module,Magento_MediaStorage
 "File System","File System",module,Magento_MediaStorage
-Database,Database,module,Magento_MediaStorage
+"Database (Deprecated)","Database (Deprecated)",module,Magento_MediaStorage
 "Sorry, something went wrong during image resize. Please see log for details.","Sorry, something went wrong during image resize. Please see log for details.",module,Magento_MediaStorage
 "database ""%1""","database ""%1""",module,Magento_MediaStorage
 "Parent directory does not exist: %1","Parent directory does not exist: %1",module,Magento_MediaStorage
@@ -4112,6 +4686,53 @@ None,None,module,Magento_OfflineShipping
 No,No,module,Magento_OfflineShipping
 "For matching items only","For matching items only",module,Magento_OfflineShipping
 "For shipment with matching items","For shipment with matching items",module,Magento_OfflineShipping
+Cancel,Cancel,module,Magento_PageBuilder
+Close,Close,module,Magento_PageBuilder
+Save,Save,module,Magento_PageBuilder
+"Are You Sure You Want to Turn Off Page Builder?","Are You Sure You Want to Turn Off Page Builder?",module,Magento_PageBuilder
+button_label,button_label,module,Magento_PageBuilder
+valid_label,valid_label,module,Magento_PageBuilder
+invalid_label,invalid_label,module,Magento_PageBuilder
+"Product data may be lost","Product data may be lost",module,Magento_PageBuilder
+"Changing the Input Type may result in product data loss. Proceed with caution.","Changing the Input Type may result in product data loss. Proceed with caution.",module,Magento_PageBuilder
+"You must provide a valid <a href='%1' target='_blank'>Google Maps API key</a> to use a map.","You must provide a valid <a href='%1' target='_blank'>Google Maps API key</a> to use a map.",module,Magento_PageBuilder
+"File validation failed.","File validation failed.",module,Magento_PageBuilder
+"Template successfully deleted.","Template successfully deleted.",module,Magento_PageBuilder
+"An error occurred while trying to delete this template.","An error occurred while trying to delete this template.",module,Magento_PageBuilder
+CMS,CMS,module,Magento_PageBuilder
+Templates,Templates,module,Magento_PageBuilder
+"Unable to upload image.","Unable to upload image.",module,Magento_PageBuilder
+"Template was successfully saved.","Template was successfully saved.",module,Magento_PageBuilder
+"A required field is missing.","A required field is missing.",module,Magento_PageBuilder
+"A template with this name already exists.","A template with this name already exists.",module,Magento_PageBuilder
+"Unable to get properties from image.","Unable to get properties from image.",module,Magento_PageBuilder
+"%1 doesn't implement OptionInterface","%1 doesn't implement OptionInterface",module,Magento_PageBuilder
+"Block with ID: %s doesn't exist","Block with ID: %s doesn't exist",module,Magento_PageBuilder
+"Block disabled","Block disabled",module,Magento_PageBuilder
+"Could not save the template: %1","Could not save the template: %1",module,Magento_PageBuilder
+"Template with id ""%1"" does not exist.","Template with id ""%1"" does not exist.",module,Magento_PageBuilder
+"Could not delete the Template: %1","Could not delete the Template: %1",module,Magento_PageBuilder
+"Invalid IFRAME source provided","Invalid IFRAME source provided",module,Magento_PageBuilder
+Active,Active,module,Magento_PageBuilder
+Inactive,Inactive,module,Magento_PageBuilder
+Delete,Delete,module,Magento_PageBuilder
+"Delete %1?","Delete %1?",module,Magento_PageBuilder
+"Are you sure you want to permanently delete template %1?","Are you sure you want to permanently delete template %1?",module,Magento_PageBuilder
+Page,Page,module,Magento_PageBuilder
+"Page Name","Page Name",module,Magento_PageBuilder
+"Page with ID: %s doesn't exist","Page with ID: %s doesn't exist",module,Magento_PageBuilder
+"ID: %s","ID: %s",module,Magento_PageBuilder
+"This will change your Admin and storefront by:","This will change your Admin and storefront by:",module,Magento_PageBuilder
+"Removing PageBuilder's advanced content tools","Removing PageBuilder's advanced content tools",module,Magento_PageBuilder
+"from their assigned text fields and adding a basic text editor as replacement.","from their assigned text fields and adding a basic text editor as replacement.",module,Magento_PageBuilder
+"Potentially creating display errors on your storefront","Potentially creating display errors on your storefront",module,Magento_PageBuilder
+", due to content reformatting. Also, some content may no longer be editable from within the Admin.",", due to content reformatting. Also, some content may no longer be editable from within the Admin.",module,Magento_PageBuilder
+label,label,module,Magento_PageBuilder
+"Add to Cart","Add to Cart",module,Magento_PageBuilder
+"In stock","In stock",module,Magento_PageBuilder
+"Out of stock","Out of stock",module,Magento_PageBuilder
+"Add to Wish List","Add to Wish List",module,Magento_PageBuilder
+"Add to Compare","Add to Compare",module,Magento_PageBuilder
 "Export VCL for Varnish %1","Export VCL for Varnish %1",module,Magento_PageCache
 "Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Access List value ""%1"" is not valid. Please use only IP addresses and host names.",module,Magento_PageCache
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.",module,Magento_PageCache
@@ -4533,6 +5154,21 @@ Daily,Daily,module,Magento_Paypal
 "Every 30 days","Every 30 days",module,Magento_Paypal
 "Every 40 days","Every 40 days",module,Magento_Paypal
 "No Logo","No Logo",module,Magento_Paypal
+White,White,module,Magento_Paypal
+"White No Border","White No Border",module,Magento_Paypal
+Gray,Gray,module,Magento_Paypal
+Monochrome,Monochrome,module,Magento_Paypal
+Grayscale,Grayscale,module,Magento_Paypal
+Left,Left,module,Magento_Paypal
+Right,Right,module,Magento_Paypal
+Top,Top,module,Magento_Paypal
+Primary,Primary,module,Magento_Paypal
+Alternative,Alternative,module,Magento_Paypal
+Inline,Inline,module,Magento_Paypal
+None,None,module,Magento_Paypal
+Sidebar,Sidebar,module,Magento_Paypal
+Text,Text,module,Magento_Paypal
+Flex,Flex,module,Magento_Paypal
 "Yes (PayPal recommends this option)","Yes (PayPal recommends this option)",module,Magento_Paypal
 "Created billing agreement #%1.","Created billing agreement #%1.",module,Magento_Paypal
 "We can't create a billing agreement for this order.","We can't create a billing agreement for this order.",module,Magento_Paypal
@@ -4587,7 +5223,6 @@ Create...,Create...,module,Magento_Paypal
 "Your billing agreement # is: ","Your billing agreement # is: ",module,Magento_Paypal
 "Shipping Method","Shipping Method",module,Magento_Paypal
 "Please select a shipping method...","Please select a shipping method...",module,Magento_Paypal
-"Update Shipping Method","Update Shipping Method",module,Magento_Paypal
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Paypal
 "Shipping Address","Shipping Address",module,Magento_Paypal
 Edit,Edit,module,Magento_Paypal
@@ -4823,11 +5458,12 @@ Important:,Important:,module,Magento_ReCaptchaAdminUi
 "Validation config provider for ""%type"" is not configured.","Validation config provider for ""%type"" is not configured.",module,Magento_ReCaptchaUi
 "reCAPTCHA '%1' form error: %2","reCAPTCHA '%1' form error: %2",module,Magento_ReCaptchaUser
 "Password Reset Confirmation for %1","Password Reset Confirmation for %1",module,Magento_ReCaptchaUser
+"ReCaptcha validation failed, please try again","ReCaptcha validation failed, please try again",module,Magento_ReCaptchaWebapiGraphQl
+"ReCaptcha validation failed, please try again","ReCaptcha validation failed, please try again",module,Magento_ReCaptchaWebapiRest
+"Operation is available only to integrations","Operation is available only to integrations",module,Magento_ReCaptchaWebapiRest
 """model"" value should be specified","""model"" value should be specified",module,Magento_RelatedProductGraphQl
 "It is impossible to log user action","It is impossible to log user action",module,Magento_ReleaseNotification
 "Error message","Error message",module,Magento_ReleaseNotification
-"Predis client is not installed","Predis client is not installed",module,Magento_RemoteStorage
-"Cache adapter %1 is not supported","Cache adapter %1 is not supported",module,Magento_RemoteStorage
 "Driver ""%1"" does not exist","Driver ""%1"" does not exist",module,Magento_RemoteStorage
 "Remote driver is not available.","Remote driver is not available.",module,Magento_RemoteStorage
 "New Accounts","New Accounts",module,Magento_Reports
@@ -5267,6 +5903,7 @@ Numeric,Numeric,module,Magento_SalesRule
 "Specified rule only allows auto generated coupons","Specified rule only allows auto generated coupons",module,Magento_SalesRule
 "Specified rule does not allow auto generated coupons","Specified rule does not allow auto generated coupons",module,Magento_SalesRule
 "Error occurred when saving coupon: %1","Error occurred when saving coupon: %1",module,Magento_SalesRule
+"Sorry, something went wrong during rule usage update. Please see log for details.","Sorry, something went wrong during rule usage update. Please see log for details.",module,Magento_SalesRule
 "Discount (%1)","Discount (%1)",module,Magento_SalesRule
 Discount,Discount,module,Magento_SalesRule
 "Coupon with the same code","Coupon with the same code",module,Magento_SalesRule
@@ -5329,6 +5966,7 @@ Inactive,Inactive,module,Magento_SalesRule
 "Specified rule does not allow automatic coupon generation","Specified rule does not allow automatic coupon generation",module,Magento_SalesRule
 "Error occurred when generating coupons: %1","Error occurred when generating coupons: %1",module,Magento_SalesRule
 "Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
+"Rule processing: %1","Rule processing: %1",module,Magento_SalesRule
 "Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
 "The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_SalesRule
@@ -5562,6 +6200,7 @@ Sales,Sales,module,Magento_Sales
 "We can't void the credit memo.","We can't void the credit memo.",module,Magento_Sales
 "The order no longer exists.","The order no longer exists.",module,Magento_Sales
 "We can't create credit memo for the order.","We can't create credit memo for the order.",module,Magento_Sales
+"This creditmemo no longer exists.","This creditmemo no longer exists.",module,Magento_Sales
 "Edit Order","Edit Order",module,Magento_Sales
 "You sent the order email.","You sent the order email.",module,Magento_Sales
 "We can't send the email order right now.","We can't send the email order right now.",module,Magento_Sales
@@ -5832,6 +6471,7 @@ Closed,Closed,module,Magento_Sales
 "Suspected Fraud","Suspected Fraud",module,Magento_Sales
 "Payment Review","Payment Review",module,Magento_Sales
 New,New,module,Magento_Sales
+"This product is out of stock.","This product is out of stock.",module,Magento_Sales
 "Product doesn't exist","Product doesn't exist",module,Magento_Sales
 "test message","test message",module,Magento_Sales
 "Email has not been sent","Email has not been sent",module,Magento_Sales
@@ -5861,7 +6501,7 @@ Remove,Remove,module,Magento_Sales
 "Same As Billing Address","Same As Billing Address",module,Magento_Sales
 "Select from existing customer addresses:","Select from existing customer addresses:",module,Magento_Sales
 "Add New Address","Add New Address",module,Magento_Sales
-"Save in address book","Save in address book",module,Magento_Sales
+"Add to address book","Add to address book",module,Magento_Sales
 "You don't need to select a shipping address.","You don't need to select a shipping address.",module,Magento_Sales
 "Gift Message for the Entire Order","Gift Message for the Entire Order",module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_Sales
@@ -6075,6 +6715,7 @@ View/Edit,View/Edit,module,Magento_Search
 "All Store Views","All Store Views",module,Magento_Search
 "Search entire store here...","Search entire store here...",module,Magento_Search
 "There are no search terms available.","There are no search terms available.",module,Magento_Search
+modal_title_text,modal_title_text,module,Magento_Security
 "Account Activity","Account Activity",module,Magento_Security
 "All other open sessions for this account were terminated.","All other open sessions for this account were terminated.",module,Magento_Security
 "We couldn't logout because of an error.","We couldn't logout because of an error.",module,Magento_Security
@@ -6100,6 +6741,9 @@ None,None,module,Magento_Security
 "Are you sure that you want to log out all other sessions?","Are you sure that you want to log out all other sessions?",module,Magento_Security
 "Log out all other sessions","Log out all other sessions",module,Magento_Security
 "This computer is using IP address %1.","This computer is using IP address %1.",module,Magento_Security
+Warning,Warning,module,Magento_Security
+": You are about to set max session size in admin to be lower than recommended default session size. Low max session size in admin could break admin functionalities such as admin panel login. Are you sure you want to make this change?",": You are about to set max session size in admin to be lower than recommended default session size. Low max session size in admin could break admin functionalities such as admin panel login. Are you sure you want to make this change?",module,Magento_Security
+": You are about to set max session size in storefront to be lower than  recommended default session size. Low max session size in storefront could break storefront functionalities such as customer login. Are you sure you want to make this change?",": You are about to set max session size in storefront to be lower than  recommended default session size. Low max session size in storefront could break storefront functionalities such as customer login. Are you sure you want to make this change?",module,Magento_Security
 "URL should be in correct format and must start with HTTPS.","URL should be in correct format and must start with HTTPS.",module,Magento_Securitytxt
 "Read instructions on how to generate signature","Read instructions on how to generate signature",module,Magento_Securitytxt
 "The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_SendFriendGraphQl
@@ -6184,6 +6828,7 @@ Shipments,Shipments,module,Magento_Shipping
 """Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" .",module,Magento_Shipping
 "The shipment has been created.","The shipment has been created.",module,Magento_Shipping
 "Cannot save shipment.","Cannot save shipment.",module,Magento_Shipping
+"This shipment no longer exists.","This shipment no longer exists.",module,Magento_Shipping
 "The order no longer exists.","The order no longer exists.",module,Magento_Shipping
 "Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice.",module,Magento_Shipping
 "Cannot do shipment for the order.","Cannot do shipment for the order.",module,Magento_Shipping
@@ -6363,8 +7008,6 @@ All,All,module,Magento_Sitemap
 "Store with the same code","Store with the same code",module,Magento_Store
 "Website with the same code","Website with the same code",module,Magento_Store
 "Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
-"Name is required","Name is required",module,Magento_Store
-"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
 "Store is inactive","Store is inactive",module,Magento_Store
 "Invalid store parameter.","Invalid store parameter.",module,Magento_Store
 "Default store is inactive","Default store is inactive",module,Magento_Store
@@ -6373,6 +7016,8 @@ All,All,module,Magento_Sitemap
 "All Store Views","All Store Views",module,Magento_Store
 "-- Please Select --","-- Please Select --",module,Magento_Store
 Admin,Admin,module,Magento_Store
+"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
+"Name is required","Name is required",module,Magento_Store
 "The default website isn't defined. Set the website and try again.","The default website isn't defined. Set the website and try again.",module,Magento_Store
 "The default website is invalid. Make sure no more than one default is defined and try again.","The default website is invalid. Make sure no more than one default is defined and try again.",module,Magento_Store
 "no such entity exception","no such entity exception",module,Magento_Store
@@ -6864,6 +7509,8 @@ label,label,module,Magento_Ups
 """url"" argument should be specified and not empty","""url"" argument should be specified and not empty",module,Magento_UrlRewriteGraphQl
 "No such entity found with matching URL key: %url","No such entity found with matching URL key: %url",module,Magento_UrlRewriteGraphQl
 """model"" value should be specified","""model"" value should be specified",module,Magento_UrlRewriteGraphQl
+"Missing key %1 in product data","Missing key %1 in product data",module,Magento_UrlRewriteGraphQl
+"Concrete type for %1 not implemented","Concrete type for %1 not implemented",module,Magento_UrlRewriteGraphQl
 "Edit URL Rewrite for a Category","Edit URL Rewrite for a Category",module,Magento_UrlRewrite
 "Add URL Rewrite for a Category","Add URL Rewrite for a Category",module,Magento_UrlRewrite
 Category:,Category:,module,Magento_UrlRewrite
@@ -7180,6 +7827,7 @@ Yes,Yes,module,Magento_Variable
 "Base URL","Base URL",module,Magento_Variable
 "Secure Base URL","Secure Base URL",module,Magento_Variable
 Web,Web,module,Magento_Variable
+"HTML is invalid","HTML is invalid",module,Magento_Variable
 "The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_VaultGraphQl
 "Could not find a token using public hash: %1","Could not find a token using public hash: %1",module,Magento_VaultGraphQl
 "No token found.","No token found.",module,Magento_Vault
@@ -7195,11 +7843,13 @@ Type,Type,module,Magento_Vault
 ending,ending,module,Magento_Vault
 Actions,Actions,module,Magento_Vault
 Delete,Delete,module,Magento_Vault
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?",module,Magento_Vault
 "PayPal Account","PayPal Account",module,Magento_Vault
 "WebapiAsync config for ""%lookupKey"" does not exist.","WebapiAsync config for ""%lookupKey"" does not exist.",module,Magento_WebapiAsync
 "The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources.",module,Magento_Webapi
 "Operation allowed only in HTTPS","Operation allowed only in HTTPS",module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","Cannot perform GET operation with store code 'all'",module,Magento_Webapi
+"'The current request does not expect the next parameters: ' .","'The current request does not expect the next parameters: ' .",module,Magento_Webapi
 "Specified request cannot be processed.","Specified request cannot be processed.",module,Magento_Webapi
 "Request does not match any route.","Request does not match any route.",module,Magento_Webapi
 "Not allowed parameters: %1. Please use only %2 and %3.","Not allowed parameters: %1. Please use only %2 and %3.",module,Magento_Webapi
@@ -7268,7 +7918,6 @@ Products,Products,module,Magento_Widget
 "All Pages","All Pages",module,Magento_Widget
 "Specified Page","Specified Page",module,Magento_Widget
 "Add Layout Update","Add Layout Update",module,Magento_Widget
-"Remove Layout Update","Remove Layout Update",module,Magento_Widget
 "Widget Options","Widget Options",module,Magento_Widget
 Settings,Settings,module,Magento_Widget
 "Design Theme","Design Theme",module,Magento_Widget
@@ -7290,6 +7939,7 @@ description,description,module,Magento_Widget
 "We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information.",module,Magento_Widget
 "Layout update is invalid","Layout update is invalid",module,Magento_Widget
 None,None,module,Magento_Widget
+"Remove Layout Update","Remove Layout Update",module,Magento_Widget
 %1,%1,module,Magento_Widget
 Container,Container,module,Magento_Widget
 Template,Template,module,Magento_Widget
@@ -7305,7 +7955,15 @@ Page,Page,module,Magento_Widget
 "Missing key ""model"" in Wishlist Item value data","Missing key ""model"" in Wishlist Item value data",module,Magento_WishlistGraphQl
 """model"" should be a ""%instance"" instance","""model"" should be a ""%instance"" instance",module,Magento_WishlistGraphQl
 "Product ""%product_type"" type is not supported","Product ""%product_type"" type is not supported",module,Magento_WishlistGraphQl
+"The wishlist configuration is currently disabled","The wishlist configuration is currently disabled",module,Magento_WishlistGraphQl
+"Could not find the specified wishlist","Could not find the specified wishlist",module,Magento_WishlistGraphQl
+"""wishlistId"" value should be specified","""wishlistId"" value should be specified",module,Magento_WishlistGraphQl
+"The wishlist item ids ""' . . '"" were not found.","The wishlist item ids ""' . . '"" were not found.",module,Magento_WishlistGraphQl
 "Missing key ""model"" in Wishlist value data","Missing key ""model"" in Wishlist value data",module,Magento_WishlistGraphQl
+"The wishlist item with ID ""%1"" does not belong to the wishlist","The wishlist item with ID ""%1"" does not belong to the wishlist",module,Magento_WishlistGraphQl
+"The quantity of a wishlist item cannot be 0","The quantity of a wishlist item cannot be 0",module,Magento_WishlistGraphQl
+"Could not find product for the wishlist item with ID ""%1""","Could not find product for the wishlist item with ID ""%1""",module,Magento_WishlistGraphQl
+"Could not prepare product for the wishlist item with ID %1","Could not prepare product for the wishlist item with ID %1",module,Magento_WishlistGraphQl
 "Wish List","Wish List",module,Magento_Wishlist
 "Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
 "My Wish List","My Wish List",module,Magento_Wishlist
@@ -7480,6 +8138,8 @@ PayPal,PayPal,module,PayPal_Braintree
 "'No response from request to ' .","'No response from request to ' .",module,PayPal_Braintree
 "'Error returned with request to ' . . '. Error: ' .","'Error returned with request to ' . . '. Error: ' .",module,PayPal_Braintree
 "Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,PayPal_Braintree
+"reCAPTCHA validation error: %1","reCAPTCHA validation error: %1",module,PayPal_Braintree
+"Validation config provider for ""%type"" is not configured.","Validation config provider for ""%type"" is not configured.",module,PayPal_Braintree
 "PayPal Credit","PayPal Credit",module,PayPal_Braintree
 "PayPal PayLater","PayPal PayLater",module,PayPal_Braintree
 "Credit Card Number","Credit Card Number",module,PayPal_Braintree
@@ -7518,14 +8178,22 @@ Delete,Delete,module,PayPal_Braintree
 "Validate &amp; Save","Validate &amp; Save",module,Vertex_AddressValidation
 "Save As Is","Save As Is",module,Vertex_AddressValidation
 "Update &amp; Save","Update &amp; Save",module,Vertex_AddressValidation
+"Could not successfully delete record(s)","Could not successfully delete record(s)",module,Vertex_RequestLogging
+"Failed to write crontab expression.","Failed to write crontab expression.",module,Vertex_RequestLogging
+"Export to file and delete","Export to file and delete",module,Vertex_RequestLogging
+Delete,Delete,module,Vertex_RequestLogging
+"Cannot write log entry because no export file is open.","Cannot write log entry because no export file is open.",module,Vertex_RequestLogging
+"Could not save Log Entry","Could not save Log Entry",module,Vertex_RequestLogging
+"Could not delete log entry","Could not delete log entry",module,Vertex_RequestLogging
+"Could not delete log entries","Could not delete log entries",module,Vertex_RequestLogging
+"%1 could not delete log entries","%1 could not delete log entries",module,Vertex_RequestLogging
 "Field ID","Field ID",module,Vertex_Tax
 "Data Source","Data Source",module,Vertex_Tax
 Country,Country,module,Vertex_Tax
 "Delivery Term","Delivery Term",module,Vertex_Tax
 Add,Add,module,Vertex_Tax
-N/A,N/A,module,Vertex_Tax
 "Learn more","Learn more",module,Vertex_Tax
-"Could not successfully delete record(s)","Could not successfully delete record(s)",module,Vertex_Tax
+"Could not successfully load wsdl","Could not successfully load wsdl",module,Vertex_Tax
 "Could not convert object to array","Could not convert object to array",module,Vertex_Tax
 "Unable to calculate taxes. This could be caused by an invalid address provided in checkout.","Unable to calculate taxes. This could be caused by an invalid address provided in checkout.",module,Vertex_Tax
 "Sales and Use","Sales and Use",module,Vertex_Tax
@@ -7554,8 +8222,6 @@ Shipping,Shipping,module,Vertex_Tax
 "%1 - Free Carrier","%1 - Free Carrier",module,Vertex_Tax
 "%1 - Free Onboard Vessel","%1 - Free Onboard Vessel",module,Vertex_Tax
 "%1 - Supplier Ships","%1 - Supplier Ships",module,Vertex_Tax
-"Export to file and delete","Export to file and delete",module,Vertex_Tax
-Delete,Delete,module,Vertex_Tax
 "Product and Shipping","Product and Shipping",module,Vertex_Tax
 Jurisdiction,Jurisdiction,module,Vertex_Tax
 "Invoice Created","Invoice Created",module,Vertex_Tax
@@ -7576,6 +8242,7 @@ Price,Price,module,Vertex_Tax
 Product,Product,module,Vertex_Tax
 "Store ID","Store ID",module,Vertex_Tax
 "Cannot write log entry because no export file is open.","Cannot write log entry because no export file is open.",module,Vertex_Tax
+N/A,N/A,module,Vertex_Tax
 "Tax/VAT number provided but no Country was specified.","Tax/VAT number provided but no Country was specified.",module,Vertex_Tax
 "Vertex Customer Code","Vertex Customer Code",module,Vertex_Tax
 "VAT Registration Country","VAT Registration Country",module,Vertex_Tax
@@ -7589,14 +8256,10 @@ Product,Product,module,Vertex_Tax
 "Unable to save Customer Country","Unable to save Customer Country",module,Vertex_Tax
 "Unable to save Invoice Sent status","Unable to save Invoice Sent status",module,Vertex_Tax
 "Unable to delete Invoice Sent status","Unable to delete Invoice Sent status",module,Vertex_Tax
-"Could not save Log Entry","Could not save Log Entry",module,Vertex_Tax
-"Could not delete log entry","Could not delete log entry",module,Vertex_Tax
-"Could not delete log entries","Could not delete log entries",module,Vertex_Tax
 "Unable to save Order Invoice Sent status","Unable to save Order Invoice Sent status",module,Vertex_Tax
 "Unable to delete Order Invoice Sent status","Unable to delete Order Invoice Sent status",module,Vertex_Tax
 "Unable to delete Vat Country Code","Unable to delete Vat Country Code",module,Vertex_Tax
 "Unable to save Vat Country Code","Unable to save Vat Country Code",module,Vertex_Tax
-"%1 could not delete log entries","%1 could not delete log entries",module,Vertex_Tax
 "Could not submit invoice to Vertex.","Could not submit invoice to Vertex.",module,Vertex_Tax
 "Could not submit refund to Vertex.","Could not submit refund to Vertex.",module,Vertex_Tax
 "Could not save Vertex invoice refund comment","Could not save Vertex invoice refund comment",module,Vertex_Tax
@@ -7674,6 +8337,9 @@ Login,Login,module,Amazon_Payment
 "Hello %firstname","Hello %firstname",module,Dotdigitalgroup_Email
 "Some errors have been detected in the Magento instance %base_url.","Some errors have been detected in the Magento instance %base_url.",module,Dotdigitalgroup_Email
 "Here's more detail:","Here's more detail:",module,Dotdigitalgroup_Email
+%merchant_name,%merchant_name,module,Klarna_Core
+%api_key,%api_key,module,Klarna_Core
+"Delete image","Delete image",module,Klarna_Core
 "Place Order","Place Order",module,Klarna_Kp
 "System Messages","System Messages",module,Magento_AdminNotification
 Previous,Previous,module,Magento_AdobeStockImageAdminUi
@@ -7696,6 +8362,8 @@ Remove,Remove,module,Magento_AdobeStockImageAdminUi
 "User agent exceptions override product and CMS pages rules.","User agent exceptions override product and CMS pages rules.",module,Magento_Backend
 "Search strings are either normal strings or regular expressions (PCRE). They are matched in the same order as entered.","Search strings are either normal strings or regular expressions (PCRE). They are matched in the same order as entered.",module,Magento_Backend
 Examples,Examples,module,Magento_Backend
+"Previous Page","Previous Page",module,Magento_Backend
+"Next Page","Next Page",module,Magento_Backend
 "Use Default Value","Use Default Value",module,Magento_Backend
 "Attention: Captcha is case sensitive.","Attention: Captcha is case sensitive.",module,Magento_Captcha
 "Selected Attributes\:","Selected Attributes\:",module,Magento_Catalog
@@ -7715,11 +8383,17 @@ Total:,Total:,module,Magento_Checkout
 "Email Address","Email Address",module,Magento_Checkout
 Password,Password,module,Magento_Checkout
 "Forgot Your Password?","Forgot Your Password?",module,Magento_Checkout
+or,or,module,Magento_Checkout
+"* Required Fields","* Required Fields",module,Magento_Checkout
 "My billing and shipping address are the same","My billing and shipping address are the same",module,Magento_Checkout
 Update,Update,module,Magento_Checkout
 Cancel,Cancel,module,Magento_Checkout
 "Save in address book","Save in address book",module,Magento_Checkout
 "Billing Address","Billing Address",module,Magento_Checkout
+"Enter your billing address to get a tax estimate.","Enter your billing address to get a tax estimate.",module,Magento_Checkout
+"Enter your destination to get a shipping estimate.","Enter your destination to get a shipping estimate.",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
+Total,Total,module,Magento_Checkout
 "Estimated Total","Estimated Total",module,Magento_Checkout
 "You can create an account after checkout.","You can create an account after checkout.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_Checkout
@@ -7733,6 +8407,7 @@ of,of,module,Magento_Checkout
 "See Details","See Details",module,Magento_Checkout
 "Options Details","Options Details",module,Magento_Checkout
 Remove,Remove,module,Magento_Checkout
+"Edit item","Edit item",module,Magento_Checkout
 "Cart Subtotal","Cart Subtotal",module,Magento_Checkout
 "No Payment Methods","No Payment Methods",module,Magento_Checkout
 "Payment Information","Payment Information",module,Magento_Checkout
@@ -7752,9 +8427,12 @@ edit,edit,module,Magento_Checkout
 "New Address","New Address",module,Magento_Checkout
 "Shipping Methods","Shipping Methods",module,Magento_Checkout
 Next,Next,module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
 "Order Summary","Order Summary",module,Magento_Checkout
 "View Details","View Details",module,Magento_Checkout
+"Disable Product","Disable Product",module,Magento_ConfigurableProduct
+"Enable Product","Enable Product",module,Magento_ConfigurableProduct
+Enabled,Enabled,module,Magento_ConfigurableProduct
+Disabled,Disabled,module,Magento_ConfigurableProduct
 "Contact Form","Contact Form",module,Magento_Contact
 Phone,Phone,module,Magento_Contact
 Message,Message,module,Magento_Contact
@@ -7794,6 +8472,7 @@ Password:,Password:,module,Magento_Customer
 "Check out faster","Check out faster",module,Magento_Customer
 "Checkout using your account","Checkout using your account",module,Magento_Customer
 "Email Address","Email Address",module,Magento_Customer
+"Show Password","Show Password",module,Magento_Customer
 "Currency Update Warnings","Currency Update Warnings",module,Magento_Directory
 Footer,Footer,module,Magento_Email
 "Thank you, %store_name","Thank you, %store_name",module,Magento_Email
@@ -7807,6 +8486,9 @@ Update,Update,module,Magento_GiftMessage
 Edit,Edit,module,Magento_GiftMessage
 Delete,Delete,module,Magento_GiftMessage
 "Assigned Sources:","Assigned Sources:",module,Magento_InventoryAdminUi
+"Source code: ","Source code: ",module,Magento_InventoryCatalogAdminUi
+Enabled,Enabled,module,Magento_InventoryCatalogAdminUi
+Disabled,Disabled,module,Magento_InventoryCatalogAdminUi
 "Quantity per Source:","Quantity per Source:",module,Magento_InventoryCatalogAdminUi
 Shipping,Shipping,module,Magento_InventoryInStorePickupFrontend
 "Pick in Store","Pick in Store",module,Magento_InventoryInStorePickupFrontend
@@ -7830,6 +8512,7 @@ Search,Search,module,Magento_InventoryInStorePickupFrontend
 "Please provide postcode or city name to find nearest pickup locations.","Please provide postcode or city name to find nearest pickup locations.",module,Magento_InventoryInStorePickupFrontend
 "Location Details","Location Details",module,Magento_InventoryInStorePickupFrontend
 Action,Action,module,Magento_InventoryInStorePickupFrontend
+"Search with postcode or city name...","Search with postcode or city name...",module,Magento_InventoryInStorePickupFrontend
 "We could not preselect pickup location based on available information, please select it manually.","We could not preselect pickup location based on available information, please select it manually.",module,Magento_InventoryInStorePickupFrontend
 "Your %store_name order is ready for pickup","Your %store_name order is ready for pickup",module,Magento_InventoryInStorePickupSales
 "%customer_name,","%customer_name,",module,Magento_InventoryInStorePickupSales
@@ -7859,6 +8542,43 @@ Title,Title,module,Magento_MediaGalleryUi
 "Newsletter unsubscription success","Newsletter unsubscription success",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter.",module,Magento_Newsletter
 "Place Order","Place Order",module,Magento_OfflinePayments
+"Edit Banner Text","Edit Banner Text",module,Magento_PageBuilder
+"Grid Size","Grid Size",module,Magento_PageBuilder
+"Grid size determines the maximum number of columns available.","Grid size determines the maximum number of columns available.",module,Magento_PageBuilder
+"Select a value between 2 and","Select a value between 2 and",module,Magento_PageBuilder
+"Empty Column","Empty Column",module,Magento_PageBuilder
+"Edit Heading Text","Edit Heading Text",module,Magento_PageBuilder
+"Enter HTML, CSS or JavaScript code","Enter HTML, CSS or JavaScript code",module,Magento_PageBuilder
+"Drag Row, Columns, Tabs, Block, Dynamic Block or HTML Code here","Drag Row, Columns, Tabs, Block, Dynamic Block or HTML Code here",module,Magento_PageBuilder
+"Drag content types or columns here","Drag content types or columns here",module,Magento_PageBuilder
+"Edit Slide Text","Edit Slide Text",module,Magento_PageBuilder
+...,...,module,Magento_PageBuilder
+"Edit Text","Edit Text",module,Magento_PageBuilder
+"Previous Page","Previous Page",module,Magento_PageBuilder
+"Next Page","Next Page",module,Magento_PageBuilder
+Block,Block,module,Magento_PageBuilder
+"Not Selected","Not Selected",module,Magento_PageBuilder
+Status,Status,module,Magento_PageBuilder
+"Insert Widget...","Insert Widget...",module,Magento_PageBuilder
+"Insert Image...","Insert Image...",module,Magento_PageBuilder
+"Insert Variable...","Insert Variable...",module,Magento_PageBuilder
+Margin,Margin,module,Magento_PageBuilder
+Padding,Padding,module,Magento_PageBuilder
+Upload,Upload,module,Magento_PageBuilder
+"Select from Gallery","Select from Gallery",module,Magento_PageBuilder
+"Maximum file size","Maximum file size",module,Magento_PageBuilder
+"Allowed file types","Allowed file types",module,Magento_PageBuilder
+"Browse to find or drag image here","Browse to find or drag image here",module,Magento_PageBuilder
+"Delete image","Delete image",module,Magento_PageBuilder
+Select,Select,module,Magento_PageBuilder
+Selected,Selected,module,Magento_PageBuilder
+Apply,Apply,module,Magento_PageBuilder
+"Apply Template","Apply Template",module,Magento_PageBuilder
+"Save as Template","Save as Template",module,Magento_PageBuilder
+"Close Full Screen","Close Full Screen",module,Magento_PageBuilder
+"Open in Full Screen","Open in Full Screen",module,Magento_PageBuilder
+"View your content for ","View your content for ",module,Magento_PageBuilder
+Width,Width,module,Magento_PageBuilder
 "Place Order","Place Order",module,Magento_Payment
 "Forgot an Item?","Forgot an Item?",module,Magento_Payment
 "Edit Your Cart","Edit Your Cart",module,Magento_Payment
@@ -7877,6 +8597,7 @@ Title,Title,module,Magento_MediaGalleryUi
 "Enter discount code","Enter discount code",module,Magento_SalesRule
 "Apply Discount","Apply Discount",module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
+Cancel,Cancel,module,Magento_SalesRule
 "Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Thank you for your order from %store_name.",module,Magento_Sales
@@ -7932,8 +8653,13 @@ Password:,Password:,module,Magento_Theme
 Loading...,Loading...,module,Magento_TwoFactorAuth
 "2FA - U2F key device registration","2FA - U2F key device registration",module,Magento_TwoFactorAuth
 Delete,Delete,module,Magento_Ui
+"Previous Page","Previous Page",module,Magento_Ui
+"Next Page","Next Page",module,Magento_Ui
+"per page","per page",module,Magento_Ui
 "This element contains invalid data. Please resolve this before saving.","This element contains invalid data. Please resolve this before saving.",module,Magento_Ui
 "Use Default Value","Use Default Value",module,Magento_Ui
+Yes,Yes,module,Magento_Ui
+No,No,module,Magento_Ui
 Upload,Upload,module,Magento_Ui
 "Select from Gallery","Select from Gallery",module,Magento_Ui
 "Maximum file size","Maximum file size",module,Magento_Ui
@@ -7951,7 +8677,10 @@ Options,Options,module,Magento_Ui
 Assign,Assign,module,Magento_Ui
 "Save View As...","Save View As...",module,Magento_Ui
 Submit,Submit,module,Magento_Ui
+"Save all changes","Save all changes",module,Magento_Ui
 Edit,Edit,module,Magento_Ui
+"Delete bookmark","Delete bookmark",module,Magento_Ui
+"Edit bookmark","Edit bookmark",module,Magento_Ui
 Columns,Columns,module,Magento_Ui
 Reset,Reset,module,Magento_Ui
 Apply,Apply,module,Magento_Ui
@@ -7972,12 +8701,13 @@ Filters,Filters,module,Magento_Ui
 selected,selected,module,Magento_Ui
 of,of,module,Magento_Ui
 Custom,Custom,module,Magento_Ui
-"per page","per page",module,Magento_Ui
 Search,Search,module,Magento_Ui
 "Sort by","Sort by",module,Magento_Ui
+"Select Items","Select Items",module,Magento_Ui
 "To Start","To Start",module,Magento_Ui
 "To End","To End",module,Magento_Ui
 Past,Past,module,Magento_Ui
+Today,Today,module,Magento_Ui
 Tooltip,Tooltip,module,Magento_Ui
 "New admin user '%user_name' created","New admin user '%user_name' created",module,Magento_User
 "Hello,","Hello,",module,Magento_User
@@ -7994,6 +8724,9 @@ Tooltip,Tooltip,module,Magento_Ui
 "We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
 expires,expires,module,Magento_Vault
 "Place Order","Place Order",module,Magento_Vault
+"Incl. tax","Incl. tax",module,Magento_Weee
+"Excl. tax","Excl. tax",module,Magento_Weee
+"Total incl. tax","Total incl. tax",module,Magento_Weee
 "Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
 "View all Wish List items","View all Wish List items",module,Magento_Wishlist
@@ -8038,6 +8771,7 @@ Footer,Footer,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Apple Pay Mark","Apple Pay Mark",module,PayPal_Braintree
 "From only","From only",module,PayPal_Braintree
 "per month","per month",module,PayPal_Braintree
 Months,Months,module,PayPal_Braintree
@@ -8045,12 +8779,13 @@ Months,Months,module,PayPal_Braintree
 "Instalment Rate:","Instalment Rate:",module,PayPal_Braintree
 "Cost of purchase:","Cost of purchase:",module,PayPal_Braintree
 "Total inc. interest:","Total inc. interest:",module,PayPal_Braintree
-"If you are approved for a credit limit with PayPal Credit and use it for future purchases, the APR for those purchases won’t be more than 19.9% and may be even lower.","If you are approved for a credit limit with PayPal Credit and use it for future purchases, the APR for those purchases won’t be more than 19.9% and may be even lower.",module,PayPal_Braintree
+"If you are approved for a credit limit with PayPal Credit and use it for future purchases, the APR for those purchases won’t be more than 21.9% and may be even lower.","If you are approved for a credit limit with PayPal Credit and use it for future purchases, the APR for those purchases won’t be more than 21.9% and may be even lower.",module,PayPal_Braintree
 "Representative Example:","Representative Example:",module,PayPal_Braintree
-"Purchase Rate: 19.9% p.a. (variable)","Purchase Rate: 19.9% p.a. (variable)",module,PayPal_Braintree
-"Representative: 19.9% APR (variable)","Representative: 19.9% APR (variable)",module,PayPal_Braintree
+"Purchase Rate: 21.9% p.a. (variable)","Purchase Rate: 21.9% p.a. (variable)",module,PayPal_Braintree
+"Representative: 21.9% APR (variable)","Representative: 21.9% APR (variable)",module,PayPal_Braintree
 "Assumed Credit Limit: £1,200","Assumed Credit Limit: £1,200",module,PayPal_Braintree
 "Subject to status. Terms and Conditions apply.","Subject to status. Terms and Conditions apply.",module,PayPal_Braintree
+"Google Pay Mark","Google Pay Mark",module,PayPal_Braintree
 "Routing Number","Routing Number",module,PayPal_Braintree
 "Account Number","Account Number",module,PayPal_Braintree
 "Account Type","Account Type",module,PayPal_Braintree
@@ -8065,7 +8800,10 @@ Months,Months,module,PayPal_Braintree
 "Save for later use.","Save for later use.",module,PayPal_Braintree
 "We store you payment information securely on Braintree servers via SSL.","We store you payment information securely on Braintree servers via SSL.",module,PayPal_Braintree
 "There are currently no available payment methods. Please update your Billing Address.","There are currently no available payment methods. Please update your Billing Address.",module,PayPal_Braintree
+"Acceptance Mark","Acceptance Mark",module,PayPal_Braintree
 "Pay with Venmo","Pay with Venmo",module,PayPal_Braintree
+Venmo,Venmo,module,PayPal_Braintree
+Edit,Edit,module,Vertex_Tax
 "Backup options","Backup options",lib,lib/web/mage/adminhtml/backup.js
 Warning,Warning,lib,lib/web/mage/adminhtml/backup.js
 Cancel,Cancel,lib,lib/web/mage/adminhtml/backup.js
@@ -8226,6 +8964,7 @@ Ok,Ok,module,Magento_AdobeStockImageAdminUi
 "Please name the file using only letters, numbers, underscores and dashes","Please name the file using only letters, numbers, underscores and dashes",module,Magento_AdobeStockImageAdminUi
 "Something went wrong.","Something went wrong.",module,Magento_AsynchronousOperations
 "We could not detect a size.","We could not detect a size.",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost.",module,Magento_Backend
 "Warning message","Warning message",module,Magento_Backend
 "This operation can take a long time","This operation can take a long time",module,Magento_Backend
 "Add Products to New Option","Add Products to New Option",module,Magento_Bundle
@@ -8261,14 +9000,11 @@ Close,Close,module,Magento_CheckoutAgreements
 Shipping,Shipping,module,Magento_Checkout
 "Save Address","Save Address",module,Magento_Checkout
 "Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
-"We could not detect a size.","We could not detect a size.",module,Magento_Cms
 "New Product Review","New Product Review",module,Magento_ConfigurableProduct
 "Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
 "You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
 "Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
 "These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
-"Disable Product","Disable Product",module,Magento_ConfigurableProduct
-"Enable Product","Enable Product",module,Magento_ConfigurableProduct
 "Incl. Tax","Incl. Tax",module,Magento_ConfigurableProduct
 "Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
 "An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
@@ -8364,6 +9100,41 @@ Edit,Edit,module,Magento_MediaGalleryUi
 "Please choose a payment method.","Please choose a payment method.",module,Magento_Multishipping
 "Field ","Field ",module,Magento_OfflineShipping
 " is required."," is required.",module,Magento_OfflineShipping
+"You are not able to remove the final row from the content.","You are not able to remove the final row from the content.",module,Magento_PageBuilder
+"Unable to Remove","Unable to Remove",module,Magento_PageBuilder
+"The currently selected block does not exist.","The currently selected block does not exist.",module,Magento_PageBuilder
+"Drag image here","Drag image here",module,Magento_PageBuilder
+"Drop here","Drop here",module,Magento_PageBuilder
+or,or,module,Magento_PageBuilder
+"Upload Image","Upload Image",module,Magento_PageBuilder
+"Upload New Image","Upload New Image",module,Magento_PageBuilder
+"of %1 total","of %1 total",module,Magento_PageBuilder
+"%1 disabled","%1 disabled",module,Magento_PageBuilder
+"%1 not visible","%1 not visible",module,Magento_PageBuilder
+"An unknown error occurred. Please try again.","An unknown error occurred. Please try again.",module,Magento_PageBuilder
+"Please enter the location name.","Please enter the location name.",module,Magento_PageBuilder
+"Enter latitude","Enter latitude",module,Magento_PageBuilder
+"Enter longitude","Enter longitude",module,Magento_PageBuilder
+"Please enter a number between -85 and 85","Please enter a number between -85 and 85",module,Magento_PageBuilder
+"Please enter a number between -180 and 180","Please enter a number between -180 and 180",module,Magento_PageBuilder
+"Please enter a valid video URL.","Please enter a valid video URL.",module,Magento_PageBuilder
+"Please enter a valid video URL. Valid URLs have a video file extension (.mp4, .webm, .ogv) or links to videos on YouTube or Vimeo.","Please enter a valid video URL. Valid URLs have a video file extension (.mp4, .webm, .ogv) or links to videos on YouTube or Vimeo.",module,Magento_PageBuilder
+"Please enter a valid CSS class.","Please enter a valid CSS class.",module,Magento_PageBuilder
+"Adding link in both content and outer element is not allowed.","Adding link in both content and outer element is not allowed.",module,Magento_PageBuilder
+"Adding link in outer element and widget in content is not allowed.","Adding link in outer element and widget in content is not allowed.",module,Magento_PageBuilder
+"Adding widget in content and link in outer element is not allowed.","Adding widget in content and link in outer element is not allowed.",module,Magento_PageBuilder
+"Please enter a valid number or calculation: Valid numbers must have an extension (px, %, pt, vh). Calculations must have white space around the + and - operators and cannot divide by zero.","Please enter a valid number or calculation: Valid numbers must have an extension (px, %, pt, vh). Calculations must have white space around the + and - operators and cannot divide by zero.",module,Magento_PageBuilder
+"Edit with Page Builder","Edit with Page Builder",module,Magento_PageBuilder
+"Are you sure you want to apply this template? This will overwrite any existing content.","Are you sure you want to apply this template? This will overwrite any existing content.",module,Magento_PageBuilder
+OK,OK,module,Magento_PageBuilder
+"Do not show this again","Do not show this again",module,Magento_PageBuilder
+"Template Preview","Template Preview",module,Magento_PageBuilder
+"Drop files here, or click to upload","Drop files here, or click to upload",module,Magento_PageBuilder
+"Turn Off","Turn Off",module,Magento_PageBuilder
+"Change Input Type","Change Input Type",module,Magento_PageBuilder
+"Google Maps Style JSON is invalid. Please paste the valid JSON style.","Google Maps Style JSON is invalid. Please paste the valid JSON style.",module,Magento_PageBuilder
+"Please enter a number 2 or greater in this field.","Please enter a number 2 or greater in this field.",module,Magento_PageBuilder
+"Default grid size must be less than the maximum grid size.","Default grid size must be less than the maximum grid size.",module,Magento_PageBuilder
 "Please enter a valid credit card type number.","Please enter a valid credit card type number.",module,Magento_Payment
 "Please enter a valid credit card number.","Please enter a valid credit card number.",module,Magento_Payment
 "Incorrect credit card expiration month.","Incorrect credit card expiration month.",module,Magento_Payment
@@ -8396,6 +9167,8 @@ Delete,Delete,module,Magento_ProductVideo
 "Add Products","Add Products",module,Magento_Sales
 "You have item changes","You have item changes",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
+No,No,module,Magento_Security
+Yes,Yes,module,Magento_Security
 More,More,module,Magento_Swatches
 "Please select a file to import!","Please select a file to import!",module,Magento_TaxImportExport
 "Not yet calculated","Not yet calculated",module,Magento_Tax
@@ -8415,8 +9188,6 @@ Add,Add,module,Magento_Ui
 "Something went wrong.","Something went wrong.",module,Magento_Ui
 "The file upload field is disabled.","The file upload field is disabled.",module,Magento_Ui
 "was not uploaded","was not uploaded",module,Magento_Ui
-Yes,Yes,module,Magento_Ui
-No,No,module,Magento_Ui
 Done,Done,module,Magento_Ui
 options,options,module,Magento_Ui
 Select...,Select...,module,Magento_Ui
@@ -8501,8 +9272,8 @@ Keyword,Keyword,module,Magento_Ui
 "Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",module,Magento_Ui
 "Please enter a valid zip code.","Please enter a valid zip code.",module,Magento_Ui
 "Please select State/Province.","Please select State/Province.",module,Magento_Ui
-"Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}.",module,Magento_Ui
-"Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",module,Magento_Ui
+"Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s.",module,Magento_Ui
+"Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s.",module,Magento_Ui
 "Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.",module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",module,Magento_Ui
 "This is a required field.","This is a required field.",module,Magento_Ui
@@ -8563,6 +9334,7 @@ Shipping,Shipping,module,PayPal_Braintree
 Store,Store,module,PayPal_Braintree
 "Buy with Google Pay","Buy with Google Pay",module,PayPal_Braintree
 "To check out, please sign in with your email address.","To check out, please sign in with your email address.",module,PayPal_Braintree
+"Please indicate google recaptcha","Please indicate google recaptcha",module,PayPal_Braintree
 "Please try again with another form of payment.","Please try again with another form of payment.",module,PayPal_Braintree
 "Sorry, but something went wrong.","Sorry, but something went wrong.",module,PayPal_Braintree
 "Braintree hosted fields could not be initialized. Please contact the store owner.","Braintree hosted fields could not be initialized. Please contact the store owner.",module,PayPal_Braintree
@@ -8575,6 +9347,7 @@ MM/YYYY,MM/YYYY,module,PayPal_Braintree
 "Local Payment popup failed to open.","Local Payment popup failed to open.",module,PayPal_Braintree
 "Local Payment popup was closed. Payment cancelled.","Local Payment popup was closed. Payment cancelled.",module,PayPal_Braintree
 "PayPal Checkout could not be initialized. Please contact the store owner.","PayPal Checkout could not be initialized. Please contact the store owner.",module,PayPal_Braintree
+"Address failed validation. Please check and confirm your City, State, and Postal Code","Address failed validation. Please check and confirm your City, State, and Postal Code",module,PayPal_Braintree
 "Venmo not initialized, please try reloading.","Venmo not initialized, please try reloading.",module,PayPal_Braintree
 "Venmo app is not available or the payment flow was cancelled.","Venmo app is not available or the payment flow was cancelled.",module,PayPal_Braintree
 "Venmo payment flow cancelled.","Venmo payment flow cancelled.",module,PayPal_Braintree
@@ -8669,6 +9442,8 @@ Enabled,Enabled,module,Dotdigitalgroup_Chat
 Enabled,Enabled,module,Dotdigitalgroup_Sms
 "Manage account","Manage account",module,Dotdigitalgroup_Sms
 "Enable phone number validation","Enable phone number validation",module,Dotdigitalgroup_Sms
+"Select default SMS from name","Select default SMS from name",module,Dotdigitalgroup_Sms
+"Alphanumeric from name","Alphanumeric from name",module,Dotdigitalgroup_Sms
 "SMS Templates","SMS Templates",module,Dotdigitalgroup_Sms
 "New Order Confirmation","New Order Confirmation",module,Dotdigitalgroup_Sms
 Message,Message,module,Dotdigitalgroup_Sms
@@ -8793,7 +9568,7 @@ Customer,Customer,module,Dotdigitalgroup_Email
 "The system will send the reminder the selected number of days after order creation, if the order status matches.","The system will send the reminder the selected number of days after order creation, if the order status matches.",module,Dotdigitalgroup_Email
 "Delay Period (Days)","Delay Period (Days)",module,Dotdigitalgroup_Email
 "Campaign to send","Campaign to send",module,Dotdigitalgroup_Email
-"Please provide the anchor used on product pages for reviews e.g. #reviews","Please provide the anchor used on product pages for reviews e.g. #reviews",module,Dotdigitalgroup_Email
+"(Optional) Provide the anchor used on product or review pages e.g. #reviews.","(Optional) Provide the anchor used on product or review pages e.g. #reviews.",module,Dotdigitalgroup_Email
 "Reviews Anchor","Reviews Anchor",module,Dotdigitalgroup_Email
 "Feefo Feedback Engine","Feefo Feedback Engine",module,Dotdigitalgroup_Email
 "This is what you provided Feefo during account setup and is usually your website domain name.","This is what you provided Feefo during account setup and is usually your website domain name.",module,Dotdigitalgroup_Email
@@ -9000,7 +9775,7 @@ Developer,Developer,module,Dotdigitalgroup_Email
 "Client Id","Client Id",module,Dotdigitalgroup_Email
 "Client Secret Key","Client Secret Key",module,Dotdigitalgroup_Email
 Connection,Connection,module,Dotdigitalgroup_Email
-"Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/",module,Dotdigitalgroup_Email
+"Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. https://yourdomain/magento/","Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. https://yourdomain/magento/",module,Dotdigitalgroup_Email
 "Custom OAUTH Domain","Custom OAUTH Domain",module,Dotdigitalgroup_Email
 "Custom Authorization URI","Custom Authorization URI",module,Dotdigitalgroup_Email
 "Dynamic Pages IP Restriction","Dynamic Pages IP Restriction",module,Dotdigitalgroup_Email
@@ -9012,13 +9787,14 @@ Order,Order,module,Dotdigitalgroup_Email
 "Enable Email Notifications","Enable Email Notifications",module,Dotdigitalgroup_Email
 "Select Roles","Select Roles",module,Dotdigitalgroup_Email
 "Alert Frequency","Alert Frequency",module,Dotdigitalgroup_Email
+"PWA Settings","PWA Settings",module,Dotdigitalgroup_Email
+"PWA Storefront Base URL","PWA Storefront Base URL",module,Dotdigitalgroup_Email
 "All Websites","All Websites",module,Dotdigitalgroup_Email
 Delete,Delete,module,Dotdigitalgroup_Email
 "Delete items","Delete items",module,Dotdigitalgroup_Email
-"Are you sure to delete?","Are you sure to delete?",module,Dotdigitalgroup_Email
+"Are you sure?","Are you sure?",module,Dotdigitalgroup_Email
 "Quote Id","Quote Id",module,Dotdigitalgroup_Email
 "Customer Id","Customer Id",module,Dotdigitalgroup_Email
-"Contact Status","Contact Status",module,Dotdigitalgroup_Email
 "Is Active","Is Active",module,Dotdigitalgroup_Email
 "Quote Updated At","Quote Updated At",module,Dotdigitalgroup_Email
 "Abandoned Cart Number","Abandoned Cart Number",module,Dotdigitalgroup_Email
@@ -9031,19 +9807,18 @@ Website,Website,module,Dotdigitalgroup_Email
 "Campaign Id","Campaign Id",module,Dotdigitalgroup_Email
 "Order Increment Id","Order Increment Id",module,Dotdigitalgroup_Email
 "Checkout Method","Checkout Method",module,Dotdigitalgroup_Email
-"Send At","Send At",module,Dotdigitalgroup_Email
+"Sent At","Sent At",module,Dotdigitalgroup_Email
 "Send Id","Send Id",module,Dotdigitalgroup_Email
 "Store Id","Store Id",module,Dotdigitalgroup_Email
-"Product ID","Product ID",module,Dotdigitalgroup_Email
+"Product Id","Product Id",module,Dotdigitalgroup_Email
 Processed,Processed,module,Dotdigitalgroup_Email
-"Last imported at","Last imported at",module,Dotdigitalgroup_Email
-"Created Date","Created Date",module,Dotdigitalgroup_Email
+"Last Imported At","Last Imported At",module,Dotdigitalgroup_Email
 "Contact Id","Contact Id",module,Dotdigitalgroup_Email
 Subscriber,Subscriber,module,Dotdigitalgroup_Email
 Guest,Guest,module,Dotdigitalgroup_Email
 "Subscriber Imported","Subscriber Imported",module,Dotdigitalgroup_Email
 Suppressed,Suppressed,module,Dotdigitalgroup_Email
-ID,ID,module,Dotdigitalgroup_Email
+"Schedule Id","Schedule Id",module,Dotdigitalgroup_Email
 "Job Code","Job Code",module,Dotdigitalgroup_Email
 Messages,Messages,module,Dotdigitalgroup_Email
 "Scheduled At","Scheduled At",module,Dotdigitalgroup_Email
@@ -9053,24 +9828,81 @@ Messages,Messages,module,Dotdigitalgroup_Email
 "Import Type","Import Type",module,Dotdigitalgroup_Email
 "Import Mode","Import Mode",module,Dotdigitalgroup_Email
 "Import Status","Import Status",module,Dotdigitalgroup_Email
-"Started At","Started At",module,Dotdigitalgroup_Email
-"Updated Date","Updated Date",module,Dotdigitalgroup_Email
+"Import Started","Import Started",module,Dotdigitalgroup_Email
+"Import Finished","Import Finished",module,Dotdigitalgroup_Email
 "Order Id","Order Id",module,Dotdigitalgroup_Email
 "Email Imported","Email Imported",module,Dotdigitalgroup_Email
 "Email Modified","Email Modified",module,Dotdigitalgroup_Email
+"Review Id","Review Id",module,Dotdigitalgroup_Email
 "Review Imported","Review Imported",module,Dotdigitalgroup_Email
 "Add New Rule","Add New Rule",module,Dotdigitalgroup_Email
+"Rule Status","Rule Status",module,Dotdigitalgroup_Email
 "Wishlist Id","Wishlist Id",module,Dotdigitalgroup_Email
-Items,Items,module,Dotdigitalgroup_Email
 "Wishlist Imported","Wishlist Imported",module,Dotdigitalgroup_Email
 "Newsletter Subscriptions","Newsletter Subscriptions",module,Dotdigitalgroup_Email
+"Klarna support form","Klarna support form",module,Klarna_Core
+"Klarna API logging overview","Klarna API logging overview",module,Klarna_Core
+Klarna,Klarna,module,Klarna_Core
+Logging,Logging,module,Klarna_Core
+Support,Support,module,Klarna_Core
 "API Configuration","API Configuration",module,Klarna_Core
 Endpoint,Endpoint,module,Klarna_Core
 "Klarna API username","Klarna API username",module,Klarna_Core
 "Klarna API password","Klarna API password",module,Klarna_Core
 Mode,Mode,module,Klarna_Core
-Logging,Logging,module,Klarna_Core
 "Should not be enabled in production. Sensitive information is logged.","Should not be enabled in production. Sensitive information is logged.",module,Klarna_Core
+"Request Logging","Request Logging",module,Klarna_Core
+"Request Log Lifetime (days)","Request Log Lifetime (days)",module,Klarna_Core
+"Log Details","Log Details",module,Klarna_Core
+Status,Status,module,Klarna_Core
+Action,Action,module,Klarna_Core
+"Klarna ID","Klarna ID",module,Klarna_Core
+"
+                    Based on the context it can be the Klarna session or Klarna order ID.
+                ","
+                    Based on the context it can be the Klarna session or Klarna order ID.
+                ",module,Klarna_Core
+Url,Url,module,Klarna_Core
+Method,Method,module,Klarna_Core
+Service,Service,module,Klarna_Core
+"Created at","Created at",module,Klarna_Core
+Request,Request,module,Klarna_Core
+Response,Response,module,Klarna_Core
+"Log ID","Log ID",module,Klarna_Core
+"Increment ID","Increment ID",module,Klarna_Core
+"Support Details","Support Details",module,Klarna_Core
+"Support request form","Support request form",module,Klarna_Core
+"Klarna Products","Klarna Products",module,Klarna_Core
+"Contact name","Contact name",module,Klarna_Core
+Email,Email,module,Klarna_Core
+"Shop url","Shop url",module,Klarna_Core
+"See Klarna settings at Stores > Configuration > Sales > Payment Methods","See Klarna settings at Stores > Configuration > Sales > Payment Methods",module,Klarna_Core
+"Describe your issue or question","Describe your issue or question",module,Klarna_Core
+"Steps to reproduce","Steps to reproduce",module,Klarna_Core
+"Include Klarna settings","Include Klarna settings",module,Klarna_Core
+"
+                    If selected, we will attach Klarna settings to the request. These settings can be very helpful for us
+                    to understand the case better.
+                ","
+                    If selected, we will attach Klarna settings to the request. These settings can be very helpful for us
+                    to understand the case better.
+                ",module,Klarna_Core
+"Include tax settings","Include tax settings",module,Klarna_Core
+"
+                    If selected, we will attach tax settings to the request. These settings can be very helpful for us
+                    if your problem is related to tax calculations, order amount calculations and order amount mismatch
+                    between Klarna and Magento.
+                ","
+                    If selected, we will attach tax settings to the request. These settings can be very helpful for us
+                    if your problem is related to tax calculations, order amount calculations and order amount mismatch
+                    between Klarna and Magento.
+                ",module,Klarna_Core
+"Attachments (.jpg, .jpeg, .png, .txt, .log, .pdf, .zip, .rar)","Attachments (.jpg, .jpeg, .png, .txt, .log, .pdf, .zip, .rar)",module,Klarna_Core
+"
+                    Please make sure you don't exceed the max file size configured for your system.
+                ","
+                    Please make sure you don't exceed the max file size configured for your system.
+                ",module,Klarna_Core
 "Klarna Payments","Klarna Payments",module,Klarna_Kp
 Enable,Enable,module,Klarna_Kp
 "Allowed Countries","Allowed Countries",module,Klarna_Kp
@@ -9112,18 +9944,10 @@ Enable,Enable,module,Klarna_Onsitemessaging
 "Enable Admin Usage Tracking","Enable Admin Usage Tracking",module,Magento_AdminAnalytics
 "Allow Magento to track admin usage in order to improve the quality and user experience.","Allow Magento to track admin usage in order to improve the quality and user experience.",module,Magento_AdminAnalytics
 "Admin Usage Notification","Admin Usage Notification",module,Magento_AdminAnalytics
-"Allow admin usage data collection","Allow admin usage data collection",module,Magento_AdminAnalytics
+"Allow Adobe to collect usage data to improve user experience and offer in-product guidance","Allow Adobe to collect usage data to improve user experience and offer in-product guidance",module,Magento_AdminAnalytics
 "Don't Allow","Don't Allow",module,Magento_AdminAnalytics
 Allow,Allow,module,Magento_AdminAnalytics
-"
-                        <p>Help us improve Magento Admin by allowing us to collect usage data.</p>
-                        <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin and related products and services.</p>
-                        <p>You can learn more and opt out at any time by following the instructions in <a href=""https://docs.magento.com/user-guide/stores/admin.html"" target=""_blank"" tabindex=""0"">merchant documentation</a>.</p>
-","
-                        <p>Help us improve Magento Admin by allowing us to collect usage data.</p>
-                        <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin and related products and services.</p>
-                        <p>You can learn more and opt out at any time by following the instructions in <a href=""https://docs.magento.com/user-guide/stores/admin.html"" target=""_blank"" tabindex=""0"">merchant documentation</a>.</p>
-",module,Magento_AdminAnalytics
+"<p>By clicking on <b>Allow</b>, you agree that we may collect anonymous usage data from you to:</p> <ol class=""modal-list""> <li>Help us improve the Magento Admin user experience</li> <li>Provide interactive in-product guidance, such as technical support and tips to improve utilization of the product from within the Admin UI. This may include notifications of new features, product support/guidance, onboarding information, tooltips, and more.</li> </ol> <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin UI and related products and services.</p> <p>You can learn more and opt-out at any time by following the instructions in <a href=""https://docs.magento.com/user-guide/configuration/advanced/admin.html#admin-usage"">merchant documentation</a>.</p>","<p>By clicking on <b>Allow</b>, you agree that we may collect anonymous usage data from you to:</p> <ol class=""modal-list""> <li>Help us improve the Magento Admin user experience</li> <li>Provide interactive in-product guidance, such as technical support and tips to improve utilization of the product from within the Admin UI. This may include notifications of new features, product support/guidance, onboarding information, tooltips, and more.</li> </ol> <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin UI and related products and services.</p> <p>You can learn more and opt-out at any time by following the instructions in <a href=""https://docs.magento.com/user-guide/configuration/advanced/admin.html#admin-usage"">merchant documentation</a>.</p>",module,Magento_AdminAnalytics
 "Show Toolbar","Show Toolbar",module,Magento_AdminNotification
 "Show List","Show List",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Use HTTPS to Get Feed",module,Magento_AdminNotification
@@ -10667,6 +11491,264 @@ Import,Import,module,Magento_OfflineShipping
 "Minimum Order Amount","Minimum Order Amount",module,Magento_OfflineShipping
 "Include Tax to Amount","Include Tax to Amount",module,Magento_OfflineShipping
 "-- Please Select --","-- Please Select --",module,Magento_OfflineShipping
+"Save Template","Save Template",module,Magento_PageBuilder
+"Delete Template","Delete Template",module,Magento_PageBuilder
+"Page Builder","Page Builder",module,Magento_PageBuilder
+Default,Default,module,Magento_PageBuilder
+Left,Left,module,Magento_PageBuilder
+Center,Center,module,Magento_PageBuilder
+Right,Right,module,Magento_PageBuilder
+Top,Top,module,Magento_PageBuilder
+Bottom,Bottom,module,Magento_PageBuilder
+Poster,Poster,module,Magento_PageBuilder
+"Collage Left","Collage Left",module,Magento_PageBuilder
+"Collage Center","Collage Center",module,Magento_PageBuilder
+"Collage Right","Collage Right",module,Magento_PageBuilder
+Inline,Inline,module,Magento_PageBuilder
+Stacked,Stacked,module,Magento_PageBuilder
+"Full Height","Full Height",module,Magento_PageBuilder
+"Top Aligned","Top Aligned",module,Magento_PageBuilder
+Centered,Centered,module,Magento_PageBuilder
+"Bottom Aligned","Bottom Aligned",module,Magento_PageBuilder
+"Full Width Image","Full Width Image",module,Magento_PageBuilder
+"Product Grid","Product Grid",module,Magento_PageBuilder
+"Product Carousel","Product Carousel",module,Magento_PageBuilder
+Contained,Contained,module,Magento_PageBuilder
+"Full Width","Full Width",module,Magento_PageBuilder
+"Full width appearance will work only with supported layouts.","Full width appearance will work only with supported layouts.",module,Magento_PageBuilder
+"Full Bleed","Full Bleed",module,Magento_PageBuilder
+"Full bleed appearance will work only with supported layouts.","Full bleed appearance will work only with supported layouts.",module,Magento_PageBuilder
+Cover,Cover,module,Magento_PageBuilder
+Contain,Contain,module,Magento_PageBuilder
+Auto,Auto,module,Magento_PageBuilder
+Image,Image,module,Magento_PageBuilder
+Video,Video,module,Magento_PageBuilder
+Continuous,Continuous,module,Magento_PageBuilder
+"Advanced Content Tools","Advanced Content Tools",module,Magento_PageBuilder
+"Enable Page Builder","Enable Page Builder",module,Magento_PageBuilder
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.","Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.",module,Magento_PageBuilder
+"Enable Page Builder Content Preview","Enable Page Builder Content Preview",module,Magento_PageBuilder
+"Preview Page Builder content on product and category editing pages. Setting to ""No"" can improve performance in case several attributes are editable by Page Builder.","Preview Page Builder content on product and category editing pages. Setting to ""No"" can improve performance in case several attributes are editable by Page Builder.",module,Magento_PageBuilder
+"Google Maps API Key","Google Maps API Key",module,Magento_PageBuilder
+"Enter API key to use the Map content type. <a href=""https://developers.google.com/maps/documentation/javascript/get-api-key"" target=""_blank"">Get API Key</a>.","Enter API key to use the Map content type. <a href=""https://developers.google.com/maps/documentation/javascript/get-api-key"" target=""_blank"">Get API Key</a>.",module,Magento_PageBuilder
+"Google Maps Style","Google Maps Style",module,Magento_PageBuilder
+"Paste the Google Maps style JSON code here to change the look and feel of the Map content type. <a href=""https://mapstyle.withgoogle.com/"" target=""_blank"">Create Map Style</a>.","Paste the Google Maps style JSON code here to change the look and feel of the Map content type. <a href=""https://mapstyle.withgoogle.com/"" target=""_blank"">Create Map Style</a>.",module,Magento_PageBuilder
+"Default Column Grid Size","Default Column Grid Size",module,Magento_PageBuilder
+"Grid size determines the default number of columns available.","Grid size determines the default number of columns available.",module,Magento_PageBuilder
+"Maximum Column Grid Size","Maximum Column Grid Size",module,Magento_PageBuilder
+"Maximum grid size determines the maximum amount of columns available.","Maximum grid size determines the maximum amount of columns available.",module,Magento_PageBuilder
+Banner,Banner,module,Magento_PageBuilder
+"Insert Images...","Insert Images...",module,Magento_PageBuilder
+Button,Button,module,Magento_PageBuilder
+Buttons,Buttons,module,Magento_PageBuilder
+Column,Column,module,Magento_PageBuilder
+"Column Group","Column Group",module,Magento_PageBuilder
+Divider,Divider,module,Magento_PageBuilder
+Heading,Heading,module,Magento_PageBuilder
+"HTML Code","HTML Code",module,Magento_PageBuilder
+Map,Map,module,Magento_PageBuilder
+Products,Products,module,Magento_PageBuilder
+Row,Row,module,Magento_PageBuilder
+Slide,Slide,module,Magento_PageBuilder
+Slider,Slider,module,Magento_PageBuilder
+Tab,Tab,module,Magento_PageBuilder
+Tabs,Tabs,module,Magento_PageBuilder
+Text,Text,module,Magento_PageBuilder
+Layout,Layout,module,Magento_PageBuilder
+Elements,Elements,module,Magento_PageBuilder
+Media,Media,module,Magento_PageBuilder
+"Add Content","Add Content",module,Magento_PageBuilder
+Appearance,Appearance,module,Magento_PageBuilder
+"Minimum Height","Minimum Height",module,Magento_PageBuilder
+"Minimum height can be a single number with any valid CSS unit (50px, 50%, 50em, 50vh) or a calculation (50% + 50px).","Minimum height can be a single number with any valid CSS unit (50px, 50%, 50em, 50vh) or a calculation (50% + 50px).",module,Magento_PageBuilder
+Content,Content,module,Magento_PageBuilder
+"Message Text","Message Text",module,Magento_PageBuilder
+Link,Link,module,Magento_PageBuilder
+"Show Button","Show Button",module,Magento_PageBuilder
+Always,Always,module,Magento_PageBuilder
+"On Hover","On Hover",module,Magento_PageBuilder
+"Never Show","Never Show",module,Magento_PageBuilder
+"Button Text","Button Text",module,Magento_PageBuilder
+"Button Type","Button Type",module,Magento_PageBuilder
+Primary,Primary,module,Magento_PageBuilder
+Secondary,Secondary,module,Magento_PageBuilder
+"Show Overlay","Show Overlay",module,Magento_PageBuilder
+"Overlay Color","Overlay Color",module,Magento_PageBuilder
+"No Color","No Color",module,Magento_PageBuilder
+"
+                        
+                        <p>Style changes will only affect this breakpoint</p>
+                        
+                    ","
+                        
+                        <p>Style changes will only affect this breakpoint</p>
+                        
+                    ",module,Magento_PageBuilder
+Advanced,Advanced,module,Magento_PageBuilder
+Alignment,Alignment,module,Magento_PageBuilder
+Border,Border,module,Magento_PageBuilder
+None,None,module,Magento_PageBuilder
+Dotted,Dotted,module,Magento_PageBuilder
+Dashed,Dashed,module,Magento_PageBuilder
+Solid,Solid,module,Magento_PageBuilder
+Double,Double,module,Magento_PageBuilder
+Groove,Groove,module,Magento_PageBuilder
+Ridge,Ridge,module,Magento_PageBuilder
+Inset,Inset,module,Magento_PageBuilder
+Outset,Outset,module,Magento_PageBuilder
+"Border Color","Border Color",module,Magento_PageBuilder
+"Border Width","Border Width",module,Magento_PageBuilder
+px,px,module,Magento_PageBuilder
+"Border Radius","Border Radius",module,Magento_PageBuilder
+"CSS Classes","CSS Classes",module,Magento_PageBuilder
+"Space separated list of classes.","Space separated list of classes.",module,Magento_PageBuilder
+"Margins and Padding","Margins and Padding",module,Magento_PageBuilder
+Background,Background,module,Magento_PageBuilder
+"Background Color","Background Color",module,Magento_PageBuilder
+"Background Image","Background Image",module,Magento_PageBuilder
+"Background Mobile Image","Background Mobile Image",module,Magento_PageBuilder
+"Background Size","Background Size",module,Magento_PageBuilder
+"Background Position","Background Position",module,Magento_PageBuilder
+"Top Left","Top Left",module,Magento_PageBuilder
+"Top Center","Top Center",module,Magento_PageBuilder
+"Top Right","Top Right",module,Magento_PageBuilder
+"Center Left","Center Left",module,Magento_PageBuilder
+"Center Right","Center Right",module,Magento_PageBuilder
+"Bottom Left","Bottom Left",module,Magento_PageBuilder
+"Bottom Center","Bottom Center",module,Magento_PageBuilder
+"Bottom Right","Bottom Right",module,Magento_PageBuilder
+"Background Attachment","Background Attachment",module,Magento_PageBuilder
+Scroll,Scroll,module,Magento_PageBuilder
+Fixed,Fixed,module,Magento_PageBuilder
+"Background Repeat","Background Repeat",module,Magento_PageBuilder
+"Background Type","Background Type",module,Magento_PageBuilder
+"Video URL","Video URL",module,Magento_PageBuilder
+"Video URLs can be links to videos on YouTube or Vimeo, or HTTP(S) links to files with valid video extensions (we recommend .mp4)","Video URLs can be links to videos on YouTube or Vimeo, or HTTP(S) links to files with valid video extensions (we recommend .mp4)",module,Magento_PageBuilder
+"Infinite Loop","Infinite Loop",module,Magento_PageBuilder
+"Lazy Load","Lazy Load",module,Magento_PageBuilder
+"Preload video only when it is visible on the screen.","Preload video only when it is visible on the screen.",module,Magento_PageBuilder
+"Play Only When Visible","Play Only When Visible",module,Magento_PageBuilder
+"Video will play only when it is visible on the screen.","Video will play only when it is visible on the screen.",module,Magento_PageBuilder
+"Fallback Image","Fallback Image",module,Magento_PageBuilder
+"Fallback images appear on the screen before a video loads. When the video loads, it replaces the fallback image. If the video does not load for some reason, the fallback image remains on the screen in place of the video.","Fallback images appear on the screen before a video loads. When the video loads, it replaces the fallback image. If the video does not load for some reason, the fallback image remains on the screen in place of the video.",module,Magento_PageBuilder
+"Select Block","Select Block",module,Magento_PageBuilder
+Template,Template,module,Magento_PageBuilder
+"CMS Static Block Default Template","CMS Static Block Default Template",module,Magento_PageBuilder
+ID,ID,module,Magento_PageBuilder
+Title,Title,module,Magento_PageBuilder
+Identifier,Identifier,module,Magento_PageBuilder
+"Button Item","Button Item",module,Magento_PageBuilder
+"Button Link","Button Link",module,Magento_PageBuilder
+"All Buttons are same size","All Buttons are same size",module,Magento_PageBuilder
+"Vertical Alignment","Vertical Alignment",module,Magento_PageBuilder
+"Vertical alignment controls how the child blocks of this container will be positioned. Set minimum height in order to use vertical alignment.","Vertical alignment controls how the child blocks of this container will be positioned. Set minimum height in order to use vertical alignment.",module,Magento_PageBuilder
+"Line Color","Line Color",module,Magento_PageBuilder
+"Line Thickness","Line Thickness",module,Magento_PageBuilder
+"Line Width","Line Width",module,Magento_PageBuilder
+"px or %","px or %",module,Magento_PageBuilder
+"Example: 50px or 100%","Example: 50px or 100%",module,Magento_PageBuilder
+"Heading Type","Heading Type",module,Magento_PageBuilder
+"Heading Text","Heading Text",module,Magento_PageBuilder
+Code,Code,module,Magento_PageBuilder
+"HTML code must be valid, all CSS & JavaScript must be wrapped in their HTML elements.","HTML code must be valid, all CSS & JavaScript must be wrapped in their HTML elements.",module,Magento_PageBuilder
+"Mobile Image","Mobile Image",module,Magento_PageBuilder
+"Image Caption","Image Caption",module,Magento_PageBuilder
+"Search Engine Optimization","Search Engine Optimization",module,Magento_PageBuilder
+"Alternative Text","Alternative Text",module,Magento_PageBuilder
+"Title Attribute","Title Attribute",module,Magento_PageBuilder
+"You must provide a valid <a href=""%s"" target=""_blank"">Google Maps API key</a> to use a map.","You must provide a valid <a href=""%s"" target=""_blank"">Google Maps API key</a> to use a map.",module,Magento_PageBuilder
+"Add Location","Add Location",module,Magento_PageBuilder
+"Location Name","Location Name",module,Magento_PageBuilder
+"Phone Number","Phone Number",module,Magento_PageBuilder
+"Street Address","Street Address",module,Magento_PageBuilder
+City,City,module,Magento_PageBuilder
+Region/State,Region/State,module,Magento_PageBuilder
+"Zip/Postal Code","Zip/Postal Code",module,Magento_PageBuilder
+Country,Country,module,Magento_PageBuilder
+Edit,Edit,module,Magento_PageBuilder
+Height,Height,module,Magento_PageBuilder
+"Show Controls","Show Controls",module,Magento_PageBuilder
+Location,Location,module,Magento_PageBuilder
+Position,Position,module,Magento_PageBuilder
+"You can move the pin by clicking or dragging it where you want. To alter the zoom please use the controls.","You can move the pin by clicking or dragging it where you want. To alter the zoom please use the controls.",module,Magento_PageBuilder
+Coordinates,Coordinates,module,Magento_PageBuilder
+Latitude,Latitude,module,Magento_PageBuilder
+Longitude,Longitude,module,Magento_PageBuilder
+Comment,Comment,module,Magento_PageBuilder
+Condition,Condition,module,Magento_PageBuilder
+"Number of Products to Display","Number of Products to Display",module,Magento_PageBuilder
+"Carousel Settings","Carousel Settings",module,Magento_PageBuilder
+"Carousel Mode","Carousel Mode",module,Magento_PageBuilder
+Autoplay,Autoplay,module,Magento_PageBuilder
+"Autoplay Speed","Autoplay Speed",module,Magento_PageBuilder
+ms,ms,module,Magento_PageBuilder
+"Delay in milliseconds between each slide","Delay in milliseconds between each slide",module,Magento_PageBuilder
+"Show Arrows","Show Arrows",module,Magento_PageBuilder
+"Show Dots","Show Dots",module,Magento_PageBuilder
+"Select Products By","Select Products By",module,Magento_PageBuilder
+Category,Category,module,Magento_PageBuilder
+SKU,SKU,module,Magento_PageBuilder
+"Product SKUs","Product SKUs",module,Magento_PageBuilder
+"Comma separated product SKUs.","Comma separated product SKUs.",module,Magento_PageBuilder
+"Sort By","Sort By",module,Magento_PageBuilder
+"
+                            
+                                <p>The products displayed may vary from this total due to several factors, including but not limited to:</p>
+                                <ul>
+                                    <li>Disabled status</li>
+                                    <li>Visibility configuration (not visible in catalog)</li>
+                                    <li>Stock availability (out of stock)</li>
+                                    <li>Website assignment</li>
+                                </ul>
+                            
+                        ","
+                            
+                                <p>The products displayed may vary from this total due to several factors, including but not limited to:</p>
+                                <ul>
+                                    <li>Disabled status</li>
+                                    <li>Visibility configuration (not visible in catalog)</li>
+                                    <li>Stock availability (out of stock)</li>
+                                    <li>Website assignment</li>
+                                </ul>
+                            
+                        ",module,Magento_PageBuilder
+"Parallax Background","Parallax Background",module,Magento_PageBuilder
+"Enable Parallax Background","Enable Parallax Background",module,Magento_PageBuilder
+"Parallax Speed","Parallax Speed",module,Magento_PageBuilder
+"
+                        
+                        <p>Parallax Speed controls how the background will behave when page is scrolled.</p>
+                        <p>Negative values will make the background scroll in the reverse direction.</p>
+                        <p>Values from 0 to 1 will cause the scroll to be slower than the scroll speed of the window, values from 1 to 2 will be faster.</p>
+                        <p>0 - Fixes the background to the window (e.g. no scrolling).</p>
+                        <p>1 - Background will scroll at the same speed as the window.</p>
+                        
+                    ","
+                        
+                        <p>Parallax Speed controls how the background will behave when page is scrolled.</p>
+                        <p>Negative values will make the background scroll in the reverse direction.</p>
+                        <p>Values from 0 to 1 will cause the scroll to be slower than the scroll speed of the window, values from 1 to 2 will be faster.</p>
+                        <p>0 - Fixes the background to the window (e.g. no scrolling).</p>
+                        <p>1 - Background will scroll at the same speed as the window.</p>
+                        
+                    ",module,Magento_PageBuilder
+"Enter fractional number from -1.0 to 2.0.","Enter fractional number from -1.0 to 2.0.",module,Magento_PageBuilder
+"Slide Name","Slide Name",module,Magento_PageBuilder
+"Slider Settings","Slider Settings",module,Magento_PageBuilder
+Fade,Fade,module,Magento_PageBuilder
+"Preview Image","Preview Image",module,Magento_PageBuilder
+"Template Name","Template Name",module,Magento_PageBuilder
+"Created For","Created For",module,Magento_PageBuilder
+Created,Created,module,Magento_PageBuilder
+"Tab Name","Tab Name",module,Magento_PageBuilder
+"Default Active Tab","Default Active Tab",module,Magento_PageBuilder
+"Tab Navigation Alignment","Tab Navigation Alignment",module,Magento_PageBuilder
+"Maximum Width","Maximum Width",module,Magento_PageBuilder
+"Page -- Full Width","Page -- Full Width",module,Magento_PageBuilder
+"Category -- Full Width","Category -- Full Width",module,Magento_PageBuilder
+"Product -- Full Width","Product -- Full Width",module,Magento_PageBuilder
+"More Information","More Information",module,Magento_PageBuilder
+Reviews,Reviews,module,Magento_PageBuilder
 "Full Page Cache","Full Page Cache",module,Magento_PageCache
 "Caching Application","Caching Application",module,Magento_PageCache
 "Varnish Configuration","Varnish Configuration",module,Magento_PageCache
@@ -10722,6 +11804,13 @@ Orders,Orders,module,Magento_Paypal
 "Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely.",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard",module,Magento_Paypal
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>",module,Magento_Paypal
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.",module,Magento_Paypal
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>",module,Magento_Paypal
 "Accept payments with a completely customizable checkout page.","Accept payments with a completely customizable checkout page.",module,Magento_Paypal
 "Website Payments Standard","Website Payments Standard",module,Magento_Paypal
@@ -10755,6 +11844,14 @@ Orders,Orders,module,Magento_Paypal
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>",module,Magento_Paypal
 "Sort Order PayPal Credit","Sort Order PayPal Credit",module,Magento_Paypal
+"Enable PayPal PayLater Experience","Enable PayPal PayLater Experience",module,Magento_Paypal
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.",module,Magento_Paypal
 "Advertise PayPal Credit","Advertise PayPal Credit",module,Magento_Paypal
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -10777,6 +11874,16 @@ Size,Size,module,Magento_Paypal
 "Catalog Category Page","Catalog Category Page",module,Magento_Paypal
 "Catalog Product Page","Catalog Product Page",module,Magento_Paypal
 "Checkout Cart Page","Checkout Cart Page",module,Magento_Paypal
+"Advertise PayPal PayLater","Advertise PayPal PayLater",module,Magento_Paypal
+"Enable PayPal PayLater","Enable PayPal PayLater",module,Magento_Paypal
+"Style Layout","Style Layout",module,Magento_Paypal
+"Logo Type","Logo Type",module,Magento_Paypal
+"Logo Position","Logo Position",module,Magento_Paypal
+"Text Color","Text Color",module,Magento_Paypal
+"Text Size","Text Size",module,Magento_Paypal
+Ratio,Ratio,module,Magento_Paypal
+Color,Color,module,Magento_Paypal
+"Checkout Payment Step","Checkout Payment Step",module,Magento_Paypal
 "Basic Settings - PayPal Express Checkout","Basic Settings - PayPal Express Checkout",module,Magento_Paypal
 Title,Title,module,Magento_Paypal
 "It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views.",module,Magento_Paypal
@@ -10849,7 +11956,6 @@ Label,Label,module,Magento_Paypal
 "Brazil Installment Period","Brazil Installment Period",module,Magento_Paypal
 Layout,Layout,module,Magento_Paypal
 Shape,Shape,module,Magento_Paypal
-Color,Color,module,Magento_Paypal
 "Product Pages","Product Pages",module,Magento_Paypal
 "Cart Page","Cart Page",module,Magento_Paypal
 "Mini Cart","Mini Cart",module,Magento_Paypal
@@ -10990,6 +12096,7 @@ Security,Security,module,Magento_ReCaptchaAdminUi
 "Google reCAPTCHA Storefront","Google reCAPTCHA Storefront",module,Magento_ReCaptchaAdminUi
 Storefront,Storefront,module,Magento_ReCaptchaAdminUi
 No,No,module,Magento_ReCaptchaAdminUi
+"Enable for Checkout/Placing Order","Enable for Checkout/Placing Order",module,Magento_ReCaptchaCheckout
 "Enable for Contact Us","Enable for Contact Us",module,Magento_ReCaptchaContact
 "Enable for Customer Login","Enable for Customer Login",module,Magento_ReCaptchaCustomer
 "Enable for Forgot Password","Enable for Forgot Password",module,Magento_ReCaptchaCustomer
@@ -11342,6 +12449,9 @@ Website,Website,module,Magento_Search
 "Limit the number of password reset request per hour. Use 0 to disable.","Limit the number of password reset request per hour. Use 0 to disable.",module,Magento_Security
 "Min Time Between Password Reset Requests","Min Time Between Password Reset Requests",module,Magento_Security
 "Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable.",module,Magento_Security
+Security,Security,module,Magento_Security
+"Max Session Size in Admin","Max Session Size in Admin",module,Magento_Security
+"Max Session Size in Storefront","Max Session Size in Storefront",module,Magento_Security
 Securitytxt,Securitytxt,module,Magento_Securitytxt
 Security,Security,module,Magento_Securitytxt
 Security.txt,Security.txt,module,Magento_Securitytxt
@@ -11653,6 +12763,7 @@ Debug,Debug,module,Magento_Ups
 "User Roles","User Roles",module,Magento_User
 "User Notification Template","User Notification Template",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_User
+"New User Notification Template","New User Notification Template",module,Magento_User
 "Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_User
 "We will disable this feature if the value is empty.","We will disable this feature if the value is empty.",module,Magento_User
 "Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_User
@@ -11827,10 +12938,12 @@ Shape,Shape,module,PayPal_Braintree
 Size,Size,module,PayPal_Braintree
 Color,Color,module,PayPal_Braintree
 "Checkout Page","Checkout Page",module,PayPal_Braintree
-"Enable PayPal PayLater button on the product page","Enable PayPal PayLater button on the product page",module,PayPal_Braintree
-"Enable PayPal Pay Later message on the product page","Enable PayPal Pay Later message on the product page",module,PayPal_Braintree
+"Enable PayPal PayLater button on the checkout page","Enable PayPal PayLater button on the checkout page",module,PayPal_Braintree
+"Enable PayPal Pay Later message on the checkout page","Enable PayPal Pay Later message on the checkout page",module,PayPal_Braintree
 "Product Page","Product Page",module,PayPal_Braintree
 "Enable PayPal Buy Now button on the product page","Enable PayPal Buy Now button on the product page",module,PayPal_Braintree
+"Enable PayPal PayLater button on the product page","Enable PayPal PayLater button on the product page",module,PayPal_Braintree
+"Enable PayPal Pay Later message on the product page","Enable PayPal Pay Later message on the product page",module,PayPal_Braintree
 "PayPal Credit through Braintree","PayPal Credit through Braintree",module,PayPal_Braintree
 "PayPal REST Client ID","PayPal REST Client ID",module,PayPal_Braintree
 "PayPal REST Secret","PayPal REST Secret",module,PayPal_Braintree
@@ -11876,6 +12989,21 @@ Currency,Currency,module,PayPal_Braintree
 "Integration Settings","Integration Settings",module,Vertex_AddressValidation
 "Legacy WebAPI","Legacy WebAPI",module,Vertex_AddressValidation
 "Allow use of the /V1/vertex-address-validation endpoint.  <strong>Note:</strong> This endpoint is not closed off to outside use and can theoretically be used to run calls through the Vertex Address Cleansing API that you have not authorized.  Only enable this setting if you have a custom integration that uses the API and need it temporarily during transition.","Allow use of the /V1/vertex-address-validation endpoint.  <strong>Note:</strong> This endpoint is not closed off to outside use and can theoretically be used to run calls through the Vertex Address Cleansing API that you have not authorized.  Only enable this setting if you have a custom integration that uses the API and need it temporarily during transition.",module,Vertex_AddressValidation
+"Vertex Settings","Vertex Settings",module,Vertex_RequestLogging
+Logging,Logging,module,Vertex_RequestLogging
+"Vertex Request Logging Level","Vertex Request Logging Level",module,Vertex_RequestLogging
+"Log Level when tracking API requests.","Log Level when tracking API requests.",module,Vertex_RequestLogging
+"Log Rotation","Log Rotation",module,Vertex_RequestLogging
+"Perform an action on logs over a certain age at a regular interval","Perform an action on logs over a certain age at a regular interval",module,Vertex_RequestLogging
+"Rotation Action","Rotation Action",module,Vertex_RequestLogging
+"When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>","When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>",module,Vertex_RequestLogging
+"Log Entry Lifetime (days)","Log Entry Lifetime (days)",module,Vertex_RequestLogging
+"How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible","How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible",module,Vertex_RequestLogging
+"Amount of Logs per batch","Amount of Logs per batch",module,Vertex_RequestLogging
+"Amount of logs per batch to be processed at once","Amount of logs per batch to be processed at once",module,Vertex_RequestLogging
+"Rotation Frequency","Rotation Frequency",module,Vertex_RequestLogging
+"How often the Rotation Action should be applied to the logs","How often the Rotation Action should be applied to the logs",module,Vertex_RequestLogging
+"Rotation Time","Rotation Time",module,Vertex_RequestLogging
 "Vertex Settings","Vertex Settings",module,Vertex_Tax
 "Streamline, automate and standardize taxability and calculation on every sales and purchase transaction","Streamline, automate and standardize taxability and calculation on every sales and purchase transaction",module,Vertex_Tax
 "Connection Settings","Connection Settings",module,Vertex_Tax
@@ -11917,22 +13045,16 @@ Currency,Currency,module,PayPal_Braintree
 City,City,module,Vertex_Tax
 "The proper name of the city used to determine Tax Jurisdiction(s)","The proper name of the city used to determine Tax Jurisdiction(s)",module,Vertex_Tax
 "The country used to determine the Tax Jurisdiction(s)","The country used to determine the Tax Jurisdiction(s)",module,Vertex_Tax
-State,State,module,Vertex_Tax
+Region/State,Region/State,module,Vertex_Tax
 "The proper name or the postal abbreviation of the state, province, or territory used to determine Tax Jurisdiction(s)","The proper name or the postal abbreviation of the state, province, or territory used to determine Tax Jurisdiction(s)",module,Vertex_Tax
 "Postal Code","Postal Code",module,Vertex_Tax
 "The postal code used to determine Tax Jurisdiction(s)","The postal code used to determine Tax Jurisdiction(s)",module,Vertex_Tax
-Logging,Logging,module,Vertex_Tax
-"Vertex Request Logging","Vertex Request Logging",module,Vertex_Tax
-"When enabled, all API requests are tracked.","When enabled, all API requests are tracked.",module,Vertex_Tax
-"Log Rotation","Log Rotation",module,Vertex_Tax
-"Perform an action on logs over a certain age at a regular interval","Perform an action on logs over a certain age at a regular interval",module,Vertex_Tax
-"Rotation Action","Rotation Action",module,Vertex_Tax
-"When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>","When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>",module,Vertex_Tax
-"Log Entry Lifetime (days)","Log Entry Lifetime (days)",module,Vertex_Tax
-"How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible","How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible",module,Vertex_Tax
-"Rotation Frequency","Rotation Frequency",module,Vertex_Tax
-"How often the Rotation Action should be applied to the logs","How often the Rotation Action should be applied to the logs",module,Vertex_Tax
-"Rotation Time","Rotation Time",module,Vertex_Tax
+Performance,Performance,module,Vertex_Tax
+"WSDL Cache Warming","WSDL Cache Warming",module,Vertex_Tax
+"When enabled, the Vertex connector will automatically perform calculation requests during the configured time slot to improve performance of subsequent calls.","When enabled, the Vertex connector will automatically perform calculation requests during the configured time slot to improve performance of subsequent calls.",module,Vertex_Tax
+"Request Frequency","Request Frequency",module,Vertex_Tax
+"How often the WSDL Cache should be warmed up. This should be set appropriately based on your PHP's soap.wsdl_cache_ttl configured value.","How often the WSDL Cache should be warmed up. This should be set appropriately based on your PHP's soap.wsdl_cache_ttl configured value.",module,Vertex_Tax
+"Request Time","Request Time",module,Vertex_Tax
 "Developer &amp; Support Information","Developer &amp; Support Information",module,Vertex_Tax
 "Connector Version","Connector Version",module,Vertex_Tax
 "Shipping Product Codes","Shipping Product Codes",module,Vertex_Tax

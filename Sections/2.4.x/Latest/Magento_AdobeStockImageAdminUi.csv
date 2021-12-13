@@ -1,0 +1,38 @@
+"Adobe id is required.","Adobe id is required.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to retrieve asset information.","An error occurred on attempt to retrieve asset information.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to retrieve image licensing information.","An error occurred on attempt to retrieve image licensing information.",module,Magento_AdobeStockImageAdminUi
+"Retrieving license information for images failed.","Retrieving license information for images failed.",module,Magento_AdobeStockImageAdminUi
+"The image was licensed and saved successfully.","The image was licensed and saved successfully.",module,Magento_AdobeStockImageAdminUi
+"Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%url"">Configuration → System → Adobe Stock Integration.</a>","Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%url"">Configuration → System → Adobe Stock Integration.</a>",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to license and save the image.","An error occurred on attempt to license and save the image.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to retrieve user quota.","An error occurred on attempt to retrieve user quota.",module,Magento_AdobeStockImageAdminUi
+"You have successfully downloaded the licensed image.","You have successfully downloaded the licensed image.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to save image.","An error occurred on attempt to save image.",module,Magento_AdobeStockImageAdminUi
+"You have successfully downloaded the image.","You have successfully downloaded the image.",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to save the image.","An error occurred on attempt to save the image.",module,Magento_AdobeStockImageAdminUi
+"Get related images finished successfully","Get related images finished successfully",module,Magento_AdobeStockImageAdminUi
+"An error occurred on attempt to fetch related images.","An error occurred on attempt to fetch related images.",module,Magento_AdobeStockImageAdminUi
+"Media Gallery asset with adobe id %id does not exist.","Media Gallery asset with adobe id %id does not exist.",module,Magento_AdobeStockImageAdminUi
+ID,ID,module,Magento_AdobeStockImageAdminUi
+Status,Status,module,Magento_AdobeStockImageAdminUi
+Licensed,Licensed,module,Magento_AdobeStockImageAdminUi
+Unlicensed,Unlicensed,module,Magento_AdobeStockImageAdminUi
+Category,Category,module,Magento_AdobeStockImageAdminUi
+None,None,module,Magento_AdobeStockImageAdminUi
+Author,Author,module,Magento_AdobeStockImageAdminUi
+"Adobe Stock","Adobe Stock",module,Magento_AdobeStockImageAdminUi
+"Search Adobe Stock","Search Adobe Stock",module,Magento_AdobeStockImageAdminUi
+"Requested image doesn't exists.","Requested image doesn't exists.",module,Magento_AdobeStockImageAdminUi
+Error,Error,module,Magento_AdobeStockImageAdminUi
+"Localized error","Localized error",module,Magento_AdobeStockImageAdminUi
+"Adobe API Key is invalid!","Adobe API Key is invalid!",module,Magento_AdobeStockImageAdminUi
+"Adobe API login has expired!","Adobe API login has expired!",module,Magento_AdobeStockImageAdminUi
+label,label,module,Magento_AdobeStockImageAdminUi
+Yes,Yes,module,Magento_AdobeStockImageAdminUi
+All,All,module,Magento_AdobeStockImageAdminUi
+Horizontal,Horizontal,module,Magento_AdobeStockImageAdminUi
+Vertical,Vertical,module,Magento_AdobeStockImageAdminUi
+Square,Square,module,Magento_AdobeStockImageAdminUi
+Panoramic,Panoramic,module,Magento_AdobeStockImageAdminUi
+Standard,Standard,module,Magento_AdobeStockImageAdminUi
+Premium,Premium,module,Magento_AdobeStockImageAdminUi
